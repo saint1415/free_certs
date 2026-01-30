@@ -1,22 +1,18 @@
 {
-  "timestamp": "2026-01-30T04:24:32.149975+00:00",
-  "previous_count": 526,
+  "timestamp": "2026-01-30T08:26:58.648703+00:00",
+  "previous_count": 529,
   "removed_invalid": 0,
-  "discovered_new": 3,
-  "final_count": 529,
+  "discovered_new": 2,
+  "final_count": 531,
   "invalid_removed": [],
   "new_added": [
     {
-      "name": "The 23 Best IT Certifications in Demand for 2025 - JumpCloud",
-      "url": "https://jumpcloud.com/blog/best-it-certifications"
+      "name": "The Ultimate Guide to Free Tech Courses & Certifications in 2025",
+      "url": "https://businesstories.com/career/free-tech-courses-certifications-in-2025/"
     },
     {
-      "name": "5 Top Information Technology Certifications (+ How to Get Them for Free)",
-      "url": "https://climbhire.co/career-development/top-information-technology-certifications-free/"
-    },
-    {
-      "name": "Get rewarded for gaining tech skills and free certifications at the ...",
-      "url": "https://pulse.microsoft.com/en/skill-forward-en/na/fa1-get-rewarded-for-gaining-tech-skills-and-free-certifications-at-the-microsoft-spring-skills-challenge/"
+      "name": "Top 4 Free Certification Platforms for IT Career Growth (2025 Edition)",
+      "url": "https://daily.touterbug.com/top-free-it-certification-platforms/"
     }
   ]
 }
