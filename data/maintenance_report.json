@@ -1,35 +1,19 @@
 {
-  "timestamp": "2026-01-30T16:27:21.450511+00:00",
-  "previous_count": 530,
+  "timestamp": "2026-01-30T20:18:33.650419+00:00",
+  "previous_count": 534,
   "removed_invalid": 1,
-  "discovered_new": 5,
+  "discovered_new": 1,
   "final_count": 534,
   "invalid_removed": [
     {
-      "name": "Cloud Certification Store - Free Resources Hub",
-      "url": "https://cloudcertificationstore.com/collection/free"
+      "name": "15+ Free Certifications to Gain High-Income Skills in 2025 - Forbes",
+      "url": "https://www.forbes.com/sites/rachelwells/2025/08/30/15-free-certifications-to-gain-high-income-skills-in-2025/"
     }
   ],
   "new_added": [
     {
-      "name": "Top 10 Free IT Certifications to Boost Your Career in 2025",
-      "url": "https://technewskills.com/top-free-it-certifications-2025/"
-    },
-    {
-      "name": "Phoenix school offers free IT certification as Arizona's ... - AZFamily",
-      "url": "https://www.azfamily.com/2025/09/29/phoenix-school-offers-free-it-certification-arizonas-tech-sector-booms/"
-    },
-    {
-      "name": "The Ultimate Guide to Free Tech Courses & Certifications in 2025",
-      "url": "https://businesstories.com/career/free-tech-courses-certifications-in-2025/"
-    },
-    {
-      "name": "Microsoft Azure Training - AZ-900: Microsoft Azure",
-      "url": "https://duckduckgo.com/y.js?ad_domain=codecademy.com&ad_provider=bingv7aa&ad_type=txad&click_metadata=XAYIzX7osjD_iBWFK8octA4TjYhXv4vrMq1IRJSyv6yfFUIRNrmLnNHZe3KCwsp93B9W%2DWJt7MGcIPrbmDuCXD1CV_WPewQpH78vslCik0I6og3F4esx5qxc4u7vpbqVukeB8_7b4aW_nbovpOfZoNUu10sS00KVq0IYt4EJLus.PGayCOpeEbZtgpihJwhkYw&rut=832a7ff1481093a857205e6575fc179f654fcb5d12f1e4f0400278c4eeb1d3a5&u3=https%3A%2F%2Fwww.bing.com%2Faclick%3Fld%3De8bsYJ2nb6jspys%2DP9EZnodjVUCUwvtboIApPm9BIena2BndZtpxXqSv7TJPS%2DNZ9OxWvfOCTrFIML3N%2DI9dkvktcwDcP960l3297_rjfS9q71Hy9tv5rIA1LnHWLrIv5jkizsjiRmmTMf%2DfFd8jfQ0dnuBdKM1tsOC53_CahhTgQhm0PgGG9kXvgNB2lvNxmgQZx7z3vlNcwYtRa2gtnsWj6HF2E%26u%3DaHR0cHMlM2ElMmYlMmZ0cnkuY29kZWNhZGVteS5jb20lMmZjZXJ0cHJlcC1henVyZS1mdW5kYW1lbnRhbHMlM2ZnX25ldHdvcmslM2RzJTI2Z19wcm9kdWN0Y2hhbm5lbCUzZCUyNmdfYWRpZCUzZCUyNmdfbG9jaW50ZXJlc3QlM2QlMjZnX2tleXdvcmQlM2RhenVyZSUyNTIwZnVuZGFtZW50YWxzJTI1MjBjZXJ0aWZpY2F0aW9uJTI2Z19hY2N0aWQlM2QyNDMtMDM5LTcwMTElMjZnX2FkdHlwZSUzZCUyNmdfa2V5d29yZGlkJTNka3dkLTc5MDI4MDI0MTExMjU3JTNhbG9jLTQwODMlMjZnX2lmY3JlYXRpdmUlM2QlMjZnX2NhbXBhaWduJTNkYWNjb3VudCUyNmdfbG9jcGh5c2ljYWwlM2Q3ODA3MiUyNmdfYWRncm91cGlkJTNkMTI2NDQ0MDEwNTY0NDc4OCUyNmdfcHJvZHVjdGlkJTNkJTI2Z19zb3VyY2UlM2QlN2Jzb3VyY2VpZCU3ZCUyNmdfbWVyY2hhbnRpZCUzZCUyNmdfcGxhY2VtZW50JTNkJTI2Z19wYXJ0aXRpb24lM2QlMjZnX2NhbXBhaWduaWQlM2Q0NTg1MDc0NTMlMjZnX2lmcHJvZHVjdCUzZCUyNnV0bV9pZCUzZHRfa3dkLTc5MDI4MDI0MTExMjU3JTNhbG9jLTQwODMlM2FhZ18xMjY0NDQwMTA1NjQ0Nzg4JTNhY3BfNDU4NTA3NDUzJTNhbl9zJTNhZF9jJTI2Z19hZHR5cGUlM2RzZWFyY2glMjZnX2FjY3RpZCUzZDI0My0wMzktNzAxMSUyNm1zY2xraWQlM2RkNjJiZWVlNTM5MmQxMTA2NDcyNTg3OTllNTBjNWIxYSUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZFVTJTI1MjAlMjUyMC0lMjUyMEJyb2FkJTI1MjAlMjUyMC0lMjUyMENlcnRpZmljYXRpb24lMjUyMENvdXJzZXMlMjZ1dG1fdGVybSUzZGF6dXJlJTI1MjBmdW5kYW1lbnRhbHMlMjUyMGNlcnRpZmljYXRpb24lMjZ1dG1fY29udGVudCUzZFNTJTI1MjAtJTI1MjBNaWNyb3NvZnQlMjUyMENlcnRpZmllZCUyNTIwQXp1cmUlMjUyMEZ1bmRhbWVudGFscw%26rlid%3Dd62beee5392d110647258799e50c5b1a&vqd=4-81641450486100253312341335408500515624&iurl=%7B1%7DIG%3D75E4580062344B168F1DF4BF7E1C7731%26CID%3D0944CF8853CF62DC1E8BD979522B630B%26ID%3DDevEx%2C5046.1"
-    },
-    {
-      "name": "Free Practice Exams for AWS, Azure, GCP & CISSP | Nex Arc",
-      "url": "https://nex-arc-learning.com/"
+      "name": "A Cloud Guru - Get Cloud Certified - Pluralsight",
+      "url": "https://www.pluralsight.com/cloud-guru"
     }
   ]
 }
