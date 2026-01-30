@@ -1,0 +1,183 @@
+name: Auto Maintain Certifications
+
+on:
+  schedule:
+    # Run every 4 hours
+    - cron: '0 */4 * * *'
+  workflow_dispatch:
+    inputs:
+      force_discovery:
+        description: 'Force full discovery even if no changes'
+        required: false
+        default: 'false'
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  maintain:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install aiohttp beautifulsoup4
+
+      - name: Run automated maintenance
+        id: maintain
+        run: |
+          python scripts/auto_maintain.py
+
+          # Check if there are changes
+          if git diff --quiet && git diff --staged --quiet; then
+            echo "changes=false" >> $GITHUB_OUTPUT
+          else
+            echo "changes=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Read maintenance report
+        id: report
+        run: |
+          if [ -f "data/maintenance_report.json" ]; then
+            REMOVED=$(python -c "import json; print(json.load(open('data/maintenance_report.json'))['removed_invalid'])")
+            ADDED=$(python -c "import json; print(json.load(open('data/maintenance_report.json'))['discovered_new'])")
+            TOTAL=$(python -c "import json; print(json.load(open('data/maintenance_report.json'))['final_count'])")
+            echo "removed=$REMOVED" >> $GITHUB_OUTPUT
+            echo "added=$ADDED" >> $GITHUB_OUTPUT
+            echo "total=$TOTAL" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit and push changes
+        if: steps.maintain.outputs.changes == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+
+          git add -A
+
+          # Create commit message
+          REMOVED="${{ steps.report.outputs.removed }}"
+          ADDED="${{ steps.report.outputs.added }}"
+          TOTAL="${{ steps.report.outputs.total }}"
+
+          git commit -m "Auto-maintain: +${ADDED} new, -${REMOVED} invalid (${TOTAL} total)
+
+          Automated maintenance run:
+          - Validated all existing URLs
+          - Removed invalid/broken links
+          - Discovered and added new certifications
+          - Total certifications: ${TOTAL}
+
+          [skip ci]"
+
+          git push
+
+      - name: Update README badge count
+        if: steps.maintain.outputs.changes == 'true'
+        run: |
+          TOTAL="${{ steps.report.outputs.total }}"
+          if [ -n "$TOTAL" ] && [ "$TOTAL" != "0" ]; then
+            # Update the count in README if it changed significantly
+            sed -i "s/\*\*[0-9]\+\+ verified free/\*\*${TOTAL}+ verified free/g" README.md || true
+            sed -i "s/\*\*[0-9]\+\+ Free Certifications/\*\*${TOTAL}+ Free Certifications/g" README.md || true
+
+            if ! git diff --quiet README.md; then
+              git add README.md
+              git commit -m "Update certification count to ${TOTAL}" || true
+              git push || true
+            fi
+          fi
+
+      - name: Upload maintenance report
+        uses: actions/upload-artifact@v4
+        with:
+          name: maintenance-report
+          path: data/maintenance_report.json
+          retention-days: 30
+
+      - name: Create summary
+        run: |
+          echo "## Certification Maintenance Report" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+
+          if [ -f "data/maintenance_report.json" ]; then
+            python << 'EOF' >> $GITHUB_STEP_SUMMARY
+          import json
+          with open('data/maintenance_report.json') as f:
+              r = json.load(f)
+
+          print(f"| Metric | Value |")
+          print(f"|--------|-------|")
+          print(f"| Previous Count | {r['previous_count']} |")
+          print(f"| Removed (Invalid) | {r['removed_invalid']} |")
+          print(f"| Added (New) | {r['discovered_new']} |")
+          print(f"| **Final Count** | **{r['final_count']}** |")
+          print()
+
+          if r['new_added']:
+              print("### New Certifications Added")
+              print()
+              for cert in r['new_added'][:10]:
+                  print(f"- {cert['name']}")
+              if len(r['new_added']) > 10:
+                  print(f"- *...and {len(r['new_added']) - 10} more*")
+              print()
+
+          if r['invalid_removed']:
+              print("### Invalid Certifications Removed")
+              print()
+              for cert in r['invalid_removed'][:10]:
+                  print(f"- ~~{cert['name']}~~")
+              if len(r['invalid_removed']) > 10:
+                  print(f"- *...and {len(r['invalid_removed']) - 10} more*")
+          EOF
+          else
+            echo "No maintenance report generated." >> $GITHUB_STEP_SUMMARY
+          fi
+
+  notify-on-failure:
+    needs: maintain
+    if: failure()
+    runs-on: ubuntu-latest
+    steps:
+      - name: Create issue on failure
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const title = '⚠️ Auto-maintenance workflow failed';
+            const body = `The automated certification maintenance workflow failed.
+
+            **Run:** ${context.runId}
+            **Time:** ${new Date().toISOString()}
+
+            Please check the [workflow logs](https://github.com/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId}) for details.`;
+
+            // Check for existing open issue
+            const issues = await github.rest.issues.listForRepo({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: 'open',
+              labels: 'automation-failure'
+            });
+
+            if (issues.data.length === 0) {
+              await github.rest.issues.create({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                title: title,
+                body: body,
+                labels: ['automation-failure', 'bug']
+              });
+            }

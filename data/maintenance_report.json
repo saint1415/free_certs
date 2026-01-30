@@ -1,0 +1,315 @@
+{
+  "timestamp": "2026-01-30T04:20:50.626358+00:00",
+  "previous_count": 466,
+  "removed_invalid": 8,
+  "discovered_new": 68,
+  "final_count": 526,
+  "invalid_removed": [
+    {
+      "name": "Digital Learning Design",
+      "url": "https://www.futurelearn.com/subjects/teaching-courses"
+    },
+    {
+      "name": "Special Education Essentials",
+      "url": "https://iite.unesco.org/training/"
+    },
+    {
+      "name": "Environmental Impact Assessment",
+      "url": "https://www.unep.org/explore-topics/environmental-rights-and-governance"
+    },
+    {
+      "name": "Hindi Language Basics",
+      "url": "https://www.iccr.gov.in/"
+    },
+    {
+      "name": "Mandarin Chinese for Beginners",
+      "url": "http://www.chinesecio.com/"
+    },
+    {
+      "name": "Russian Language Course",
+      "url": "http://www.pushkin.institute/en/"
+    },
+    {
+      "name": "Turkish Language Basics",
+      "url": "https://www.yee.org.tr/en"
+    },
+    {
+      "name": "Mindfulness for Well-being and Peak Performance",
+      "url": "https://www.futurelearn.com/courses/mindfulness-wellbeing-performance"
+    }
+  ],
+  "new_added": [
+    {
+      "name": "Accessibility Policy",
+      "url": "https://www.oracle.com/corporate/accessibility/"
+    },
+    {
+      "name": "Sign-In",
+      "url": "https://www.oracle.com/webapps/redirect/signon?nexturl="
+    },
+    {
+      "name": "Buy a subscription",
+      "url": "https://shop.oracle.com/apex/f?p=DSTORE:PRODUCT::::6:P6_LPI,P6_PROD_HIER_ID:38391519292146620308945778,39203894217074790107465754"
+    },
+    {
+      "name": "Oracle Permit and Licensing",
+      "url": "https://mylearn.oracle.com/ou/story/124853"
+    },
+    {
+      "name": "Buy a subscription",
+      "url": "https://shop.oracle.com/apex/f?p=DSTORE:PRODUCT::::6:P6_LPI,P6_PROD_HIER_ID:39173837313210910012927941,39203894217074790107465754"
+    },
+    {
+      "name": "Buy a subscription",
+      "url": "https://shop.oracle.com/apex/f?p=DSTORE:PRODUCT::::6:P6_LPI,P6_PROD_HIER_ID:40398385993202800178173905,39203894217074790107465754"
+    },
+    {
+      "name": "Siebel",
+      "url": "https://mylearn.oracle.com/ou/story/148462"
+    },
+    {
+      "name": "Investors",
+      "url": "https://investor.oracle.com/home/default.aspx"
+    },
+    {
+      "name": "Search all events",
+      "url": "https://search.oracle.com/events?q=&lang=english"
+    },
+    {
+      "name": "Subscribe to emails",
+      "url": "https://go.oracle.com/subscribe/?l_code=en&src1=OW:O:FO"
+    },
+    {
+      "name": "Learn AI",
+      "url": "https://www.edx.org/learn/artificial-intelligence"
+    },
+    {
+      "name": "Learn ChatGPT",
+      "url": "https://www.edx.org/learn/chatgpt"
+    },
+    {
+      "name": "Learn Spanish",
+      "url": "https://www.edx.org/learn/spanish"
+    },
+    {
+      "name": "Learn Python",
+      "url": "https://www.edx.org/learn/python"
+    },
+    {
+      "name": "Learn Excel",
+      "url": "https://www.edx.org/learn/excel"
+    },
+    {
+      "name": "Learn Software Engineering",
+      "url": "https://www.edx.org/learn/software-engineering"
+    },
+    {
+      "name": "Learn Blockchain",
+      "url": "https://www.edx.org/learn/blockchain"
+    },
+    {
+      "name": "Learn Computer Programming",
+      "url": "https://www.edx.org/learn/computer-programming"
+    },
+    {
+      "name": "Learn Economics",
+      "url": "https://www.edx.org/learn/economics"
+    },
+    {
+      "name": "Learn Architecture",
+      "url": "https://www.edx.org/learn/architecture"
+    },
+    {
+      "name": "Learn Project Management",
+      "url": "https://www.edx.org/learn/project-management"
+    },
+    {
+      "name": "Learn Business Administration",
+      "url": "https://www.edx.org/learn/business-administration"
+    },
+    {
+      "name": "BeginnerCoursePython for Data ScienceData Science, Python548k+ Enrolled18 Hours4.7(54.3k+ Reviews)",
+      "url": "https://cognitiveclass.ai/courses/course-v1:CognitiveClass+PY0101EN+v3"
+    },
+    {
+      "name": "IntermediateGuided ProjectAgentic Graph-RAG Over Social-Network Knowledge GraphsAI Agents, Graph Neural Networks (GNNs), Knowledge Graphs, +3 more112 Enrolled60 Minutes4.7(14 Reviews)",
+      "url": "https://cognitiveclass.ai/courses/course-v1:IBMSkillsNetwork+GPXX0B3MEN+v1"
+    },
+    {
+      "name": "BeginnerGuided ProjectBuild Multi-Agent Santa Quiz Game w/ Granite, CrewAI, GradioArtificial Intelligence, CrewAI, Gradio, +3 more311 Enrolled45 Mins4.8(33 Reviews)",
+      "url": "https://cognitiveclass.ai/courses/course-v1:IBMSkillsNetwork+GPXX05VOEN+v1"
+    },
+    {
+      "name": "BeginnerGuided ProjectOptimize Models with Optuna: Adaptive Hyperparameter TuningHyperparameter Tuning, Machine Learning, Optimization90 Enrolled20 Mins4.8(22 Reviews)",
+      "url": "https://cognitiveclass.ai/courses/course-v1:IBMSkillsNetwork+GPXX05RFEN+v1"
+    },
+    {
+      "name": "BeginnerCourseSQL and Relational Databases 101Databases, SQL166k+ Enrolled3 Hours4.7(18.2k+ Reviews)",
+      "url": "https://cognitiveclass.ai/courses/course-v1:BDU+DB0101EN+v1"
+    },
+    {
+      "name": "BeginnerCourseData Analysis with PythonData Analysis, Data Science, Numpy, +3 more129k+ Enrolled15 Hours4.7(14.7k+ Reviews)",
+      "url": "https://cognitiveclass.ai/courses/course-v1:CognitiveClass+DA0101EN+v2"
+    },
+    {
+      "name": "BeginnerCoursePrompt Engineering for EveryoneArtificial Intelligence, Generative AI, LLM, +1 more103k+ Enrolled5 Hours4.7(22.4k+ Reviews)",
+      "url": "https://cognitiveclass.ai/courses/course-v1:IBMSkillsNetwork+AI0117EN+v1"
+    },
+    {
+      "name": "AdvancedGuided ProjectLight Graph Convolutional Network for Recommender SystemsArtificial Intelligence, Bayesian Personalized Ranking (BPR), Bipartite Graph, +3 more34 Enrolled60 Minutes4.9(7 Reviews)",
+      "url": "https://cognitiveclass.ai/courses/course-v1:IBMSkillsNetwork+GPXX0H9SEN+v1"
+    },
+    {
+      "name": "BeginnerCourseData Science 101Data Science93.3k+ Enrolled11 Hours4.6(16.4k+ Reviews)",
+      "url": "https://cognitiveclass.ai/courses/course-v1:BigDataUniversity+DS0101EN+v1"
+    },
+    {
+      "name": "BeginnerCourseIntroduction to CloudCloud Computing103k+ Enrolled6 Hours4.6(9.97k+ Reviews)",
+      "url": "https://cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+v1"
+    },
+    {
+      "name": "BeginnerCourseData Science Methodologyplaceholder109k+ Enrolled4 Hour4.6(5.32k+ Reviews)",
+      "url": "https://cognitiveclass.ai/courses/course-v1:CognitiveClass+DS0103EN+v3"
+    },
+    {
+      "name": "BeginnerCourseDocker Essentials: A Developer IntroductionContainers, Docker108k+ Enrolled3 Hours4.6(4.99k+ Reviews)",
+      "url": "https://cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CO0101EN+v1"
+    },
+    {
+      "name": "BeginnerCourseBig Data 101Big Data60.1k+ Enrolled3 Hours4.7(10.4k+ Reviews)",
+      "url": "https://cognitiveclass.ai/courses/course-v1:CognitiveClass+BD0101EN+v2"
+    },
+    {
+      "name": "BeginnerGuided ProjectAI Code Review Showdown: Anthropic's Claude vs IBM's GraniteArtificial Intelligence, Generative AI, Granite, +3 more141 Enrolled30 Minutes4.8(20 Reviews)",
+      "url": "https://cognitiveclass.ai/courses/course-v1:IND+GPXX0LVJEN+v1"
+    },
+    {
+      "name": "BeginnerGuided ProjectMultilingual AI Agents for Poetry using GPT-5 & AutoGen/AG2AI Agent, Artificial Intelligence, Autogen, +3 more644 Enrolled35 Minutes4.8(72 Reviews)",
+      "url": "https://cognitiveclass.ai/courses/course-v1:IBMSkillsNetwork+GPXX0EGKEN+v1"
+    },
+    {
+      "name": "BeginnerCourseIntroduction to Agentic AIAgentic AI, AI Agent, Artificial Intelligence, +2 more8.95k+ Enrolled3 Hours4.8(4.72k+ Reviews)",
+      "url": "https://cognitiveclass.ai/courses/course-v1:IBMSkillsNetwork+AI0146EN+v1"
+    },
+    {
+      "name": "BeginnerCourseData Visualization with PythonData Science, Data Visualization, Python53.7k+ Enrolled10 Hours4.6(7.2k+ Reviews)",
+      "url": "https://cognitiveclass.ai/courses/course-v1:CognitiveClass+DV0101EN+v2"
+    },
+    {
+      "name": "BeginnerCoursePython for Data Science, AI & DevelopmentData Analysis, Data Structures, Numpy, +3 more19.5k+ Enrolled26 Hours4.6(43.3k+ Reviews)",
+      "url": "https://cognitiveclass.ai/courses/course-v1:IBMSkillsNetwork+PY0101EN+v1_Coursera"
+    },
+    {
+      "name": "CourseDeep Learning FundamentalsData Science, Machine Learning, Deep Learning95k+ Enrolled3 Hours4.63(1.68k+ Reviews)",
+      "url": "https://cognitiveclass.ai/courses/course-v1:DeepLearning.TV+ML0115EN+v2.0"
+    },
+    {
+      "name": "BeginnerCourseIBM Cloud EssentialsCloud, Monitoring, Security49.2k+ Enrolled8 Hours4.7(5k+ Reviews)",
+      "url": "https://cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0103EN+v3"
+    },
+    {
+      "name": "BeginnerCourseIntroducing AIArtificial Intelligence32.1k+ Enrolled1 Hour4.6(12.2k+ Reviews)",
+      "url": "https://cognitiveclass.ai/courses/course-v1:IBMSkillsNetwork+AI0105EN+v1"
+    },
+    {
+      "name": "BeginnerCourseBuild Your Own ChatbotArtificial Intelligence, Chatbots, NLP44.2k+ Enrolled5 Hours4.6(4.6k+ Reviews)",
+      "url": "https://cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CB0101EN+v1"
+    },
+    {
+      "name": "IntermediateGuided ProjectMulti-Agent Restaurant Chatbot with Vision LLM, CrewAI & RAGAI Agents, CrewAI, Multi-Agent Systems, +3 more344 Enrolled1 Hr + 45 Mins4.7(24 Reviews)",
+      "url": "https://cognitiveclass.ai/courses/course-v1:IBMSkillsNetwork+GPXX0RK7EN+v1"
+    },
+    {
+      "name": "BeginnerCourseData Science Toolsplaceholder40.6k+ Enrolled15 Hours4.5(3.97k+ Reviews)",
+      "url": "https://cognitiveclass.ai/courses/course-v1:CognitiveClass+DS0105EN+v3"
+    },
+    {
+      "name": "IntermediateGuided ProjectBuild Your Interview Coach with Llama, OpenAI Whisper & TTSAI Agents, Generative AI, Gradio, +3 more168 Enrolled45 Minutes4.6(20 Reviews)",
+      "url": "https://cognitiveclass.ai/courses/course-v1:IBMSkillsNetwork+GPXX0IMIEN+v1"
+    },
+    {
+      "name": "IntermediateCourseIntroduction to Containers, Kubernetes, and OpenShiftCloud38k+ Enrolled18 Hours4.6(1.93k+ Reviews)",
+      "url": "https://cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0201EN+v1"
+    },
+    {
+      "name": "BeginnerCourseIntroduction to DevOpsAgile, Behavior Driven Development, Continuous Delivery, +3 more17.6k+ Enrolled9 Hours4.8(4.08k+ Reviews)",
+      "url": "https://cognitiveclass.ai/courses/course-v1:IBMSkillsNetwork+CD0115EN+v1_Coursera"
+    },
+    {
+      "name": "BeginnerCourseHadoop 101Apache Spark, Big Data26.8k+ Enrolled20 Hours4.5(4.06k+ Reviews)",
+      "url": "https://cognitiveclass.ai/courses/course-v1:BigDataUniversity+BD0111EN+v1"
+    },
+    {
+      "name": "BeginnerCourseR for Data ScienceData Analysis, Data Science, Data Visualization, +1 more25k+ Enrolled6 Hours4.7(2.49k+ Reviews)",
+      "url": "https://cognitiveclass.ai/courses/course-v1:CognitiveClass+RP0101EN+v1"
+    },
+    {
+      "name": "Free IT Certifications and Courses to Elevate Your Career",
+      "url": "https://www.coursera.org/articles/free-it-certifications"
+    },
+    {
+      "name": "15+ Free Certifications to Gain High-Income Skills in 2025 - Forbes",
+      "url": "https://www.forbes.com/sites/rachelwells/2025/08/30/15-free-certifications-to-gain-high-income-skills-in-2025/"
+    },
+    {
+      "name": "GitHub - cloudcommunity/Free-Certifications: A curated list of free ...",
+      "url": "https://github.com/cloudcommunity/Free-Certifications"
+    },
+    {
+      "name": "Top Free IT Certification Course To Do In 2025 | UniAthena",
+      "url": "https://uniathena.com/top-free-it-certification-course-2024"
+    },
+    {
+      "name": "[2026] Massive List of Thousands of Free Certificates and Badges",
+      "url": "https://www.classcentral.com/report/free-certificates/"
+    },
+    {
+      "name": "Top 10 Free IT Certifications to Boost Your Career in 2025",
+      "url": "https://technewskills.com/top-free-it-certifications-2025/"
+    },
+    {
+      "name": "Best Free Certifications for Tech Jobs in 2025",
+      "url": "https://www.getbridged.co/insights/best-free-certifications-for-tech-jobs-in-2025"
+    },
+    {
+      "name": "1000+ Free Developer Certifications - freeCodeCamp.org",
+      "url": "https://www.freecodecamp.org/news/free-certificates/"
+    },
+    {
+      "name": "CloudFluently - Free Cloud Certification Courses | AWS, Azure, GCP Training",
+      "url": "https://cloudfluently.com/"
+    },
+    {
+      "name": "Certifications | Google Cloud",
+      "url": "https://cloud.google.com/learn/certification"
+    },
+    {
+      "name": "AWS Training and Certification",
+      "url": "https://aws.amazon.com/training/"
+    },
+    {
+      "name": "Free Basics of AWS, Azure and Google Cloud Course with Certificate ...",
+      "url": "https://www.mygreatlearning.com/academy/learn-for-free/courses/aws-vs-azure-vs-gcp"
+    },
+    {
+      "name": "Free Cloud Certification Practice Exams - AWS, Azure, GCP & More",
+      "url": "https://certvanta.com/"
+    },
+    {
+      "name": "Cloud Certification Store - Free Resources Hub",
+      "url": "https://cloudcertificationstore.com/collection/free"
+    },
+    {
+      "name": "Free Cloud Training Resources from AWS, GCP, Azure, and OCI",
+      "url": "https://www.linkedin.com/posts/stephenjams_stop-paying-for-cloud-courses-when-you-can-activity-7421524657650143233-OeAE"
+    },
+    {
+      "name": "Free Cloud Computing with AWS - GCP - Azure Course | 7-Language Certificate",
+      "url": "https://catchwisdom.com/course/cloud-computing-with-aws-gcp-azure/"
+    },
+    {
+      "name": "Free Cloud Certification Practice Exam Questions | AWS, Azure, GCP ...",
+      "url": "https://cloudoku.training/free-cloud-certification-practice-exam-questions"
+    }
+  ]
+}

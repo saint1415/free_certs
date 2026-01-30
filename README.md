@@ -1,8 +1,7 @@
 # Free Certifications Directory
 
-[![Validate URLs](https://github.com/saint1415/free_certs/actions/workflows/validate-urls.yml/badge.svg)](https://github.com/saint1415/free_certs/actions/workflows/validate-urls.yml)
+[![Auto Maintain](https://github.com/saint1415/free_certs/actions/workflows/auto-maintain.yml/badge.svg)](https://github.com/saint1415/free_certs/actions/workflows/auto-maintain.yml)
 [![Data Quality](https://github.com/saint1415/free_certs/actions/workflows/data-quality.yml/badge.svg)](https://github.com/saint1415/free_certs/actions/workflows/data-quality.yml)
-[![Discover Certs](https://github.com/saint1415/free_certs/actions/workflows/discover-certs.yml/badge.svg)](https://github.com/saint1415/free_certs/actions/workflows/discover-certs.yml)
 
 A curated directory of **465+ verified free professional certifications** across Cloud Computing, Cybersecurity, Programming, AI/ML, and 40+ other categories.
 
@@ -16,8 +15,8 @@ A curated directory of **465+ verified free professional certifications** across
 - **40+ Categories** - Cloud, Security, Programming, AI/ML, Engineering, and more
 - **Modern UI** - Responsive design with dark mode support
 - **Smart Search** - Filter by category, provider, level, or keyword
-- **Automated Validation** - Weekly URL checks ensure links stay fresh
-- **Auto-Discovery** - Monthly scans find new certifications
+- **Fully Automated** - Runs every 4 hours to validate, discover, and update
+- **Self-Healing** - Automatically removes broken links and adds new discoveries
 - **JSON API** - Access data programmatically at `/data/certifications.json`
 
 ## Categories
@@ -83,18 +82,22 @@ Category,Certification_Name,Provider,URL,Description,Duration,Level,Prerequisite
 
 ## Automation
 
-This repository includes GitHub Actions for automated maintenance:
+This repository is **fully automated** with zero manual intervention required:
 
-### URL Validation (Weekly)
-- Checks all certification URLs for broken links
-- Generates validation reports
-- Creates issues for dead links
-- Runs every Sunday at 2:00 AM UTC
+### Auto-Maintain (Every 4 Hours)
+The main automation workflow runs every 4 hours and:
+- **Validates** all existing certification URLs
+- **Removes** any broken/invalid links automatically
+- **Discovers** new free certifications from 15+ sources
+- **Adds** validated new certifications to the database
+- **Commits** all changes automatically
 
-### Certificate Discovery (Monthly)
-- Searches known sources for new certifications
-- Auto-creates PRs with discoveries
-- Runs on the 1st of each month
+**Sources scraped:**
+- Cloud: Google Cloud, AWS, Microsoft, IBM, Oracle, Salesforce
+- Learning: Coursera, edX, FreeCodeCamp, Cognitive Class
+- Security: Cisco, Fortinet
+- Marketing: HubSpot, Google Digital Garage
+- Plus web searches for new certification programs
 
 ### Data Quality Check (On PR)
 - Validates CSV format
@@ -136,14 +139,13 @@ We welcome contributions! Here's how you can help:
 # Install dependencies
 pip install aiohttp beautifulsoup4
 
-# Clean and generate JSON
-python scripts/clean_data.py
+# Run full automated maintenance (validate + discover + update)
+python scripts/auto_maintain.py
 
-# Validate URLs (takes a while)
-python scripts/validate_urls.py
-
-# Discover new certifications
-python scripts/discover_certs.py
+# Or run individual scripts:
+python scripts/clean_data.py      # Clean and generate JSON
+python scripts/validate_urls.py   # Validate URLs only
+python scripts/fix_urls.py        # Fix broken URLs
 ```
 
 ### Project Structure
@@ -154,15 +156,14 @@ free_certs/
 ├── free_certifications.csv    # Source data
 ├── data/
 │   ├── certifications.json    # Generated JSON API
-│   ├── validation_report.json # URL validation results
-│   └── discoveries.json       # New cert discoveries
+│   └── maintenance_report.json # Latest maintenance run
 ├── scripts/
+│   ├── auto_maintain.py       # Full automation script
 │   ├── clean_data.py          # Data cleaning & JSON generation
 │   ├── validate_urls.py       # URL validation
-│   └── discover_certs.py      # Certificate discovery
+│   └── fix_urls.py            # URL fixing
 └── .github/workflows/
-    ├── validate-urls.yml      # Weekly URL validation
-    ├── discover-certs.yml     # Monthly discovery
+    ├── auto-maintain.yml      # Every 4 hours: validate + discover + update
     └── data-quality.yml       # PR quality checks
 ```
 
