@@ -1,17 +1,17 @@
 # URL Validation Report
 
-**Generated:** 2026-01-30T04:05:58.318962Z
+**Generated:** 2026-01-30T04:08:51.504157Z
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
 | Total URLs | 781 |
-| Valid | 460 |
-| Invalid | 321 |
-| Success Rate | 58.9% |
+| Valid | 461 |
+| Invalid | 320 |
+| Success Rate | 59.03% |
 
-## Invalid URLs (321)
+## Invalid URLs (320)
 
 | Certification | Status | Error |
 |---------------|--------|-------|
@@ -66,4 +66,4 @@
 | Earthquake Engineering | 500 | HTTP Error |
 | Earthquake Engineering | 404 | HTTP Error |
 
-*... and 271 more*
+*... and 270 more*
