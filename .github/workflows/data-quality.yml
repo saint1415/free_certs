@@ -1,0 +1,136 @@
+name: Data Quality Check
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'free_certifications.csv'
+      - 'scripts/**'
+  pull_request:
+    branches: [main]
+    paths:
+      - 'free_certifications.csv'
+      - 'scripts/**'
+
+permissions:
+  contents: read
+  pull-requests: write
+
+jobs:
+  quality-check:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+
+      - name: Validate CSV format
+        id: csv_check
+        run: |
+          python << 'EOF'
+          import csv
+          import sys
+          from pathlib import Path
+
+          csv_file = Path('free_certifications.csv')
+          errors = []
+          warnings = []
+
+          required_columns = ['Category', 'Certification_Name', 'Provider', 'URL']
+
+          with open(csv_file, 'r', encoding='utf-8') as f:
+              reader = csv.DictReader(f)
+              headers = reader.fieldnames
+
+              # Check required columns
+              for col in required_columns:
+                  if col not in headers:
+                      errors.append(f"Missing required column: {col}")
+
+              row_count = 0
+              urls_seen = set()
+              duplicates = []
+
+              for i, row in enumerate(reader, start=2):
+                  row_count += 1
+
+                  # Check for empty required fields
+                  for col in required_columns:
+                      if col in row and not row[col].strip():
+                          warnings.append(f"Row {i}: Empty {col}")
+
+                  # Check for duplicate URLs
+                  url = row.get('URL', '').strip()
+                  if url:
+                      if url in urls_seen:
+                          duplicates.append(f"Row {i}: Duplicate URL - {url[:50]}...")
+                      urls_seen.add(url)
+
+                  # Check URL format
+                  if url and not url.startswith(('http://', 'https://')):
+                      warnings.append(f"Row {i}: Invalid URL format - {url[:50]}...")
+
+          print(f"## Data Quality Report\n")
+          print(f"**Total Rows:** {row_count}")
+          print(f"**Columns:** {', '.join(headers)}\n")
+
+          if errors:
+              print(f"### ❌ Errors ({len(errors)})")
+              for e in errors:
+                  print(f"- {e}")
+              print()
+
+          if duplicates:
+              print(f"### ⚠️ Duplicates ({len(duplicates)})")
+              for d in duplicates[:10]:
+                  print(f"- {d}")
+              if len(duplicates) > 10:
+                  print(f"- *...and {len(duplicates) - 10} more*")
+              print()
+
+          if warnings:
+              print(f"### ⚠️ Warnings ({len(warnings)})")
+              for w in warnings[:20]:
+                  print(f"- {w}")
+              if len(warnings) > 20:
+                  print(f"- *...and {len(warnings) - 20} more*")
+              print()
+
+          if not errors and not duplicates:
+              print("### ✅ All checks passed!")
+
+          sys.exit(1 if errors else 0)
+          EOF
+
+      - name: Generate JSON data
+        run: |
+          mkdir -p data
+          python scripts/clean_data.py
+
+      - name: Check JSON validity
+        run: |
+          python -c "import json; json.load(open('data/certifications.json'))"
+          echo "✅ JSON is valid"
+
+      - name: Summary
+        run: |
+          python << 'EOF'
+          import json
+          with open('data/certifications.json', 'r') as f:
+              data = json.load(f)
+          meta = data['metadata']
+          print(f"## Summary")
+          print(f"- **Total Certifications:** {meta['total_certifications']}")
+          print(f"- **Categories:** {len(meta['categories'])}")
+          print(f"- **Providers:** {len(meta['providers'])}")
+          print(f"- **Levels:** {len(meta['levels'])}")
+          EOF

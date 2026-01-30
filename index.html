@@ -1,35 +1,1136 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>Free Certifications Table</title>
-  <link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css">
-  <script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
-  <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.2/papaparse.min.js"></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Free Certifications Directory</title>
+    <meta name="description" content="Curated directory of 800+ free professional certifications in Cloud, Security, Programming, AI, and more.">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎓</text></svg>">
+    <style>
+        :root {
+            --primary: #2563eb;
+            --primary-dark: #1d4ed8;
+            --secondary: #64748b;
+            --success: #22c55e;
+            --warning: #f59e0b;
+            --danger: #ef4444;
+            --bg: #f8fafc;
+            --bg-card: #ffffff;
+            --text: #1e293b;
+            --text-muted: #64748b;
+            --border: #e2e8f0;
+            --shadow: 0 1px 3px rgba(0,0,0,0.1);
+            --shadow-lg: 0 10px 15px -3px rgba(0,0,0,0.1);
+            --radius: 8px;
+        }
+
+        .dark {
+            --bg: #0f172a;
+            --bg-card: #1e293b;
+            --text: #f1f5f9;
+            --text-muted: #94a3b8;
+            --border: #334155;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            background: var(--bg);
+            color: var(--text);
+            line-height: 1.6;
+            transition: background 0.3s, color 0.3s;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+
+        /* Header */
+        header {
+            background: var(--bg-card);
+            border-bottom: 1px solid var(--border);
+            padding: 20px 0;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            box-shadow: var(--shadow);
+        }
+
+        .header-content {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 15px;
+        }
+
+        .logo {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: var(--primary);
+            text-decoration: none;
+        }
+
+        .logo-icon {
+            font-size: 2rem;
+        }
+
+        .header-actions {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+        }
+
+        .theme-toggle {
+            background: var(--bg);
+            border: 1px solid var(--border);
+            padding: 8px 12px;
+            border-radius: var(--radius);
+            cursor: pointer;
+            font-size: 1.2rem;
+            transition: all 0.2s;
+        }
+
+        .theme-toggle:hover {
+            border-color: var(--primary);
+        }
+
+        .github-link {
+            display: flex;
+            align-items: center;
+            gap: 5px;
+            padding: 8px 16px;
+            background: var(--text);
+            color: var(--bg);
+            text-decoration: none;
+            border-radius: var(--radius);
+            font-weight: 500;
+            transition: opacity 0.2s;
+        }
+
+        .github-link:hover {
+            opacity: 0.9;
+        }
+
+        /* Stats Bar */
+        .stats-bar {
+            background: linear-gradient(135deg, var(--primary), var(--primary-dark));
+            color: white;
+            padding: 30px 0;
+        }
+
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            gap: 20px;
+            text-align: center;
+        }
+
+        .stat-item {
+            padding: 10px;
+        }
+
+        .stat-value {
+            font-size: 2.5rem;
+            font-weight: 700;
+        }
+
+        .stat-label {
+            font-size: 0.9rem;
+            opacity: 0.9;
+        }
+
+        /* Main Layout */
+        .main-layout {
+            display: grid;
+            grid-template-columns: 280px 1fr;
+            gap: 30px;
+            padding: 30px 0;
+        }
+
+        @media (max-width: 900px) {
+            .main-layout {
+                grid-template-columns: 1fr;
+            }
+            .sidebar {
+                display: none;
+            }
+            .sidebar.mobile-open {
+                display: block;
+                position: fixed;
+                top: 0;
+                left: 0;
+                right: 0;
+                bottom: 0;
+                background: var(--bg-card);
+                z-index: 200;
+                overflow-y: auto;
+                padding: 20px;
+            }
+        }
+
+        /* Sidebar */
+        .sidebar {
+            position: sticky;
+            top: 100px;
+            height: fit-content;
+            max-height: calc(100vh - 120px);
+            overflow-y: auto;
+        }
+
+        .sidebar-section {
+            background: var(--bg-card);
+            border-radius: var(--radius);
+            padding: 20px;
+            margin-bottom: 20px;
+            border: 1px solid var(--border);
+        }
+
+        .sidebar-title {
+            font-size: 0.85rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            color: var(--text-muted);
+            margin-bottom: 15px;
+            letter-spacing: 0.5px;
+        }
+
+        .category-list {
+            list-style: none;
+        }
+
+        .category-item {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 8px 12px;
+            margin: 4px 0;
+            border-radius: 6px;
+            cursor: pointer;
+            transition: all 0.2s;
+            font-size: 0.9rem;
+        }
+
+        .category-item:hover {
+            background: var(--bg);
+        }
+
+        .category-item.active {
+            background: var(--primary);
+            color: white;
+        }
+
+        .category-count {
+            background: var(--bg);
+            padding: 2px 8px;
+            border-radius: 10px;
+            font-size: 0.75rem;
+            font-weight: 600;
+        }
+
+        .category-item.active .category-count {
+            background: rgba(255,255,255,0.2);
+            color: white;
+        }
+
+        /* Search & Filters */
+        .search-section {
+            background: var(--bg-card);
+            border-radius: var(--radius);
+            padding: 20px;
+            margin-bottom: 25px;
+            border: 1px solid var(--border);
+        }
+
+        .search-box {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 15px;
+        }
+
+        .search-input {
+            flex: 1;
+            padding: 12px 16px;
+            border: 2px solid var(--border);
+            border-radius: var(--radius);
+            font-size: 1rem;
+            background: var(--bg);
+            color: var(--text);
+            transition: border-color 0.2s;
+        }
+
+        .search-input:focus {
+            outline: none;
+            border-color: var(--primary);
+        }
+
+        .filter-row {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+
+        .filter-select {
+            padding: 8px 12px;
+            border: 1px solid var(--border);
+            border-radius: var(--radius);
+            background: var(--bg);
+            color: var(--text);
+            font-size: 0.9rem;
+            cursor: pointer;
+        }
+
+        .mobile-filter-toggle {
+            display: none;
+            width: 100%;
+            padding: 12px;
+            background: var(--primary);
+            color: white;
+            border: none;
+            border-radius: var(--radius);
+            font-size: 1rem;
+            cursor: pointer;
+            margin-bottom: 15px;
+        }
+
+        @media (max-width: 900px) {
+            .mobile-filter-toggle {
+                display: block;
+            }
+        }
+
+        /* Certifications Grid */
+        .certs-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 20px;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+
+        .results-count {
+            font-size: 0.95rem;
+            color: var(--text-muted);
+        }
+
+        .view-toggle {
+            display: flex;
+            gap: 5px;
+        }
+
+        .view-btn {
+            padding: 8px 12px;
+            border: 1px solid var(--border);
+            background: var(--bg-card);
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        .view-btn:first-child {
+            border-radius: var(--radius) 0 0 var(--radius);
+        }
+
+        .view-btn:last-child {
+            border-radius: 0 var(--radius) var(--radius) 0;
+        }
+
+        .view-btn.active {
+            background: var(--primary);
+            color: white;
+            border-color: var(--primary);
+        }
+
+        .certs-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+            gap: 20px;
+        }
+
+        .certs-grid.list-view {
+            grid-template-columns: 1fr;
+        }
+
+        /* Certification Card */
+        .cert-card {
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: var(--radius);
+            padding: 20px;
+            transition: all 0.3s;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .cert-card:hover {
+            box-shadow: var(--shadow-lg);
+            transform: translateY(-2px);
+        }
+
+        .cert-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            margin-bottom: 12px;
+        }
+
+        .cert-category {
+            display: inline-block;
+            padding: 4px 10px;
+            background: var(--primary);
+            color: white;
+            font-size: 0.75rem;
+            border-radius: 20px;
+            font-weight: 500;
+        }
+
+        .cert-level {
+            font-size: 0.8rem;
+            color: var(--text-muted);
+            background: var(--bg);
+            padding: 4px 10px;
+            border-radius: 4px;
+        }
+
+        .cert-title {
+            font-size: 1.1rem;
+            font-weight: 600;
+            margin-bottom: 8px;
+            color: var(--text);
+        }
+
+        .cert-provider {
+            font-size: 0.9rem;
+            color: var(--primary);
+            font-weight: 500;
+            margin-bottom: 10px;
+        }
+
+        .cert-description {
+            font-size: 0.9rem;
+            color: var(--text-muted);
+            line-height: 1.5;
+            flex-grow: 1;
+            margin-bottom: 15px;
+        }
+
+        .cert-meta {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 15px;
+            font-size: 0.85rem;
+            color: var(--text-muted);
+            margin-bottom: 15px;
+            padding-top: 15px;
+            border-top: 1px solid var(--border);
+        }
+
+        .cert-meta-item {
+            display: flex;
+            align-items: center;
+            gap: 5px;
+        }
+
+        .cert-actions {
+            display: flex;
+            gap: 10px;
+        }
+
+        .btn {
+            flex: 1;
+            padding: 10px 16px;
+            border-radius: var(--radius);
+            font-weight: 500;
+            text-align: center;
+            text-decoration: none;
+            transition: all 0.2s;
+            cursor: pointer;
+            border: none;
+            font-size: 0.9rem;
+        }
+
+        .btn-primary {
+            background: var(--primary);
+            color: white;
+        }
+
+        .btn-primary:hover {
+            background: var(--primary-dark);
+        }
+
+        .btn-secondary {
+            background: var(--bg);
+            color: var(--text);
+            border: 1px solid var(--border);
+        }
+
+        .btn-secondary:hover {
+            border-color: var(--primary);
+            color: var(--primary);
+        }
+
+        /* Pagination */
+        .pagination {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 10px;
+            margin-top: 40px;
+            flex-wrap: wrap;
+        }
+
+        .page-btn {
+            padding: 8px 16px;
+            border: 1px solid var(--border);
+            background: var(--bg-card);
+            border-radius: var(--radius);
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        .page-btn:hover {
+            border-color: var(--primary);
+        }
+
+        .page-btn.active {
+            background: var(--primary);
+            color: white;
+            border-color: var(--primary);
+        }
+
+        .page-btn:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+        }
+
+        /* Loading & Empty States */
+        .loading {
+            text-align: center;
+            padding: 60px 20px;
+            color: var(--text-muted);
+        }
+
+        .loading-spinner {
+            width: 50px;
+            height: 50px;
+            border: 4px solid var(--border);
+            border-top-color: var(--primary);
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            margin: 0 auto 20px;
+        }
+
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+
+        .empty-state {
+            text-align: center;
+            padding: 60px 20px;
+            color: var(--text-muted);
+        }
+
+        .empty-icon {
+            font-size: 4rem;
+            margin-bottom: 20px;
+        }
+
+        /* Footer */
+        footer {
+            background: var(--bg-card);
+            border-top: 1px solid var(--border);
+            padding: 40px 0;
+            margin-top: 60px;
+            text-align: center;
+        }
+
+        .footer-content {
+            color: var(--text-muted);
+            font-size: 0.9rem;
+        }
+
+        .footer-links {
+            display: flex;
+            justify-content: center;
+            gap: 30px;
+            margin-top: 15px;
+        }
+
+        .footer-links a {
+            color: var(--text-muted);
+            text-decoration: none;
+            transition: color 0.2s;
+        }
+
+        .footer-links a:hover {
+            color: var(--primary);
+        }
+
+        /* Mobile close button */
+        .mobile-close {
+            display: none;
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            background: none;
+            border: none;
+            font-size: 2rem;
+            cursor: pointer;
+            color: var(--text);
+        }
+
+        .sidebar.mobile-open .mobile-close {
+            display: block;
+        }
+    </style>
 </head>
 <body>
-  <h1>Free Certifications</h1>
-  <table id="certs" class="display" style="width:100%">
-    <thead></thead>
-    <tbody></tbody>
-  </table>
-  <script>
-    Papa.parse('free_certifications.csv', {
-      download: true,
-      header: true,
-      complete: function(results) {
-        var data = results.data;
-        var columns = Object.keys(data[0]);
-        var thead = '<tr>' + columns.map(col => `<th>${col}</th>`).join('') + '</tr>';
-        $('#certs thead').html(thead);
-        var tbody = data.map(row => 
-          '<tr>' + columns.map(col => `<td>${row[col] || ''}</td>`).join('') + '</tr>'
-        ).join('');
-        $('#certs tbody').html(tbody);
-        $('#certs').DataTable();
-      }
-    });
-  </script>
+    <header>
+        <div class="container">
+            <div class="header-content">
+                <a href="#" class="logo">
+                    <span class="logo-icon">🎓</span>
+                    <span>Free Certs</span>
+                </a>
+                <div class="header-actions">
+                    <button class="theme-toggle" onclick="toggleTheme()" title="Toggle dark mode">
+                        🌙
+                    </button>
+                    <a href="https://github.com/saint1415/free_certs" class="github-link" target="_blank">
+                        <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
+                            <path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"/>
+                        </svg>
+                        GitHub
+                    </a>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <section class="stats-bar">
+        <div class="container">
+            <div class="stats-grid">
+                <div class="stat-item">
+                    <div class="stat-value" id="totalCerts">-</div>
+                    <div class="stat-label">Certifications</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-value" id="totalCategories">-</div>
+                    <div class="stat-label">Categories</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-value" id="totalProviders">-</div>
+                    <div class="stat-label">Providers</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-value">100%</div>
+                    <div class="stat-label">Free</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <main class="container">
+        <div class="main-layout">
+            <aside class="sidebar" id="sidebar">
+                <button class="mobile-close" onclick="closeSidebar()">×</button>
+                <div class="sidebar-section">
+                    <h3 class="sidebar-title">Categories</h3>
+                    <ul class="category-list" id="categoryList">
+                        <li class="category-item active" data-category="all">
+                            <span>All Certifications</span>
+                            <span class="category-count" id="allCount">-</span>
+                        </li>
+                    </ul>
+                </div>
+                <div class="sidebar-section">
+                    <h3 class="sidebar-title">Quick Filters</h3>
+                    <ul class="category-list">
+                        <li class="category-item" onclick="filterByLevel('Beginner')">
+                            <span>🌱 Beginner Friendly</span>
+                        </li>
+                        <li class="category-item" onclick="filterByLevel('Intermediate')">
+                            <span>📈 Intermediate</span>
+                        </li>
+                        <li class="category-item" onclick="filterByLevel('Advanced')">
+                            <span>🚀 Advanced</span>
+                        </li>
+                    </ul>
+                </div>
+            </aside>
+
+            <section class="content">
+                <div class="search-section">
+                    <button class="mobile-filter-toggle" onclick="openSidebar()">
+                        ☰ Filter by Category
+                    </button>
+                    <div class="search-box">
+                        <input type="text" class="search-input" id="searchInput" placeholder="Search certifications, providers, or skills...">
+                    </div>
+                    <div class="filter-row">
+                        <select class="filter-select" id="providerFilter">
+                            <option value="">All Providers</option>
+                        </select>
+                        <select class="filter-select" id="levelFilter">
+                            <option value="">All Levels</option>
+                        </select>
+                        <select class="filter-select" id="sortSelect">
+                            <option value="name">Sort by Name</option>
+                            <option value="provider">Sort by Provider</option>
+                            <option value="category">Sort by Category</option>
+                            <option value="level">Sort by Level</option>
+                        </select>
+                    </div>
+                </div>
+
+                <div class="certs-header">
+                    <span class="results-count" id="resultsCount">Loading...</span>
+                    <div class="view-toggle">
+                        <button class="view-btn active" onclick="setView('grid')" title="Grid view">⊞</button>
+                        <button class="view-btn" onclick="setView('list')" title="List view">☰</button>
+                    </div>
+                </div>
+
+                <div class="loading" id="loading">
+                    <div class="loading-spinner"></div>
+                    <p>Loading certifications...</p>
+                </div>
+
+                <div class="certs-grid" id="certsGrid"></div>
+
+                <div class="empty-state" id="emptyState" style="display: none;">
+                    <div class="empty-icon">🔍</div>
+                    <h3>No certifications found</h3>
+                    <p>Try adjusting your search or filters</p>
+                </div>
+
+                <div class="pagination" id="pagination"></div>
+            </section>
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            <div class="footer-content">
+                <p>Curated with care for lifelong learners</p>
+                <div class="footer-links">
+                    <a href="https://github.com/saint1415/free_certs">Contribute</a>
+                    <a href="https://github.com/saint1415/free_certs/issues">Report Issue</a>
+                    <a href="data/certifications.json">API (JSON)</a>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script>
+        // State
+        let allCerts = [];
+        let filteredCerts = [];
+        let currentPage = 1;
+        const perPage = 24;
+        let currentCategory = 'all';
+        let currentView = 'grid';
+
+        // Theme
+        function toggleTheme() {
+            document.body.classList.toggle('dark');
+            const isDark = document.body.classList.contains('dark');
+            localStorage.setItem('theme', isDark ? 'dark' : 'light');
+            document.querySelector('.theme-toggle').textContent = isDark ? '☀️' : '🌙';
+        }
+
+        // Initialize theme
+        if (localStorage.getItem('theme') === 'dark' ||
+            (!localStorage.getItem('theme') && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+            document.body.classList.add('dark');
+            document.querySelector('.theme-toggle').textContent = '☀️';
+        }
+
+        // Mobile sidebar
+        function openSidebar() {
+            document.getElementById('sidebar').classList.add('mobile-open');
+        }
+
+        function closeSidebar() {
+            document.getElementById('sidebar').classList.remove('mobile-open');
+        }
+
+        // View toggle
+        function setView(view) {
+            currentView = view;
+            const grid = document.getElementById('certsGrid');
+            const btns = document.querySelectorAll('.view-btn');
+            btns.forEach(btn => btn.classList.remove('active'));
+
+            if (view === 'list') {
+                grid.classList.add('list-view');
+                btns[1].classList.add('active');
+            } else {
+                grid.classList.remove('list-view');
+                btns[0].classList.add('active');
+            }
+        }
+
+        // Load data
+        async function loadData() {
+            try {
+                // Try JSON first, fallback to CSV
+                let response = await fetch('data/certifications.json');
+                if (response.ok) {
+                    const data = await response.json();
+                    allCerts = data.certifications;
+                    updateStats(data.metadata);
+                    populateFilters(data.metadata);
+                    buildCategoryList(data.metadata.categories);
+                } else {
+                    // Fallback to CSV
+                    response = await fetch('free_certifications.csv');
+                    const text = await response.text();
+                    allCerts = parseCSV(text);
+                    const metadata = extractMetadata(allCerts);
+                    updateStats(metadata);
+                    populateFilters(metadata);
+                    buildCategoryList(metadata.categories);
+                }
+
+                filteredCerts = [...allCerts];
+                renderCerts();
+                document.getElementById('loading').style.display = 'none';
+            } catch (error) {
+                console.error('Error loading data:', error);
+                document.getElementById('loading').innerHTML = `
+                    <div class="empty-icon">⚠️</div>
+                    <p>Error loading data. Please try again later.</p>
+                `;
+            }
+        }
+
+        function parseCSV(text) {
+            const lines = text.trim().split('\n');
+            const headers = lines[0].split(',');
+            const certs = [];
+
+            for (let i = 1; i < lines.length; i++) {
+                const values = parseCSVLine(lines[i]);
+                if (values.length >= 4) {
+                    certs.push({
+                        id: i,
+                        category: values[0] || '',
+                        name: values[1] || '',
+                        provider: values[2] || '',
+                        url: values[3] || '',
+                        description: values[4] || '',
+                        duration: values[5] || '',
+                        level: values[6] || 'Not Specified',
+                        prerequisites: values[7] || '',
+                        expiration: values[8] || ''
+                    });
+                }
+            }
+            return certs;
+        }
+
+        function parseCSVLine(line) {
+            const values = [];
+            let current = '';
+            let inQuotes = false;
+
+            for (let char of line) {
+                if (char === '"') {
+                    inQuotes = !inQuotes;
+                } else if (char === ',' && !inQuotes) {
+                    values.push(current.trim());
+                    current = '';
+                } else {
+                    current += char;
+                }
+            }
+            values.push(current.trim());
+            return values;
+        }
+
+        function extractMetadata(certs) {
+            const categories = [...new Set(certs.map(c => c.category).filter(Boolean))].sort();
+            const providers = [...new Set(certs.map(c => c.provider).filter(Boolean))].sort();
+            const levels = [...new Set(certs.map(c => c.level).filter(Boolean))].sort();
+            return {
+                total_certifications: certs.length,
+                categories,
+                providers,
+                levels
+            };
+        }
+
+        function updateStats(metadata) {
+            document.getElementById('totalCerts').textContent = metadata.total_certifications;
+            document.getElementById('totalCategories').textContent = metadata.categories.length;
+            document.getElementById('totalProviders').textContent = metadata.providers.length;
+            document.getElementById('allCount').textContent = metadata.total_certifications;
+        }
+
+        function populateFilters(metadata) {
+            const providerSelect = document.getElementById('providerFilter');
+            metadata.providers.slice(0, 50).forEach(provider => {
+                const option = document.createElement('option');
+                option.value = provider;
+                option.textContent = provider;
+                providerSelect.appendChild(option);
+            });
+
+            const levelSelect = document.getElementById('levelFilter');
+            metadata.levels.forEach(level => {
+                const option = document.createElement('option');
+                option.value = level;
+                option.textContent = level;
+                levelSelect.appendChild(option);
+            });
+        }
+
+        function buildCategoryList(categories) {
+            const list = document.getElementById('categoryList');
+
+            // Group similar categories
+            const grouped = {};
+            categories.forEach(cat => {
+                const mainCat = cat.replace(/\s*\([^)]+\)/, '').trim();
+                if (!grouped[mainCat]) grouped[mainCat] = [];
+                grouped[mainCat].push(cat);
+            });
+
+            Object.keys(grouped).sort().forEach(mainCat => {
+                const count = allCerts.filter(c => grouped[mainCat].includes(c.category)).length;
+                const li = document.createElement('li');
+                li.className = 'category-item';
+                li.dataset.category = mainCat;
+                li.innerHTML = `
+                    <span>${mainCat}</span>
+                    <span class="category-count">${count}</span>
+                `;
+                li.onclick = () => selectCategory(mainCat, grouped[mainCat]);
+                list.appendChild(li);
+            });
+        }
+
+        function selectCategory(name, categories) {
+            currentCategory = name;
+            currentPage = 1;
+
+            document.querySelectorAll('.category-item').forEach(item => {
+                item.classList.remove('active');
+                if (item.dataset.category === name || (name === 'all' && item.dataset.category === 'all')) {
+                    item.classList.add('active');
+                }
+            });
+
+            if (name === 'all') {
+                filteredCerts = [...allCerts];
+            } else {
+                filteredCerts = allCerts.filter(c => categories.includes(c.category));
+            }
+
+            applyFilters();
+            closeSidebar();
+        }
+
+        function filterByLevel(level) {
+            document.getElementById('levelFilter').value = level;
+            applyFilters();
+            closeSidebar();
+        }
+
+        function applyFilters() {
+            const search = document.getElementById('searchInput').value.toLowerCase();
+            const provider = document.getElementById('providerFilter').value;
+            const level = document.getElementById('levelFilter').value;
+            const sort = document.getElementById('sortSelect').value;
+
+            let results = currentCategory === 'all' ? [...allCerts] : filteredCerts;
+
+            // Apply search
+            if (search) {
+                results = results.filter(c =>
+                    c.name.toLowerCase().includes(search) ||
+                    c.provider.toLowerCase().includes(search) ||
+                    c.description.toLowerCase().includes(search) ||
+                    c.category.toLowerCase().includes(search)
+                );
+            }
+
+            // Apply provider filter
+            if (provider) {
+                results = results.filter(c => c.provider === provider);
+            }
+
+            // Apply level filter
+            if (level) {
+                results = results.filter(c => c.level === level);
+            }
+
+            // Apply sort
+            results.sort((a, b) => {
+                if (sort === 'name') return a.name.localeCompare(b.name);
+                if (sort === 'provider') return a.provider.localeCompare(b.provider);
+                if (sort === 'category') return a.category.localeCompare(b.category);
+                if (sort === 'level') return a.level.localeCompare(b.level);
+                return 0;
+            });
+
+            filteredCerts = results;
+            currentPage = 1;
+            renderCerts();
+        }
+
+        function renderCerts() {
+            const grid = document.getElementById('certsGrid');
+            const emptyState = document.getElementById('emptyState');
+            const resultsCount = document.getElementById('resultsCount');
+
+            if (filteredCerts.length === 0) {
+                grid.innerHTML = '';
+                emptyState.style.display = 'block';
+                resultsCount.textContent = 'No results';
+                document.getElementById('pagination').innerHTML = '';
+                return;
+            }
+
+            emptyState.style.display = 'none';
+
+            // Pagination
+            const start = (currentPage - 1) * perPage;
+            const end = start + perPage;
+            const paginated = filteredCerts.slice(start, end);
+            const totalPages = Math.ceil(filteredCerts.length / perPage);
+
+            resultsCount.textContent = `Showing ${start + 1}-${Math.min(end, filteredCerts.length)} of ${filteredCerts.length} certifications`;
+
+            grid.innerHTML = paginated.map(cert => `
+                <div class="cert-card">
+                    <div class="cert-header">
+                        <span class="cert-category">${escapeHtml(cert.category.replace(/\s*\([^)]+\)/, ''))}</span>
+                        <span class="cert-level">${escapeHtml(cert.level)}</span>
+                    </div>
+                    <h3 class="cert-title">${escapeHtml(cert.name)}</h3>
+                    <div class="cert-provider">${escapeHtml(cert.provider)}</div>
+                    <p class="cert-description">${escapeHtml(truncate(cert.description, 150))}</p>
+                    <div class="cert-meta">
+                        ${cert.duration ? `<span class="cert-meta-item">⏱️ ${escapeHtml(cert.duration)}</span>` : ''}
+                        ${cert.prerequisites ? `<span class="cert-meta-item">📋 Prerequisites</span>` : ''}
+                        ${cert.expiration ? `<span class="cert-meta-item">📅 ${escapeHtml(cert.expiration)}</span>` : ''}
+                    </div>
+                    <div class="cert-actions">
+                        <a href="${escapeHtml(cert.url)}" target="_blank" rel="noopener" class="btn btn-primary">
+                            Get Certified
+                        </a>
+                        <button class="btn btn-secondary" onclick="copyLink('${escapeHtml(cert.url)}')" title="Copy link">
+                            📋
+                        </button>
+                    </div>
+                </div>
+            `).join('');
+
+            renderPagination(totalPages);
+        }
+
+        function renderPagination(totalPages) {
+            const pagination = document.getElementById('pagination');
+
+            if (totalPages <= 1) {
+                pagination.innerHTML = '';
+                return;
+            }
+
+            let html = '';
+
+            // Previous
+            html += `<button class="page-btn" onclick="goToPage(${currentPage - 1})" ${currentPage === 1 ? 'disabled' : ''}>Prev</button>`;
+
+            // Page numbers
+            const maxVisible = 5;
+            let startPage = Math.max(1, currentPage - Math.floor(maxVisible / 2));
+            let endPage = Math.min(totalPages, startPage + maxVisible - 1);
+
+            if (endPage - startPage < maxVisible - 1) {
+                startPage = Math.max(1, endPage - maxVisible + 1);
+            }
+
+            if (startPage > 1) {
+                html += `<button class="page-btn" onclick="goToPage(1)">1</button>`;
+                if (startPage > 2) html += `<span>...</span>`;
+            }
+
+            for (let i = startPage; i <= endPage; i++) {
+                html += `<button class="page-btn ${i === currentPage ? 'active' : ''}" onclick="goToPage(${i})">${i}</button>`;
+            }
+
+            if (endPage < totalPages) {
+                if (endPage < totalPages - 1) html += `<span>...</span>`;
+                html += `<button class="page-btn" onclick="goToPage(${totalPages})">${totalPages}</button>`;
+            }
+
+            // Next
+            html += `<button class="page-btn" onclick="goToPage(${currentPage + 1})" ${currentPage === totalPages ? 'disabled' : ''}>Next</button>`;
+
+            pagination.innerHTML = html;
+        }
+
+        function goToPage(page) {
+            currentPage = page;
+            renderCerts();
+            window.scrollTo({ top: 300, behavior: 'smooth' });
+        }
+
+        function copyLink(url) {
+            navigator.clipboard.writeText(url).then(() => {
+                // Simple feedback
+                const btn = event.target;
+                const original = btn.textContent;
+                btn.textContent = '✓';
+                setTimeout(() => btn.textContent = original, 1500);
+            });
+        }
+
+        function escapeHtml(text) {
+            if (!text) return '';
+            const div = document.createElement('div');
+            div.textContent = text;
+            return div.innerHTML;
+        }
+
+        function truncate(text, length) {
+            if (!text) return '';
+            return text.length > length ? text.substring(0, length) + '...' : text;
+        }
+
+        // Event listeners
+        document.getElementById('searchInput').addEventListener('input', debounce(applyFilters, 300));
+        document.getElementById('providerFilter').addEventListener('change', applyFilters);
+        document.getElementById('levelFilter').addEventListener('change', applyFilters);
+        document.getElementById('sortSelect').addEventListener('change', applyFilters);
+
+        function debounce(func, wait) {
+            let timeout;
+            return function executedFunction(...args) {
+                const later = () => {
+                    clearTimeout(timeout);
+                    func(...args);
+                };
+                clearTimeout(timeout);
+                timeout = setTimeout(later, wait);
+            };
+        }
+
+        // Initialize
+        loadData();
+    </script>
 </body>
 </html>
