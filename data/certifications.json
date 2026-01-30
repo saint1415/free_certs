@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "total_certifications": 466,
-    "last_updated": "2026-01-30T04:14:54.980178Z",
+    "total_certifications": 526,
+    "last_updated": "2026-01-30T04:20:50.626358+00:00",
     "categories": [
       "AI & Machine Learning Engineering",
       "Aerospace Engineering",
@@ -54,7 +54,7 @@
       "Alibaba Cloud",
       "Alibaba Cloud Academy",
       "Alison",
-      "Alliance Française",
+      "Alliance FranÃ§aise",
       "Amazon Connect",
       "Amazon Web Services",
       "American Red Cross",
@@ -70,7 +70,7 @@
       "CDC TRAIN",
       "California Institute of the Arts (Coursera)",
       "Cambridge English",
-      "Camões Institute",
+      "CamÃµes Institute",
       "Cisco",
       "Cisco AppDynamics",
       "Cisco Networking Academy",
@@ -84,7 +84,6 @@
       "Columbia University (edX)",
       "Commonwealth Education Trust (Coursera)",
       "Commonwealth of Learning",
-      "Confucius Institute Online",
       "Corporate Finance Institute",
       "Coursera",
       "Coursera (Columbia University)",
@@ -113,7 +112,6 @@
       "Flux CD",
       "Forcepoint",
       "Fortinet",
-      "FutureLearn",
       "GitLab",
       "Google",
       "Google (Coursera)",
@@ -144,7 +142,6 @@
       "INCOSE",
       "Imperva",
       "InVision",
-      "Indian Cultural Centre",
       "Institute for Healthcare Improvement",
       "Instituto Cervantes",
       "Istio",
@@ -166,7 +163,6 @@
       "Microsoft/LinkedIn Learning",
       "MindTools",
       "MoMA (Coursera)",
-      "Monash University (FutureLearn)",
       "MongoDB",
       "MongoDB University",
       "NGINX",
@@ -194,7 +190,6 @@
       "Pinterest Academy",
       "Pulumi",
       "Puppet",
-      "Pushkin Institute",
       "Qiskit",
       "Qualys",
       "Red Hat",
@@ -220,7 +215,6 @@
       "UC Davis (Coursera)",
       "UNEP",
       "UNESCO",
-      "UNESCO IITE",
       "UNICEF",
       "UNITAR",
       "USGBC",
@@ -248,7 +242,6 @@
       "WoodWorks",
       "Yale University (Coursera)",
       "YouTube Creator Academy",
-      "Yunus Emre Institute",
       "Zscaler",
       "edX",
       "fast.ai",
@@ -261,7 +254,8 @@
       "Beginner-Intermediate",
       "Intermediate",
       "Professional"
-    ]
+    ],
+    "validation_run": "2026-01-30T04:20:50.626358+00:00"
   },
   "certifications": [
     {
@@ -307,7 +301,332 @@
       "last_checked": null
     },
     {
-      "id": 4,
+      "category": "AI & Machine Learning Engineering",
+      "name": "AdvancedGuided ProjectLight Graph Convolutional Network for Recommender SystemsArtificial Intelligence, Bayesian Personalized Ranking (BPR), Bipartite Graph, +3 more34 Enrolled60 Minutes4.9(7 Reviews)",
+      "provider": "IBM",
+      "url": "https://cognitiveclass.ai/courses/course-v1:IBMSkillsNetwork+GPXX0H9SEN+v1",
+      "description": "Free certification from IBM",
+      "duration": "Self-paced",
+      "level": "Beginner",
+      "prerequisites": "",
+      "expiration": "",
+      "discovered_at": "2026-01-30T04:21:43.959046+00:00",
+      "id": 4
+    },
+    {
+      "category": "AI & Machine Learning Engineering",
+      "name": "BeginnerCourseBig Data 101Big Data60.1k+ Enrolled3 Hours4.7(10.4k+ Reviews)",
+      "provider": "IBM",
+      "url": "https://cognitiveclass.ai/courses/course-v1:CognitiveClass+BD0101EN+v2",
+      "description": "Free certification from IBM",
+      "duration": "Self-paced",
+      "level": "Beginner",
+      "prerequisites": "",
+      "expiration": "",
+      "discovered_at": "2026-01-30T04:21:43.959342+00:00",
+      "id": 5
+    },
+    {
+      "category": "AI & Machine Learning Engineering",
+      "name": "BeginnerCourseBuild Your Own ChatbotArtificial Intelligence, Chatbots, NLP44.2k+ Enrolled5 Hours4.6(4.6k+ Reviews)",
+      "provider": "IBM",
+      "url": "https://cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CB0101EN+v1",
+      "description": "Free certification from IBM",
+      "duration": "Self-paced",
+      "level": "Beginner",
+      "prerequisites": "",
+      "expiration": "",
+      "discovered_at": "2026-01-30T04:21:43.959901+00:00",
+      "id": 6
+    },
+    {
+      "category": "AI & Machine Learning Engineering",
+      "name": "BeginnerCourseData Analysis with PythonData Analysis, Data Science, Numpy, +3 more129k+ Enrolled15 Hours4.7(14.7k+ Reviews)",
+      "provider": "IBM",
+      "url": "https://cognitiveclass.ai/courses/course-v1:CognitiveClass+DA0101EN+v2",
+      "description": "Free certification from IBM",
+      "duration": "Self-paced",
+      "level": "Beginner",
+      "prerequisites": "",
+      "expiration": "",
+      "discovered_at": "2026-01-30T04:21:43.958921+00:00",
+      "id": 7
+    },
+    {
+      "category": "AI & Machine Learning Engineering",
+      "name": "BeginnerCourseData Science 101Data Science93.3k+ Enrolled11 Hours4.6(16.4k+ Reviews)",
+      "provider": "IBM",
+      "url": "https://cognitiveclass.ai/courses/course-v1:BigDataUniversity+DS0101EN+v1",
+      "description": "Free certification from IBM",
+      "duration": "Self-paced",
+      "level": "Beginner",
+      "prerequisites": "",
+      "expiration": "",
+      "discovered_at": "2026-01-30T04:21:43.959099+00:00",
+      "id": 8
+    },
+    {
+      "category": "AI & Machine Learning Engineering",
+      "name": "BeginnerCourseData Science Methodologyplaceholder109k+ Enrolled4 Hour4.6(5.32k+ Reviews)",
+      "provider": "IBM",
+      "url": "https://cognitiveclass.ai/courses/course-v1:CognitiveClass+DS0103EN+v3",
+      "description": "Free certification from IBM",
+      "duration": "Self-paced",
+      "level": "Beginner",
+      "prerequisites": "",
+      "expiration": "",
+      "discovered_at": "2026-01-30T04:21:43.959206+00:00",
+      "id": 9
+    },
+    {
+      "category": "AI & Machine Learning Engineering",
+      "name": "BeginnerCourseData Science Toolsplaceholder40.6k+ Enrolled15 Hours4.5(3.97k+ Reviews)",
+      "provider": "IBM",
+      "url": "https://cognitiveclass.ai/courses/course-v1:CognitiveClass+DS0105EN+v3",
+      "description": "Free certification from IBM",
+      "duration": "Self-paced",
+      "level": "Beginner",
+      "prerequisites": "",
+      "expiration": "",
+      "discovered_at": "2026-01-30T04:21:43.960022+00:00",
+      "id": 10
+    },
+    {
+      "category": "AI & Machine Learning Engineering",
+      "name": "BeginnerCourseData Visualization with PythonData Science, Data Visualization, Python53.7k+ Enrolled10 Hours4.6(7.2k+ Reviews)",
+      "provider": "IBM",
+      "url": "https://cognitiveclass.ai/courses/course-v1:CognitiveClass+DV0101EN+v2",
+      "description": "Free certification from IBM",
+      "duration": "Self-paced",
+      "level": "Beginner",
+      "prerequisites": "",
+      "expiration": "",
+      "discovered_at": "2026-01-30T04:21:43.959621+00:00",
+      "id": 11
+    },
+    {
+      "category": "AI & Machine Learning Engineering",
+      "name": "BeginnerCourseDocker Essentials: A Developer IntroductionContainers, Docker108k+ Enrolled3 Hours4.6(4.99k+ Reviews)",
+      "provider": "IBM",
+      "url": "https://cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CO0101EN+v1",
+      "description": "Free certification from IBM",
+      "duration": "Self-paced",
+      "level": "Beginner",
+      "prerequisites": "",
+      "expiration": "",
+      "discovered_at": "2026-01-30T04:21:43.959286+00:00",
+      "id": 12
+    },
+    {
+      "category": "AI & Machine Learning Engineering",
+      "name": "BeginnerCourseHadoop 101Apache Spark, Big Data26.8k+ Enrolled20 Hours4.5(4.06k+ Reviews)",
+      "provider": "IBM",
+      "url": "https://cognitiveclass.ai/courses/course-v1:BigDataUniversity+BD0111EN+v1",
+      "description": "Free certification from IBM",
+      "duration": "Self-paced",
+      "level": "Beginner",
+      "prerequisites": "",
+      "expiration": "",
+      "discovered_at": "2026-01-30T04:21:43.960281+00:00",
+      "id": 13
+    },
+    {
+      "category": "AI & Machine Learning Engineering",
+      "name": "BeginnerCourseIBM Cloud EssentialsCloud, Monitoring, Security49.2k+ Enrolled8 Hours4.7(5k+ Reviews)",
+      "provider": "IBM",
+      "url": "https://cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0103EN+v3",
+      "description": "Free certification from IBM",
+      "duration": "Self-paced",
+      "level": "Beginner",
+      "prerequisites": "",
+      "expiration": "",
+      "discovered_at": "2026-01-30T04:21:43.959793+00:00",
+      "id": 14
+    },
+    {
+      "category": "AI & Machine Learning Engineering",
+      "name": "BeginnerCourseIntroducing AIArtificial Intelligence32.1k+ Enrolled1 Hour4.6(12.2k+ Reviews)",
+      "provider": "IBM",
+      "url": "https://cognitiveclass.ai/courses/course-v1:IBMSkillsNetwork+AI0105EN+v1",
+      "description": "Free certification from IBM",
+      "duration": "Self-paced",
+      "level": "Beginner",
+      "prerequisites": "",
+      "expiration": "",
+      "discovered_at": "2026-01-30T04:21:43.959846+00:00",
+      "id": 15
+    },
+    {
+      "category": "AI & Machine Learning Engineering",
+      "name": "BeginnerCourseIntroduction to Agentic AIAgentic AI, AI Agent, Artificial Intelligence, +2 more8.95k+ Enrolled3 Hours4.8(4.72k+ Reviews)",
+      "provider": "IBM",
+      "url": "https://cognitiveclass.ai/courses/course-v1:IBMSkillsNetwork+AI0146EN+v1",
+      "description": "Free certification from IBM",
+      "duration": "Self-paced",
+      "level": "Beginner",
+      "prerequisites": "",
+      "expiration": "",
+      "discovered_at": "2026-01-30T04:21:43.959563+00:00",
+      "id": 16
+    },
+    {
+      "category": "AI & Machine Learning Engineering",
+      "name": "BeginnerCourseIntroduction to CloudCloud Computing103k+ Enrolled6 Hours4.6(9.97k+ Reviews)",
+      "provider": "IBM",
+      "url": "https://cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+v1",
+      "description": "Free certification from IBM",
+      "duration": "Self-paced",
+      "level": "Beginner",
+      "prerequisites": "",
+      "expiration": "",
+      "discovered_at": "2026-01-30T04:21:43.959153+00:00",
+      "id": 17
+    },
+    {
+      "category": "AI & Machine Learning Engineering",
+      "name": "BeginnerCourseIntroduction to DevOpsAgile, Behavior Driven Development, Continuous Delivery, +3 more17.6k+ Enrolled9 Hours4.8(4.08k+ Reviews)",
+      "provider": "IBM",
+      "url": "https://cognitiveclass.ai/courses/course-v1:IBMSkillsNetwork+CD0115EN+v1_Coursera",
+      "description": "Free certification from IBM",
+      "duration": "Self-paced",
+      "level": "Beginner",
+      "prerequisites": "",
+      "expiration": "",
+      "discovered_at": "2026-01-30T04:21:43.960226+00:00",
+      "id": 18
+    },
+    {
+      "category": "AI & Machine Learning Engineering",
+      "name": "BeginnerCoursePrompt Engineering for EveryoneArtificial Intelligence, Generative AI, LLM, +1 more103k+ Enrolled5 Hours4.7(22.4k+ Reviews)",
+      "provider": "IBM",
+      "url": "https://cognitiveclass.ai/courses/course-v1:IBMSkillsNetwork+AI0117EN+v1",
+      "description": "Free certification from IBM",
+      "duration": "Self-paced",
+      "level": "Beginner",
+      "prerequisites": "",
+      "expiration": "",
+      "discovered_at": "2026-01-30T04:21:43.958983+00:00",
+      "id": 19
+    },
+    {
+      "category": "AI & Machine Learning Engineering",
+      "name": "BeginnerCoursePython for Data Science, AI & DevelopmentData Analysis, Data Structures, Numpy, +3 more19.5k+ Enrolled26 Hours4.6(43.3k+ Reviews)",
+      "provider": "IBM",
+      "url": "https://cognitiveclass.ai/courses/course-v1:IBMSkillsNetwork+PY0101EN+v1_Coursera",
+      "description": "Free certification from IBM",
+      "duration": "Self-paced",
+      "level": "Beginner",
+      "prerequisites": "",
+      "expiration": "",
+      "discovered_at": "2026-01-30T04:21:43.959683+00:00",
+      "id": 20
+    },
+    {
+      "category": "AI & Machine Learning Engineering",
+      "name": "BeginnerCoursePython for Data ScienceData Science, Python548k+ Enrolled18 Hours4.7(54.3k+ Reviews)",
+      "provider": "IBM",
+      "url": "https://cognitiveclass.ai/courses/course-v1:CognitiveClass+PY0101EN+v3",
+      "description": "Free certification from IBM",
+      "duration": "Self-paced",
+      "level": "Beginner",
+      "prerequisites": "",
+      "expiration": "",
+      "discovered_at": "2026-01-30T04:21:43.958559+00:00",
+      "id": 21
+    },
+    {
+      "category": "AI & Machine Learning Engineering",
+      "name": "BeginnerCourseR for Data ScienceData Analysis, Data Science, Data Visualization, +1 more25k+ Enrolled6 Hours4.7(2.49k+ Reviews)",
+      "provider": "IBM",
+      "url": "https://cognitiveclass.ai/courses/course-v1:CognitiveClass+RP0101EN+v1",
+      "description": "Free certification from IBM",
+      "duration": "Self-paced",
+      "level": "Beginner",
+      "prerequisites": "",
+      "expiration": "",
+      "discovered_at": "2026-01-30T04:21:43.960346+00:00",
+      "id": 22
+    },
+    {
+      "category": "AI & Machine Learning Engineering",
+      "name": "BeginnerCourseSQL and Relational Databases 101Databases, SQL166k+ Enrolled3 Hours4.7(18.2k+ Reviews)",
+      "provider": "IBM",
+      "url": "https://cognitiveclass.ai/courses/course-v1:BDU+DB0101EN+v1",
+      "description": "Free certification from IBM",
+      "duration": "Self-paced",
+      "level": "Beginner",
+      "prerequisites": "",
+      "expiration": "",
+      "discovered_at": "2026-01-30T04:21:43.958862+00:00",
+      "id": 23
+    },
+    {
+      "category": "AI & Machine Learning Engineering",
+      "name": "BeginnerGuided ProjectAI Code Review Showdown: Anthropic's Claude vs IBM's GraniteArtificial Intelligence, Generative AI, Granite, +3 more141 Enrolled30 Minutes4.8(20 Reviews)",
+      "provider": "IBM",
+      "url": "https://cognitiveclass.ai/courses/course-v1:IND+GPXX0LVJEN+v1",
+      "description": "Free certification from IBM",
+      "duration": "Self-paced",
+      "level": "Beginner",
+      "prerequisites": "",
+      "expiration": "",
+      "discovered_at": "2026-01-30T04:21:43.959447+00:00",
+      "id": 24
+    },
+    {
+      "category": "AI & Machine Learning Engineering",
+      "name": "BeginnerGuided ProjectBuild Multi-Agent Santa Quiz Game w/ Granite, CrewAI, GradioArtificial Intelligence, CrewAI, Gradio, +3 more311 Enrolled45 Mins4.8(33 Reviews)",
+      "provider": "IBM",
+      "url": "https://cognitiveclass.ai/courses/course-v1:IBMSkillsNetwork+GPXX05VOEN+v1",
+      "description": "Free certification from IBM",
+      "duration": "Self-paced",
+      "level": "Beginner",
+      "prerequisites": "",
+      "expiration": "",
+      "discovered_at": "2026-01-30T04:21:43.958709+00:00",
+      "id": 25
+    },
+    {
+      "category": "AI & Machine Learning Engineering",
+      "name": "BeginnerGuided ProjectMultilingual AI Agents for Poetry using GPT-5 & AutoGen/AG2AI Agent, Artificial Intelligence, Autogen, +3 more644 Enrolled35 Minutes4.8(72 Reviews)",
+      "provider": "IBM",
+      "url": "https://cognitiveclass.ai/courses/course-v1:IBMSkillsNetwork+GPXX0EGKEN+v1",
+      "description": "Free certification from IBM",
+      "duration": "Self-paced",
+      "level": "Beginner",
+      "prerequisites": "",
+      "expiration": "",
+      "discovered_at": "2026-01-30T04:21:43.959504+00:00",
+      "id": 26
+    },
+    {
+      "category": "AI & Machine Learning Engineering",
+      "name": "BeginnerGuided ProjectOptimize Models with Optuna: Adaptive Hyperparameter TuningHyperparameter Tuning, Machine Learning, Optimization90 Enrolled20 Mins4.8(22 Reviews)",
+      "provider": "IBM",
+      "url": "https://cognitiveclass.ai/courses/course-v1:IBMSkillsNetwork+GPXX05RFEN+v1",
+      "description": "Free certification from IBM",
+      "duration": "Self-paced",
+      "level": "Beginner",
+      "prerequisites": "",
+      "expiration": "",
+      "discovered_at": "2026-01-30T04:21:43.958777+00:00",
+      "id": 27
+    },
+    {
+      "category": "AI & Machine Learning Engineering",
+      "name": "CourseDeep Learning FundamentalsData Science, Machine Learning, Deep Learning95k+ Enrolled3 Hours4.63(1.68k+ Reviews)",
+      "provider": "IBM",
+      "url": "https://cognitiveclass.ai/courses/course-v1:DeepLearning.TV+ML0115EN+v2.0",
+      "description": "Free certification from IBM",
+      "duration": "Self-paced",
+      "level": "Beginner",
+      "prerequisites": "",
+      "expiration": "",
+      "discovered_at": "2026-01-30T04:21:43.959738+00:00",
+      "id": 28
+    },
+    {
+      "id": 29,
       "category": "AI & Machine Learning Engineering",
       "name": "Hugging Face Transformers Course",
       "provider": "Hugging Face",
@@ -321,7 +640,59 @@
       "last_checked": null
     },
     {
-      "id": 5,
+      "category": "AI & Machine Learning Engineering",
+      "name": "IntermediateCourseIntroduction to Containers, Kubernetes, and OpenShiftCloud38k+ Enrolled18 Hours4.6(1.93k+ Reviews)",
+      "provider": "IBM",
+      "url": "https://cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0201EN+v1",
+      "description": "Free certification from IBM",
+      "duration": "Self-paced",
+      "level": "Beginner",
+      "prerequisites": "",
+      "expiration": "",
+      "discovered_at": "2026-01-30T04:21:43.960144+00:00",
+      "id": 30
+    },
+    {
+      "category": "AI & Machine Learning Engineering",
+      "name": "IntermediateGuided ProjectAgentic Graph-RAG Over Social-Network Knowledge GraphsAI Agents, Graph Neural Networks (GNNs), Knowledge Graphs, +3 more112 Enrolled60 Minutes4.7(14 Reviews)",
+      "provider": "IBM",
+      "url": "https://cognitiveclass.ai/courses/course-v1:IBMSkillsNetwork+GPXX0B3MEN+v1",
+      "description": "Free certification from IBM",
+      "duration": "Self-paced",
+      "level": "Beginner",
+      "prerequisites": "",
+      "expiration": "",
+      "discovered_at": "2026-01-30T04:21:43.958644+00:00",
+      "id": 31
+    },
+    {
+      "category": "AI & Machine Learning Engineering",
+      "name": "IntermediateGuided ProjectBuild Your Interview Coach with Llama, OpenAI Whisper & TTSAI Agents, Generative AI, Gradio, +3 more168 Enrolled45 Minutes4.6(20 Reviews)",
+      "provider": "IBM",
+      "url": "https://cognitiveclass.ai/courses/course-v1:IBMSkillsNetwork+GPXX0IMIEN+v1",
+      "description": "Free certification from IBM",
+      "duration": "Self-paced",
+      "level": "Beginner",
+      "prerequisites": "",
+      "expiration": "",
+      "discovered_at": "2026-01-30T04:21:43.960088+00:00",
+      "id": 32
+    },
+    {
+      "category": "AI & Machine Learning Engineering",
+      "name": "IntermediateGuided ProjectMulti-Agent Restaurant Chatbot with Vision LLM, CrewAI & RAGAI Agents, CrewAI, Multi-Agent Systems, +3 more344 Enrolled1 Hr + 45 Mins4.7(24 Reviews)",
+      "provider": "IBM",
+      "url": "https://cognitiveclass.ai/courses/course-v1:IBMSkillsNetwork+GPXX0RK7EN+v1",
+      "description": "Free certification from IBM",
+      "duration": "Self-paced",
+      "level": "Beginner",
+      "prerequisites": "",
+      "expiration": "",
+      "discovered_at": "2026-01-30T04:21:43.959959+00:00",
+      "id": 33
+    },
+    {
+      "id": 34,
       "category": "AI & Machine Learning Engineering",
       "name": "Machine Learning Crash Course",
       "provider": "Google",
@@ -335,7 +706,7 @@
       "last_checked": null
     },
     {
-      "id": 6,
+      "id": 35,
       "category": "AI & Machine Learning Engineering",
       "name": "Natural Language Processing with Classification and Vector Spaces",
       "provider": "DeepLearning.AI (Coursera)",
@@ -349,7 +720,7 @@
       "last_checked": null
     },
     {
-      "id": 7,
+      "id": 36,
       "category": "AI & Machine Learning Engineering",
       "name": "OpenMined Privacy in AI",
       "provider": "OpenMined",
@@ -363,7 +734,7 @@
       "last_checked": null
     },
     {
-      "id": 8,
+      "id": 37,
       "category": "AI & Machine Learning Engineering",
       "name": "Practical Deep Learning for Coders",
       "provider": "fast.ai",
@@ -377,7 +748,7 @@
       "last_checked": null
     },
     {
-      "id": 9,
+      "id": 38,
       "category": "AI & Machine Learning Engineering",
       "name": "Prompt Engineering for ChatGPT",
       "provider": "Vanderbilt University (Coursera)",
@@ -391,7 +762,7 @@
       "last_checked": null
     },
     {
-      "id": 10,
+      "id": 39,
       "category": "Aerospace Engineering",
       "name": "Aircraft Structures",
       "provider": "NPTEL (IIT Bombay)",
@@ -405,7 +776,7 @@
       "last_checked": null
     },
     {
-      "id": 11,
+      "id": 40,
       "category": "Aerospace Engineering",
       "name": "Aircraft Systems Engineering",
       "provider": "MIT OpenCourseWare",
@@ -419,7 +790,7 @@
       "last_checked": null
     },
     {
-      "id": 12,
+      "id": 41,
       "category": "Aerospace Engineering",
       "name": "Aviation Management",
       "provider": "Alison",
@@ -433,7 +804,7 @@
       "last_checked": null
     },
     {
-      "id": 13,
+      "id": 42,
       "category": "Aerospace Engineering",
       "name": "Computational Fluid Dynamics",
       "provider": "NPTEL (IIT Bombay)",
@@ -447,7 +818,7 @@
       "last_checked": null
     },
     {
-      "id": 14,
+      "id": 43,
       "category": "Aerospace Engineering",
       "name": "Flight Mechanics",
       "provider": "NPTEL (IIT Kanpur)",
@@ -461,7 +832,7 @@
       "last_checked": null
     },
     {
-      "id": 15,
+      "id": 44,
       "category": "Aerospace Engineering",
       "name": "Introduction to Aerospace Engineering",
       "provider": "MIT OpenCourseWare",
@@ -475,7 +846,7 @@
       "last_checked": null
     },
     {
-      "id": 16,
+      "id": 45,
       "category": "Aerospace Engineering",
       "name": "Space Systems Engineering",
       "provider": "MIT OpenCourseWare",
@@ -489,7 +860,7 @@
       "last_checked": null
     },
     {
-      "id": 17,
+      "id": 46,
       "category": "Aerospace Engineering",
       "name": "Spacecraft Dynamics",
       "provider": "MIT OpenCourseWare",
@@ -503,7 +874,7 @@
       "last_checked": null
     },
     {
-      "id": 18,
+      "id": 47,
       "category": "Arts & Humanities",
       "name": "Ancient Greek History",
       "provider": "Yale University (Coursera)",
@@ -517,7 +888,7 @@
       "last_checked": null
     },
     {
-      "id": 19,
+      "id": 48,
       "category": "Arts & Humanities",
       "name": "Art History Basics",
       "provider": "Khan Academy",
@@ -531,7 +902,7 @@
       "last_checked": null
     },
     {
-      "id": 20,
+      "id": 49,
       "category": "Arts & Humanities",
       "name": "Classical Music Appreciation",
       "provider": "Yale University (Coursera)",
@@ -545,7 +916,7 @@
       "last_checked": null
     },
     {
-      "id": 21,
+      "id": 50,
       "category": "Arts & Humanities",
       "name": "Contemporary Art",
       "provider": "MoMA (Coursera)",
@@ -559,7 +930,7 @@
       "last_checked": null
     },
     {
-      "id": 22,
+      "id": 51,
       "category": "Arts & Humanities",
       "name": "Creative Writing",
       "provider": "University of Michigan (Coursera)",
@@ -573,7 +944,7 @@
       "last_checked": null
     },
     {
-      "id": 23,
+      "id": 52,
       "category": "Arts & Humanities",
       "name": "Cultural Anthropology",
       "provider": "MIT OpenCourseWare",
@@ -587,7 +958,7 @@
       "last_checked": null
     },
     {
-      "id": 24,
+      "id": 53,
       "category": "Arts & Humanities",
       "name": "Digital Photography",
       "provider": "Harvard University (edX)",
@@ -601,7 +972,7 @@
       "last_checked": null
     },
     {
-      "id": 25,
+      "id": 54,
       "category": "Arts & Humanities",
       "name": "Introduction to Philosophy",
       "provider": "University of Edinburgh (Coursera)",
@@ -615,7 +986,7 @@
       "last_checked": null
     },
     {
-      "id": 26,
+      "id": 55,
       "category": "Arts & Humanities",
       "name": "Modern Art & Ideas",
       "provider": "MoMA (Coursera)",
@@ -629,7 +1000,7 @@
       "last_checked": null
     },
     {
-      "id": 27,
+      "id": 56,
       "category": "Arts & Humanities",
       "name": "Modern Poetry",
       "provider": "University of Pennsylvania (Coursera)",
@@ -643,7 +1014,7 @@
       "last_checked": null
     },
     {
-      "id": 28,
+      "id": 57,
       "category": "Arts & Humanities",
       "name": "Music Theory Fundamentals",
       "provider": "Berklee College of Music (Coursera)",
@@ -657,7 +1028,7 @@
       "last_checked": null
     },
     {
-      "id": 29,
+      "id": 58,
       "category": "Arts & Humanities",
       "name": "Shakespeare Studies",
       "provider": "University of London (Coursera)",
@@ -671,7 +1042,7 @@
       "last_checked": null
     },
     {
-      "id": 30,
+      "id": 59,
       "category": "Arts & Humanities",
       "name": "World Literature",
       "provider": "Harvard University (edX)",
@@ -685,7 +1056,7 @@
       "last_checked": null
     },
     {
-      "id": 31,
+      "id": 60,
       "category": "Arts & Humanities",
       "name": "World Mythology",
       "provider": "University of Pennsylvania (Coursera)",
@@ -699,7 +1070,7 @@
       "last_checked": null
     },
     {
-      "id": 32,
+      "id": 61,
       "category": "Biomedical Engineering",
       "name": "Biomechanics",
       "provider": "MIT OpenCourseWare",
@@ -713,7 +1084,7 @@
       "last_checked": null
     },
     {
-      "id": 33,
+      "id": 62,
       "category": "Biomedical Engineering",
       "name": "Biomedical Instrumentation",
       "provider": "NPTEL (IIT Madras)",
@@ -727,7 +1098,7 @@
       "last_checked": null
     },
     {
-      "id": 34,
+      "id": 63,
       "category": "Biomedical Engineering",
       "name": "Medical Imaging",
       "provider": "NPTEL (IIT Kharagpur)",
@@ -741,7 +1112,7 @@
       "last_checked": null
     },
     {
-      "id": 35,
+      "id": 64,
       "category": "Biomedical Engineering",
       "name": "Tissue Engineering",
       "provider": "MIT OpenCourseWare",
@@ -755,7 +1126,7 @@
       "last_checked": null
     },
     {
-      "id": 36,
+      "id": 65,
       "category": "Business & Management",
       "name": "Business Analysis",
       "provider": "IIBA",
@@ -769,7 +1140,7 @@
       "last_checked": null
     },
     {
-      "id": 37,
+      "id": 66,
       "category": "Business & Management",
       "name": "Business Communication",
       "provider": "Coursera",
@@ -783,7 +1154,7 @@
       "last_checked": null
     },
     {
-      "id": 38,
+      "id": 67,
       "category": "Business & Management",
       "name": "Entrepreneurship",
       "provider": "Wharton School (Coursera)",
@@ -797,7 +1168,7 @@
       "last_checked": null
     },
     {
-      "id": 39,
+      "id": 68,
       "category": "Business & Management",
       "name": "Financial Accounting Fundamentals",
       "provider": "University of Pennsylvania (Coursera)",
@@ -811,7 +1182,7 @@
       "last_checked": null
     },
     {
-      "id": 40,
+      "id": 69,
       "category": "Business & Management",
       "name": "Google Project Management Professional Certificate",
       "provider": "Google (Coursera)",
@@ -825,7 +1196,7 @@
       "last_checked": null
     },
     {
-      "id": 41,
+      "id": 70,
       "category": "Business & Management",
       "name": "Introduction to Project Management",
       "provider": "University of Adelaide (edX)",
@@ -839,7 +1210,7 @@
       "last_checked": null
     },
     {
-      "id": 42,
+      "id": 71,
       "category": "Business & Management",
       "name": "Leadership Skills",
       "provider": "Alison",
@@ -853,7 +1224,7 @@
       "last_checked": null
     },
     {
-      "id": 43,
+      "id": 72,
       "category": "Business & Management",
       "name": "Marketing Management",
       "provider": "University of Virginia (Coursera)",
@@ -867,7 +1238,7 @@
       "last_checked": null
     },
     {
-      "id": 44,
+      "id": 73,
       "category": "Business & Management",
       "name": "Negotiation Skills",
       "provider": "University of Michigan (Coursera)",
@@ -881,7 +1252,7 @@
       "last_checked": null
     },
     {
-      "id": 45,
+      "id": 74,
       "category": "Business & Management",
       "name": "Supply Chain Management",
       "provider": "MIT (edX)",
@@ -895,7 +1266,7 @@
       "last_checked": null
     },
     {
-      "id": 46,
+      "id": 75,
       "category": "Chemical Engineering",
       "name": "Biochemical Engineering",
       "provider": "MIT OpenCourseWare",
@@ -909,7 +1280,7 @@
       "last_checked": null
     },
     {
-      "id": 47,
+      "id": 76,
       "category": "Chemical Engineering",
       "name": "Chemical Reaction Engineering",
       "provider": "MIT OpenCourseWare",
@@ -923,7 +1294,7 @@
       "last_checked": null
     },
     {
-      "id": 48,
+      "id": 77,
       "category": "Chemical Engineering",
       "name": "Chemical Thermodynamics",
       "provider": "NPTEL",
@@ -937,7 +1308,7 @@
       "last_checked": null
     },
     {
-      "id": 49,
+      "id": 78,
       "category": "Chemical Engineering",
       "name": "Nanotechnology",
       "provider": "Coursera",
@@ -951,7 +1322,7 @@
       "last_checked": null
     },
     {
-      "id": 50,
+      "id": 79,
       "category": "Chemical Engineering",
       "name": "Polymer Engineering",
       "provider": "NPTEL (IIT Delhi)",
@@ -965,7 +1336,7 @@
       "last_checked": null
     },
     {
-      "id": 51,
+      "id": 80,
       "category": "Chemical Engineering",
       "name": "Process Control",
       "provider": "NPTEL (IIT Kharagpur)",
@@ -979,7 +1350,7 @@
       "last_checked": null
     },
     {
-      "id": 52,
+      "id": 81,
       "category": "Chemical Engineering",
       "name": "Process Equipment Design",
       "provider": "NPTEL (IIT Guwahati)",
@@ -993,7 +1364,7 @@
       "last_checked": null
     },
     {
-      "id": 53,
+      "id": 82,
       "category": "Chemical Engineering",
       "name": "Process Safety",
       "provider": "CCPS (AIChE)",
@@ -1007,7 +1378,7 @@
       "last_checked": null
     },
     {
-      "id": 54,
+      "id": 83,
       "category": "Chemical Engineering",
       "name": "Reaction Engineering",
       "provider": "NPTEL (IIT Madras)",
@@ -1021,7 +1392,7 @@
       "last_checked": null
     },
     {
-      "id": 55,
+      "id": 84,
       "category": "Chemical Engineering",
       "name": "Transport Phenomena",
       "provider": "MIT OpenCourseWare",
@@ -1035,7 +1406,7 @@
       "last_checked": null
     },
     {
-      "id": 56,
+      "id": 85,
       "category": "Civil & Structural Engineering",
       "name": "Advanced Concrete Technology",
       "provider": "Alison",
@@ -1049,7 +1420,7 @@
       "last_checked": null
     },
     {
-      "id": 57,
+      "id": 86,
       "category": "Civil & Structural Engineering",
       "name": "BIM Fundamentals for Engineers",
       "provider": "Coursera/Autodesk",
@@ -1063,7 +1434,7 @@
       "last_checked": null
     },
     {
-      "id": 58,
+      "id": 87,
       "category": "Civil & Structural Engineering",
       "name": "Building Materials and Construction",
       "provider": "NPTEL (IIT Madras)",
@@ -1077,7 +1448,7 @@
       "last_checked": null
     },
     {
-      "id": 59,
+      "id": 88,
       "category": "Civil & Structural Engineering",
       "name": "Concrete Technology and Design",
       "provider": "Alison",
@@ -1091,7 +1462,7 @@
       "last_checked": null
     },
     {
-      "id": 60,
+      "id": 89,
       "category": "Civil & Structural Engineering",
       "name": "Construction Management",
       "provider": "Coursera (Columbia University)",
@@ -1105,7 +1476,7 @@
       "last_checked": null
     },
     {
-      "id": 61,
+      "id": 90,
       "category": "Civil & Structural Engineering",
       "name": "Construction Safety Management",
       "provider": "OSHA",
@@ -1119,7 +1490,7 @@
       "last_checked": null
     },
     {
-      "id": 62,
+      "id": 91,
       "category": "Civil & Structural Engineering",
       "name": "Construction Scheduling",
       "provider": "Alison",
@@ -1133,7 +1504,7 @@
       "last_checked": null
     },
     {
-      "id": 63,
+      "id": 92,
       "category": "Civil & Structural Engineering",
       "name": "Foundation Design",
       "provider": "Alison",
@@ -1147,7 +1518,7 @@
       "last_checked": null
     },
     {
-      "id": 64,
+      "id": 93,
       "category": "Civil & Structural Engineering",
       "name": "Geotechnical Engineering",
       "provider": "NPTEL (IIT Bombay)",
@@ -1161,7 +1532,7 @@
       "last_checked": null
     },
     {
-      "id": 65,
+      "id": 94,
       "category": "Civil & Structural Engineering",
       "name": "Introduction to Bridge Design",
       "provider": "Alison",
@@ -1175,7 +1546,7 @@
       "last_checked": null
     },
     {
-      "id": 66,
+      "id": 95,
       "category": "Civil & Structural Engineering",
       "name": "Introduction to Bridge Inspection",
       "provider": "FHWA (National Highway Institute)",
@@ -1189,7 +1560,7 @@
       "last_checked": null
     },
     {
-      "id": 67,
+      "id": 96,
       "category": "Civil & Structural Engineering",
       "name": "Introduction to Building Codes",
       "provider": "Alison",
@@ -1203,7 +1574,7 @@
       "last_checked": null
     },
     {
-      "id": 68,
+      "id": 97,
       "category": "Civil & Structural Engineering",
       "name": "Introduction to Construction Equipment",
       "provider": "Alison",
@@ -1217,7 +1588,7 @@
       "last_checked": null
     },
     {
-      "id": 69,
+      "id": 98,
       "category": "Civil & Structural Engineering",
       "name": "Introduction to Construction Estimating",
       "provider": "Alison",
@@ -1231,7 +1602,7 @@
       "last_checked": null
     },
     {
-      "id": 70,
+      "id": 99,
       "category": "Civil & Structural Engineering",
       "name": "Introduction to Construction Management",
       "provider": "Alison",
@@ -1245,7 +1616,7 @@
       "last_checked": null
     },
     {
-      "id": 71,
+      "id": 100,
       "category": "Civil & Structural Engineering",
       "name": "Introduction to Finite Element Analysis",
       "provider": "NPTEL",
@@ -1259,7 +1630,7 @@
       "last_checked": null
     },
     {
-      "id": 72,
+      "id": 101,
       "category": "Civil & Structural Engineering",
       "name": "Introduction to GIS for Civil Engineers",
       "provider": "Esri Academy",
@@ -1273,7 +1644,7 @@
       "last_checked": null
     },
     {
-      "id": 73,
+      "id": 102,
       "category": "Civil & Structural Engineering",
       "name": "Introduction to Geotechnical Engineering",
       "provider": "NPTEL",
@@ -1287,7 +1658,7 @@
       "last_checked": null
     },
     {
-      "id": 74,
+      "id": 103,
       "category": "Civil & Structural Engineering",
       "name": "Introduction to Highway Geometric Design",
       "provider": "Alison",
@@ -1301,7 +1672,7 @@
       "last_checked": null
     },
     {
-      "id": 75,
+      "id": 104,
       "category": "Civil & Structural Engineering",
       "name": "Introduction to Masonry Structures",
       "provider": "Alison",
@@ -1315,7 +1686,7 @@
       "last_checked": null
     },
     {
-      "id": 76,
+      "id": 105,
       "category": "Civil & Structural Engineering",
       "name": "Introduction to Pavement Maintenance",
       "provider": "Alison",
@@ -1329,7 +1700,7 @@
       "last_checked": null
     },
     {
-      "id": 77,
+      "id": 106,
       "category": "Civil & Structural Engineering",
       "name": "Introduction to Prestressed Concrete",
       "provider": "NPTEL",
@@ -1343,7 +1714,7 @@
       "last_checked": null
     },
     {
-      "id": 78,
+      "id": 107,
       "category": "Civil & Structural Engineering",
       "name": "Introduction to Project Risk Management",
       "provider": "Coursera/University of Washington",
@@ -1357,7 +1728,7 @@
       "last_checked": null
     },
     {
-      "id": 79,
+      "id": 108,
       "category": "Civil & Structural Engineering",
       "name": "Introduction to Project Scheduling",
       "provider": "Coursera/Columbia University",
@@ -1371,7 +1742,7 @@
       "last_checked": null
     },
     {
-      "id": 80,
+      "id": 109,
       "category": "Civil & Structural Engineering",
       "name": "Introduction to Retaining Wall Design",
       "provider": "Alison",
@@ -1385,7 +1756,7 @@
       "last_checked": null
     },
     {
-      "id": 81,
+      "id": 110,
       "category": "Civil & Structural Engineering",
       "name": "Introduction to Smart Cities",
       "provider": "Coursera/IESE Business School",
@@ -1399,7 +1770,7 @@
       "last_checked": null
     },
     {
-      "id": 82,
+      "id": 111,
       "category": "Civil & Structural Engineering",
       "name": "Introduction to Soil Stabilization",
       "provider": "Alison",
@@ -1413,7 +1784,7 @@
       "last_checked": null
     },
     {
-      "id": 83,
+      "id": 112,
       "category": "Civil & Structural Engineering",
       "name": "Introduction to Structural Dynamics",
       "provider": "NPTEL",
@@ -1427,7 +1798,7 @@
       "last_checked": null
     },
     {
-      "id": 84,
+      "id": 113,
       "category": "Civil & Structural Engineering",
       "name": "Introduction to Surveying Instruments",
       "provider": "Alison",
@@ -1441,7 +1812,7 @@
       "last_checked": null
     },
     {
-      "id": 85,
+      "id": 114,
       "category": "Civil & Structural Engineering",
       "name": "Introduction to Tunnel Construction",
       "provider": "Alison",
@@ -1455,7 +1826,7 @@
       "last_checked": null
     },
     {
-      "id": 86,
+      "id": 115,
       "category": "Civil & Structural Engineering",
       "name": "Pavement Design",
       "provider": "NPTEL",
@@ -1469,7 +1840,7 @@
       "last_checked": null
     },
     {
-      "id": 87,
+      "id": 116,
       "category": "Civil & Structural Engineering",
       "name": "Structural Engineering Basics",
       "provider": "Alison",
@@ -1483,7 +1854,7 @@
       "last_checked": null
     },
     {
-      "id": 88,
+      "id": 117,
       "category": "Civil & Structural Engineering",
       "name": "Surveying and Mapping",
       "provider": "NPTEL (IIT Roorkee)",
@@ -1497,7 +1868,7 @@
       "last_checked": null
     },
     {
-      "id": 89,
+      "id": 118,
       "category": "Civil & Structural Engineering",
       "name": "Timber Design and Construction",
       "provider": "WoodWorks",
@@ -1511,7 +1882,7 @@
       "last_checked": null
     },
     {
-      "id": 90,
+      "id": 119,
       "category": "Civil & Structural Engineering",
       "name": "Transportation Engineering",
       "provider": "NPTEL (IIT Bombay)",
@@ -1525,7 +1896,7 @@
       "last_checked": null
     },
     {
-      "id": 91,
+      "id": 120,
       "category": "Civil & Structural Engineering",
       "name": "Water Resources Engineering",
       "provider": "NPTEL (IIT Kanpur)",
@@ -1539,7 +1910,7 @@
       "last_checked": null
     },
     {
-      "id": 92,
+      "id": 121,
       "category": "Civil Engineering",
       "name": "Environmental Engineering",
       "provider": "edX",
@@ -1553,7 +1924,7 @@
       "last_checked": null
     },
     {
-      "id": 93,
+      "id": 122,
       "category": "Civil Engineering",
       "name": "Structural Engineering Fundamentals",
       "provider": "MIT OpenCourseWare",
@@ -1567,7 +1938,7 @@
       "last_checked": null
     },
     {
-      "id": 94,
+      "id": 123,
       "category": "Civil Engineering",
       "name": "Water Resources Engineering",
       "provider": "NPTEL",
@@ -1581,7 +1952,7 @@
       "last_checked": null
     },
     {
-      "id": 95,
+      "id": 124,
       "category": "Cloud Computing",
       "name": "AWS Cloud Quest: Cloud Practitioner",
       "provider": "Amazon Web Services",
@@ -1595,7 +1966,7 @@
       "last_checked": null
     },
     {
-      "id": 96,
+      "id": 125,
       "category": "Cloud Computing",
       "name": "AWS Solutions Architect Knowledge Badge",
       "provider": "Amazon Web Services",
@@ -1609,7 +1980,20 @@
       "last_checked": null
     },
     {
-      "id": 97,
+      "category": "Cloud Computing",
+      "name": "Accessibility Policy",
+      "provider": "Oracle",
+      "url": "https://www.oracle.com/corporate/accessibility/",
+      "description": "Free certification from Oracle",
+      "duration": "Self-paced",
+      "level": "Beginner",
+      "prerequisites": "",
+      "expiration": "",
+      "discovered_at": "2026-01-30T04:21:36.265701+00:00",
+      "id": 126
+    },
+    {
+      "id": 127,
       "category": "Cloud Computing",
       "name": "Alibaba Cloud Certification",
       "provider": "Alibaba Cloud Academy",
@@ -1623,7 +2007,7 @@
       "last_checked": null
     },
     {
-      "id": 98,
+      "id": 128,
       "category": "Cloud Computing",
       "name": "Aviatrix Certified Engineer - Multicloud Networking Associate",
       "provider": "Aviatrix",
@@ -1637,7 +2021,46 @@
       "last_checked": null
     },
     {
-      "id": 99,
+      "category": "Cloud Computing",
+      "name": "Buy a subscription",
+      "provider": "Oracle",
+      "url": "https://shop.oracle.com/apex/f?p=DSTORE:PRODUCT::::6:P6_LPI,P6_PROD_HIER_ID:38391519292146620308945778,39203894217074790107465754",
+      "description": "Free certification from Oracle",
+      "duration": "Self-paced",
+      "level": "Beginner",
+      "prerequisites": "",
+      "expiration": "",
+      "discovered_at": "2026-01-30T04:21:36.265814+00:00",
+      "id": 129
+    },
+    {
+      "category": "Cloud Computing",
+      "name": "Buy a subscription",
+      "provider": "Oracle",
+      "url": "https://shop.oracle.com/apex/f?p=DSTORE:PRODUCT::::6:P6_LPI,P6_PROD_HIER_ID:39173837313210910012927941,39203894217074790107465754",
+      "description": "Free certification from Oracle",
+      "duration": "Self-paced",
+      "level": "Beginner",
+      "prerequisites": "",
+      "expiration": "",
+      "discovered_at": "2026-01-30T04:21:36.265850+00:00",
+      "id": 130
+    },
+    {
+      "category": "Cloud Computing",
+      "name": "Buy a subscription",
+      "provider": "Oracle",
+      "url": "https://shop.oracle.com/apex/f?p=DSTORE:PRODUCT::::6:P6_LPI,P6_PROD_HIER_ID:40398385993202800178173905,39203894217074790107465754",
+      "description": "Free certification from Oracle",
+      "duration": "Self-paced",
+      "level": "Beginner",
+      "prerequisites": "",
+      "expiration": "",
+      "discovered_at": "2026-01-30T04:21:36.265873+00:00",
+      "id": 131
+    },
+    {
+      "id": 132,
       "category": "Cloud Computing",
       "name": "Cloud Computing Basics",
       "provider": "IBM Digital Nation Africa",
@@ -1651,7 +2074,7 @@
       "last_checked": null
     },
     {
-      "id": 100,
+      "id": 133,
       "category": "Cloud Computing",
       "name": "Docker Essentials",
       "provider": "IBM (Cognitive Class)",
@@ -1665,7 +2088,7 @@
       "last_checked": null
     },
     {
-      "id": 101,
+      "id": 134,
       "category": "Cloud Computing",
       "name": "Google Cloud Associate Cloud Engineer",
       "provider": "Google Cloud",
@@ -1679,7 +2102,7 @@
       "last_checked": null
     },
     {
-      "id": 102,
+      "id": 135,
       "category": "Cloud Computing",
       "name": "Google Cloud Digital Leader",
       "provider": "Google Cloud",
@@ -1693,7 +2116,7 @@
       "last_checked": null
     },
     {
-      "id": 103,
+      "id": 136,
       "category": "Cloud Computing",
       "name": "Google Cloud Digital Leader Training",
       "provider": "Google Cloud",
@@ -1707,7 +2130,7 @@
       "last_checked": null
     },
     {
-      "id": 104,
+      "id": 137,
       "category": "Cloud Computing",
       "name": "Google Cloud Professional Cloud Architect",
       "provider": "Google Cloud",
@@ -1721,7 +2144,7 @@
       "last_checked": null
     },
     {
-      "id": 105,
+      "id": 138,
       "category": "Cloud Computing",
       "name": "IBM Cloud Essentials",
       "provider": "IBM",
@@ -1735,7 +2158,7 @@
       "last_checked": null
     },
     {
-      "id": 106,
+      "id": 139,
       "category": "Cloud Computing",
       "name": "Introduction to Cloud Computing",
       "provider": "IBM (edX)",
@@ -1749,7 +2172,20 @@
       "last_checked": null
     },
     {
-      "id": 107,
+      "category": "Cloud Computing",
+      "name": "Investors",
+      "provider": "Oracle",
+      "url": "https://investor.oracle.com/home/default.aspx",
+      "description": "Free certification from Oracle",
+      "duration": "Self-paced",
+      "level": "Beginner",
+      "prerequisites": "",
+      "expiration": "",
+      "discovered_at": "2026-01-30T04:21:36.265939+00:00",
+      "id": 140
+    },
+    {
+      "id": 141,
       "category": "Cloud Computing",
       "name": "Microsoft Azure AI Fundamentals (AI-900)",
       "provider": "Microsoft Learn",
@@ -1763,7 +2199,7 @@
       "last_checked": null
     },
     {
-      "id": 108,
+      "id": 142,
       "category": "Cloud Computing",
       "name": "Microsoft Azure Data Fundamentals (DP-900)",
       "provider": "Microsoft Learn",
@@ -1777,7 +2213,7 @@
       "last_checked": null
     },
     {
-      "id": 109,
+      "id": 143,
       "category": "Cloud Computing",
       "name": "Microsoft Azure Fundamentals (AZ-900)",
       "provider": "Microsoft/LinkedIn Learning",
@@ -1791,7 +2227,7 @@
       "last_checked": null
     },
     {
-      "id": 110,
+      "id": 144,
       "category": "Cloud Computing",
       "name": "Oracle Cloud Infrastructure 2025 Foundations Associate",
       "provider": "Oracle",
@@ -1805,7 +2241,72 @@
       "last_checked": null
     },
     {
-      "id": 111,
+      "category": "Cloud Computing",
+      "name": "Oracle Permit and Licensing",
+      "provider": "Oracle",
+      "url": "https://mylearn.oracle.com/ou/story/124853",
+      "description": "Free certification from Oracle",
+      "duration": "Self-paced",
+      "level": "Beginner",
+      "prerequisites": "",
+      "expiration": "",
+      "discovered_at": "2026-01-30T04:21:36.265833+00:00",
+      "id": 145
+    },
+    {
+      "category": "Cloud Computing",
+      "name": "Search all events",
+      "provider": "Oracle",
+      "url": "https://search.oracle.com/events?q=&lang=english",
+      "description": "Free certification from Oracle",
+      "duration": "Self-paced",
+      "level": "Beginner",
+      "prerequisites": "",
+      "expiration": "",
+      "discovered_at": "2026-01-30T04:21:36.265971+00:00",
+      "id": 146
+    },
+    {
+      "category": "Cloud Computing",
+      "name": "Siebel",
+      "provider": "Oracle",
+      "url": "https://mylearn.oracle.com/ou/story/148462",
+      "description": "Free certification from Oracle",
+      "duration": "Self-paced",
+      "level": "Beginner",
+      "prerequisites": "",
+      "expiration": "",
+      "discovered_at": "2026-01-30T04:21:36.265891+00:00",
+      "id": 147
+    },
+    {
+      "category": "Cloud Computing",
+      "name": "Sign-In",
+      "provider": "Oracle",
+      "url": "https://www.oracle.com/webapps/redirect/signon?nexturl=",
+      "description": "Free certification from Oracle",
+      "duration": "Self-paced",
+      "level": "Beginner",
+      "prerequisites": "",
+      "expiration": "",
+      "discovered_at": "2026-01-30T04:21:36.265769+00:00",
+      "id": 148
+    },
+    {
+      "category": "Cloud Computing",
+      "name": "Subscribe to emails",
+      "provider": "Oracle",
+      "url": "https://go.oracle.com/subscribe/?l_code=en&src1=OW:O:FO",
+      "description": "Free certification from Oracle",
+      "duration": "Self-paced",
+      "level": "Beginner",
+      "prerequisites": "",
+      "expiration": "",
+      "discovered_at": "2026-01-30T04:21:36.265987+00:00",
+      "id": 149
+    },
+    {
+      "id": 150,
       "category": "Cloud Computing (Cloud Architecture)",
       "name": "API Gateway Architecture",
       "provider": "Kong",
@@ -1819,7 +2320,7 @@
       "last_checked": null
     },
     {
-      "id": 112,
+      "id": 151,
       "category": "Cloud Computing (Cloud Architecture)",
       "name": "AWS Cloud Architecture Essentials",
       "provider": "Amazon Web Services",
@@ -1833,7 +2334,7 @@
       "last_checked": null
     },
     {
-      "id": 113,
+      "id": 152,
       "category": "Cloud Computing (Cloud Architecture)",
       "name": "AWS Solutions Architect Learning Path",
       "provider": "Amazon Web Services",
@@ -1847,7 +2348,7 @@
       "last_checked": null
     },
     {
-      "id": 114,
+      "id": 153,
       "category": "Cloud Computing (Cloud Architecture)",
       "name": "AWS Well-Architected Labs",
       "provider": "Amazon Web Services",
@@ -1861,7 +2362,7 @@
       "last_checked": null
     },
     {
-      "id": 115,
+      "id": 154,
       "category": "Cloud Computing (Cloud Architecture)",
       "name": "Azure Architect Technologies Learning Path",
       "provider": "Microsoft Learn",
@@ -1875,7 +2376,7 @@
       "last_checked": null
     },
     {
-      "id": 116,
+      "id": 155,
       "category": "Cloud Computing (Cloud Architecture)",
       "name": "Cloud Contact Center Architecture",
       "provider": "Amazon Connect",
@@ -1889,7 +2390,7 @@
       "last_checked": null
     },
     {
-      "id": 117,
+      "id": 156,
       "category": "Cloud Computing (Cloud Architecture)",
       "name": "Cloud Cost Optimization Architecture",
       "provider": "Google Cloud",
@@ -1903,7 +2404,7 @@
       "last_checked": null
     },
     {
-      "id": 118,
+      "id": 157,
       "category": "Cloud Computing (Cloud Architecture)",
       "name": "Cloud Database Architecture",
       "provider": "MongoDB",
@@ -1917,7 +2418,7 @@
       "last_checked": null
     },
     {
-      "id": 119,
+      "id": 158,
       "category": "Cloud Computing (Cloud Architecture)",
       "name": "Cloud ERP Architecture",
       "provider": "Oracle",
@@ -1931,7 +2432,7 @@
       "last_checked": null
     },
     {
-      "id": 120,
+      "id": 159,
       "category": "Cloud Computing (Cloud Architecture)",
       "name": "Cloud FinOps Architecture",
       "provider": "FinOps Foundation",
@@ -1945,7 +2446,7 @@
       "last_checked": null
     },
     {
-      "id": 121,
+      "id": 160,
       "category": "Cloud Computing (Cloud Architecture)",
       "name": "Cloud HPC Architecture",
       "provider": "Google Cloud",
@@ -1959,7 +2460,7 @@
       "last_checked": null
     },
     {
-      "id": 122,
+      "id": 161,
       "category": "Cloud Computing (Cloud Architecture)",
       "name": "Cloud IoT Architecture",
       "provider": "AWS",
@@ -1973,7 +2474,7 @@
       "last_checked": null
     },
     {
-      "id": 123,
+      "id": 162,
       "category": "Cloud Computing (Cloud Architecture)",
       "name": "Cloud Media Processing Architecture",
       "provider": "AWS",
@@ -1987,7 +2488,7 @@
       "last_checked": null
     },
     {
-      "id": 124,
+      "id": 163,
       "category": "Cloud Computing (Cloud Architecture)",
       "name": "Cloud Migration Architecture",
       "provider": "AWS",
@@ -2001,7 +2502,7 @@
       "last_checked": null
     },
     {
-      "id": 125,
+      "id": 164,
       "category": "Cloud Computing (Cloud Architecture)",
       "name": "Cloud Storage Architecture",
       "provider": "IBM",
@@ -2015,7 +2516,7 @@
       "last_checked": null
     },
     {
-      "id": 126,
+      "id": 165,
       "category": "Cloud Computing (Cloud Architecture)",
       "name": "Cloud VDI Architecture",
       "provider": "Citrix",
@@ -2029,7 +2530,7 @@
       "last_checked": null
     },
     {
-      "id": 127,
+      "id": 166,
       "category": "Cloud Computing (Cloud Architecture)",
       "name": "Cloud-Native Architecture Fundamentals",
       "provider": "Cloud Native Computing Foundation",
@@ -2043,7 +2544,7 @@
       "last_checked": null
     },
     {
-      "id": 128,
+      "id": 167,
       "category": "Cloud Computing (Cloud Architecture)",
       "name": "Containerization Architecture",
       "provider": "Docker",
@@ -2057,7 +2558,7 @@
       "last_checked": null
     },
     {
-      "id": 129,
+      "id": 168,
       "category": "Cloud Computing (Cloud Architecture)",
       "name": "Disaster Recovery in the Cloud",
       "provider": "AWS",
@@ -2071,7 +2572,7 @@
       "last_checked": null
     },
     {
-      "id": 130,
+      "id": 169,
       "category": "Cloud Computing (Cloud Architecture)",
       "name": "Domain-Driven Design for Cloud Architecture",
       "provider": "Microsoft Learn",
@@ -2085,7 +2586,7 @@
       "last_checked": null
     },
     {
-      "id": 131,
+      "id": 170,
       "category": "Cloud Computing (Cloud Architecture)",
       "name": "High Availability Cloud Architecture",
       "provider": "Microsoft Learn",
@@ -2099,7 +2600,7 @@
       "last_checked": null
     },
     {
-      "id": 132,
+      "id": 171,
       "category": "Cloud Computing (Cloud Architecture)",
       "name": "Hybrid Cloud Architecture Fundamentals",
       "provider": "VMware",
@@ -2113,7 +2614,7 @@
       "last_checked": null
     },
     {
-      "id": 133,
+      "id": 172,
       "category": "Cloud Computing (Cloud Architecture)",
       "name": "IBM Cloud Architecture Center",
       "provider": "IBM",
@@ -2127,7 +2628,7 @@
       "last_checked": null
     },
     {
-      "id": 134,
+      "id": 173,
       "category": "Cloud Computing (Cloud Architecture)",
       "name": "IBM Cloud Architecture Fundamentals",
       "provider": "IBM",
@@ -2141,7 +2642,7 @@
       "last_checked": null
     },
     {
-      "id": 135,
+      "id": 174,
       "category": "Cloud Computing (Cloud Architecture)",
       "name": "Kubernetes Architecture Fundamentals",
       "provider": "Kubernetes",
@@ -2155,7 +2656,7 @@
       "last_checked": null
     },
     {
-      "id": 136,
+      "id": 175,
       "category": "Cloud Computing (Cloud Architecture)",
       "name": "Microservices Architecture Fundamentals",
       "provider": "NGINX",
@@ -2169,7 +2670,7 @@
       "last_checked": null
     },
     {
-      "id": 137,
+      "id": 176,
       "category": "Cloud Computing (Cloud Architecture)",
       "name": "Multicloud Architecture Fundamentals",
       "provider": "Linux Foundation",
@@ -2183,7 +2684,7 @@
       "last_checked": null
     },
     {
-      "id": 138,
+      "id": 177,
       "category": "Cloud Computing (Cloud Architecture)",
       "name": "Oracle Cloud Infrastructure Architect",
       "provider": "Oracle",
@@ -2197,7 +2698,7 @@
       "last_checked": null
     },
     {
-      "id": 139,
+      "id": 178,
       "category": "Cloud Computing (Cloud Architecture)",
       "name": "Serverless Architecture Fundamentals",
       "provider": "Serverless Inc",
@@ -2211,7 +2712,7 @@
       "last_checked": null
     },
     {
-      "id": 140,
+      "id": 179,
       "category": "Cloud Computing (Cloud Architecture)",
       "name": "Serverless Architecture Patterns",
       "provider": "Serverless Inc",
@@ -2225,7 +2726,7 @@
       "last_checked": null
     },
     {
-      "id": 141,
+      "id": 180,
       "category": "Cloud Computing (Cloud Architecture)",
       "name": "Service Mesh Architecture",
       "provider": "Istio",
@@ -2239,9 +2740,9 @@
       "last_checked": null
     },
     {
-      "id": 142,
+      "id": 181,
       "category": "Cloud Computing (Cloud Data)",
-      "name": "AWS Certified Data Analytics – Specialty (Exam Readiness)",
+      "name": "AWS Certified Data Analytics â€“ Specialty (Exam Readiness)",
       "provider": "Amazon Web Services",
       "url": "https://explore.skillbuilder.aws/learn/course/external/view/elearning/134/aws-certified-data-analytics-specialty-exam-readiness",
       "description": "Prepares for the AWS Data Analytics Specialty exam, covering data collection, storage, processing, and visualization.",
@@ -2253,7 +2754,7 @@
       "last_checked": null
     },
     {
-      "id": 143,
+      "id": 182,
       "category": "Cloud Computing (Cloud Data)",
       "name": "AWS Data Analytics Fundamentals",
       "provider": "Amazon Web Services",
@@ -2267,7 +2768,7 @@
       "last_checked": null
     },
     {
-      "id": 144,
+      "id": 183,
       "category": "Cloud Computing (Cloud Data)",
       "name": "AWS Data Analytics Fundamentals",
       "provider": "Amazon Web Services",
@@ -2281,7 +2782,7 @@
       "last_checked": null
     },
     {
-      "id": 145,
+      "id": 184,
       "category": "Cloud Computing (Cloud Data)",
       "name": "AWS Data Engineering",
       "provider": "Amazon Web Services",
@@ -2295,7 +2796,7 @@
       "last_checked": null
     },
     {
-      "id": 146,
+      "id": 185,
       "category": "Cloud Computing (Cloud Data)",
       "name": "AWS Data Lakes and Analytics",
       "provider": "Amazon Web Services",
@@ -2309,7 +2810,7 @@
       "last_checked": null
     },
     {
-      "id": 147,
+      "id": 186,
       "category": "Cloud Computing (Cloud Data)",
       "name": "AWS Data Migration",
       "provider": "Amazon Web Services",
@@ -2323,7 +2824,7 @@
       "last_checked": null
     },
     {
-      "id": 148,
+      "id": 187,
       "category": "Cloud Computing (Cloud Data)",
       "name": "AWS Data Visualization",
       "provider": "Amazon Web Services",
@@ -2337,7 +2838,7 @@
       "last_checked": null
     },
     {
-      "id": 149,
+      "id": 188,
       "category": "Cloud Computing (Cloud Data)",
       "name": "Alibaba Cloud Big Data Certification",
       "provider": "Alibaba Cloud Academy",
@@ -2351,7 +2852,7 @@
       "last_checked": null
     },
     {
-      "id": 150,
+      "id": 189,
       "category": "Cloud Computing (Cloud Data)",
       "name": "Alibaba Cloud Data Security",
       "provider": "Alibaba Cloud Academy",
@@ -2365,7 +2866,7 @@
       "last_checked": null
     },
     {
-      "id": 151,
+      "id": 190,
       "category": "Cloud Computing (Cloud Data)",
       "name": "Azure Data Fundamentals",
       "provider": "Microsoft Learn",
@@ -2379,7 +2880,7 @@
       "last_checked": null
     },
     {
-      "id": 152,
+      "id": 191,
       "category": "Cloud Computing (Cloud Data)",
       "name": "Azure Data Fundamentals (DP-900)",
       "provider": "Microsoft Learn",
@@ -2393,7 +2894,7 @@
       "last_checked": null
     },
     {
-      "id": 153,
+      "id": 192,
       "category": "Cloud Computing (Cloud Data)",
       "name": "Google BigQuery Fundamentals",
       "provider": "Google Cloud",
@@ -2407,7 +2908,7 @@
       "last_checked": null
     },
     {
-      "id": 154,
+      "id": 193,
       "category": "Cloud Computing (Cloud Data)",
       "name": "Google Cloud Big Data and Machine Learning Fundamentals",
       "provider": "Google Cloud",
@@ -2421,7 +2922,7 @@
       "last_checked": null
     },
     {
-      "id": 155,
+      "id": 194,
       "category": "Cloud Computing (Cloud Data)",
       "name": "Google Cloud Data Catalog",
       "provider": "Google Cloud",
@@ -2435,7 +2936,7 @@
       "last_checked": null
     },
     {
-      "id": 156,
+      "id": 195,
       "category": "Cloud Computing (Cloud Data)",
       "name": "Google Cloud Data Engineering Basics",
       "provider": "Google Cloud",
@@ -2449,7 +2950,7 @@
       "last_checked": null
     },
     {
-      "id": 157,
+      "id": 196,
       "category": "Cloud Computing (Cloud Data)",
       "name": "Google Cloud Data Science on the Cloud",
       "provider": "Google Cloud",
@@ -2463,7 +2964,7 @@
       "last_checked": null
     },
     {
-      "id": 158,
+      "id": 197,
       "category": "Cloud Computing (Cloud Data)",
       "name": "Google Cloud Data Security",
       "provider": "Google Cloud",
@@ -2477,7 +2978,7 @@
       "last_checked": null
     },
     {
-      "id": 159,
+      "id": 198,
       "category": "Cloud Computing (Cloud Data)",
       "name": "Google Cloud DataOps",
       "provider": "Google Cloud",
@@ -2491,7 +2992,7 @@
       "last_checked": null
     },
     {
-      "id": 160,
+      "id": 199,
       "category": "Cloud Computing (Cloud Data)",
       "name": "IBM Cloud Data Governance",
       "provider": "IBM Cognitive Class",
@@ -2505,7 +3006,7 @@
       "last_checked": null
     },
     {
-      "id": 161,
+      "id": 200,
       "category": "Cloud Computing (Cloud Data)",
       "name": "IBM Cloud Data Virtualization",
       "provider": "IBM Cognitive Class",
@@ -2519,7 +3020,7 @@
       "last_checked": null
     },
     {
-      "id": 162,
+      "id": 201,
       "category": "Cloud Computing (Cloud Data)",
       "name": "IBM Cloud DataOps",
       "provider": "IBM Cognitive Class",
@@ -2533,7 +3034,7 @@
       "last_checked": null
     },
     {
-      "id": 163,
+      "id": 202,
       "category": "Cloud Computing (Cloud Data)",
       "name": "IBM Cloud Databases Essentials",
       "provider": "IBM Cognitive Class",
@@ -2547,7 +3048,7 @@
       "last_checked": null
     },
     {
-      "id": 164,
+      "id": 203,
       "category": "Cloud Computing (Cloud Data)",
       "name": "IBM Data Engineering",
       "provider": "IBM Cognitive Class",
@@ -2561,7 +3062,7 @@
       "last_checked": null
     },
     {
-      "id": 165,
+      "id": 204,
       "category": "Cloud Computing (Cloud Data)",
       "name": "IBM Data Science Foundations",
       "provider": "IBM Cognitive Class",
@@ -2575,7 +3076,7 @@
       "last_checked": null
     },
     {
-      "id": 166,
+      "id": 205,
       "category": "Cloud Computing (Cloud Data)",
       "name": "IBM Data Science Fundamentals",
       "provider": "IBM",
@@ -2589,7 +3090,7 @@
       "last_checked": null
     },
     {
-      "id": 167,
+      "id": 206,
       "category": "Cloud Computing (Cloud Data)",
       "name": "Microsoft Azure Data Scientist Associate (DP-100)",
       "provider": "Microsoft Learn",
@@ -2603,7 +3104,7 @@
       "last_checked": null
     },
     {
-      "id": 168,
+      "id": 207,
       "category": "Cloud Computing (Cloud Data)",
       "name": "MongoDB Atlas Cloud Fundamentals",
       "provider": "MongoDB University",
@@ -2617,7 +3118,7 @@
       "last_checked": null
     },
     {
-      "id": 169,
+      "id": 208,
       "category": "Cloud Computing (Cloud Data)",
       "name": "Oracle Cloud Data Management Foundations",
       "provider": "Oracle",
@@ -2631,7 +3132,7 @@
       "last_checked": null
     },
     {
-      "id": 170,
+      "id": 209,
       "category": "Cloud Computing (Cloud Data)",
       "name": "Oracle Cloud Data Management Foundations",
       "provider": "Oracle",
@@ -2645,7 +3146,7 @@
       "last_checked": null
     },
     {
-      "id": 171,
+      "id": 210,
       "category": "Cloud Computing (Cloud DevOps)",
       "name": "AWS CloudFormation Essentials",
       "provider": "Amazon Web Services",
@@ -2659,7 +3160,7 @@
       "last_checked": null
     },
     {
-      "id": 172,
+      "id": 211,
       "category": "Cloud Computing (Cloud DevOps)",
       "name": "AWS CodePipeline Essentials",
       "provider": "Amazon Web Services",
@@ -2673,7 +3174,7 @@
       "last_checked": null
     },
     {
-      "id": 173,
+      "id": 212,
       "category": "Cloud Computing (Cloud DevOps)",
       "name": "AWS DevOps Engineer Learning Plan",
       "provider": "Amazon Web Services",
@@ -2687,7 +3188,7 @@
       "last_checked": null
     },
     {
-      "id": 174,
+      "id": 213,
       "category": "Cloud Computing (Cloud DevOps)",
       "name": "Alibaba Cloud DevOps Solution",
       "provider": "Alibaba Cloud",
@@ -2701,7 +3202,7 @@
       "last_checked": null
     },
     {
-      "id": 175,
+      "id": 214,
       "category": "Cloud Computing (Cloud DevOps)",
       "name": "Ansible for Cloud Automation",
       "provider": "Red Hat",
@@ -2715,7 +3216,7 @@
       "last_checked": null
     },
     {
-      "id": 176,
+      "id": 215,
       "category": "Cloud Computing (Cloud DevOps)",
       "name": "AppDynamics Cloud Monitoring",
       "provider": "Cisco AppDynamics",
@@ -2729,7 +3230,7 @@
       "last_checked": null
     },
     {
-      "id": 177,
+      "id": 216,
       "category": "Cloud Computing (Cloud DevOps)",
       "name": "Azure DevOps Fundamentals",
       "provider": "Microsoft Learn",
@@ -2743,7 +3244,7 @@
       "last_checked": null
     },
     {
-      "id": 178,
+      "id": 217,
       "category": "Cloud Computing (Cloud DevOps)",
       "name": "Azure DevOps Pipelines",
       "provider": "Microsoft Learn",
@@ -2757,7 +3258,7 @@
       "last_checked": null
     },
     {
-      "id": 179,
+      "id": 218,
       "category": "Cloud Computing (Cloud DevOps)",
       "name": "Azure Resource Manager Templates",
       "provider": "Microsoft Learn",
@@ -2771,7 +3272,7 @@
       "last_checked": null
     },
     {
-      "id": 180,
+      "id": 219,
       "category": "Cloud Computing (Cloud DevOps)",
       "name": "Buildkite Fundamentals",
       "provider": "Buildkite",
@@ -2785,7 +3286,7 @@
       "last_checked": null
     },
     {
-      "id": 181,
+      "id": 220,
       "category": "Cloud Computing (Cloud DevOps)",
       "name": "CloudBees CI Fundamentals",
       "provider": "CloudBees",
@@ -2799,7 +3300,7 @@
       "last_checked": null
     },
     {
-      "id": 182,
+      "id": 221,
       "category": "Cloud Computing (Cloud DevOps)",
       "name": "Codefresh CI/CD Fundamentals",
       "provider": "Codefresh",
@@ -2813,7 +3314,7 @@
       "last_checked": null
     },
     {
-      "id": 183,
+      "id": 222,
       "category": "Cloud Computing (Cloud DevOps)",
       "name": "Drone CI Fundamentals",
       "provider": "Drone.io",
@@ -2827,7 +3328,7 @@
       "last_checked": null
     },
     {
-      "id": 184,
+      "id": 223,
       "category": "Cloud Computing (Cloud DevOps)",
       "name": "Flux GitOps Fundamentals",
       "provider": "Flux CD",
@@ -2841,7 +3342,7 @@
       "last_checked": null
     },
     {
-      "id": 185,
+      "id": 224,
       "category": "Cloud Computing (Cloud DevOps)",
       "name": "GitLab CI/CD for Cloud Deployments",
       "provider": "GitLab",
@@ -2855,7 +3356,7 @@
       "last_checked": null
     },
     {
-      "id": 186,
+      "id": 225,
       "category": "Cloud Computing (Cloud DevOps)",
       "name": "Google Cloud Deployment Manager",
       "provider": "Google Cloud",
@@ -2869,7 +3370,7 @@
       "last_checked": null
     },
     {
-      "id": 187,
+      "id": 226,
       "category": "Cloud Computing (Cloud DevOps)",
       "name": "IBM Cloud DevOps",
       "provider": "IBM",
@@ -2883,7 +3384,7 @@
       "last_checked": null
     },
     {
-      "id": 188,
+      "id": 227,
       "category": "Cloud Computing (Cloud DevOps)",
       "name": "Jenkins Essentials for Cloud",
       "provider": "CloudBees",
@@ -2897,7 +3398,7 @@
       "last_checked": null
     },
     {
-      "id": 189,
+      "id": 228,
       "category": "Cloud Computing (Cloud DevOps)",
       "name": "Jenkins X Cloud Native CI/CD",
       "provider": "Jenkins X",
@@ -2911,7 +3412,7 @@
       "last_checked": null
     },
     {
-      "id": 190,
+      "id": 229,
       "category": "Cloud Computing (Cloud DevOps)",
       "name": "Kubernetes for Cloud DevOps",
       "provider": "Linux Foundation",
@@ -2925,7 +3426,7 @@
       "last_checked": null
     },
     {
-      "id": 191,
+      "id": 230,
       "category": "Cloud Computing (Cloud DevOps)",
       "name": "New Relic DevOps Monitoring",
       "provider": "New Relic",
@@ -2939,7 +3440,7 @@
       "last_checked": null
     },
     {
-      "id": 192,
+      "id": 231,
       "category": "Cloud Computing (Cloud DevOps)",
       "name": "Oracle Cloud DevOps Service",
       "provider": "Oracle",
@@ -2953,7 +3454,7 @@
       "last_checked": null
     },
     {
-      "id": 193,
+      "id": 232,
       "category": "Cloud Computing (Cloud DevOps)",
       "name": "Pulumi Cloud Infrastructure",
       "provider": "Pulumi",
@@ -2967,7 +3468,7 @@
       "last_checked": null
     },
     {
-      "id": 194,
+      "id": 233,
       "category": "Cloud Computing (Cloud DevOps)",
       "name": "Puppet for Cloud Automation",
       "provider": "Puppet",
@@ -2981,7 +3482,7 @@
       "last_checked": null
     },
     {
-      "id": 195,
+      "id": 234,
       "category": "Cloud Computing (Cloud DevOps)",
       "name": "SaltStack for Cloud Automation",
       "provider": "SaltStack",
@@ -2995,7 +3496,7 @@
       "last_checked": null
     },
     {
-      "id": 196,
+      "id": 235,
       "category": "Cloud Computing (Cloud DevOps)",
       "name": "Spinnaker Continuous Delivery",
       "provider": "Spinnaker.io",
@@ -3009,7 +3510,7 @@
       "last_checked": null
     },
     {
-      "id": 197,
+      "id": 236,
       "category": "Cloud Computing (Cloud DevOps)",
       "name": "Splunk for DevOps",
       "provider": "Splunk",
@@ -3023,7 +3524,7 @@
       "last_checked": null
     },
     {
-      "id": 198,
+      "id": 237,
       "category": "Cloud Computing (Cloud DevOps)",
       "name": "Sumo Logic Cloud DevOps",
       "provider": "Sumo Logic",
@@ -3037,7 +3538,7 @@
       "last_checked": null
     },
     {
-      "id": 199,
+      "id": 238,
       "category": "Cloud Computing (Cloud DevOps)",
       "name": "TeamCity Cloud Fundamentals",
       "provider": "JetBrains",
@@ -3051,7 +3552,7 @@
       "last_checked": null
     },
     {
-      "id": 200,
+      "id": 239,
       "category": "Cloud Computing (Cloud DevOps)",
       "name": "Tekton Pipelines Fundamentals",
       "provider": "Tekton",
@@ -3065,7 +3566,7 @@
       "last_checked": null
     },
     {
-      "id": 201,
+      "id": 240,
       "category": "Cloud Computing (Cloud DevOps)",
       "name": "Terraform Cloud Advanced",
       "provider": "HashiCorp",
@@ -3079,7 +3580,7 @@
       "last_checked": null
     },
     {
-      "id": 202,
+      "id": 241,
       "category": "Cloud Computing (Cloud DevOps)",
       "name": "Terraform Cloud Automation",
       "provider": "HashiCorp",
@@ -3093,7 +3594,7 @@
       "last_checked": null
     },
     {
-      "id": 203,
+      "id": 242,
       "category": "Cloud Computing (Cloud Fundamentals)",
       "name": "Alibaba Cloud Certified Associate - Cloud Computing",
       "provider": "Alibaba Cloud Academy",
@@ -3107,7 +3608,7 @@
       "last_checked": null
     },
     {
-      "id": 204,
+      "id": 243,
       "category": "Cloud Computing (Cloud Fundamentals)",
       "name": "Cloud Computing Basics",
       "provider": "University of Illinois/Coursera",
@@ -3121,7 +3622,7 @@
       "last_checked": null
     },
     {
-      "id": 205,
+      "id": 244,
       "category": "Cloud Computing (Cloud Fundamentals)",
       "name": "DigitalOcean Cloud Fundamentals",
       "provider": "DigitalOcean",
@@ -3135,7 +3636,7 @@
       "last_checked": null
     },
     {
-      "id": 206,
+      "id": 245,
       "category": "Cloud Computing (Cloud Fundamentals)",
       "name": "IBM Cloud Technical Advocate",
       "provider": "IBM",
@@ -3149,7 +3650,7 @@
       "last_checked": null
     },
     {
-      "id": 207,
+      "id": 246,
       "category": "Cloud Computing (Cloud Security)",
       "name": "AWS Cloud Security Learning Path",
       "provider": "Amazon Web Services",
@@ -3163,7 +3664,7 @@
       "last_checked": null
     },
     {
-      "id": 208,
+      "id": 247,
       "category": "Cloud Computing (Cloud Security)",
       "name": "Alibaba Cloud Security Center",
       "provider": "Alibaba Cloud",
@@ -3177,7 +3678,7 @@
       "last_checked": null
     },
     {
-      "id": 209,
+      "id": 248,
       "category": "Cloud Computing (Cloud Security)",
       "name": "Aqua Cloud Security",
       "provider": "Aqua Security",
@@ -3191,7 +3692,7 @@
       "last_checked": null
     },
     {
-      "id": 210,
+      "id": 249,
       "category": "Cloud Computing (Cloud Security)",
       "name": "Azure Security Best Practices",
       "provider": "Microsoft Learn",
@@ -3205,7 +3706,7 @@
       "last_checked": null
     },
     {
-      "id": 211,
+      "id": 250,
       "category": "Cloud Computing (Cloud Security)",
       "name": "Cisco Cloud Security Fundamentals",
       "provider": "Cisco",
@@ -3219,7 +3720,7 @@
       "last_checked": null
     },
     {
-      "id": 212,
+      "id": 251,
       "category": "Cloud Computing (Cloud Security)",
       "name": "Cloud Security Alliance Fundamentals",
       "provider": "Cloud Security Alliance",
@@ -3233,7 +3734,7 @@
       "last_checked": null
     },
     {
-      "id": 213,
+      "id": 252,
       "category": "Cloud Computing (Cloud Security)",
       "name": "CyberArk Cloud Security",
       "provider": "CyberArk",
@@ -3247,7 +3748,7 @@
       "last_checked": null
     },
     {
-      "id": 214,
+      "id": 253,
       "category": "Cloud Computing (Cloud Security)",
       "name": "Forcepoint Cloud Security",
       "provider": "Forcepoint",
@@ -3261,7 +3762,7 @@
       "last_checked": null
     },
     {
-      "id": 215,
+      "id": 254,
       "category": "Cloud Computing (Cloud Security)",
       "name": "GCP Security Best Practices",
       "provider": "Google Cloud",
@@ -3275,7 +3776,7 @@
       "last_checked": null
     },
     {
-      "id": 216,
+      "id": 255,
       "category": "Cloud Computing (Cloud Security)",
       "name": "Google Cloud Security Engineer Learning Path",
       "provider": "Google Cloud",
@@ -3289,7 +3790,7 @@
       "last_checked": null
     },
     {
-      "id": 217,
+      "id": 256,
       "category": "Cloud Computing (Cloud Security)",
       "name": "IBM Cloud Security Advisor",
       "provider": "IBM",
@@ -3303,7 +3804,7 @@
       "last_checked": null
     },
     {
-      "id": 218,
+      "id": 257,
       "category": "Cloud Computing (Cloud Security)",
       "name": "IBM Cloud Security Essentials",
       "provider": "IBM",
@@ -3317,7 +3818,7 @@
       "last_checked": null
     },
     {
-      "id": 219,
+      "id": 258,
       "category": "Cloud Computing (Cloud Security)",
       "name": "Imperva Cloud Security",
       "provider": "Imperva",
@@ -3331,7 +3832,7 @@
       "last_checked": null
     },
     {
-      "id": 220,
+      "id": 259,
       "category": "Cloud Computing (Cloud Security)",
       "name": "Lacework Cloud Security",
       "provider": "Lacework",
@@ -3345,7 +3846,7 @@
       "last_checked": null
     },
     {
-      "id": 221,
+      "id": 260,
       "category": "Cloud Computing (Cloud Security)",
       "name": "Netskope Cloud Security",
       "provider": "Netskope",
@@ -3359,7 +3860,7 @@
       "last_checked": null
     },
     {
-      "id": 222,
+      "id": 261,
       "category": "Cloud Computing (Cloud Security)",
       "name": "Oracle Cloud Infrastructure Security",
       "provider": "Oracle",
@@ -3373,7 +3874,7 @@
       "last_checked": null
     },
     {
-      "id": 223,
+      "id": 262,
       "category": "Cloud Computing (Cloud Security)",
       "name": "Oracle Cloud Security Fundamentals",
       "provider": "Oracle",
@@ -3387,7 +3888,7 @@
       "last_checked": null
     },
     {
-      "id": 224,
+      "id": 263,
       "category": "Cloud Computing (Cloud Security)",
       "name": "Ping Identity Cloud Security",
       "provider": "Ping Identity",
@@ -3401,7 +3902,7 @@
       "last_checked": null
     },
     {
-      "id": 225,
+      "id": 264,
       "category": "Cloud Computing (Cloud Security)",
       "name": "Prisma Cloud Security",
       "provider": "Palo Alto Networks",
@@ -3415,7 +3916,7 @@
       "last_checked": null
     },
     {
-      "id": 226,
+      "id": 265,
       "category": "Cloud Computing (Cloud Security)",
       "name": "Qualys Cloud Security",
       "provider": "Qualys",
@@ -3429,7 +3930,7 @@
       "last_checked": null
     },
     {
-      "id": 227,
+      "id": 266,
       "category": "Cloud Computing (Cloud Security)",
       "name": "SailPoint Cloud Security",
       "provider": "SailPoint",
@@ -3443,7 +3944,7 @@
       "last_checked": null
     },
     {
-      "id": 228,
+      "id": 267,
       "category": "Cloud Computing (Cloud Security)",
       "name": "Thales Cloud Security",
       "provider": "Thales",
@@ -3457,7 +3958,7 @@
       "last_checked": null
     },
     {
-      "id": 229,
+      "id": 268,
       "category": "Cloud Computing (Cloud Security)",
       "name": "Venafi Cloud Security",
       "provider": "Venafi",
@@ -3471,7 +3972,7 @@
       "last_checked": null
     },
     {
-      "id": 230,
+      "id": 269,
       "category": "Cloud Computing (Cloud Security)",
       "name": "Wiz Cloud Security",
       "provider": "Wiz",
@@ -3485,7 +3986,7 @@
       "last_checked": null
     },
     {
-      "id": 231,
+      "id": 270,
       "category": "Cloud Computing (Cloud Security)",
       "name": "Zscaler Cloud Security",
       "provider": "Zscaler",
@@ -3499,7 +4000,7 @@
       "last_checked": null
     },
     {
-      "id": 232,
+      "id": 271,
       "category": "Cybersecurity & Information Security",
       "name": "AWS Security Fundamentals",
       "provider": "Amazon Web Services",
@@ -3513,7 +4014,7 @@
       "last_checked": null
     },
     {
-      "id": 233,
+      "id": 272,
       "category": "Cybersecurity & Information Security",
       "name": "Application Security Fundamentals",
       "provider": "OWASP",
@@ -3527,7 +4028,7 @@
       "last_checked": null
     },
     {
-      "id": 234,
+      "id": 273,
       "category": "Cybersecurity & Information Security",
       "name": "Cyber Threat Intelligence",
       "provider": "Cybrary",
@@ -3541,7 +4042,7 @@
       "last_checked": null
     },
     {
-      "id": 235,
+      "id": 274,
       "category": "Cybersecurity & Information Security",
       "name": "Cybersecurity Essentials",
       "provider": "Cisco Networking Academy",
@@ -3555,7 +4056,7 @@
       "last_checked": null
     },
     {
-      "id": 236,
+      "id": 275,
       "category": "Cybersecurity & Information Security",
       "name": "Ethical Hacking Essentials",
       "provider": "EC-Council",
@@ -3569,7 +4070,7 @@
       "last_checked": null
     },
     {
-      "id": 237,
+      "id": 276,
       "category": "Cybersecurity & Information Security",
       "name": "Google Cloud Security",
       "provider": "Google Cloud",
@@ -3583,7 +4084,7 @@
       "last_checked": null
     },
     {
-      "id": 238,
+      "id": 277,
       "category": "Cybersecurity & Information Security",
       "name": "IBM Cybersecurity Analyst Professional Certificate",
       "provider": "IBM (Coursera)",
@@ -3597,7 +4098,7 @@
       "last_checked": null
     },
     {
-      "id": 239,
+      "id": 278,
       "category": "Cybersecurity & Information Security",
       "name": "Information Security Certification",
       "provider": "freeCodeCamp",
@@ -3611,7 +4112,7 @@
       "last_checked": null
     },
     {
-      "id": 240,
+      "id": 279,
       "category": "Cybersecurity & Information Security",
       "name": "Introduction to Cybersecurity",
       "provider": "Cisco Networking Academy",
@@ -3625,7 +4126,7 @@
       "last_checked": null
     },
     {
-      "id": 241,
+      "id": 280,
       "category": "Cybersecurity & Information Security",
       "name": "IoT Security Fundamentals",
       "provider": "IEEE",
@@ -3639,7 +4140,7 @@
       "last_checked": null
     },
     {
-      "id": 242,
+      "id": 281,
       "category": "Cybersecurity & Information Security",
       "name": "Mobile Security Fundamentals",
       "provider": "Cybrary",
@@ -3653,7 +4154,7 @@
       "last_checked": null
     },
     {
-      "id": 243,
+      "id": 282,
       "category": "Cybersecurity & Information Security",
       "name": "NSE 1 Network Security Associate",
       "provider": "Fortinet",
@@ -3667,7 +4168,7 @@
       "last_checked": null
     },
     {
-      "id": 244,
+      "id": 283,
       "category": "Cybersecurity & Information Security",
       "name": "NSE 2 Network Security Associate",
       "provider": "Fortinet",
@@ -3681,7 +4182,7 @@
       "last_checked": null
     },
     {
-      "id": 245,
+      "id": 284,
       "category": "Cybersecurity & Information Security",
       "name": "Network Defense Essentials",
       "provider": "EC-Council",
@@ -3695,7 +4196,7 @@
       "last_checked": null
     },
     {
-      "id": 246,
+      "id": 285,
       "category": "Cybersecurity & Information Security",
       "name": "Security Awareness Training",
       "provider": "SANS",
@@ -3709,7 +4210,7 @@
       "last_checked": null
     },
     {
-      "id": 247,
+      "id": 286,
       "category": "Cybersecurity & Information Security",
       "name": "Security, Compliance, and Identity Fundamentals (SC-900)",
       "provider": "Microsoft Learn",
@@ -3723,7 +4224,7 @@
       "last_checked": null
     },
     {
-      "id": 248,
+      "id": 287,
       "category": "Data Science & Analytics",
       "name": "Advanced Data Analytics",
       "provider": "Google Analytics Academy",
@@ -3737,7 +4238,7 @@
       "last_checked": null
     },
     {
-      "id": 249,
+      "id": 288,
       "category": "Data Science & Analytics",
       "name": "Applied Data Science with Python Specialization",
       "provider": "University of Michigan (Coursera)",
@@ -3751,7 +4252,7 @@
       "last_checked": null
     },
     {
-      "id": 250,
+      "id": 289,
       "category": "Data Science & Analytics",
       "name": "Data Analysis and Visualization Foundations",
       "provider": "IBM (Coursera)",
@@ -3765,7 +4266,7 @@
       "last_checked": null
     },
     {
-      "id": 251,
+      "id": 290,
       "category": "Data Science & Analytics",
       "name": "Data Analysis with Python",
       "provider": "freeCodeCamp",
@@ -3779,7 +4280,7 @@
       "last_checked": null
     },
     {
-      "id": 252,
+      "id": 291,
       "category": "Data Science & Analytics",
       "name": "Data Analytics Essentials",
       "provider": "Cisco Networking Academy",
@@ -3793,7 +4294,7 @@
       "last_checked": null
     },
     {
-      "id": 253,
+      "id": 292,
       "category": "Data Science & Analytics",
       "name": "Data Science Math Skills",
       "provider": "Duke University (Coursera)",
@@ -3807,7 +4308,7 @@
       "last_checked": null
     },
     {
-      "id": 254,
+      "id": 293,
       "category": "Data Science & Analytics",
       "name": "Data Science Methodology",
       "provider": "IBM (Coursera)",
@@ -3821,7 +4322,7 @@
       "last_checked": null
     },
     {
-      "id": 255,
+      "id": 294,
       "category": "Data Science & Analytics",
       "name": "Data Science: Foundations using R Specialization",
       "provider": "Johns Hopkins University (Coursera)",
@@ -3835,7 +4336,7 @@
       "last_checked": null
     },
     {
-      "id": 256,
+      "id": 295,
       "category": "Data Science & Analytics",
       "name": "Data Visualization with D3.js",
       "provider": "freeCodeCamp",
@@ -3849,7 +4350,7 @@
       "last_checked": null
     },
     {
-      "id": 257,
+      "id": 296,
       "category": "Data Science & Analytics",
       "name": "Microsoft Power BI Data Analyst",
       "provider": "Microsoft Learn",
@@ -3863,7 +4364,7 @@
       "last_checked": null
     },
     {
-      "id": 258,
+      "id": 297,
       "category": "Data Science & Analytics",
       "name": "SQL for Data Science",
       "provider": "UC Davis (Coursera)",
@@ -3877,7 +4378,7 @@
       "last_checked": null
     },
     {
-      "id": 259,
+      "id": 298,
       "category": "Data Science & Analytics",
       "name": "Statistics and Probability",
       "provider": "Khan Academy",
@@ -3891,7 +4392,7 @@
       "last_checked": null
     },
     {
-      "id": 260,
+      "id": 299,
       "category": "Design & Creative",
       "name": "Design Systems",
       "provider": "InVision",
@@ -3905,7 +4406,7 @@
       "last_checked": null
     },
     {
-      "id": 261,
+      "id": 300,
       "category": "Design & Creative",
       "name": "Design Thinking",
       "provider": "IDEO",
@@ -3919,7 +4420,7 @@
       "last_checked": null
     },
     {
-      "id": 262,
+      "id": 301,
       "category": "Design & Creative",
       "name": "Design Thinking for Innovation",
       "provider": "University of Virginia (Coursera)",
@@ -3933,7 +4434,7 @@
       "last_checked": null
     },
     {
-      "id": 263,
+      "id": 302,
       "category": "Design & Creative",
       "name": "Design for Accessibility",
       "provider": "Google Web Fundamentals",
@@ -3947,7 +4448,7 @@
       "last_checked": null
     },
     {
-      "id": 264,
+      "id": 303,
       "category": "Design & Creative",
       "name": "Figma Fundamentals",
       "provider": "Figma",
@@ -3961,7 +4462,7 @@
       "last_checked": null
     },
     {
-      "id": 265,
+      "id": 304,
       "category": "Design & Creative",
       "name": "Game Design Basics",
       "provider": "Michigan State University (Coursera)",
@@ -3975,7 +4476,7 @@
       "last_checked": null
     },
     {
-      "id": 266,
+      "id": 305,
       "category": "Design & Creative",
       "name": "Google UX Design Professional Certificate",
       "provider": "Google (Coursera)",
@@ -3989,7 +4490,7 @@
       "last_checked": null
     },
     {
-      "id": 267,
+      "id": 306,
       "category": "Design & Creative",
       "name": "Sketch Basics",
       "provider": "Sketch",
@@ -4003,7 +4504,7 @@
       "last_checked": null
     },
     {
-      "id": 268,
+      "id": 307,
       "category": "Design & Creative",
       "name": "Typography Fundamentals",
       "provider": "California Institute of the Arts (Coursera)",
@@ -4017,7 +4518,7 @@
       "last_checked": null
     },
     {
-      "id": 269,
+      "id": 308,
       "category": "Design & Creative",
       "name": "UI Design Fundamentals",
       "provider": "Gymnasium",
@@ -4031,7 +4532,7 @@
       "last_checked": null
     },
     {
-      "id": 270,
+      "id": 309,
       "category": "Design & Creative",
       "name": "Visual Design",
       "provider": "Gymnasium",
@@ -4045,7 +4546,7 @@
       "last_checked": null
     },
     {
-      "id": 271,
+      "id": 310,
       "category": "Design & Creative",
       "name": "Web Design for Everybody",
       "provider": "University of Michigan (Coursera)",
@@ -4059,7 +4560,7 @@
       "last_checked": null
     },
     {
-      "id": 272,
+      "id": 311,
       "category": "Digital Marketing & Social Media",
       "name": "Content Marketing Certification",
       "provider": "HubSpot Academy",
@@ -4073,7 +4574,7 @@
       "last_checked": null
     },
     {
-      "id": 273,
+      "id": 312,
       "category": "Digital Marketing & Social Media",
       "name": "Digital Advertising",
       "provider": "Facebook Blueprint",
@@ -4087,7 +4588,7 @@
       "last_checked": null
     },
     {
-      "id": 274,
+      "id": 313,
       "category": "Digital Marketing & Social Media",
       "name": "Digital Marketing Strategy",
       "provider": "edX",
@@ -4101,7 +4602,7 @@
       "last_checked": null
     },
     {
-      "id": 275,
+      "id": 314,
       "category": "Digital Marketing & Social Media",
       "name": "Digital Sales and Marketing",
       "provider": "LinkedIn Learning",
@@ -4115,7 +4616,7 @@
       "last_checked": null
     },
     {
-      "id": 276,
+      "id": 315,
       "category": "Digital Marketing & Social Media",
       "name": "Fundamentals of Digital Marketing",
       "provider": "Google Digital Garage",
@@ -4129,7 +4630,7 @@
       "last_checked": null
     },
     {
-      "id": 277,
+      "id": 316,
       "category": "Digital Marketing & Social Media",
       "name": "Google Digital Marketing & E-commerce Certificate",
       "provider": "Google (Coursera)",
@@ -4143,7 +4644,7 @@
       "last_checked": null
     },
     {
-      "id": 278,
+      "id": 317,
       "category": "Digital Marketing & Social Media",
       "name": "Hootsuite Social Marketing",
       "provider": "Hootsuite Academy",
@@ -4157,7 +4658,7 @@
       "last_checked": null
     },
     {
-      "id": 279,
+      "id": 318,
       "category": "Digital Marketing & Social Media",
       "name": "HubSpot Inbound Marketing Certification",
       "provider": "HubSpot Academy",
@@ -4171,7 +4672,7 @@
       "last_checked": null
     },
     {
-      "id": 280,
+      "id": 319,
       "category": "Digital Marketing & Social Media",
       "name": "Pinterest Marketing",
       "provider": "Pinterest Academy",
@@ -4185,7 +4686,7 @@
       "last_checked": null
     },
     {
-      "id": 281,
+      "id": 320,
       "category": "Digital Marketing & Social Media",
       "name": "SEMrush Academy SEO Fundamentals",
       "provider": "SEMrush",
@@ -4199,7 +4700,7 @@
       "last_checked": null
     },
     {
-      "id": 282,
+      "id": 321,
       "category": "Digital Marketing & Social Media",
       "name": "Social Media Marketing Specialization",
       "provider": "Northwestern University (Coursera)",
@@ -4213,7 +4714,7 @@
       "last_checked": null
     },
     {
-      "id": 283,
+      "id": 322,
       "category": "Digital Marketing & Social Media",
       "name": "YouTube Content Strategy Certification",
       "provider": "YouTube Creator Academy",
@@ -4227,7 +4728,7 @@
       "last_checked": null
     },
     {
-      "id": 284,
+      "id": 323,
       "category": "Education & Teaching",
       "name": "Assessment in Higher Education",
       "provider": "edX",
@@ -4241,7 +4742,7 @@
       "last_checked": null
     },
     {
-      "id": 285,
+      "id": 324,
       "category": "Education & Teaching",
       "name": "Curriculum Development",
       "provider": "Commonwealth of Learning",
@@ -4255,7 +4756,7 @@
       "last_checked": null
     },
     {
-      "id": 286,
+      "id": 325,
       "category": "Education & Teaching",
       "name": "Differentiated Instruction",
       "provider": "ASCD",
@@ -4269,7 +4770,7 @@
       "last_checked": null
     },
     {
-      "id": 287,
+      "id": 326,
       "category": "Education & Teaching",
       "name": "Digital Assessment Tools",
       "provider": "European Schoolnet Academy",
@@ -4283,21 +4784,7 @@
       "last_checked": null
     },
     {
-      "id": 288,
-      "category": "Education & Teaching",
-      "name": "Digital Learning Design",
-      "provider": "FutureLearn",
-      "url": "https://www.futurelearn.com/subjects/teaching-courses",
-      "description": "Designing effective digital learning experiences.",
-      "duration": "4 weeks (3 hrs/week)",
-      "level": "Intermediate",
-      "prerequisites": "",
-      "expiration": "Never",
-      "validated": null,
-      "last_checked": null
-    },
-    {
-      "id": 289,
+      "id": 327,
       "category": "Education & Teaching",
       "name": "Early Childhood Education",
       "provider": "UNICEF",
@@ -4311,7 +4798,7 @@
       "last_checked": null
     },
     {
-      "id": 290,
+      "id": 328,
       "category": "Education & Teaching",
       "name": "Educational Research Methods",
       "provider": "AERA",
@@ -4325,7 +4812,7 @@
       "last_checked": null
     },
     {
-      "id": 291,
+      "id": 329,
       "category": "Education & Teaching",
       "name": "Foundations of Teaching for Learning",
       "provider": "Commonwealth Education Trust (Coursera)",
@@ -4339,7 +4826,7 @@
       "last_checked": null
     },
     {
-      "id": 292,
+      "id": 330,
       "category": "Education & Teaching",
       "name": "Google Certified Educator Level 1",
       "provider": "Google for Education",
@@ -4353,7 +4840,7 @@
       "last_checked": null
     },
     {
-      "id": 293,
+      "id": 331,
       "category": "Education & Teaching",
       "name": "Inclusive Teaching",
       "provider": "CAST",
@@ -4367,7 +4854,7 @@
       "last_checked": null
     },
     {
-      "id": 294,
+      "id": 332,
       "category": "Education & Teaching",
       "name": "Microsoft Innovative Educator",
       "provider": "Microsoft Education",
@@ -4381,21 +4868,7 @@
       "last_checked": null
     },
     {
-      "id": 295,
-      "category": "Education & Teaching",
-      "name": "Special Education Essentials",
-      "provider": "UNESCO IITE",
-      "url": "https://iite.unesco.org/training/",
-      "description": "Basic principles of special education and inclusive learning.",
-      "duration": "20 hours",
-      "level": "Beginner",
-      "prerequisites": "",
-      "expiration": "Never",
-      "validated": null,
-      "last_checked": null
-    },
-    {
-      "id": 296,
+      "id": 333,
       "category": "Education & Teaching",
       "name": "Student Assessment Strategies",
       "provider": "Australian Council for Educational Research",
@@ -4409,7 +4882,7 @@
       "last_checked": null
     },
     {
-      "id": 297,
+      "id": 334,
       "category": "Electrical & Electronics Engineering",
       "name": "Circuits and Electronics",
       "provider": "MIT OpenCourseWare",
@@ -4423,7 +4896,7 @@
       "last_checked": null
     },
     {
-      "id": 298,
+      "id": 335,
       "category": "Electrical & Electronics Engineering",
       "name": "Control Systems",
       "provider": "NPTEL (IIT Kharagpur)",
@@ -4437,7 +4910,7 @@
       "last_checked": null
     },
     {
-      "id": 299,
+      "id": 336,
       "category": "Electrical & Electronics Engineering",
       "name": "Digital Systems",
       "provider": "MIT OpenCourseWare",
@@ -4451,7 +4924,7 @@
       "last_checked": null
     },
     {
-      "id": 300,
+      "id": 337,
       "category": "Electrical & Electronics Engineering",
       "name": "Electromagnetics",
       "provider": "MIT OpenCourseWare",
@@ -4465,7 +4938,7 @@
       "last_checked": null
     },
     {
-      "id": 301,
+      "id": 338,
       "category": "Electrical & Electronics Engineering",
       "name": "Introduction to Electrical Engineering",
       "provider": "MIT OpenCourseWare",
@@ -4479,7 +4952,7 @@
       "last_checked": null
     },
     {
-      "id": 302,
+      "id": 339,
       "category": "Electrical & Electronics Engineering",
       "name": "Microelectronics",
       "provider": "MIT OpenCourseWare",
@@ -4493,7 +4966,7 @@
       "last_checked": null
     },
     {
-      "id": 303,
+      "id": 340,
       "category": "Electrical & Electronics Engineering",
       "name": "Power Electronics",
       "provider": "Coursera (University of Colorado Boulder)",
@@ -4507,7 +4980,7 @@
       "last_checked": null
     },
     {
-      "id": 304,
+      "id": 341,
       "category": "Electrical & Electronics Engineering",
       "name": "Signals and Systems",
       "provider": "MIT OpenCourseWare",
@@ -4521,7 +4994,7 @@
       "last_checked": null
     },
     {
-      "id": 305,
+      "id": 342,
       "category": "Electrical Engineering",
       "name": "Embedded Systems",
       "provider": "edX",
@@ -4535,7 +5008,7 @@
       "last_checked": null
     },
     {
-      "id": 306,
+      "id": 343,
       "category": "Electrical Engineering",
       "name": "Power Electronics",
       "provider": "NPTEL",
@@ -4549,7 +5022,7 @@
       "last_checked": null
     },
     {
-      "id": 307,
+      "id": 344,
       "category": "Electrical Engineering",
       "name": "Renewable Energy Systems",
       "provider": "Coursera",
@@ -4563,7 +5036,7 @@
       "last_checked": null
     },
     {
-      "id": 308,
+      "id": 345,
       "category": "Electrical Engineering",
       "name": "VLSI Design",
       "provider": "NPTEL",
@@ -4577,7 +5050,7 @@
       "last_checked": null
     },
     {
-      "id": 309,
+      "id": 346,
       "category": "Emerging Technologies Engineering",
       "name": "Bioinformatics Engineering",
       "provider": "MIT OpenCourseWare",
@@ -4591,7 +5064,7 @@
       "last_checked": null
     },
     {
-      "id": 310,
+      "id": 347,
       "category": "Emerging Technologies Engineering",
       "name": "Blockchain Engineering",
       "provider": "IBM",
@@ -4605,7 +5078,7 @@
       "last_checked": null
     },
     {
-      "id": 311,
+      "id": 348,
       "category": "Emerging Technologies Engineering",
       "name": "Digital Twin Technology",
       "provider": "Siemens",
@@ -4619,7 +5092,7 @@
       "last_checked": null
     },
     {
-      "id": 312,
+      "id": 349,
       "category": "Emerging Technologies Engineering",
       "name": "Extended Reality (XR)",
       "provider": "Unity",
@@ -4633,7 +5106,7 @@
       "last_checked": null
     },
     {
-      "id": 313,
+      "id": 350,
       "category": "Energy Engineering",
       "name": "Energy Efficiency Engineering",
       "provider": "ASHRAE",
@@ -4647,7 +5120,7 @@
       "last_checked": null
     },
     {
-      "id": 314,
+      "id": 351,
       "category": "Energy Engineering",
       "name": "Nuclear Engineering Basics",
       "provider": "MIT OpenCourseWare",
@@ -4661,7 +5134,7 @@
       "last_checked": null
     },
     {
-      "id": 315,
+      "id": 352,
       "category": "Energy Engineering",
       "name": "Power Systems Engineering",
       "provider": "NPTEL",
@@ -4675,7 +5148,7 @@
       "last_checked": null
     },
     {
-      "id": 316,
+      "id": 353,
       "category": "Energy Engineering",
       "name": "Smart Grid Technology",
       "provider": "IEEE",
@@ -4689,7 +5162,7 @@
       "last_checked": null
     },
     {
-      "id": 317,
+      "id": 354,
       "category": "Energy Engineering",
       "name": "Wind Energy Engineering",
       "provider": "Coursera",
@@ -4703,7 +5176,7 @@
       "last_checked": null
     },
     {
-      "id": 318,
+      "id": 355,
       "category": "Engineering Design",
       "name": "Engineering Drawing Standards",
       "provider": "ASME",
@@ -4717,7 +5190,7 @@
       "last_checked": null
     },
     {
-      "id": 319,
+      "id": 356,
       "category": "Engineering Design",
       "name": "Parametric Modeling",
       "provider": "PTC",
@@ -4731,7 +5204,7 @@
       "last_checked": null
     },
     {
-      "id": 320,
+      "id": 357,
       "category": "Engineering Management",
       "name": "Engineering Leadership",
       "provider": "Coursera",
@@ -4745,7 +5218,7 @@
       "last_checked": null
     },
     {
-      "id": 321,
+      "id": 358,
       "category": "Engineering Management",
       "name": "Engineering Safety Management",
       "provider": "OSHA",
@@ -4759,7 +5232,7 @@
       "last_checked": null
     },
     {
-      "id": 322,
+      "id": 359,
       "category": "Engineering Management",
       "name": "Systems Engineering Management",
       "provider": "INCOSE",
@@ -4773,7 +5246,7 @@
       "last_checked": null
     },
     {
-      "id": 323,
+      "id": 360,
       "category": "Environment & Sustainability",
       "name": "Climate Change: The Science and Global Impact",
       "provider": "University of California, San Diego (Coursera)",
@@ -4787,7 +5260,7 @@
       "last_checked": null
     },
     {
-      "id": 324,
+      "id": 361,
       "category": "Environment & Sustainability",
       "name": "Energy Efficiency",
       "provider": "UNEP",
@@ -4801,7 +5274,7 @@
       "last_checked": null
     },
     {
-      "id": 325,
+      "id": 362,
       "category": "Environment & Sustainability",
       "name": "Environmental Ethics",
       "provider": "Coursera",
@@ -4815,7 +5288,7 @@
       "last_checked": null
     },
     {
-      "id": 326,
+      "id": 363,
       "category": "Environment & Sustainability",
       "name": "Environmental Law and Policy",
       "provider": "UNITAR",
@@ -4829,7 +5302,7 @@
       "last_checked": null
     },
     {
-      "id": 327,
+      "id": 364,
       "category": "Environment & Sustainability",
       "name": "Introduction to Sustainable Development",
       "provider": "University of Michigan (Coursera)",
@@ -4843,7 +5316,7 @@
       "last_checked": null
     },
     {
-      "id": 328,
+      "id": 365,
       "category": "Environment & Sustainability",
       "name": "Oceanography",
       "provider": "National Geographic",
@@ -4857,7 +5330,7 @@
       "last_checked": null
     },
     {
-      "id": 329,
+      "id": 366,
       "category": "Environment & Sustainability",
       "name": "Sustainable Agriculture",
       "provider": "Wageningen University (edX)",
@@ -4871,7 +5344,7 @@
       "last_checked": null
     },
     {
-      "id": 330,
+      "id": 367,
       "category": "Environment & Sustainability",
       "name": "Waste Management",
       "provider": "Alison",
@@ -4885,7 +5358,7 @@
       "last_checked": null
     },
     {
-      "id": 331,
+      "id": 368,
       "category": "Environment & Sustainability",
       "name": "Water Management",
       "provider": "Alison",
@@ -4899,7 +5372,7 @@
       "last_checked": null
     },
     {
-      "id": 332,
+      "id": 369,
       "category": "Environmental Engineering",
       "name": "Air Pollution Control",
       "provider": "NPTEL (IIT Delhi)",
@@ -4913,7 +5386,7 @@
       "last_checked": null
     },
     {
-      "id": 333,
+      "id": 370,
       "category": "Environmental Engineering",
       "name": "Environmental Engineering Fundamentals",
       "provider": "MIT OpenCourseWare",
@@ -4927,21 +5400,7 @@
       "last_checked": null
     },
     {
-      "id": 334,
-      "category": "Environmental Engineering",
-      "name": "Environmental Impact Assessment",
-      "provider": "UNEP",
-      "url": "https://www.unep.org/explore-topics/environmental-rights-and-governance",
-      "description": "Environmental impact analysis and assessment.",
-      "duration": "Self-paced",
-      "level": "Intermediate",
-      "prerequisites": "Basic Environmental Science",
-      "expiration": "Never",
-      "validated": null,
-      "last_checked": null
-    },
-    {
-      "id": 335,
+      "id": 371,
       "category": "Environmental Engineering",
       "name": "Environmental Systems Modeling",
       "provider": "MIT OpenCourseWare",
@@ -4955,7 +5414,7 @@
       "last_checked": null
     },
     {
-      "id": 336,
+      "id": 372,
       "category": "Environmental Engineering",
       "name": "Green Building Design",
       "provider": "USGBC",
@@ -4969,7 +5428,7 @@
       "last_checked": null
     },
     {
-      "id": 337,
+      "id": 373,
       "category": "Environmental Engineering",
       "name": "Hazardous Waste Treatment",
       "provider": "NPTEL (IIT Bombay)",
@@ -4983,7 +5442,7 @@
       "last_checked": null
     },
     {
-      "id": 338,
+      "id": 374,
       "category": "Environmental Engineering",
       "name": "Solid Waste Management",
       "provider": "NPTEL (IIT Kharagpur)",
@@ -4997,7 +5456,7 @@
       "last_checked": null
     },
     {
-      "id": 339,
+      "id": 375,
       "category": "Environmental Engineering",
       "name": "Water Treatment Engineering",
       "provider": "NPTEL (IIT Madras)",
@@ -5011,7 +5470,7 @@
       "last_checked": null
     },
     {
-      "id": 340,
+      "id": 376,
       "category": "Finance & Economics",
       "name": "Central Banking and Monetary Policy",
       "provider": "Federal Reserve Education",
@@ -5025,7 +5484,7 @@
       "last_checked": null
     },
     {
-      "id": 341,
+      "id": 377,
       "category": "Finance & Economics",
       "name": "Economics of Money and Banking",
       "provider": "Columbia University (Coursera)",
@@ -5039,7 +5498,7 @@
       "last_checked": null
     },
     {
-      "id": 342,
+      "id": 378,
       "category": "Finance & Economics",
       "name": "Financial Accounting Fundamentals",
       "provider": "University of Virginia (Coursera)",
@@ -5053,7 +5512,7 @@
       "last_checked": null
     },
     {
-      "id": 343,
+      "id": 379,
       "category": "Finance & Economics",
       "name": "Financial Engineering and Risk Management",
       "provider": "Columbia University (Coursera)",
@@ -5067,7 +5526,7 @@
       "last_checked": null
     },
     {
-      "id": 344,
+      "id": 380,
       "category": "Finance & Economics",
       "name": "Financial Markets",
       "provider": "Yale University (Coursera)",
@@ -5081,7 +5540,7 @@
       "last_checked": null
     },
     {
-      "id": 345,
+      "id": 381,
       "category": "Finance & Economics",
       "name": "Financial Modeling",
       "provider": "Corporate Finance Institute",
@@ -5095,7 +5554,7 @@
       "last_checked": null
     },
     {
-      "id": 346,
+      "id": 382,
       "category": "Finance & Economics",
       "name": "Introduction to Blockchain",
       "provider": "University at Buffalo (Coursera)",
@@ -5109,7 +5568,7 @@
       "last_checked": null
     },
     {
-      "id": 347,
+      "id": 383,
       "category": "Finance & Economics",
       "name": "Introduction to Corporate Finance",
       "provider": "University of Pennsylvania (Coursera)",
@@ -5123,7 +5582,7 @@
       "last_checked": null
     },
     {
-      "id": 348,
+      "id": 384,
       "category": "Finance & Economics",
       "name": "Introduction to Economics",
       "provider": "MIT OpenCourseWare",
@@ -5137,7 +5596,7 @@
       "last_checked": null
     },
     {
-      "id": 349,
+      "id": 385,
       "category": "Finance & Economics",
       "name": "Investment Management",
       "provider": "University of Geneva (Coursera)",
@@ -5151,7 +5610,7 @@
       "last_checked": null
     },
     {
-      "id": 350,
+      "id": 386,
       "category": "Finance & Economics",
       "name": "Principles of Microeconomics",
       "provider": "University of Illinois (Coursera)",
@@ -5165,7 +5624,7 @@
       "last_checked": null
     },
     {
-      "id": 351,
+      "id": 387,
       "category": "Finance & Economics",
       "name": "Stock Market Investing",
       "provider": "MOOC.fi",
@@ -5179,7 +5638,7 @@
       "last_checked": null
     },
     {
-      "id": 352,
+      "id": 388,
       "category": "Healthcare & Medical",
       "name": "COVID-19 Contact Tracing",
       "provider": "Johns Hopkins University (Coursera)",
@@ -5193,7 +5652,7 @@
       "last_checked": null
     },
     {
-      "id": 353,
+      "id": 389,
       "category": "Healthcare & Medical",
       "name": "Emergency Preparedness",
       "provider": "CDC TRAIN",
@@ -5207,7 +5666,7 @@
       "last_checked": null
     },
     {
-      "id": 354,
+      "id": 390,
       "category": "Healthcare & Medical",
       "name": "First Aid Basics",
       "provider": "American Red Cross",
@@ -5221,7 +5680,7 @@
       "last_checked": null
     },
     {
-      "id": 355,
+      "id": 391,
       "category": "Healthcare & Medical",
       "name": "Healthcare Quality Improvement",
       "provider": "Institute for Healthcare Improvement",
@@ -5235,7 +5694,7 @@
       "last_checked": null
     },
     {
-      "id": 356,
+      "id": 392,
       "category": "Healthcare & Medical",
       "name": "Psychological First Aid",
       "provider": "Johns Hopkins University (Coursera)",
@@ -5249,7 +5708,7 @@
       "last_checked": null
     },
     {
-      "id": 357,
+      "id": 393,
       "category": "Industrial & Systems Engineering",
       "name": "Ergonomics and Human Factors",
       "provider": "NPTEL (IIT Bombay)",
@@ -5263,7 +5722,7 @@
       "last_checked": null
     },
     {
-      "id": 358,
+      "id": 394,
       "category": "Industrial & Systems Engineering",
       "name": "Introduction to Industrial Engineering",
       "provider": "NPTEL (IIT Kharagpur)",
@@ -5277,7 +5736,7 @@
       "last_checked": null
     },
     {
-      "id": 359,
+      "id": 395,
       "category": "Industrial & Systems Engineering",
       "name": "Operations Research",
       "provider": "MIT OpenCourseWare",
@@ -5291,7 +5750,7 @@
       "last_checked": null
     },
     {
-      "id": 360,
+      "id": 396,
       "category": "Industrial & Systems Engineering",
       "name": "Production Planning and Control",
       "provider": "NPTEL (IIT Roorkee)",
@@ -5305,7 +5764,7 @@
       "last_checked": null
     },
     {
-      "id": 361,
+      "id": 397,
       "category": "Industrial & Systems Engineering",
       "name": "Project Management for Engineers",
       "provider": "MIT OpenCourseWare",
@@ -5319,7 +5778,7 @@
       "last_checked": null
     },
     {
-      "id": 362,
+      "id": 398,
       "category": "Industrial & Systems Engineering",
       "name": "Simulation Modeling",
       "provider": "NPTEL (IIT Delhi)",
@@ -5333,7 +5792,7 @@
       "last_checked": null
     },
     {
-      "id": 363,
+      "id": 399,
       "category": "Industrial & Systems Engineering",
       "name": "Systems Engineering Fundamentals",
       "provider": "MIT OpenCourseWare",
@@ -5347,7 +5806,7 @@
       "last_checked": null
     },
     {
-      "id": 364,
+      "id": 400,
       "category": "IoT Engineering",
       "name": "Industrial IoT",
       "provider": "Coursera",
@@ -5361,7 +5820,7 @@
       "last_checked": null
     },
     {
-      "id": 365,
+      "id": 401,
       "category": "IoT Engineering",
       "name": "Introduction to IoT",
       "provider": "Cisco Networking Academy",
@@ -5375,7 +5834,7 @@
       "last_checked": null
     },
     {
-      "id": 366,
+      "id": 402,
       "category": "IoT Engineering",
       "name": "IoT Cloud Platforms",
       "provider": "Oracle University",
@@ -5389,7 +5848,7 @@
       "last_checked": null
     },
     {
-      "id": 367,
+      "id": 403,
       "category": "IoT Engineering",
       "name": "IoT Protocols",
       "provider": "Microsoft Learn",
@@ -5403,7 +5862,7 @@
       "last_checked": null
     },
     {
-      "id": 368,
+      "id": 404,
       "category": "IoT Engineering",
       "name": "IoT Security",
       "provider": "IBM",
@@ -5417,7 +5876,7 @@
       "last_checked": null
     },
     {
-      "id": 369,
+      "id": 405,
       "category": "Language Learning",
       "name": "Dutch Language Course",
       "provider": "Nederlandse Taalunie",
@@ -5431,7 +5890,7 @@
       "last_checked": null
     },
     {
-      "id": 370,
+      "id": 406,
       "category": "Language Learning",
       "name": "English for Career Development",
       "provider": "University of Pennsylvania (Coursera)",
@@ -5445,10 +5904,10 @@
       "last_checked": null
     },
     {
-      "id": 371,
+      "id": 407,
       "category": "Language Learning",
       "name": "French Online Course",
-      "provider": "Alliance Française",
+      "provider": "Alliance FranÃ§aise",
       "url": "https://www.fondation-alliancefr.org/",
       "description": "French language fundamentals and conversation skills.",
       "duration": "12 weeks (4-5 hrs/week)",
@@ -5459,7 +5918,7 @@
       "last_checked": null
     },
     {
-      "id": 372,
+      "id": 408,
       "category": "Language Learning",
       "name": "German Language Basics",
       "provider": "Deutsche Welle",
@@ -5473,7 +5932,7 @@
       "last_checked": null
     },
     {
-      "id": 373,
+      "id": 409,
       "category": "Language Learning",
       "name": "Greek Language Fundamentals",
       "provider": "Hellenic American Union",
@@ -5487,21 +5946,7 @@
       "last_checked": null
     },
     {
-      "id": 374,
-      "category": "Language Learning",
-      "name": "Hindi Language Basics",
-      "provider": "Indian Cultural Centre",
-      "url": "https://www.iccr.gov.in/",
-      "description": "Basic Hindi language and Devanagari script.",
-      "duration": "10 weeks (3-4 hrs/week)",
-      "level": "Beginner",
-      "prerequisites": "",
-      "expiration": "Never",
-      "validated": null,
-      "last_checked": null
-    },
-    {
-      "id": 375,
+      "id": 410,
       "category": "Language Learning",
       "name": "Italian Language and Culture",
       "provider": "edX",
@@ -5515,7 +5960,7 @@
       "last_checked": null
     },
     {
-      "id": 376,
+      "id": 411,
       "category": "Language Learning",
       "name": "Japanese for Beginners",
       "provider": "The Japan Foundation",
@@ -5529,24 +5974,10 @@
       "last_checked": null
     },
     {
-      "id": 377,
-      "category": "Language Learning",
-      "name": "Mandarin Chinese for Beginners",
-      "provider": "Confucius Institute Online",
-      "url": "http://www.chinesecio.com/",
-      "description": "Basic Mandarin Chinese language and writing system.",
-      "duration": "16 weeks (4-5 hrs/week)",
-      "level": "Beginner",
-      "prerequisites": "",
-      "expiration": "Never",
-      "validated": null,
-      "last_checked": null
-    },
-    {
-      "id": 378,
+      "id": 412,
       "category": "Language Learning",
       "name": "Portuguese Language Basics",
-      "provider": "Camões Institute",
+      "provider": "CamÃµes Institute",
       "url": "http://www.instituto-camoes.pt/",
       "description": "Portuguese language fundamentals and culture.",
       "duration": "10 weeks (3-4 hrs/week)",
@@ -5557,21 +5988,7 @@
       "last_checked": null
     },
     {
-      "id": 379,
-      "category": "Language Learning",
-      "name": "Russian Language Course",
-      "provider": "Pushkin Institute",
-      "url": "http://www.pushkin.institute/en/",
-      "description": "Basic Russian language and alphabet.",
-      "duration": "12 weeks (4-5 hrs/week)",
-      "level": "Beginner",
-      "prerequisites": "",
-      "expiration": "Never",
-      "validated": null,
-      "last_checked": null
-    },
-    {
-      "id": 380,
+      "id": 413,
       "category": "Language Learning",
       "name": "Spanish for Beginners",
       "provider": "Instituto Cervantes",
@@ -5585,7 +6002,7 @@
       "last_checked": null
     },
     {
-      "id": 381,
+      "id": 414,
       "category": "Language Learning",
       "name": "Teaching English Online",
       "provider": "Cambridge English",
@@ -5599,21 +6016,7 @@
       "last_checked": null
     },
     {
-      "id": 382,
-      "category": "Language Learning",
-      "name": "Turkish Language Basics",
-      "provider": "Yunus Emre Institute",
-      "url": "https://www.yee.org.tr/en",
-      "description": "Basic Turkish language and cultural elements.",
-      "duration": "10 weeks (3-4 hrs/week)",
-      "level": "Beginner",
-      "prerequisites": "",
-      "expiration": "Never",
-      "validated": null,
-      "last_checked": null
-    },
-    {
-      "id": 383,
+      "id": 415,
       "category": "Manufacturing Engineering",
       "name": "Lean Manufacturing",
       "provider": "edX",
@@ -5627,7 +6030,7 @@
       "last_checked": null
     },
     {
-      "id": 384,
+      "id": 416,
       "category": "Manufacturing Engineering",
       "name": "Manufacturing Automation",
       "provider": "Automation Federation",
@@ -5641,7 +6044,7 @@
       "last_checked": null
     },
     {
-      "id": 385,
+      "id": 417,
       "category": "Materials Science & Engineering",
       "name": "Ceramics Processing",
       "provider": "NPTEL (IIT Bombay)",
@@ -5655,7 +6058,7 @@
       "last_checked": null
     },
     {
-      "id": 386,
+      "id": 418,
       "category": "Materials Science & Engineering",
       "name": "Introduction to Materials Science",
       "provider": "MIT OpenCourseWare",
@@ -5669,7 +6072,7 @@
       "last_checked": null
     },
     {
-      "id": 387,
+      "id": 419,
       "category": "Materials Science & Engineering",
       "name": "Materials Processing",
       "provider": "MIT OpenCourseWare",
@@ -5683,7 +6086,7 @@
       "last_checked": null
     },
     {
-      "id": 388,
+      "id": 420,
       "category": "Materials Science & Engineering",
       "name": "Mechanical Behavior of Materials",
       "provider": "MIT OpenCourseWare",
@@ -5697,7 +6100,7 @@
       "last_checked": null
     },
     {
-      "id": 389,
+      "id": 421,
       "category": "Materials Science & Engineering",
       "name": "Metallurgical Engineering",
       "provider": "NPTEL (IIT Kanpur)",
@@ -5711,7 +6114,7 @@
       "last_checked": null
     },
     {
-      "id": 390,
+      "id": 422,
       "category": "Materials Science & Engineering",
       "name": "Polymer Science and Engineering",
       "provider": "NPTEL (IIT Madras)",
@@ -5725,7 +6128,7 @@
       "last_checked": null
     },
     {
-      "id": 391,
+      "id": 423,
       "category": "Mechanical Engineering",
       "name": "Control Systems Engineering",
       "provider": "NPTEL",
@@ -5739,7 +6142,7 @@
       "last_checked": null
     },
     {
-      "id": 392,
+      "id": 424,
       "category": "Mechanical Engineering",
       "name": "Dynamics and Control",
       "provider": "MIT OpenCourseWare",
@@ -5753,7 +6156,7 @@
       "last_checked": null
     },
     {
-      "id": 393,
+      "id": 425,
       "category": "Mechanical Engineering",
       "name": "Fluid Mechanics",
       "provider": "MIT OpenCourseWare",
@@ -5767,7 +6170,7 @@
       "last_checked": null
     },
     {
-      "id": 394,
+      "id": 426,
       "category": "Mechanical Engineering",
       "name": "Fluid Mechanics",
       "provider": "edX",
@@ -5781,7 +6184,7 @@
       "last_checked": null
     },
     {
-      "id": 395,
+      "id": 427,
       "category": "Mechanical Engineering",
       "name": "Internal Combustion Engines",
       "provider": "SAE",
@@ -5795,7 +6198,7 @@
       "last_checked": null
     },
     {
-      "id": 396,
+      "id": 428,
       "category": "Mechanical Engineering",
       "name": "Introduction to Mechanical Engineering",
       "provider": "MIT OpenCourseWare",
@@ -5809,7 +6212,7 @@
       "last_checked": null
     },
     {
-      "id": 397,
+      "id": 429,
       "category": "Mechanical Engineering",
       "name": "Manufacturing Processes",
       "provider": "MIT OpenCourseWare",
@@ -5823,7 +6226,7 @@
       "last_checked": null
     },
     {
-      "id": 398,
+      "id": 430,
       "category": "Mechanical Engineering",
       "name": "Mechanical Design",
       "provider": "MIT OpenCourseWare",
@@ -5837,7 +6240,7 @@
       "last_checked": null
     },
     {
-      "id": 399,
+      "id": 431,
       "category": "Mechanical Engineering",
       "name": "Mechatronics",
       "provider": "edX",
@@ -5851,7 +6254,7 @@
       "last_checked": null
     },
     {
-      "id": 400,
+      "id": 432,
       "category": "Mechanical Engineering",
       "name": "Robotics: Kinematics and Mathematical Foundations",
       "provider": "Columbia University (edX)",
@@ -5865,7 +6268,7 @@
       "last_checked": null
     },
     {
-      "id": 401,
+      "id": 433,
       "category": "Mechanical Engineering",
       "name": "Solid Mechanics",
       "provider": "MIT OpenCourseWare",
@@ -5879,7 +6282,7 @@
       "last_checked": null
     },
     {
-      "id": 402,
+      "id": 434,
       "category": "Personal Development",
       "name": "Career Development",
       "provider": "LinkedIn Learning",
@@ -5893,7 +6296,7 @@
       "last_checked": null
     },
     {
-      "id": 403,
+      "id": 435,
       "category": "Personal Development",
       "name": "Conflict Resolution Skills",
       "provider": "Alison",
@@ -5907,7 +6310,7 @@
       "last_checked": null
     },
     {
-      "id": 404,
+      "id": 436,
       "category": "Personal Development",
       "name": "Creative Problem Solving",
       "provider": "Coursera",
@@ -5921,7 +6324,7 @@
       "last_checked": null
     },
     {
-      "id": 405,
+      "id": 437,
       "category": "Personal Development",
       "name": "Critical Thinking Skills",
       "provider": "University of Michigan (Coursera)",
@@ -5935,7 +6338,7 @@
       "last_checked": null
     },
     {
-      "id": 406,
+      "id": 438,
       "category": "Personal Development",
       "name": "Goal Setting",
       "provider": "MindTools",
@@ -5949,21 +6352,7 @@
       "last_checked": null
     },
     {
-      "id": 407,
-      "category": "Personal Development",
-      "name": "Mindfulness for Well-being and Peak Performance",
-      "provider": "Monash University (FutureLearn)",
-      "url": "https://www.futurelearn.com/courses/mindfulness-wellbeing-performance",
-      "description": "Mindfulness techniques for stress reduction and performance enhancement.",
-      "duration": "4 weeks (3 hrs/week)",
-      "level": "Beginner",
-      "prerequisites": "",
-      "expiration": "Never",
-      "validated": null,
-      "last_checked": null
-    },
-    {
-      "id": 408,
+      "id": 439,
       "category": "Personal Development",
       "name": "Personal Branding",
       "provider": "Coursera",
@@ -5977,7 +6366,7 @@
       "last_checked": null
     },
     {
-      "id": 409,
+      "id": 440,
       "category": "Personal Development",
       "name": "Personal Finance Management",
       "provider": "Khan Academy",
@@ -5991,7 +6380,7 @@
       "last_checked": null
     },
     {
-      "id": 410,
+      "id": 441,
       "category": "Personal Development",
       "name": "Positive Psychology",
       "provider": "University of North Carolina (Coursera)",
@@ -6005,7 +6394,7 @@
       "last_checked": null
     },
     {
-      "id": 411,
+      "id": 442,
       "category": "Personal Development",
       "name": "Public Speaking Skills",
       "provider": "Toastmasters International",
@@ -6019,7 +6408,7 @@
       "last_checked": null
     },
     {
-      "id": 412,
+      "id": 443,
       "category": "Personal Development",
       "name": "The Science of Well-Being",
       "provider": "Yale University (Coursera)",
@@ -6033,7 +6422,7 @@
       "last_checked": null
     },
     {
-      "id": 413,
+      "id": 444,
       "category": "Personal Development",
       "name": "Time Management Fundamentals",
       "provider": "Alison",
@@ -6047,7 +6436,189 @@
       "last_checked": null
     },
     {
-      "id": 414,
+      "category": "Programming & Development",
+      "name": "1000+ Free Developer Certifications - freeCodeCamp.org",
+      "provider": "",
+      "url": "https://www.freecodecamp.org/news/free-certificates/",
+      "description": "Free certification from ",
+      "duration": "Self-paced",
+      "level": "Beginner",
+      "prerequisites": "",
+      "expiration": "",
+      "discovered_at": "2026-01-30T04:21:55.841333+00:00",
+      "id": 445
+    },
+    {
+      "category": "Programming & Development",
+      "name": "15+ Free Certifications to Gain High-Income Skills in 2025 - Forbes",
+      "provider": "",
+      "url": "https://www.forbes.com/sites/rachelwells/2025/08/30/15-free-certifications-to-gain-high-income-skills-in-2025/",
+      "description": "Free certification from ",
+      "duration": "Self-paced",
+      "level": "Beginner",
+      "prerequisites": "",
+      "expiration": "",
+      "discovered_at": "2026-01-30T04:21:55.840469+00:00",
+      "id": 446
+    },
+    {
+      "category": "Programming & Development",
+      "name": "AWS Training and Certification",
+      "provider": "",
+      "url": "https://aws.amazon.com/training/",
+      "description": "Free certification from ",
+      "duration": "Self-paced",
+      "level": "Beginner",
+      "prerequisites": "",
+      "expiration": "",
+      "discovered_at": "2026-01-30T04:21:58.610057+00:00",
+      "id": 447
+    },
+    {
+      "category": "Programming & Development",
+      "name": "Best Free Certifications for Tech Jobs in 2025",
+      "provider": "",
+      "url": "https://www.getbridged.co/insights/best-free-certifications-for-tech-jobs-in-2025",
+      "description": "Free certification from ",
+      "duration": "Self-paced",
+      "level": "Beginner",
+      "prerequisites": "",
+      "expiration": "",
+      "discovered_at": "2026-01-30T04:21:55.841023+00:00",
+      "id": 448
+    },
+    {
+      "category": "Programming & Development",
+      "name": "Certifications | Google Cloud",
+      "provider": "",
+      "url": "https://cloud.google.com/learn/certification",
+      "description": "Free certification from ",
+      "duration": "Self-paced",
+      "level": "Beginner",
+      "prerequisites": "",
+      "expiration": "",
+      "discovered_at": "2026-01-30T04:21:58.609889+00:00",
+      "id": 449
+    },
+    {
+      "category": "Programming & Development",
+      "name": "Cloud Certification Store - Free Resources Hub",
+      "provider": "",
+      "url": "https://cloudcertificationstore.com/collection/free",
+      "description": "Free certification from ",
+      "duration": "Self-paced",
+      "level": "Beginner",
+      "prerequisites": "",
+      "expiration": "",
+      "discovered_at": "2026-01-30T04:21:58.618143+00:00",
+      "id": 450
+    },
+    {
+      "category": "Programming & Development",
+      "name": "CloudFluently - Free Cloud Certification Courses | AWS, Azure, GCP Training",
+      "provider": "",
+      "url": "https://cloudfluently.com/",
+      "description": "Free certification from ",
+      "duration": "Self-paced",
+      "level": "Beginner",
+      "prerequisites": "",
+      "expiration": "",
+      "discovered_at": "2026-01-30T04:21:58.609505+00:00",
+      "id": 451
+    },
+    {
+      "category": "Programming & Development",
+      "name": "Free Basics of AWS, Azure and Google Cloud Course with Certificate ...",
+      "provider": "",
+      "url": "https://www.mygreatlearning.com/academy/learn-for-free/courses/aws-vs-azure-vs-gcp",
+      "description": "Free certification from ",
+      "duration": "Self-paced",
+      "level": "Beginner",
+      "prerequisites": "",
+      "expiration": "",
+      "discovered_at": "2026-01-30T04:21:58.610231+00:00",
+      "id": 452
+    },
+    {
+      "category": "Programming & Development",
+      "name": "Free Cloud Certification Practice Exam Questions | AWS, Azure, GCP ...",
+      "provider": "",
+      "url": "https://cloudoku.training/free-cloud-certification-practice-exam-questions",
+      "description": "Free certification from ",
+      "duration": "Self-paced",
+      "level": "Beginner",
+      "prerequisites": "",
+      "expiration": "",
+      "discovered_at": "2026-01-30T04:21:58.618762+00:00",
+      "id": 453
+    },
+    {
+      "category": "Programming & Development",
+      "name": "Free Cloud Certification Practice Exams - AWS, Azure, GCP & More",
+      "provider": "",
+      "url": "https://certvanta.com/",
+      "description": "Free certification from ",
+      "duration": "Self-paced",
+      "level": "Beginner",
+      "prerequisites": "",
+      "expiration": "",
+      "discovered_at": "2026-01-30T04:21:58.610389+00:00",
+      "id": 454
+    },
+    {
+      "category": "Programming & Development",
+      "name": "Free Cloud Computing with AWS - GCP - Azure Course | 7-Language Certificate",
+      "provider": "",
+      "url": "https://catchwisdom.com/course/cloud-computing-with-aws-gcp-azure/",
+      "description": "Free certification from ",
+      "duration": "Self-paced",
+      "level": "Beginner",
+      "prerequisites": "",
+      "expiration": "",
+      "discovered_at": "2026-01-30T04:21:58.618526+00:00",
+      "id": 455
+    },
+    {
+      "category": "Programming & Development",
+      "name": "Free Cloud Training Resources from AWS, GCP, Azure, and OCI",
+      "provider": "",
+      "url": "https://www.linkedin.com/posts/stephenjams_stop-paying-for-cloud-courses-when-you-can-activity-7421524657650143233-OeAE",
+      "description": "Free certification from ",
+      "duration": "Self-paced",
+      "level": "Beginner",
+      "prerequisites": "",
+      "expiration": "",
+      "discovered_at": "2026-01-30T04:21:58.618354+00:00",
+      "id": 456
+    },
+    {
+      "category": "Programming & Development",
+      "name": "Free IT Certifications and Courses to Elevate Your Career",
+      "provider": "",
+      "url": "https://www.coursera.org/articles/free-it-certifications",
+      "description": "Free certification from ",
+      "duration": "Self-paced",
+      "level": "Beginner",
+      "prerequisites": "",
+      "expiration": "",
+      "discovered_at": "2026-01-30T04:21:55.840301+00:00",
+      "id": 457
+    },
+    {
+      "category": "Programming & Development",
+      "name": "GitHub - cloudcommunity/Free-Certifications: A curated list of free ...",
+      "provider": "",
+      "url": "https://github.com/cloudcommunity/Free-Certifications",
+      "description": "Free certification from ",
+      "duration": "Self-paced",
+      "level": "Beginner",
+      "prerequisites": "",
+      "expiration": "",
+      "discovered_at": "2026-01-30T04:21:55.840590+00:00",
+      "id": 458
+    },
+    {
+      "id": 459,
       "category": "Programming & Development",
       "name": "Google Data Analytics Professional Certificate",
       "provider": "Google (Coursera)",
@@ -6061,7 +6632,7 @@
       "last_checked": null
     },
     {
-      "id": 415,
+      "id": 460,
       "category": "Programming & Development",
       "name": "Google IT Support Professional Certificate",
       "provider": "Google (Coursera)",
@@ -6075,7 +6646,7 @@
       "last_checked": null
     },
     {
-      "id": 416,
+      "id": 461,
       "category": "Programming & Development",
       "name": "IBM Data Science Professional Certificate",
       "provider": "IBM (Coursera)",
@@ -6089,7 +6660,7 @@
       "last_checked": null
     },
     {
-      "id": 417,
+      "id": 462,
       "category": "Programming & Development",
       "name": "IBM Python for Data Science, AI & Development",
       "provider": "IBM (Coursera)",
@@ -6103,7 +6674,7 @@
       "last_checked": null
     },
     {
-      "id": 418,
+      "id": 463,
       "category": "Programming & Development",
       "name": "Introduction to CSS3",
       "provider": "University of Michigan (Coursera)",
@@ -6117,7 +6688,7 @@
       "last_checked": null
     },
     {
-      "id": 419,
+      "id": 464,
       "category": "Programming & Development",
       "name": "Introduction to Computer Science and Programming Using Python",
       "provider": "MIT (edX)",
@@ -6131,7 +6702,7 @@
       "last_checked": null
     },
     {
-      "id": 420,
+      "id": 465,
       "category": "Programming & Development",
       "name": "Introduction to Dart",
       "provider": "Google (Flutter)",
@@ -6145,7 +6716,7 @@
       "last_checked": null
     },
     {
-      "id": 421,
+      "id": 466,
       "category": "Programming & Development",
       "name": "Introduction to Git and GitHub",
       "provider": "Google (Coursera)",
@@ -6159,7 +6730,7 @@
       "last_checked": null
     },
     {
-      "id": 422,
+      "id": 467,
       "category": "Programming & Development",
       "name": "Introduction to Go",
       "provider": "Google (Golang)",
@@ -6173,7 +6744,7 @@
       "last_checked": null
     },
     {
-      "id": 423,
+      "id": 468,
       "category": "Programming & Development",
       "name": "Introduction to HTML5",
       "provider": "University of Michigan (Coursera)",
@@ -6187,7 +6758,7 @@
       "last_checked": null
     },
     {
-      "id": 424,
+      "id": 469,
       "category": "Programming & Development",
       "name": "Introduction to Linux",
       "provider": "The Linux Foundation (edX)",
@@ -6201,7 +6772,7 @@
       "last_checked": null
     },
     {
-      "id": 425,
+      "id": 470,
       "category": "Programming & Development",
       "name": "Introduction to Programming with MATLAB",
       "provider": "Vanderbilt (Coursera)",
@@ -6215,7 +6786,7 @@
       "last_checked": null
     },
     {
-      "id": 426,
+      "id": 471,
       "category": "Programming & Development",
       "name": "Introduction to Rust",
       "provider": "The Rust Foundation",
@@ -6229,7 +6800,7 @@
       "last_checked": null
     },
     {
-      "id": 427,
+      "id": 472,
       "category": "Programming & Development",
       "name": "JavaScript Application Development",
       "provider": "Alison",
@@ -6243,7 +6814,33 @@
       "last_checked": null
     },
     {
-      "id": 428,
+      "category": "Programming & Development",
+      "name": "Learn AI",
+      "provider": "edX",
+      "url": "https://www.edx.org/learn/artificial-intelligence",
+      "description": "Free certification from edX",
+      "duration": "Self-paced",
+      "level": "Beginner",
+      "prerequisites": "",
+      "expiration": "",
+      "discovered_at": "2026-01-30T04:21:39.956659+00:00",
+      "id": 473
+    },
+    {
+      "category": "Programming & Development",
+      "name": "Learn Architecture",
+      "provider": "edX",
+      "url": "https://www.edx.org/learn/architecture",
+      "description": "Free certification from edX",
+      "duration": "Self-paced",
+      "level": "Beginner",
+      "prerequisites": "",
+      "expiration": "",
+      "discovered_at": "2026-01-30T04:21:39.956928+00:00",
+      "id": 474
+    },
+    {
+      "id": 475,
       "category": "Programming & Development",
       "name": "Learn Bash Scripting",
       "provider": "Codecademy",
@@ -6257,7 +6854,33 @@
       "last_checked": null
     },
     {
-      "id": 429,
+      "category": "Programming & Development",
+      "name": "Learn Blockchain",
+      "provider": "edX",
+      "url": "https://www.edx.org/learn/blockchain",
+      "description": "Free certification from edX",
+      "duration": "Self-paced",
+      "level": "Beginner",
+      "prerequisites": "",
+      "expiration": "",
+      "discovered_at": "2026-01-30T04:21:39.956851+00:00",
+      "id": 476
+    },
+    {
+      "category": "Programming & Development",
+      "name": "Learn Business Administration",
+      "provider": "edX",
+      "url": "https://www.edx.org/learn/business-administration",
+      "description": "Free certification from edX",
+      "duration": "Self-paced",
+      "level": "Beginner",
+      "prerequisites": "",
+      "expiration": "",
+      "discovered_at": "2026-01-30T04:21:39.956983+00:00",
+      "id": 477
+    },
+    {
+      "id": 478,
       "category": "Programming & Development",
       "name": "Learn C++",
       "provider": "Codecademy",
@@ -6271,7 +6894,7 @@
       "last_checked": null
     },
     {
-      "id": 430,
+      "id": 479,
       "category": "Programming & Development",
       "name": "Learn CSS",
       "provider": "Codecademy",
@@ -6285,7 +6908,59 @@
       "last_checked": null
     },
     {
-      "id": 431,
+      "category": "Programming & Development",
+      "name": "Learn ChatGPT",
+      "provider": "edX",
+      "url": "https://www.edx.org/learn/chatgpt",
+      "description": "Free certification from edX",
+      "duration": "Self-paced",
+      "level": "Beginner",
+      "prerequisites": "",
+      "expiration": "",
+      "discovered_at": "2026-01-30T04:21:39.956704+00:00",
+      "id": 480
+    },
+    {
+      "category": "Programming & Development",
+      "name": "Learn Computer Programming",
+      "provider": "edX",
+      "url": "https://www.edx.org/learn/computer-programming",
+      "description": "Free certification from edX",
+      "duration": "Self-paced",
+      "level": "Beginner",
+      "prerequisites": "",
+      "expiration": "",
+      "discovered_at": "2026-01-30T04:21:39.956878+00:00",
+      "id": 481
+    },
+    {
+      "category": "Programming & Development",
+      "name": "Learn Economics",
+      "provider": "edX",
+      "url": "https://www.edx.org/learn/economics",
+      "description": "Free certification from edX",
+      "duration": "Self-paced",
+      "level": "Beginner",
+      "prerequisites": "",
+      "expiration": "",
+      "discovered_at": "2026-01-30T04:21:39.956903+00:00",
+      "id": 482
+    },
+    {
+      "category": "Programming & Development",
+      "name": "Learn Excel",
+      "provider": "edX",
+      "url": "https://www.edx.org/learn/excel",
+      "description": "Free certification from edX",
+      "duration": "Self-paced",
+      "level": "Beginner",
+      "prerequisites": "",
+      "expiration": "",
+      "discovered_at": "2026-01-30T04:21:39.956787+00:00",
+      "id": 483
+    },
+    {
+      "id": 484,
       "category": "Programming & Development",
       "name": "Learn Git",
       "provider": "Codecademy",
@@ -6299,7 +6974,7 @@
       "last_checked": null
     },
     {
-      "id": 432,
+      "id": 485,
       "category": "Programming & Development",
       "name": "Learn HTML",
       "provider": "Codecademy",
@@ -6313,7 +6988,7 @@
       "last_checked": null
     },
     {
-      "id": 433,
+      "id": 486,
       "category": "Programming & Development",
       "name": "Learn Java",
       "provider": "Codecademy",
@@ -6327,7 +7002,7 @@
       "last_checked": null
     },
     {
-      "id": 434,
+      "id": 487,
       "category": "Programming & Development",
       "name": "Learn JavaScript",
       "provider": "Codecademy",
@@ -6341,7 +7016,33 @@
       "last_checked": null
     },
     {
-      "id": 435,
+      "category": "Programming & Development",
+      "name": "Learn Project Management",
+      "provider": "edX",
+      "url": "https://www.edx.org/learn/project-management",
+      "description": "Free certification from edX",
+      "duration": "Self-paced",
+      "level": "Beginner",
+      "prerequisites": "",
+      "expiration": "",
+      "discovered_at": "2026-01-30T04:21:39.956955+00:00",
+      "id": 488
+    },
+    {
+      "category": "Programming & Development",
+      "name": "Learn Python",
+      "provider": "edX",
+      "url": "https://www.edx.org/learn/python",
+      "description": "Free certification from edX",
+      "duration": "Self-paced",
+      "level": "Beginner",
+      "prerequisites": "",
+      "expiration": "",
+      "discovered_at": "2026-01-30T04:21:39.956763+00:00",
+      "id": 489
+    },
+    {
+      "id": 490,
       "category": "Programming & Development",
       "name": "Learn Python 3",
       "provider": "Codecademy",
@@ -6355,7 +7056,7 @@
       "last_checked": null
     },
     {
-      "id": 436,
+      "id": 491,
       "category": "Programming & Development",
       "name": "Learn SQL",
       "provider": "Codecademy",
@@ -6369,7 +7070,33 @@
       "last_checked": null
     },
     {
-      "id": 437,
+      "category": "Programming & Development",
+      "name": "Learn Software Engineering",
+      "provider": "edX",
+      "url": "https://www.edx.org/learn/software-engineering",
+      "description": "Free certification from edX",
+      "duration": "Self-paced",
+      "level": "Beginner",
+      "prerequisites": "",
+      "expiration": "",
+      "discovered_at": "2026-01-30T04:21:39.956821+00:00",
+      "id": 492
+    },
+    {
+      "category": "Programming & Development",
+      "name": "Learn Spanish",
+      "provider": "edX",
+      "url": "https://www.edx.org/learn/spanish",
+      "description": "Free certification from edX",
+      "duration": "Self-paced",
+      "level": "Beginner",
+      "prerequisites": "",
+      "expiration": "",
+      "discovered_at": "2026-01-30T04:21:39.956735+00:00",
+      "id": 493
+    },
+    {
+      "id": 494,
       "category": "Programming & Development",
       "name": "Learn the Command Line",
       "provider": "Codecademy",
@@ -6383,7 +7110,7 @@
       "last_checked": null
     },
     {
-      "id": 438,
+      "id": 495,
       "category": "Programming & Development",
       "name": "LinkedIn Learning: Become a Software Developer",
       "provider": "LinkedIn Learning",
@@ -6397,7 +7124,7 @@
       "last_checked": null
     },
     {
-      "id": 439,
+      "id": 496,
       "category": "Programming & Development",
       "name": "Microsoft Azure Fundamentals (AZ-900)",
       "provider": "Microsoft Learn",
@@ -6411,7 +7138,7 @@
       "last_checked": null
     },
     {
-      "id": 440,
+      "id": 497,
       "category": "Programming & Development",
       "name": "Microsoft Power Platform Fundamentals (PL-900)",
       "provider": "Microsoft Learn",
@@ -6425,7 +7152,7 @@
       "last_checked": null
     },
     {
-      "id": 441,
+      "id": 498,
       "category": "Programming & Development",
       "name": "Python for Data Science",
       "provider": "IBM (edX)",
@@ -6439,7 +7166,7 @@
       "last_checked": null
     },
     {
-      "id": 442,
+      "id": 499,
       "category": "Programming & Development",
       "name": "Python for Everybody Specialization",
       "provider": "University of Michigan (Coursera)",
@@ -6453,7 +7180,7 @@
       "last_checked": null
     },
     {
-      "id": 443,
+      "id": 500,
       "category": "Programming & Development",
       "name": "The Odin Project: Full Stack JavaScript",
       "provider": "The Odin Project",
@@ -6467,7 +7194,7 @@
       "last_checked": null
     },
     {
-      "id": 444,
+      "id": 501,
       "category": "Programming & Development",
       "name": "The Odin Project: Full Stack Ruby on Rails",
       "provider": "The Odin Project",
@@ -6481,7 +7208,33 @@
       "last_checked": null
     },
     {
-      "id": 445,
+      "category": "Programming & Development",
+      "name": "Top 10 Free IT Certifications to Boost Your Career in 2025",
+      "provider": "",
+      "url": "https://technewskills.com/top-free-it-certifications-2025/",
+      "description": "Free certification from ",
+      "duration": "Self-paced",
+      "level": "Beginner",
+      "prerequisites": "",
+      "expiration": "",
+      "discovered_at": "2026-01-30T04:21:55.840892+00:00",
+      "id": 502
+    },
+    {
+      "category": "Programming & Development",
+      "name": "Top Free IT Certification Course To Do In 2025 | UniAthena",
+      "provider": "",
+      "url": "https://uniathena.com/top-free-it-certification-course-2024",
+      "description": "Free certification from ",
+      "duration": "Self-paced",
+      "level": "Beginner",
+      "prerequisites": "",
+      "expiration": "",
+      "discovered_at": "2026-01-30T04:21:55.840695+00:00",
+      "id": 503
+    },
+    {
+      "id": 504,
       "category": "Programming & Development",
       "name": "Udacity: Intro to Programming Nanodegree (Free Courses)",
       "provider": "Udacity",
@@ -6495,7 +7248,7 @@
       "last_checked": null
     },
     {
-      "id": 446,
+      "id": 505,
       "category": "Programming & Development",
       "name": "Web Development",
       "provider": "Alison",
@@ -6509,7 +7262,20 @@
       "last_checked": null
     },
     {
-      "id": 447,
+      "category": "Programming & Development",
+      "name": "[2026] Massive List of Thousands of Free Certificates and Badges",
+      "provider": "",
+      "url": "https://www.classcentral.com/report/free-certificates/",
+      "description": "Free certification from ",
+      "duration": "Self-paced",
+      "level": "Beginner",
+      "prerequisites": "",
+      "expiration": "",
+      "discovered_at": "2026-01-30T04:21:55.840794+00:00",
+      "id": 506
+    },
+    {
+      "id": 507,
       "category": "Quantum Engineering",
       "name": "Introduction to Quantum Computing",
       "provider": "IBM Quantum",
@@ -6523,7 +7289,7 @@
       "last_checked": null
     },
     {
-      "id": 448,
+      "id": 508,
       "category": "Quantum Engineering",
       "name": "Quantum Error Correction",
       "provider": "Coursera",
@@ -6537,7 +7303,7 @@
       "last_checked": null
     },
     {
-      "id": 449,
+      "id": 509,
       "category": "Quantum Engineering",
       "name": "Quantum Programming",
       "provider": "Qiskit",
@@ -6551,7 +7317,7 @@
       "last_checked": null
     },
     {
-      "id": 450,
+      "id": 510,
       "category": "Robotics & Mechatronics",
       "name": "Embedded Systems for Robotics",
       "provider": "edX",
@@ -6565,7 +7331,7 @@
       "last_checked": null
     },
     {
-      "id": 451,
+      "id": 511,
       "category": "Robotics & Mechatronics",
       "name": "Industrial Automation",
       "provider": "Alison",
@@ -6579,7 +7345,7 @@
       "last_checked": null
     },
     {
-      "id": 452,
+      "id": 512,
       "category": "Robotics & Mechatronics",
       "name": "Introduction to Robotics",
       "provider": "MIT OpenCourseWare",
@@ -6593,7 +7359,7 @@
       "last_checked": null
     },
     {
-      "id": 453,
+      "id": 513,
       "category": "Robotics & Mechatronics",
       "name": "Mechatronics Design",
       "provider": "MIT OpenCourseWare",
@@ -6607,7 +7373,7 @@
       "last_checked": null
     },
     {
-      "id": 454,
+      "id": 514,
       "category": "Robotics & Mechatronics",
       "name": "PLC Programming",
       "provider": "Alison",
@@ -6621,7 +7387,7 @@
       "last_checked": null
     },
     {
-      "id": 455,
+      "id": 515,
       "category": "Robotics & Mechatronics",
       "name": "Robot Operating System (ROS)",
       "provider": "The Construct",
@@ -6635,7 +7401,7 @@
       "last_checked": null
     },
     {
-      "id": 456,
+      "id": 516,
       "category": "Robotics & Mechatronics",
       "name": "Robotic Process Automation",
       "provider": "Automation Anywhere University",
@@ -6649,7 +7415,7 @@
       "last_checked": null
     },
     {
-      "id": 457,
+      "id": 517,
       "category": "Software Engineering",
       "name": "DevOps Engineering Essentials",
       "provider": "Linux Foundation",
@@ -6663,7 +7429,7 @@
       "last_checked": null
     },
     {
-      "id": 458,
+      "id": 518,
       "category": "Software Engineering",
       "name": "Distributed Systems Engineering",
       "provider": "MIT OpenCourseWare",
@@ -6677,7 +7443,7 @@
       "last_checked": null
     },
     {
-      "id": 459,
+      "id": 519,
       "category": "Software Engineering",
       "name": "Microservices Architecture",
       "provider": "IBM",
@@ -6691,7 +7457,7 @@
       "last_checked": null
     },
     {
-      "id": 460,
+      "id": 520,
       "category": "Software Engineering",
       "name": "Platform Engineering Fundamentals",
       "provider": "Coursera",
@@ -6705,7 +7471,7 @@
       "last_checked": null
     },
     {
-      "id": 461,
+      "id": 521,
       "category": "Software Engineering",
       "name": "Site Reliability Engineering",
       "provider": "Google",
@@ -6719,7 +7485,7 @@
       "last_checked": null
     },
     {
-      "id": 462,
+      "id": 522,
       "category": "Software Engineering",
       "name": "Software Architecture Fundamentals",
       "provider": "MIT OpenCourseWare",
@@ -6733,7 +7499,7 @@
       "last_checked": null
     },
     {
-      "id": 463,
+      "id": 523,
       "category": "Sound & Audio Engineering",
       "name": "Audio Electronics",
       "provider": "NPTEL",
@@ -6747,7 +7513,7 @@
       "last_checked": null
     },
     {
-      "id": 464,
+      "id": 524,
       "category": "Sound & Audio Engineering",
       "name": "Audio Engineering Fundamentals",
       "provider": "Coursera",
@@ -6761,7 +7527,7 @@
       "last_checked": null
     },
     {
-      "id": 465,
+      "id": 525,
       "category": "Sound & Audio Engineering",
       "name": "Digital Audio Processing",
       "provider": "Coursera",
@@ -6775,7 +7541,7 @@
       "last_checked": null
     },
     {
-      "id": 466,
+      "id": 526,
       "category": "Sound & Audio Engineering",
       "name": "Sound System Design",
       "provider": "Dante Certification Program",
