@@ -1,18 +1,31 @@
 {
-  "timestamp": "2026-01-30T08:26:58.648703+00:00",
-  "previous_count": 529,
-  "removed_invalid": 0,
+  "timestamp": "2026-01-30T12:31:41.554844+00:00",
+  "previous_count": 531,
+  "removed_invalid": 3,
   "discovered_new": 2,
-  "final_count": 531,
-  "invalid_removed": [],
-  "new_added": [
+  "final_count": 530,
+  "invalid_removed": [
     {
       "name": "The Ultimate Guide to Free Tech Courses & Certifications in 2025",
       "url": "https://businesstories.com/career/free-tech-courses-certifications-in-2025/"
     },
     {
+      "name": "Top 10 Free IT Certifications to Boost Your Career in 2025",
+      "url": "https://technewskills.com/top-free-it-certifications-2025/"
+    },
+    {
       "name": "Top 4 Free Certification Platforms for IT Career Growth (2025 Edition)",
       "url": "https://daily.touterbug.com/top-free-it-certification-platforms/"
+    }
+  ],
+  "new_added": [
+    {
+      "name": "Az 900 Test Prep - Az 900 Prep - Az 900 Course",
+      "url": "https://duckduckgo.com/y.js?ad_domain=codecademy.com&ad_provider=bingv7aa&ad_type=txad&click_metadata=duRAwL3lw3FbOB%2Dzke28esHHBj6NVeNr%2D5aNxX%2D54iav5ZGjeAhrGUORh6Nav9nZ9HB716vlljRZNwYq5C0n5On3RVOxevYgmaPZRhdFVEBC8qGIcAwuQRfLgNoU6vlRMPc10GjTRs8FLPcME0AJiU4e8pR1Ro92ji2u_MGQZ3I.Q3np0dXnw%2DVRNtY3a4xTiQ&rut=93be69788c7150815f4d76db34de729698fc1b3f22b748d1ec5d14e47949a1f7&u3=https%3A%2F%2Fwww.bing.com%2Faclick%3Fld%3De8eGIEDDDIPSg%2D%2DEpLUvNzSzVUCUxkfMQBGG79eZbZdE%2D2GHH2q80b_2cPA%2DhEKu8ig1KgByWAtdbzXtSyro9wgCm%2D8RK5R0WLxoUjaKCap3HP2FSR0s0QK9vca61_XW1N67bhkUBtW_yIWy1p2XWr5U37BQETcnw9OIorDSoDRika9JNbZy1plk%2D31AZzfEGnlHxvr2WYTEd0icRxFvKk73H_ItM%26u%3DaHR0cHMlM2ElMmYlMmZ3d3cuY29kZWNhZGVteS5jb20lMmZsZWFybiUyZmV4dC1wYXRocyUyZmF6LTkwMC1taWNyb3NvZnQtYXp1cmUtZnVuZGFtZW50YWxzJTNmZ19uZXR3b3JrJTNkcyUyNmdfcHJvZHVjdGNoYW5uZWwlM2QlMjZnX2FkaWQlM2QlMjZnX2xvY2ludGVyZXN0JTNkJTI2Z19rZXl3b3JkJTNkTWljcm9zb2Z0JTI1MjBBenVyZSUyNTIwRnVuZGFtZW50YWxzJTI2Z19hY2N0aWQlM2QyNDMtMDM5LTcwMTElMjZnX2FkdHlwZSUzZCUyNmdfa2V5d29yZGlkJTNka3dkLTc5MzcxNjIwNDMyMDEyJTNhbG9jLTQwODQlMjZnX2lmY3JlYXRpdmUlM2QlMjZnX2NhbXBhaWduJTNkYWNjb3VudCUyNmdfbG9jcGh5c2ljYWwlM2Q4NjM3OSUyNmdfYWRncm91cGlkJTNkMTI2OTkzNzY2Mzc2MTY0MSUyNmdfcHJvZHVjdGlkJTNkJTI2Z19zb3VyY2UlM2QlN2Jzb3VyY2VpZCU3ZCUyNmdfbWVyY2hhbnRpZCUzZCUyNmdfcGxhY2VtZW50JTNkJTI2Z19wYXJ0aXRpb24lM2QlMjZnX2NhbXBhaWduaWQlM2Q0NTg1MDc0NTMlMjZnX2lmcHJvZHVjdCUzZCUyNnV0bV9pZCUzZHRfa3dkLTc5MzcxNjIwNDMyMDEyJTNhbG9jLTQwODQlM2FhZ18xMjY5OTM3NjYzNzYxNjQxJTNhY3BfNDU4NTA3NDUzJTNhbl9zJTNhZF9jJTI2Z19hZHR5cGUlM2RzZWFyY2glMjZnX2FjY3RpZCUzZDI0My0wMzktNzAxMSUyNm1zY2xraWQlM2Q2Mzk4MzUzNTVjN2UxM2JjZjRlZjVjNDlmODhiMWYxYSUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZFVTJTI1MjAlMjUyMC0lMjUyMEJyb2FkJTI1MjAlMjUyMC0lMjUyMENlcnRpZmljYXRpb24lMjUyMENvdXJzZXMlMjZ1dG1fdGVybSUzZE1pY3Jvc29mdCUyNTIwQXp1cmUlMjUyMEZ1bmRhbWVudGFscyUyNnV0bV9jb250ZW50JTNkU1MlMjUyMC0lMjUyMEFaLTkwMCUyNTNBJTI1MjBNaWNyb3NvZnQlMjUyMEF6dXJlJTI1MjBGdW5kYW1lbnRhbHM%26rlid%3D639835355c7e13bcf4ef5c49f88b1f1a&vqd=4-189364935891370260024417118263172623189&iurl=%7B1%7DIG%3DC522BF7C8CBB4F529ABF331C95A8E3E7%26CID%3D2AB5CB4D43A46B781CE2DDBC42286A9B%26ID%3DDevEx%2C5038.1"
+    },
+    {
+      "name": "CertShield \u2014 Free AI, Cloud & IT Certification Practice Exams",
+      "url": "https://certshield.github.io/certshield-site/"
     }
   ]
 }
