@@ -4,7 +4,7 @@
 [![Data Quality](https://github.com/saint1415/free_certs/actions/workflows/data-quality.yml/badge.svg)](https://github.com/saint1415/free_certs/actions/workflows/data-quality.yml)
 [![Discover Certs](https://github.com/saint1415/free_certs/actions/workflows/discover-certs.yml/badge.svg)](https://github.com/saint1415/free_certs/actions/workflows/discover-certs.yml)
 
-A curated directory of **780+ free professional certifications** across Cloud Computing, Cybersecurity, Programming, AI/ML, and 40+ other categories.
+A curated directory of **465+ verified free professional certifications** across Cloud Computing, Cybersecurity, Programming, AI/ML, and 40+ other categories.
 
 ## Live Demo
 
@@ -12,7 +12,7 @@ A curated directory of **780+ free professional certifications** across Cloud Co
 
 ## Features
 
-- **780+ Free Certifications** - Verified and categorized
+- **465+ Free Certifications** - Verified and validated weekly
 - **40+ Categories** - Cloud, Security, Programming, AI/ML, Engineering, and more
 - **Modern UI** - Responsive design with dark mode support
 - **Smart Search** - Filter by category, provider, level, or keyword
