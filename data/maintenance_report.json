@@ -1,9 +1,14 @@
 {
-  "timestamp": "2026-01-31T08:17:49.855093+00:00",
+  "timestamp": "2026-01-31T12:25:26.276198+00:00",
   "previous_count": 532,
   "removed_invalid": 0,
-  "discovered_new": 0,
-  "final_count": 532,
+  "discovered_new": 1,
+  "final_count": 533,
   "invalid_removed": [],
-  "new_added": []
+  "new_added": [
+    {
+      "name": "Azure Cloud Skills\u2014Trainings and Certifications | Microsoft Azure",
+      "url": "https://azure.microsoft.com/en-us/resources/training-and-certifications/"
+    }
+  ]
 }
