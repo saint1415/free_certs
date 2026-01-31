@@ -1,19 +1,14 @@
 {
-  "timestamp": "2026-01-30T20:18:33.650419+00:00",
+  "timestamp": "2026-01-31T01:05:13.139590+00:00",
   "previous_count": 534,
-  "removed_invalid": 1,
+  "removed_invalid": 0,
   "discovered_new": 1,
-  "final_count": 534,
-  "invalid_removed": [
-    {
-      "name": "15+ Free Certifications to Gain High-Income Skills in 2025 - Forbes",
-      "url": "https://www.forbes.com/sites/rachelwells/2025/08/30/15-free-certifications-to-gain-high-income-skills-in-2025/"
-    }
-  ],
+  "final_count": 535,
+  "invalid_removed": [],
   "new_added": [
     {
-      "name": "A Cloud Guru - Get Cloud Certified - Pluralsight",
-      "url": "https://www.pluralsight.com/cloud-guru"
+      "name": "Top 10 Free Cloud Certifications to Boost Your Resume",
+      "url": "https://affoweb.com/blog/top-free-cloud-certifications-to-boost-your-resume/"
     }
   ]
 }
