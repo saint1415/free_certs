@@ -1,14 +1,31 @@
 {
-  "timestamp": "2026-01-31T01:05:13.139590+00:00",
-  "previous_count": 534,
-  "removed_invalid": 0,
+  "timestamp": "2026-01-31T04:56:42.094976+00:00",
+  "previous_count": 535,
+  "removed_invalid": 4,
   "discovered_new": 1,
-  "final_count": 535,
-  "invalid_removed": [],
+  "final_count": 532,
+  "invalid_removed": [
+    {
+      "name": "Cybersecurity Essentials",
+      "url": "https://www.netacad.com/courses/cybersecurity/cybersecurity-essentials"
+    },
+    {
+      "name": "Introduction to Cybersecurity",
+      "url": "https://www.netacad.com/courses/cybersecurity/introduction-cybersecurity"
+    },
+    {
+      "name": "Data Analytics Essentials",
+      "url": "https://www.netacad.com/courses/programming/data-analytics-essentials"
+    },
+    {
+      "name": "Introduction to IoT",
+      "url": "https://www.netacad.com/courses/iot/introduction-iot"
+    }
+  ],
   "new_added": [
     {
-      "name": "Top 10 Free Cloud Certifications to Boost Your Resume",
-      "url": "https://affoweb.com/blog/top-free-cloud-certifications-to-boost-your-resume/"
+      "name": "Top 4 Free Certification Platforms for IT Career Growth (2025 Edition)",
+      "url": "https://daily.touterbug.com/top-free-it-certification-platforms/"
     }
   ]
 }
