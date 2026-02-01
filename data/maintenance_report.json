@@ -1,14 +1,14 @@
 {
-  "timestamp": "2026-02-01T12:26:59.723667+00:00",
-  "previous_count": 531,
-  "removed_invalid": 0,
-  "discovered_new": 1,
-  "final_count": 532,
-  "invalid_removed": [],
-  "new_added": [
+  "timestamp": "2026-02-01T16:17:14.320997+00:00",
+  "previous_count": 532,
+  "removed_invalid": 1,
+  "discovered_new": 0,
+  "final_count": 531,
+  "invalid_removed": [
     {
-      "name": "Free Cloud Learning Paths: AWS, GCP, Azure, OCI Resources",
-      "url": "https://www.linkedin.com/posts/vsadhwani_stop-paying-for-cloud-courses-when-you-can-activity-7421234952710602752-rS8o"
+      "name": "Wiz Cloud Security",
+      "url": "https://www.wiz.io/academy/"
     }
-  ]
+  ],
+  "new_added": []
 }
