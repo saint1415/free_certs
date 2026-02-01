@@ -1,14 +1,255 @@
 {
-  "timestamp": "2026-02-01T16:17:14.320997+00:00",
-  "previous_count": 532,
+  "timestamp": "2026-02-01T20:14:49.410608+00:00",
+  "previous_count": 531,
   "removed_invalid": 1,
-  "discovered_new": 0,
-  "final_count": 531,
+  "discovered_new": 60,
+  "final_count": 590,
   "invalid_removed": [
     {
-      "name": "Wiz Cloud Security",
-      "url": "https://www.wiz.io/academy/"
+      "name": "Data Analysis with Python",
+      "url": "https://www.freecodecamp.org/learn/data-analysis-with-python/"
     }
   ],
-  "new_added": []
+  "new_added": [
+    {
+      "name": "IT Fundamentals+ Training - Comptia IT Fundamentals+",
+      "url": "https://duckduckgo.com/y.js?ad_domain=codecademy.com&ad_provider=bingv7aa&ad_type=txad&click_metadata=f8MMuh%2DCEoNT10kHd4c7kNpD_JAbSGOcUhQHsSFNsYcr4Dd7OtRZy1VccdYOx7mTdSA_DUh1iapVkOxX3nC981BkilY2BLg7%2DpNPB0EsDfjKUy4onBBqDeu8g284Vd9h8weAFlTo9_ddGZdgXhUWYNLdLdOXd06_HM19zbOfOOU.BjsP6qSMssGpRgDXt0SscA&rut=53a887c5e641e1797d4869483612b2334d7b36cd9bfc270336a4c4796b641d04&u3=https%3A%2F%2Fwww.bing.com%2Faclick%3Fld%3De8j0uYjWLLgHZaFoG%2DmNQmEjVUCUzL0W_lo082RXobREmNIUpBZaBoVeFJJsEyvYg3UXz9Wjbcpa3AvETzLCPeenCgIFJHkbrece8QBPTlWts8v6IvhGM91pmyGu7pq_5mDNtTB2Wr2PDEqpFMNQc%2DdLV%2Dux9p6R9YQ8RH1pASZtirqnCTRAX4U6N_dJ7mNOh6rwpE2ibGiRUQEAclYlft5AuvmV4%26u%3DaHR0cHMlM2ElMmYlMmZ3d3cuY29kZWNhZGVteS5jb20lMmZsZWFybiUyZmV4dC1wYXRocyUyZmZjMC11NjEtY29tcHRpYS1pdC1mdW5kYW1lbnRhbHMlM2ZnX25ldHdvcmslM2RzJTI2Z19wcm9kdWN0Y2hhbm5lbCUzZCUyNmdfYWRpZCUzZCUyNmdfbG9jaW50ZXJlc3QlM2QlMjZnX2tleXdvcmQlM2RDb21wVElBJTI1MjBJVCUyNTIwRnVuZGFtZW50YWxzJTI1MkIlMjUyMGZyZWUlMjUyMHRyYWluaW5nJTI2Z19hY2N0aWQlM2QyNDMtMDM5LTcwMTElMjZnX2FkdHlwZSUzZCUyNmdfa2V5d29yZGlkJTNka3dkLTc5NzgzOTM3NDU1MjIwJTNhbG9jLTQxMjklMjZnX2lmY3JlYXRpdmUlM2QlMjZnX2NhbXBhaWduJTNkYWNjb3VudCUyNmdfbG9jcGh5c2ljYWwlM2Q4NDkwNyUyNmdfYWRncm91cGlkJTNkMTI3NjUzNDczMzk5OTUwMyUyNmdfcHJvZHVjdGlkJTNkJTI2Z19zb3VyY2UlM2QlN2Jzb3VyY2VpZCU3ZCUyNmdfbWVyY2hhbnRpZCUzZCUyNmdfcGxhY2VtZW50JTNkJTI2Z19wYXJ0aXRpb24lM2QlMjZnX2NhbXBhaWduaWQlM2Q0NTg1MDc0NTMlMjZnX2lmcHJvZHVjdCUzZCUyNnV0bV9pZCUzZHRfa3dkLTc5NzgzOTM3NDU1MjIwJTNhbG9jLTQxMjklM2FhZ18xMjc2NTM0NzMzOTk5NTAzJTNhY3BfNDU4NTA3NDUzJTNhbl9zJTNhZF9jJTI2Z19hZHR5cGUlM2RzZWFyY2glMjZnX2FjY3RpZCUzZDI0My0wMzktNzAxMSUyNm1zY2xraWQlM2Q4ZWM4MTRjZjIzNmExNjJkMjAzNDdkYjA5NzFhMzJjZSUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZFVTJTI1MjAlMjUyMC0lMjUyMEJyb2FkJTI1MjAlMjUyMC0lMjUyMENlcnRpZmljYXRpb24lMjUyMENvdXJzZXMlMjZ1dG1fdGVybSUzZENvbXBUSUElMjUyMElUJTI1MjBGdW5kYW1lbnRhbHMlMjUyQiUyNTIwZnJlZSUyNTIwdHJhaW5pbmclMjZ1dG1fY29udGVudCUzZFNTJTI1MjAtJTI1MjBDb21wVElBJTI1MjBJVCUyNTIwRnVuZGFtZW50YWxzJTI1MkI%26rlid%3D8ec814cf236a162d20347db0971a32ce&vqd=4-41412023361242667510744528995163150181&iurl=%7B1%7DIG%3D3E00FAD063214FCA852DDF91E40700FB%26CID%3D37FDF3423DB562BE1262E5B13C3E636B%26ID%3DDevEx%2C5046.1"
+    },
+    {
+      "name": "FREE Entry-level Cybersecurity Training + Certification Exam",
+      "url": "https://www.isc2.org/landing/1mcc"
+    },
+    {
+      "name": "Free Cybersecurity Courses & Certificates [2026] | Coursera",
+      "url": "https://www.coursera.org/courses?query=free&skills=Cybersecurity"
+    },
+    {
+      "name": "Free Cyber Security Courses And Cyber Security Certifications Training ...",
+      "url": "https://www.eccouncil.org/cybersecurity-exchange/cyber-novice/free-cybersecurity-courses-beginners/"
+    },
+    {
+      "name": "Cyber Security 101 from National Cyber Security Training Academy - NICCS",
+      "url": "https://niccs.cisa.gov/training/catalog/ncsta/cyber-security-101"
+    },
+    {
+      "name": "Free Cybersecurity Courses Online with Certificates (2026)",
+      "url": "https://www.mygreatlearning.com/cybersecurity/free-courses"
+    },
+    {
+      "name": "11 Best FREE Online Cyber Security Courses (2026) - Guru99",
+      "url": "https://www.guru99.com/cyber-security-certifications-courses.html"
+    },
+    {
+      "name": "Free and Low Cost Online Cybersecurity Learning Content",
+      "url": "https://www.nist.gov/itl/applied-cybersecurity/nice/resources/online-learning-content"
+    },
+    {
+      "name": "Free Cyber Security Training & Resources | SANS Institute",
+      "url": "https://www.sans.org/cyberaces"
+    },
+    {
+      "name": "Directory of Free Cybersecurity Courses & Resources - 2025",
+      "url": "https://acsmi.org/blogs/directory-of-free-cybersecurity-courses-amp-resources-2025-edition"
+    },
+    {
+      "name": "Best Free Courses Programming Courses & Certificates [2026] | Coursera",
+      "url": "https://www.coursera.org/courses?query=free%20courses%20programming"
+    },
+    {
+      "name": "Flexible online courses with certificates | edX 2025",
+      "url": "https://www.edx.org/courses?q=free+programming+courses"
+    },
+    {
+      "name": "10 Free Online Programming Courses with Certificates: Become a Programmer",
+      "url": "https://certificationprogramsonline.com/become-a-programmer-free-online-programming-courses-with-certificates/"
+    },
+    {
+      "name": "Free Programming and Coding Courses Online with Certificate",
+      "url": "https://www.scaler.com/topics/courses/"
+    },
+    {
+      "name": "60 Best FREE Online Courses with Certificates (2026) - Guru99",
+      "url": "https://www.guru99.com/free-online-course-with-certificate.html"
+    },
+    {
+      "name": "Free Certifications - Find Free Professional Certifications Online",
+      "url": "https://free-certifications.com/"
+    },
+    {
+      "name": "Learn Programming for Free (Computer Programming) & Certificates (2026)",
+      "url": "https://www.mygreatlearning.com/programming/free-courses"
+    },
+    {
+      "name": "Learn to Code \u2014 For Free \u2014 Coding Courses for Busy People",
+      "url": "https://www.freecodecamp.org/"
+    },
+    {
+      "name": "Free Data Science Courses for Students | IBM SkillsBuild",
+      "url": "https://skillsbuild.org/students/course-catalog/data-science"
+    },
+    {
+      "name": "Free Data Science Courses & Certificates [2026] | Coursera",
+      "url": "https://www.coursera.org/courses?query=free&skills=Data%20Science"
+    },
+    {
+      "name": "Free Data Science Courses With Certificates (2025 Guide)",
+      "url": "https://devtoolhub.com/free-data-science-courses-2025/"
+    },
+    {
+      "name": "Free Data Science Course with Certificate | Enroll Now",
+      "url": "https://www.simplilearn.com/data-science-free-course-for-beginners-skillup"
+    },
+    {
+      "name": "Free Data Science Courses Online with Certificates (2026)",
+      "url": "https://www.mygreatlearning.com/data-science/free-courses"
+    },
+    {
+      "name": "Free Online Data Science Certification - Alison",
+      "url": "https://alison.com/certificate-courses/data-science"
+    },
+    {
+      "name": "37 Best Free Data Science Courses with Certificates In 2024",
+      "url": "https://pwskills.com/blog/free-data-science-courses-with-certificates/"
+    },
+    {
+      "name": "25 Best + Free Data Science Certificate Courses [2025]",
+      "url": "https://www.courseduck.com/programming/data-science/"
+    },
+    {
+      "name": "Learn in-demand AI skills - Learn with Coursiv",
+      "url": "https://duckduckgo.com/y.js?ad_domain=coursiv.io&ad_provider=bingv7aa&ad_type=txad&click_metadata=z3uYCaQ7%2DEm7_KUFAYijbTIoxszxe1uzb8DDpCbkicD1cgb3JbiA1yx9x9f3PtTRSN1sqtTaCk4Un0LxW6SCfNZAFevJZhnn%2D0f94tCrXXxK9NCUSNv%2DfHLHMhG6cnzfiz5AHGnIINgHyK6Nvd%2DAwSJm8%2D4Fyliys6RiiPQNPaI.js92iFf1_jekj2ui58_zXQ&rut=68ef9431b873c03e6dc2a083cd929d3b6deea956948d53f16c9ffef48f366c08&u3=https%3A%2F%2Fwww.bing.com%2Faclick%3Fld%3De88wYAvadVYcudYR06dCEOVjVUCUyQmlmIuZAu8MS6XSFD2nfFMIGOLyu2KdlptS1FN_sIh76v2%2DDsGUxE_%2D3PjKUqaKQAG2N_wWogzZVtzo6SDj6R1TnyCQMe1iKWdrSFVALY6WQa5p9_whO6Dkcv9EgY8oXvSlW_QxHDckdSkqKG%2DpCAc2JOBd6B55NfFp7xHFSuks6zva%2DM9Lih58yuXK8CqCI%26u%3DaHR0cHMlM2ElMmYlMmZjb3Vyc2l2LmlvJTJmZHluYW1pYyUzZnByY19pZCUzZDEwMzIlMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2Q0ODY2NDA5NTAlMjZ1dG1fYWRncm91cGlkJTNkMTIzMTQ1NDE1NjI0NjU5OCUyNnV0bV9rZXl3b3JkJTNkY291cnNpdiUyNTIwMjglMjUyMGRheSUyNTIwYWklMjUyMGNoYWxsZW5nZSUyNnV0bV90YXJnZXRpZCUzZGt3ZC03Njk2NjM0MTM3MzkyMyUzYWxvYy0xOTAlMjZ1dG1fbmV0d29yayUzZHMlMjZ1dG1fdHlwZSUzZGJyYW5kX3MlMjZtc2Nsa2lkJTNkMWZlOGIzM2NlYjkzMWY3YmI0ODJkYTQzNWZlYzEyMzA%26rlid%3D1fe8b33ceb931f7bb482da435fec1230&vqd=4-111572709253139424439857739615876383467&iurl=%7B1%7DIG%3D6DE5D43ADD62446CBC8A377F67C8E336%26CID%3D002B0AEE4120640E10141C1D40AB65D5%26ID%3DDevEx%2C5046.1"
+    },
+    {
+      "name": "Free Machine Learning Courses & Certificates [2026] | Coursera",
+      "url": "https://www.coursera.org/courses?query=free&skills=Machine%20Learning"
+    },
+    {
+      "name": "Free Artificial Intelligence (AI) Courses - Great Learning",
+      "url": "https://www.mygreatlearning.com/ai/free-courses"
+    },
+    {
+      "name": "The best free AI courses and certificates for upskilling in 2026 - and ...",
+      "url": "https://www.zdnet.com/article/best-free-ai-courses-and-certificates-for-upskilling/"
+    },
+    {
+      "name": "Artificial Intelligence Free Course with Certificate - Simplilearn",
+      "url": "https://www.simplilearn.com/free-ai-program-skillup"
+    },
+    {
+      "name": "Best Machine Learning Free Online Courses with Certificates",
+      "url": "https://www.upgrad.com/blog/machine-learning-free-online-course/"
+    },
+    {
+      "name": "10 Best AI Courses & Certificates (2026) - Learn.org",
+      "url": "https://learn.org/courses-and-certificates/ai"
+    },
+    {
+      "name": "Machine Learning & AI Courses | Google Cloud Training",
+      "url": "https://cloud.google.com/learn/training/machinelearning-ai"
+    },
+    {
+      "name": "Top 15 Free Professional Certifications That Can Boost Your Career in 2025",
+      "url": "https://www.preparebuddy.com/blog/free-professional-certifications/"
+    },
+    {
+      "name": "1200+ Free Certificate Courses [2026 January] [UPDATED]",
+      "url": "https://digitaldefynd.com/best-free-certification-course-training-online/"
+    },
+    {
+      "name": "Best Free Courses & Certificates [2026] | Coursera",
+      "url": "https://www.coursera.org/courses?query=free"
+    },
+    {
+      "name": "Free Certification Programs That Can Transform Your Career: Complete ...",
+      "url": "https://blog.theinterviewguys.com/free-certification-programs/"
+    },
+    {
+      "name": "35 Free Online Courses With Certificates (2025 Updated List)",
+      "url": "https://www.educatly.com/blog/784/free-online-courses-with-certificates-2025"
+    },
+    {
+      "name": "12 Free Online Courses With Certificates to Boost Your Resume",
+      "url": "https://www.themuse.com/advice/free-online-courses-with-certificates"
+    },
+    {
+      "name": "10,000+ Free Online Certificates & Badges: A Resource for Lifelong ...",
+      "url": "https://www.openculture.com/2025/01/10000-free-online-certificates-and-badges-a-resource-for-lifelong-learners.html"
+    },
+    {
+      "name": "credly-badge | A curated list of free Credly badges 500+ free ...",
+      "url": "https://wesleyscholl.github.io/credly-badge/"
+    },
+    {
+      "name": "Free Credly Badges - GitHub",
+      "url": "https://github.com/wesleyscholl/credly-badge"
+    },
+    {
+      "name": "Credly - Credly",
+      "url": "https://www.credly.com/organizations/credly/badges"
+    },
+    {
+      "name": "Best Free Online Courses With Certificate (Top 10) - Collegenp",
+      "url": "https://www.collegenp.com/article/best-free-online-courses-with-certificate"
+    },
+    {
+      "name": "Accredible | Digital Badging and Certificate Platform",
+      "url": "https://www.accredible.com/"
+    },
+    {
+      "name": "TPRM Certification Training Program - Vendor Management Training",
+      "url": "https://www.ncontracts.com/products/accredited-certification-program"
+    },
+    {
+      "name": "Vendor Management Certification - Compliance Education Institute",
+      "url": "https://compliance-edu.com/"
+    },
+    {
+      "name": "Supplier Management - Coursera",
+      "url": "https://www.coursera.org/learn/supplier-management"
+    },
+    {
+      "name": "How to Become a Certified Vendor Management Expert - LinkedIn",
+      "url": "https://www.linkedin.com/advice/0/how-can-you-become-certified-vendor-management"
+    },
+    {
+      "name": "Vendor Management for Technology Professionals - Skillsoft",
+      "url": "https://www.skillsoft.com/course/vendor-management-for-technology-professionals-af3f7209-263b-42f7-a383-4a636d3d0e5d"
+    },
+    {
+      "name": "Top 11 Vendor Manager Certifications - ResumeCat",
+      "url": "https://resumecat.com/blog/vendor-manager-certifications"
+    },
+    {
+      "name": "Supplier Relationship Management Certificate | ASCM",
+      "url": "https://www.ascm.org/supplier-relationship-management-program/"
+    },
+    {
+      "name": "Vendor Management Training Course | Global Knowledge",
+      "url": "https://www.globalknowledge.com/us-en/course/87079/vendor-management/"
+    },
+    {
+      "name": "Free IT Certification Exams Practice Tests - Updated for 2025 Exams",
+      "url": "https://certempire.com/practice-tests/"
+    },
+    {
+      "name": "Tech+ (V6) Practice Questions | CompTIA Certifications",
+      "url": "https://www.comptia.org/en-us/certifications/tech/practice-questions/"
+    },
+    {
+      "name": "Free IT Certification Practice Tests - Vision Training Systems",
+      "url": "https://www.visiontrainingsystems.com/practice-tests/"
+    },
+    {
+      "name": "ExamCademy \u2014 Free IT Certification Exam Prep",
+      "url": "https://examcademy.com/"
+    },
+    {
+      "name": "5 Tech Certification Exams That Let You Retake for Free",
+      "url": "https://www.exam-labs.com/blog/5-tech-certification-exams-that-let-you-retake-for-free"
+    },
+    {
+      "name": "CertNova - Free Certification Exam Practice",
+      "url": "https://www.certnova.com/"
+    }
+  ]
 }
