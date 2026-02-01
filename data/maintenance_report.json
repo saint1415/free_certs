@@ -1,14 +1,27 @@
 {
-  "timestamp": "2026-02-01T01:20:05.113947+00:00",
-  "previous_count": 532,
-  "removed_invalid": 0,
-  "discovered_new": 1,
+  "timestamp": "2026-02-01T05:18:46.218407+00:00",
+  "previous_count": 533,
+  "removed_invalid": 2,
+  "discovered_new": 2,
   "final_count": 533,
-  "invalid_removed": [],
+  "invalid_removed": [
+    {
+      "name": "Lacework Cloud Security",
+      "url": "https://www.lacework.com/resources/"
+    },
+    {
+      "name": "Spanish for Beginners",
+      "url": "https://ave.cervantes.es/"
+    }
+  ],
   "new_added": [
     {
-      "name": "Top Free IT Certification Course To Do In 2025 | UniAthena",
-      "url": "https://uniathena.com/top-free-it-certification-course-2024"
+      "name": "20 Necessary IT Certifications + Salaries I Skillsoft",
+      "url": "https://www.skillsoft.com/blog/top-paying-it-certifications"
+    },
+    {
+      "name": "900+ Free Developer and IT Certifications - Tech-Tech",
+      "url": "https://tech-tech.life/2024/12/15/900-free-developer-and-it-certifications/"
     }
   ]
 }
