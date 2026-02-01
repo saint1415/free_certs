@@ -1,18 +1,14 @@
 {
-  "timestamp": "2026-02-01T08:20:53.186507+00:00",
-  "previous_count": 533,
-  "removed_invalid": 2,
-  "discovered_new": 0,
-  "final_count": 531,
-  "invalid_removed": [
+  "timestamp": "2026-02-01T12:26:59.723667+00:00",
+  "previous_count": 531,
+  "removed_invalid": 0,
+  "discovered_new": 1,
+  "final_count": 532,
+  "invalid_removed": [],
+  "new_added": [
     {
-      "name": "Spinnaker Continuous Delivery",
-      "url": "https://spinnaker.io/docs/guides/"
-    },
-    {
-      "name": "UI Design Fundamentals",
-      "url": "https://thegymnasium.com/courses/GYM/103/0/about"
+      "name": "Free Cloud Learning Paths: AWS, GCP, Azure, OCI Resources",
+      "url": "https://www.linkedin.com/posts/vsadhwani_stop-paying-for-cloud-courses-when-you-can-activity-7421234952710602752-rS8o"
     }
-  ],
-  "new_added": []
+  ]
 }
