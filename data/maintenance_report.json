@@ -1,27 +1,18 @@
 {
-  "timestamp": "2026-02-01T05:18:46.218407+00:00",
+  "timestamp": "2026-02-01T08:20:53.186507+00:00",
   "previous_count": 533,
   "removed_invalid": 2,
-  "discovered_new": 2,
-  "final_count": 533,
+  "discovered_new": 0,
+  "final_count": 531,
   "invalid_removed": [
     {
-      "name": "Lacework Cloud Security",
-      "url": "https://www.lacework.com/resources/"
+      "name": "Spinnaker Continuous Delivery",
+      "url": "https://spinnaker.io/docs/guides/"
     },
     {
-      "name": "Spanish for Beginners",
-      "url": "https://ave.cervantes.es/"
+      "name": "UI Design Fundamentals",
+      "url": "https://thegymnasium.com/courses/GYM/103/0/about"
     }
   ],
-  "new_added": [
-    {
-      "name": "20 Necessary IT Certifications + Salaries I Skillsoft",
-      "url": "https://www.skillsoft.com/blog/top-paying-it-certifications"
-    },
-    {
-      "name": "900+ Free Developer and IT Certifications - Tech-Tech",
-      "url": "https://tech-tech.life/2024/12/15/900-free-developer-and-it-certifications/"
-    }
-  ]
+  "new_added": []
 }
