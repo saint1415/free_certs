@@ -1,22 +1,14 @@
 {
-  "timestamp": "2026-02-02T12:34:56.501255+00:00",
-  "previous_count": 591,
-  "removed_invalid": 3,
-  "discovered_new": 0,
-  "final_count": 588,
-  "invalid_removed": [
-    {
-      "name": "35 Free Online Courses With Certificates (2025 Updated List)",
-      "url": "https://www.educatly.com/blog/784/free-online-courses-with-certificates-2025"
-    },
-    {
-      "name": "Top 4 Free Certification Platforms for IT Career Growth (2025 Edition)",
-      "url": "https://daily.touterbug.com/top-free-it-certification-platforms/"
-    },
+  "timestamp": "2026-02-02T16:25:34.061709+00:00",
+  "previous_count": 588,
+  "removed_invalid": 0,
+  "discovered_new": 1,
+  "final_count": 589,
+  "invalid_removed": [],
+  "new_added": [
     {
       "name": "Top Free IT Certification Course To Do In 2025 | UniAthena",
       "url": "https://uniathena.com/top-free-it-certification-course-2024"
     }
-  ],
-  "new_added": []
+  ]
 }
