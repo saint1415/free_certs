@@ -1,14 +1,9 @@
 {
-  "timestamp": "2026-02-02T01:12:03.914450+00:00",
-  "previous_count": 590,
+  "timestamp": "2026-02-02T05:19:48.802542+00:00",
+  "previous_count": 591,
   "removed_invalid": 0,
-  "discovered_new": 1,
+  "discovered_new": 0,
   "final_count": 591,
   "invalid_removed": [],
-  "new_added": [
-    {
-      "name": "Free Cloud Computing Courses Online with Certificates (2026)",
-      "url": "https://www.mygreatlearning.com/cloud-computing/free-courses"
-    }
-  ]
+  "new_added": []
 }
