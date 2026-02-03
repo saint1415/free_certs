@@ -1,27 +1,19 @@
 {
-  "timestamp": "2026-02-03T01:12:51.097905+00:00",
+  "timestamp": "2026-02-03T05:10:47.691542+00:00",
   "previous_count": 589,
-  "removed_invalid": 2,
-  "discovered_new": 2,
+  "removed_invalid": 1,
+  "discovered_new": 1,
   "final_count": 589,
   "invalid_removed": [
     {
-      "name": "Jenkins Essentials for Cloud",
-      "url": "https://www.jenkins.io/doc/tutorials/"
-    },
-    {
-      "name": "5 Tech Certification Exams That Let You Retake for Free",
-      "url": "https://www.exam-labs.com/blog/5-tech-certification-exams-that-let-you-retake-for-free"
+      "name": "Top Free IT Certification Course To Do In 2025 | UniAthena",
+      "url": "https://uniathena.com/top-free-it-certification-course-2024"
     }
   ],
   "new_added": [
     {
-      "name": "IT Fundamentals+ Training - IT Fundamentals+ Test Prep",
-      "url": "https://duckduckgo.com/y.js?ad_domain=codecademy.com&ad_provider=bingv7aa&ad_type=txad&click_metadata=Xy1spmzafxnvo0mUNatWTrif1tfJFtPy%2Dm6JYH8tNoixgTi2go6TCD8q%2DqWqerUQKwDWq6bbAMnubOioAlz6RJsOeUfTmLBI3T9LOGivL92ILO5%2DHMY1JYxVnU1iJP9PkKiNBYm1JBA31X4Dqziue9bpDIRtAVoybb3VigyvQn0.d_iyJAROsK5_vGPgIEOlCw&rut=f10c06b3699fdae918661002e247d6dac376a11d3c29ee768d0d1ecea7f4b990&u3=https%3A%2F%2Fwww.bing.com%2Faclick%3Fld%3De8C07BmDdLHuMbOQ9H1W3uHTVUCUwgDdvFYlVPCFkIdbkxJPqfy2qLerN73YarbwX3t6eZ1csYr9u7ZuMrlaYISW7qqWaw_BTdSiLwYg3WGmDGXt9oR9n1iBW3yLl8twrGeYr%2DDjZ4xdqKFuvW1AOdZ%2D2vxIeyhclt3PiYB5csUjpgGtui9VZN_lukvy4ljxptVdS6xHwNOWWTME5OMedzstcrzgM%26u%3DaHR0cHMlM2ElMmYlMmZ3d3cuY29kZWNhZGVteS5jb20lMmZsZWFybiUyZmV4dC1wYXRocyUyZmZjMC11NjEtY29tcHRpYS1pdC1mdW5kYW1lbnRhbHMlM2ZnX25ldHdvcmslM2RzJTI2Z19wcm9kdWN0Y2hhbm5lbCUzZCUyNmdfYWRpZCUzZCUyNmdfbG9jaW50ZXJlc3QlM2QlMjZnX2tleXdvcmQlM2RDb21wVElBJTI1MjBJVCUyNTIwRnVuZGFtZW50YWxzJTI1MkIlMjUyMGZyZWUlMjUyMHRyYWluaW5nJTI2Z19hY2N0aWQlM2QyNDMtMDM5LTcwMTElMjZnX2FkdHlwZSUzZCUyNmdfa2V5d29yZGlkJTNka3dkLTc5NzgzOTM3NDU1MjIwJTNhbG9jLTQwOTUlMjZnX2lmY3JlYXRpdmUlM2QlMjZnX2NhbXBhaWduJTNkYWNjb3VudCUyNmdfbG9jcGh5c2ljYWwlM2QxMDIwNTclMjZnX2FkZ3JvdXBpZCUzZDEyNzY1MzQ3MzM5OTk1MDMlMjZnX3Byb2R1Y3RpZCUzZCUyNmdfc291cmNlJTNkJTdic291cmNlaWQlN2QlMjZnX21lcmNoYW50aWQlM2QlMjZnX3BsYWNlbWVudCUzZCUyNmdfcGFydGl0aW9uJTNkJTI2Z19jYW1wYWlnbmlkJTNkNDU4NTA3NDUzJTI2Z19pZnByb2R1Y3QlM2QlMjZ1dG1faWQlM2R0X2t3ZC03OTc4MzkzNzQ1NTIyMCUzYWxvYy00MDk1JTNhYWdfMTI3NjUzNDczMzk5OTUwMyUzYWNwXzQ1ODUwNzQ1MyUzYW5fcyUzYWRfYyUyNmdfYWR0eXBlJTNkc2VhcmNoJTI2Z19hY2N0aWQlM2QyNDMtMDM5LTcwMTElMjZtc2Nsa2lkJTNkMDQwYzY2NjIzZjNmMTdiYWEzYWIwZmUzNzRmYjBiMzAlMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RVUyUyNTIwJTI1MjAtJTI1MjBCcm9hZCUyNTIwJTI1MjAtJTI1MjBDZXJ0aWZpY2F0aW9uJTI1MjBDb3Vyc2VzJTI2dXRtX3Rlcm0lM2RDb21wVElBJTI1MjBJVCUyNTIwRnVuZGFtZW50YWxzJTI1MkIlMjUyMGZyZWUlMjUyMHRyYWluaW5nJTI2dXRtX2NvbnRlbnQlM2RTUyUyNTIwLSUyNTIwQ29tcFRJQSUyNTIwSVQlMjUyMEZ1bmRhbWVudGFscyUyNTJC%26rlid%3D040c66623f3f17baa3ab0fe374fb0b30&vqd=4-211160662700773934718868791301010825458&iurl=%7B1%7DIG%3DE616F3D248704C58952B1CDB09EA557E%26CID%3D1A692011EC7164690E3336E4EDB56574%26ID%3DDevEx%2C5046.1"
-    },
-    {
-      "name": "Free Cloud Learning Resources from AWS, GCP, Azure & OCI",
-      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7421234952710602752/"
+      "name": "Learn Data Analysis Online - Learn Data Analysis: 100% Free",
+      "url": "https://duckduckgo.com/y.js?ad_domain=calbright.edu&ad_provider=bingv7aa&ad_type=txad&click_metadata=EA0SYhGAEq4FDW19iljRp0zNnaleLT%2DgkiGmgiEIMJFN2Cb%2Dex_iOCx0BDeT_3_%2DfqbplWqO5gLRmtT7O3CD2c4dzgFX7Vz4vwHva7OiNOmMuZ5bMdy9vW_GIYm8u929vs6uQT8S%2Db3t_o0eCzA9Tb_5EJH8cOFik4%2Dy_rlMWko.3pywwK5ggdmypZF9R8e63Q&rut=a28302347505eceb56862d112ec75e151c987c3eb690b00cd76888c29ac0896e&u3=https%3A%2F%2Fwww.bing.com%2Faclick%3Fld%3De8OJWpWtUntjoqg6zEwWYEbjVUCUwqL0lFgvBuwEM_D1Mq6lUj8wqZEGG%2D%2DGxs6DCYo6lXRZag7M_CyPXhOy7fW8WzzOJUeLJ4OVnXJtixqkPqImIKLuEZDunl_vZhNx4K4U_37t__0BEZ8FIqevJj90UoK0qrHyc28cKCHeJ_smqkipcdoyDMKFOnFkdSq%2DSNgaVSgya7poj%2DxlsDk9Rag8IConc%26u%3DaHR0cHMlM2ElMmYlMmZ3d3cuY2FsYnJpZ2h0LmVkdSUyZmRhdGEtYW5hbHlzaXMlM2Z1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2Rnb29nbGVfc2VhcmNoX2RhdGFfYW5hbHlzaXMlMjZ1dG1fY29udGVudCUzZGFib3V0X2RhdGFfYW5hbHlzaXMlMjZ1dG1fdGVybSUzZGZyZWUlMjUyMGRhdGElMjUyMGFuYWx5c2lzJTI1MjBjb3Vyc2UlMjUyMHdpdGglMjUyMGNlcnRpZmljYXRlJTI2dXRtX3Rlcm0lM2RmcmVlJTI1MjBkYXRhJTI1MjBhbmFseXNpcyUyNTIwY291cnNlJTI1MjB3aXRoJTI1MjBjZXJ0aWZpY2F0ZSUyNnV0bV9jYW1wYWlnbiUzZGJpbmclMmJTZWFyY2glMmItJTJiRGF0YSUyYkFuYWx5c2lzJTJiQ2FtcGFpZ24lMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RwcGMlMjZoc2FfYWNjJTNkMjM4NjE0NDc4MiUyNmhzYV9jYW0lM2QyMDcxNzE0OTU3MCUyNmhzYV9ncnAlM2QxMzQ4MDAzNzczMTQwOTEyJTI2aHNhX2FkJTNkJTI2aHNhX3NyYyUzZHMlMjZoc2FfdGd0JTNka3dkLTg0MjUxMzgyNjg0NDAxJTNhbG9jLTExMzA1MiUyNmhzYV9rdyUzZGZyZWUlMjUyMGRhdGElMjUyMGFuYWx5c2lzJTI1MjBjb3Vyc2UlMjUyMHdpdGglMjUyMGNlcnRpZmljYXRlJTI2aHNhX210JTNkYiUyNmhzYV9uZXQlM2RhZHdvcmRzJTI2aHNhX3ZlciUzZDMlMjZtc2Nsa2lkJTNkY2ViNGJlNDk1YzJlMWU3NTc5NGVkN2M4ZGZiZTU2ZTk%26rlid%3Dceb4be495c2e1e75794ed7c8dfbe56e9&vqd=4-306621815795800389152181593319642114157&iurl=%7B1%7DIG%3DF20E17F684984CD496B1C481FCC844DE%26CID%3D2937717726AA63A11A3B6782277F629C%26ID%3DDevEx%2C5051.1"
     }
   ]
 }
