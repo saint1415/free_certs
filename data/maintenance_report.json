@@ -1,39 +1,14 @@
 {
-  "timestamp": "2026-02-03T16:40:53.648908+00:00",
-  "previous_count": 592,
+  "timestamp": "2026-02-03T20:25:37.357376+00:00",
+  "previous_count": 597,
   "removed_invalid": 1,
-  "discovered_new": 6,
-  "final_count": 597,
+  "discovered_new": 0,
+  "final_count": 596,
   "invalid_removed": [
-    {
-      "name": "Design Systems",
-      "url": "https://www.designbetter.co/design-systems-handbook"
-    }
-  ],
-  "new_added": [
     {
       "name": "Top Free IT Certification Course To Do In 2025 | UniAthena",
       "url": "https://uniathena.com/top-free-it-certification-course-2024"
-    },
-    {
-      "name": "Free Cloud Computing Course Online with Certificate - Simplilearn",
-      "url": "https://www.simplilearn.com/introduction-to-cloud-computing-basics-skillup"
-    },
-    {
-      "name": "ACE\u00ae Fitness Certifications - Accredited Certifications",
-      "url": "https://duckduckgo.com/y.js?ad_domain=acefitness.org&ad_provider=bingv7aa&ad_type=txad&click_metadata=gDAX50Xq7eQpSx6EJs1mokWShcK_jrrs5OcD1EVL6IDHeBNYNCWh382QaTYWjt6bQMPlgTuMiAZg%2DBW2NNa8OK0ZJuenOzUl5JqUiQU1nTEJu8OiN9krEZYXcWT%2DecOP5%2D8orRpJ_NiXhYOMFyGmlRhGcYTXPImtNDenekfaf3U.6iojG9%2DBcv0rxPJMbYU1Gw&rut=e76b40c018343eb2d0ad78e1b9dbb5716a5ad1b0d3980f607d5a5553d336f35a&u3=https%3A%2F%2Fwww.bing.com%2Faclick%3Fld%3De8xTBIjxJTUVYeQNVb5AaSDDVUCUwMkncboOaxfgfEH7heO6i6rVPzXR1yqVXnnYeLkPyszsd91pTVflQcsUOfh7D_0SLSX94UN4vMgZaEEHHZQZ4ZhrJoQ6Knokiz3XIckfsp550EEnwL2DXlf3LJX3R1lHInXeuP7b7EaX0AOYo0cveUNPioH843LIQjBz85LE%2DFK%2DRjxih_VW643EKxPIrcp5U%26u%3DaHR0cHMlM2ElMmYlMmZ3d3cuYWNlZml0bmVzcy5vcmclMmZnZXQtY2VydGlmaWVkJTJmJTNmY2FtcGFpZ25pZCUzZDU1NDUxOTU2MyUyNmFkZ3JvdXBpZCUzZDEyOTUyMjU3OTQ0ODIyMjQlMjZhZGlkJTNkJTI2bXNjbGtpZCUzZGI0NzI0MmViNjE1ODExNzkzMDlhMmI2OTQ0Mzk1ZmI4JTI2dXRtX3NvdXJjZSUzZGJpbmclMjZ1dG1fbWVkaXVtJTNkY3BjJTI2dXRtX2NhbXBhaWduJTNkQUNFJTI1MjBGaXRuZXNzJTI1MjAlMjU3QyUyNTIwQk9GVSUyNTIwJTI1N0MlMjUyMFNlYXJjaCUyNTIwLSUyNTIwQnJhbmQlMjUyMCUyNTdDJTI1MjBNYXglMjUyMENvbnYlMjUyMCUyNTdDJTI1MjBGWTIwMjQlMjUyMCUyNTdDJTI1MjBGWTIwMjUlMjZ1dG1fdGVybSUzZGFtZXJpY2FuJTI1MjBjb3VuY2lsJTI1MjBvbiUyNTIwZXhlcmNpc2UlMjZ1dG1fY29udGVudCUzZEdlbmVyYWw%26rlid%3Db47242eb61581179309a2b6944395fb8&vqd=4-52223610660938765083884451132850083404&iurl=%7B1%7DIG%3D07D10E7F4501480B9A781255AD553C40%26CID%3D0FA39191F0A167A42F5B8764F10C66E6%26ID%3DDevEx%2C5045.1"
-    },
-    {
-      "name": "35 Free Online Courses With Certificates (2025 Updated List)",
-      "url": "https://www.educatly.com/blog/784/free-online-courses-with-certificates-2025"
-    },
-    {
-      "name": "Free Procurement Management Course with Certificate [2026]",
-      "url": "https://www.mygreatlearning.com/academy/learn-for-free/courses/procurement-management"
-    },
-    {
-      "name": "Third Party Vendor Risk Management Course (TPRM) | Akitra",
-      "url": "https://akitra.com/courses/third-party-vendor-risk-management-course/"
     }
-  ]
+  ],
+  "new_added": []
 }
