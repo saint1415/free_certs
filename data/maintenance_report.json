@@ -1,18 +1,18 @@
 {
-  "timestamp": "2026-02-04T01:07:47.304783+00:00",
-  "previous_count": 596,
+  "timestamp": "2026-02-04T05:04:34.960045+00:00",
+  "previous_count": 598,
   "removed_invalid": 0,
   "discovered_new": 2,
-  "final_count": 598,
+  "final_count": 600,
   "invalid_removed": [],
   "new_added": [
     {
-      "name": "Top Free IT Certification Course To Do In 2025 | UniAthena",
-      "url": "https://uniathena.com/top-free-it-certification-course-2024"
+      "name": "AI-Powered AWS, Azure, GCP Practice Exam | Cloudoku.training",
+      "url": "https://cloudoku.training/free-training"
     },
     {
-      "name": "AWS vs Azure vs GCP Certifications: Which Cloud Pays More? (2026)",
-      "url": "https://www.studytech.ai/blog/aws-vs-azure-vs-gcp-certifications"
+      "name": "Free Cloud Computing Courses With Certification",
+      "url": "https://beyondlearn.in/cloud-computing-courses-free-certification/"
     }
   ]
 }
