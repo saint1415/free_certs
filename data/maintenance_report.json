@@ -1,14 +1,18 @@
 {
-  "timestamp": "2026-02-03T20:25:37.357376+00:00",
-  "previous_count": 597,
-  "removed_invalid": 1,
-  "discovered_new": 0,
-  "final_count": 596,
-  "invalid_removed": [
+  "timestamp": "2026-02-04T01:07:47.304783+00:00",
+  "previous_count": 596,
+  "removed_invalid": 0,
+  "discovered_new": 2,
+  "final_count": 598,
+  "invalid_removed": [],
+  "new_added": [
     {
       "name": "Top Free IT Certification Course To Do In 2025 | UniAthena",
       "url": "https://uniathena.com/top-free-it-certification-course-2024"
+    },
+    {
+      "name": "AWS vs Azure vs GCP Certifications: Which Cloud Pays More? (2026)",
+      "url": "https://www.studytech.ai/blog/aws-vs-azure-vs-gcp-certifications"
     }
-  ],
-  "new_added": []
+  ]
 }
