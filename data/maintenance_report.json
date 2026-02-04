@@ -1,18 +1,14 @@
 {
-  "timestamp": "2026-02-04T05:04:34.960045+00:00",
-  "previous_count": 598,
-  "removed_invalid": 0,
-  "discovered_new": 2,
-  "final_count": 600,
-  "invalid_removed": [],
-  "new_added": [
+  "timestamp": "2026-02-04T08:28:57.196202+00:00",
+  "previous_count": 600,
+  "removed_invalid": 1,
+  "discovered_new": 0,
+  "final_count": 599,
+  "invalid_removed": [
     {
-      "name": "AI-Powered AWS, Azure, GCP Practice Exam | Cloudoku.training",
-      "url": "https://cloudoku.training/free-training"
-    },
-    {
-      "name": "Free Cloud Computing Courses With Certification",
-      "url": "https://beyondlearn.in/cloud-computing-courses-free-certification/"
+      "name": "Get rewarded for gaining tech skills and free certifications at the ...",
+      "url": "https://pulse.microsoft.com/en/skill-forward-en/na/fa1-get-rewarded-for-gaining-tech-skills-and-free-certifications-at-the-microsoft-spring-skills-challenge/"
     }
-  ]
+  ],
+  "new_added": []
 }
