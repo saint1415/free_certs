@@ -1,47 +1,19 @@
 {
-  "timestamp": "2026-02-04T16:34:57.435500+00:00",
-  "previous_count": 599,
-  "removed_invalid": 7,
-  "discovered_new": 2,
+  "timestamp": "2026-02-04T20:22:39.664959+00:00",
+  "previous_count": 594,
+  "removed_invalid": 1,
+  "discovered_new": 1,
   "final_count": 594,
   "invalid_removed": [
     {
-      "name": "Terraform Cloud Advanced",
-      "url": "https://learn.hashicorp.com/collections/terraform/cloud"
-    },
-    {
-      "name": "Terraform Cloud Automation",
-      "url": "https://learn.hashicorp.com/collections/terraform/cloud-get-started"
-    },
-    {
-      "name": "Data Visualization with D3.js",
-      "url": "https://www.freecodecamp.org/learn/data-visualization/"
-    },
-    {
-      "name": "1200+ Free Certificate Courses [2026 January] [UPDATED]",
-      "url": "https://digitaldefynd.com/best-free-certification-course-training-online/"
-    },
-    {
-      "name": "Multi-Cloud Certification Practice | AWS, GCP, Azure, OCI - Master ...",
-      "url": "https://mastercloudcert.com/"
-    },
-    {
-      "name": "The Odin Project: Full Stack Ruby on Rails",
-      "url": "https://www.theodinproject.com/paths/full-stack-ruby-on-rails"
-    },
-    {
-      "name": "Sound System Design",
-      "url": "https://www.audinate.com/learning/training-certification"
+      "name": "Early Childhood Education",
+      "url": "https://agora.unicef.org/"
     }
   ],
   "new_added": [
     {
-      "name": "Univ of Maryland Global Campus - Get a Certificate Online",
-      "url": "https://duckduckgo.com/y.js?ad_domain=umgc.edu&ad_provider=bingv7aa&ad_type=txad&click_metadata=oqSIrFoo%2DecBrENTSMb4_ZXyEpf0QzfbM_qxBBSRzjUBoqJSN_VqIiy9p4snCM_vTfkg8fWY2WFkZuwgTTrZ15_jzv3nrOsJmllqG23ibHZGhSj4iqWBrMcDbBBn%2DFY9z3bcALQ37JV9djW1c%2DEG9k5caJVbVdhQjbGEkdFjEGs.1hqh3H%2DQv0mupAVp0rYGXA&rut=92c2e88a7221ceb9aded9c582452827cc1543c03e33124318a0a3274d9a6324e&u3=https%3A%2F%2Fwww.bing.com%2Faclick%3Fld%3De8kQHeB1nOl4151FIfBkHzgTVUCUzg00m4E4WC3BpIy7qGzjkMF2kVhlfCcFvV4i7pPrYwH4eAHre8Fb4g0OctvNzZo7nV3yENsIpwMrwNOVV_ayu7clOB_UQhcI5zmFndkjLQ9fM%2Dywdt52QBfBApcnuAA8R%2Dy6JuW_XEM2BgoEkENKpvq2AZxfhNKOI6Njj75gXma5G7JZUTOiaNWcmb91dGfBo%26u%3DaHR0cHMlM2ElMmYlMmZ3d3cudW1nYy5lZHUlMmZsZWFybi1tb3JlJTJmZ2VuJTJmZGVncmVlJTJmY2VydGlmaWNhdGVzLW9ubGluZS5odG1sJTNmbWFya2V0Y29kZSUzZFdCMzA3MTAzJTI2bmV0d29yayUzZHMlMjZnY2xpZCUzZDc1ZmI3MWNiMDkyMDFkNTlkODgyMTg0ODdjNTc4NmJkJTI2Z2Nsc3JjJTNkM3AuZHMlMjZtc2Nsa2lkJTNkNzVmYjcxY2IwOTIwMWQ1OWQ4ODIxODQ4N2M1Nzg2YmQlMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCSU5HX05CX0NFUlRJRklDQVRFX0RNVl9USUVSLTFfV0IzMDcxMDMlMjZ1dG1fdGVybSUzZGNlcnRpZmljYXRlJTI1MjB0cmFpbmluZyUyNTIwcHJvZ3JhbXMlMjZ1dG1fY29udGVudCUzZENlcnRpZmljYXRlcw%26rlid%3D75fb71cb09201d59d88218487c5786bd&vqd=4-307409478036360234801672235479980313545&iurl=%7B1%7DIG%3DECE2AD0074C34F3BADC29021E45CB355%26CID%3D1D8354E869B46C972DBF421E68206D9D%26ID%3DDevEx%2C5045.1"
-    },
-    {
-      "name": "Free Cloud Certification Practice Tests - AWS, Azure, GCP | CloudJobs",
-      "url": "https://cloudjobs.io/study"
+      "name": "Multi-Cloud Certification Practice | AWS, GCP, Azure, OCI - Master ...",
+      "url": "https://mastercloudcert.com/"
     }
   ]
 }
