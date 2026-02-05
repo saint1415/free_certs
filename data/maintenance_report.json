@@ -1,9 +1,14 @@
 {
-  "timestamp": "2026-02-05T05:12:11.017976+00:00",
+  "timestamp": "2026-02-05T08:30:58.414732+00:00",
   "previous_count": 593,
   "removed_invalid": 0,
-  "discovered_new": 0,
-  "final_count": 593,
+  "discovered_new": 1,
+  "final_count": 594,
   "invalid_removed": [],
-  "new_added": []
+  "new_added": [
+    {
+      "name": "Get rewarded for gaining tech skills and free certifications at the ...",
+      "url": "https://pulse.microsoft.com/en/skill-forward-en/na/fa1-get-rewarded-for-gaining-tech-skills-and-free-certifications-at-the-microsoft-spring-skills-challenge/"
+    }
+  ]
 }
