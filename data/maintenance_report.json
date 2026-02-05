@@ -1,19 +1,14 @@
 {
-  "timestamp": "2026-02-04T20:22:39.664959+00:00",
+  "timestamp": "2026-02-05T01:08:32.521959+00:00",
   "previous_count": 594,
   "removed_invalid": 1,
-  "discovered_new": 1,
-  "final_count": 594,
+  "discovered_new": 0,
+  "final_count": 593,
   "invalid_removed": [
     {
-      "name": "Early Childhood Education",
-      "url": "https://agora.unicef.org/"
+      "name": "Greek Language Fundamentals",
+      "url": "https://www.hau.gr/"
     }
   ],
-  "new_added": [
-    {
-      "name": "Multi-Cloud Certification Practice | AWS, GCP, Azure, OCI - Master ...",
-      "url": "https://mastercloudcert.com/"
-    }
-  ]
+  "new_added": []
 }
