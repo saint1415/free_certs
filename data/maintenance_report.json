@@ -1,18 +1,9 @@
 {
-  "timestamp": "2026-02-05T12:37:14.527075+00:00",
-  "previous_count": 594,
-  "removed_invalid": 2,
+  "timestamp": "2026-02-05T16:35:08.693464+00:00",
+  "previous_count": 592,
+  "removed_invalid": 0,
   "discovered_new": 0,
   "final_count": 592,
-  "invalid_removed": [
-    {
-      "name": "AI Tokens and LLMs",
-      "url": "https://huggingface.co/learn/nlp-course/chapter6"
-    },
-    {
-      "name": "Hugging Face Transformers Course",
-      "url": "https://huggingface.co/learn/nlp-course/chapter1"
-    }
-  ],
+  "invalid_removed": [],
   "new_added": []
 }
