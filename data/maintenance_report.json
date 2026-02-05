@@ -1,14 +1,9 @@
 {
-  "timestamp": "2026-02-05T01:08:32.521959+00:00",
-  "previous_count": 594,
-  "removed_invalid": 1,
+  "timestamp": "2026-02-05T05:12:11.017976+00:00",
+  "previous_count": 593,
+  "removed_invalid": 0,
   "discovered_new": 0,
   "final_count": 593,
-  "invalid_removed": [
-    {
-      "name": "Greek Language Fundamentals",
-      "url": "https://www.hau.gr/"
-    }
-  ],
+  "invalid_removed": [],
   "new_added": []
 }
