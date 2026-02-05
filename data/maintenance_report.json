@@ -1,9 +1,22 @@
 {
-  "timestamp": "2026-02-05T16:35:08.693464+00:00",
+  "timestamp": "2026-02-05T20:22:18.658408+00:00",
   "previous_count": 592,
   "removed_invalid": 0,
-  "discovered_new": 0,
-  "final_count": 592,
+  "discovered_new": 3,
+  "final_count": 595,
   "invalid_removed": [],
-  "new_added": []
+  "new_added": [
+    {
+      "name": "1200+ Free Certificate Courses [2026 January] [UPDATED]",
+      "url": "https://digitaldefynd.com/best-free-certification-course-training-online/"
+    },
+    {
+      "name": "20 Best Free Online Certification Programs to Boost Your Career in 2026",
+      "url": "https://savingsgrove.com/blogs/guides/free-certification-programs"
+    },
+    {
+      "name": "Home | IMS Open Badges",
+      "url": "https://openbadges.org/"
+    }
+  ]
 }
