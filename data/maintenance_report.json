@@ -1,22 +1,14 @@
 {
-  "timestamp": "2026-02-05T20:22:18.658408+00:00",
-  "previous_count": 592,
+  "timestamp": "2026-02-06T01:08:11.172639+00:00",
+  "previous_count": 595,
   "removed_invalid": 0,
-  "discovered_new": 3,
-  "final_count": 595,
+  "discovered_new": 1,
+  "final_count": 596,
   "invalid_removed": [],
   "new_added": [
     {
-      "name": "1200+ Free Certificate Courses [2026 January] [UPDATED]",
-      "url": "https://digitaldefynd.com/best-free-certification-course-training-online/"
-    },
-    {
-      "name": "20 Best Free Online Certification Programs to Boost Your Career in 2026",
-      "url": "https://savingsgrove.com/blogs/guides/free-certification-programs"
-    },
-    {
-      "name": "Home | IMS Open Badges",
-      "url": "https://openbadges.org/"
+      "name": "IntermediateCourseSpark Fundamentals IApache Spark, Big Data26.2k+ Enrolled4 Hours4.4(2.88k+ Reviews)",
+      "url": "https://cognitiveclass.ai/courses/course-v1:BigDataUniversity+BD0211EN+v1"
     }
   ]
 }
