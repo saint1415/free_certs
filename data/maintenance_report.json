@@ -1,14 +1,50 @@
 {
-  "timestamp": "2026-02-06T01:08:11.172639+00:00",
-  "previous_count": 595,
-  "removed_invalid": 0,
-  "discovered_new": 1,
-  "final_count": 596,
-  "invalid_removed": [],
-  "new_added": [
+  "timestamp": "2026-02-06T05:10:45.659918+00:00",
+  "previous_count": 596,
+  "removed_invalid": 10,
+  "discovered_new": 0,
+  "final_count": 586,
+  "invalid_removed": [
     {
-      "name": "IntermediateCourseSpark Fundamentals IApache Spark, Big Data26.2k+ Enrolled4 Hours4.4(2.88k+ Reviews)",
-      "url": "https://cognitiveclass.ai/courses/course-v1:BigDataUniversity+BD0211EN+v1"
+      "name": "AI Ethics: Global Perspectives",
+      "url": "https://en.unesco.org/artificial-intelligence/ethics"
+    },
+    {
+      "name": "Microservices Architecture Fundamentals",
+      "url": "https://www.nginx.com/resources/library/microservices-reference-architecture/"
+    },
+    {
+      "name": "1200+ Free Certificate Courses [2026 January] [UPDATED]",
+      "url": "https://digitaldefynd.com/best-free-certification-course-training-online/"
+    },
+    {
+      "name": "25 Best + Free Data Science Certificate Courses [2025]",
+      "url": "https://www.courseduck.com/programming/data-science/"
+    },
+    {
+      "name": "900+ Free Developer and IT Certifications - Tech-Tech",
+      "url": "https://tech-tech.life/2024/12/15/900-free-developer-and-it-certifications/"
+    },
+    {
+      "name": "FREE Entry-level Cybersecurity Training + Certification Exam",
+      "url": "https://www.isc2.org/landing/1mcc"
+    },
+    {
+      "name": "Free Cloud Computing Courses With Certification",
+      "url": "https://beyondlearn.in/cloud-computing-courses-free-certification/"
+    },
+    {
+      "name": "The Ultimate Guide to Free Tech Courses & Certifications in 2025",
+      "url": "https://businesstories.com/career/free-tech-courses-certifications-in-2025/"
+    },
+    {
+      "name": "Top 10 Free Cloud Certifications to Boost Your Resume",
+      "url": "https://affoweb.com/blog/top-free-cloud-certifications-to-boost-your-resume/"
+    },
+    {
+      "name": "Top 10 Free IT Certifications to Boost Your Career in 2025",
+      "url": "https://technewskills.com/top-free-it-certifications-2025/"
     }
-  ]
+  ],
+  "new_added": []
 }
