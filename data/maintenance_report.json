@@ -1,14 +1,9 @@
 {
-  "timestamp": "2026-02-07T08:19:00.746370+00:00",
-  "previous_count": 587,
+  "timestamp": "2026-02-07T12:26:07.297059+00:00",
+  "previous_count": 588,
   "removed_invalid": 0,
-  "discovered_new": 1,
+  "discovered_new": 0,
   "final_count": 588,
   "invalid_removed": [],
-  "new_added": [
-    {
-      "name": "900+ Free Developer and IT Certifications - Tech-Tech",
-      "url": "https://tech-tech.life/2024/12/15/900-free-developer-and-it-certifications/"
-    }
-  ]
+  "new_added": []
 }
