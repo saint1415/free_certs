@@ -1,9 +1,14 @@
 {
-  "timestamp": "2026-02-07T16:17:56.372763+00:00",
+  "timestamp": "2026-02-07T20:15:08.660034+00:00",
   "previous_count": 588,
   "removed_invalid": 0,
-  "discovered_new": 0,
-  "final_count": 588,
+  "discovered_new": 1,
+  "final_count": 589,
   "invalid_removed": [],
-  "new_added": []
+  "new_added": [
+    {
+      "name": "6 free AWS cloud computing training programs - About Amazon",
+      "url": "https://www.aboutamazon.com/news/workforce/free-aws-training-courses"
+    }
+  ]
 }
