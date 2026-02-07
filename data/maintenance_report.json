@@ -1,9 +1,14 @@
 {
-  "timestamp": "2026-02-07T01:07:09.660706+00:00",
+  "timestamp": "2026-02-07T05:00:41.554189+00:00",
   "previous_count": 588,
-  "removed_invalid": 0,
+  "removed_invalid": 1,
   "discovered_new": 0,
-  "final_count": 588,
-  "invalid_removed": [],
+  "final_count": 587,
+  "invalid_removed": [
+    {
+      "name": "API Gateway Architecture",
+      "url": "https://konghq.com/learning-center"
+    }
+  ],
   "new_added": []
 }
