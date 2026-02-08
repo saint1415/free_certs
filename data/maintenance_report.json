@@ -1,14 +1,18 @@
 {
-  "timestamp": "2026-02-08T16:18:33.948911+00:00",
-  "previous_count": 588,
+  "timestamp": "2026-02-08T20:15:37.717887+00:00",
+  "previous_count": 589,
   "removed_invalid": 0,
-  "discovered_new": 1,
-  "final_count": 589,
+  "discovered_new": 2,
+  "final_count": 591,
   "invalid_removed": [],
   "new_added": [
     {
-      "name": "IT Recruiters LOVE These 10 Free Certifications - #3 is a Must!",
-      "url": "https://www.primecourses.org/blog/it-recruiters-love-these-10-free-certifications"
+      "name": "Top 10 Free IT Certifications to Boost Your Career in 2025",
+      "url": "https://technewskills.com/top-free-it-certifications-2025/"
+    },
+    {
+      "name": "The Ultimate Guide to Free Tech Courses & Certifications in 2025",
+      "url": "https://businesstories.com/career/free-tech-courses-certifications-in-2025/"
     }
   ]
 }
