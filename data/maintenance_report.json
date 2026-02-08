@@ -1,9 +1,14 @@
 {
-  "timestamp": "2026-02-08T05:20:14.279959+00:00",
+  "timestamp": "2026-02-08T08:21:35.206704+00:00",
   "previous_count": 589,
   "removed_invalid": 0,
-  "discovered_new": 0,
-  "final_count": 589,
+  "discovered_new": 1,
+  "final_count": 590,
   "invalid_removed": [],
-  "new_added": []
+  "new_added": [
+    {
+      "name": "Top 10 Industry Certifications for 2025 - Codecademy",
+      "url": "https://www.codecademy.com/resources/blog/top-it-certifications-2025"
+    }
+  ]
 }
