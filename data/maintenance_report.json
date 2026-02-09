@@ -1,26 +1,18 @@
 {
-  "timestamp": "2026-02-09T12:43:28.046778+00:00",
-  "previous_count": 563,
-  "removed_invalid": 4,
-  "discovered_new": 0,
-  "final_count": 559,
-  "invalid_removed": [
+  "timestamp": "2026-02-09T20:30:15.164553+00:00",
+  "previous_count": 559,
+  "removed_invalid": 0,
+  "discovered_new": 2,
+  "final_count": 561,
+  "invalid_removed": [],
+  "new_added": [
     {
-      "name": "900+ Free Developer and IT Certifications - Tech-Tech",
-      "url": "https://tech-tech.life/2024/12/15/900-free-developer-and-it-certifications/"
-    },
-    {
-      "name": "Home | IMS Open Badges",
-      "url": "https://openbadges.org/"
+      "name": "Top 10 Free IT Certifications to Boost Your Career in 2025",
+      "url": "https://technewskills.com/top-free-it-certifications-2025/"
     },
     {
       "name": "The Ultimate Guide to Free Tech Courses & Certifications in 2025",
       "url": "https://businesstories.com/career/free-tech-courses-certifications-in-2025/"
-    },
-    {
-      "name": "Top 10 Free IT Certifications to Boost Your Career in 2025",
-      "url": "https://technewskills.com/top-free-it-certifications-2025/"
     }
-  ],
-  "new_added": []
+  ]
 }
