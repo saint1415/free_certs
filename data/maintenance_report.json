@@ -1,125 +1,25 @@
 {
-  "timestamp": "2026-02-09T08:38:46.866125+00:00",
-  "previous_count": 592,
-  "removed_invalid": 29,
+  "timestamp": "2026-02-09T12:43:28.046778+00:00",
+  "previous_count": 563,
+  "removed_invalid": 4,
   "discovered_new": 0,
-  "final_count": 563,
+  "final_count": 559,
   "invalid_removed": [
     {
-      "name": "Aviation Management",
-      "url": "https://alison.com/course/aviation-management"
+      "name": "900+ Free Developer and IT Certifications - Tech-Tech",
+      "url": "https://tech-tech.life/2024/12/15/900-free-developer-and-it-certifications/"
     },
     {
-      "name": "Leadership Skills",
-      "url": "https://alison.com/course/leadership-skills"
+      "name": "Home | IMS Open Badges",
+      "url": "https://openbadges.org/"
     },
     {
-      "name": "Advanced Concrete Technology",
-      "url": "https://alison.com/course/advanced-concrete-technology"
+      "name": "The Ultimate Guide to Free Tech Courses & Certifications in 2025",
+      "url": "https://businesstories.com/career/free-tech-courses-certifications-in-2025/"
     },
     {
-      "name": "Concrete Technology and Design",
-      "url": "https://alison.com/course/diploma-in-civil-engineering"
-    },
-    {
-      "name": "Construction Scheduling",
-      "url": "https://alison.com/course/construction-scheduling"
-    },
-    {
-      "name": "Foundation Design",
-      "url": "https://alison.com/course/foundation-design"
-    },
-    {
-      "name": "Introduction to Bridge Design",
-      "url": "https://alison.com/course/introduction-to-bridge-design"
-    },
-    {
-      "name": "Introduction to Building Codes",
-      "url": "https://alison.com/course/introduction-to-building-codes"
-    },
-    {
-      "name": "Introduction to Construction Equipment",
-      "url": "https://alison.com/course/introduction-to-construction-equipment"
-    },
-    {
-      "name": "Introduction to Construction Estimating",
-      "url": "https://alison.com/course/introduction-to-construction-estimating"
-    },
-    {
-      "name": "Introduction to Construction Management",
-      "url": "https://alison.com/course/introduction-to-construction-management"
-    },
-    {
-      "name": "Introduction to Highway Geometric Design",
-      "url": "https://alison.com/course/introduction-to-highway-geometric-design"
-    },
-    {
-      "name": "Introduction to Masonry Structures",
-      "url": "https://alison.com/course/introduction-to-masonry-structures"
-    },
-    {
-      "name": "Introduction to Pavement Maintenance",
-      "url": "https://alison.com/course/introduction-to-pavement-maintenance"
-    },
-    {
-      "name": "Introduction to Retaining Wall Design",
-      "url": "https://alison.com/course/introduction-to-retaining-wall-design"
-    },
-    {
-      "name": "Introduction to Soil Stabilization",
-      "url": "https://alison.com/course/introduction-to-soil-stabilization"
-    },
-    {
-      "name": "Introduction to Surveying Instruments",
-      "url": "https://alison.com/course/introduction-to-surveying-instruments"
-    },
-    {
-      "name": "Introduction to Tunnel Construction",
-      "url": "https://alison.com/course/introduction-to-tunnel-construction"
-    },
-    {
-      "name": "Structural Engineering Basics",
-      "url": "https://alison.com/course/structural-engineering-basics"
-    },
-    {
-      "name": "Waste Management",
-      "url": "https://alison.com/course/waste-management-techniques"
-    },
-    {
-      "name": "Water Management",
-      "url": "https://alison.com/course/water-resources-management"
-    },
-    {
-      "name": "Conflict Resolution Skills",
-      "url": "https://alison.com/course/conflict-management-skills"
-    },
-    {
-      "name": "Time Management Fundamentals",
-      "url": "https://alison.com/course/time-management-skills"
-    },
-    {
-      "name": "35 Free Online Courses With Certificates (2025 Updated List)",
-      "url": "https://www.educatly.com/blog/784/free-online-courses-with-certificates-2025"
-    },
-    {
-      "name": "Free Online Data Science Certification - Alison",
-      "url": "https://alison.com/certificate-courses/data-science"
-    },
-    {
-      "name": "JavaScript Application Development",
-      "url": "https://alison.com/course/javascript-application-development"
-    },
-    {
-      "name": "Web Development",
-      "url": "https://alison.com/course/diploma-in-web-development"
-    },
-    {
-      "name": "Industrial Automation",
-      "url": "https://alison.com/course/industrial-automation"
-    },
-    {
-      "name": "PLC Programming",
-      "url": "https://alison.com/course/plc-programming-from-scratch"
+      "name": "Top 10 Free IT Certifications to Boost Your Career in 2025",
+      "url": "https://technewskills.com/top-free-it-certifications-2025/"
     }
   ],
   "new_added": []
