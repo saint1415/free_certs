@@ -1,18 +1,14 @@
 {
-  "timestamp": "2026-02-09T01:14:19.119423+00:00",
-  "previous_count": 591,
-  "removed_invalid": 0,
-  "discovered_new": 2,
-  "final_count": 593,
-  "invalid_removed": [],
-  "new_added": [
+  "timestamp": "2026-02-09T05:23:24.578398+00:00",
+  "previous_count": 593,
+  "removed_invalid": 1,
+  "discovered_new": 0,
+  "final_count": 592,
+  "invalid_removed": [
     {
-      "name": "NewIntermediateGuided ProjectSynthetic Dataset Generation with LLM Agent and StatisticsAI, Data Engineering, Data Science, +3 more4 Enrolled90 Minutes5.0(1 Review)",
-      "url": "https://cognitiveclass.ai/courses/course-v1:IBMSkillsNetwork+GPXX0XX5EN+v1"
-    },
-    {
-      "name": "NewBeginnerGuided ProjectDiscover Patterns in MMA with Python, Pandas, and StatisticsData Visualization, General Statistics, Matplotlib, +3 more3 Enrolled30 Minutes5.0(1 Review)",
-      "url": "https://cognitiveclass.ai/courses/course-v1:IND+GPXX01KREN+v1"
+      "name": "Cyber Security 101 from National Cyber Security Training Academy - NICCS",
+      "url": "https://niccs.cisa.gov/training/catalog/ncsta/cyber-security-101"
     }
-  ]
+  ],
+  "new_added": []
 }
