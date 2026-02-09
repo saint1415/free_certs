@@ -39,7 +39,6 @@ AI & Machine Learning Engineering,Practical Deep Learning for Coders,fast.ai,htt
 AI & Machine Learning Engineering,Prompt Engineering for ChatGPT,Vanderbilt University (Coursera),https://www.coursera.org/learn/prompt-engineering,Prompt engineering techniques for LLMs and generative AI.,3 weeks (2-3 hrs/week),Beginner,,Never
 Aerospace Engineering,Aircraft Structures,NPTEL (IIT Bombay),https://nptel.ac.in/courses/101101002,Analysis and design of aircraft structures.,Self-paced,Intermediate,Mechanics of Materials,Never
 Aerospace Engineering,Aircraft Systems Engineering,MIT OpenCourseWare,https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-885j-aircraft-systems-engineering-fall-2005/,Aircraft systems design and integration.,Self-paced,Advanced,Basic Aerospace,Never
-Aerospace Engineering,Aviation Management,Alison,https://alison.com/course/aviation-management,Aviation industry operations and management.,10-15 hours,Intermediate,,Never
 Aerospace Engineering,Computational Fluid Dynamics,NPTEL (IIT Bombay),https://nptel.ac.in/courses/101101058,CFD methods in aerospace applications.,Self-paced,Advanced,"Fluid Mechanics, Programming",Never
 Aerospace Engineering,Flight Mechanics,NPTEL (IIT Kanpur),https://nptel.ac.in/courses/101104018,Aircraft flight dynamics and control.,Self-paced,Intermediate,Dynamics,Never
 Aerospace Engineering,Introduction to Aerospace Engineering,MIT OpenCourseWare,https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-00-introduction-to-aerospace-engineering-and-design-spring-2003/,Fundamentals of aerospace engineering and design.,Self-paced,Beginner,"Physics, Calculus",Never
@@ -69,7 +68,6 @@ Business & Management,Entrepreneurship,Wharton School (Coursera),https://www.cou
 Business & Management,Financial Accounting Fundamentals,University of Pennsylvania (Coursera),https://www.coursera.org/learn/wharton-accounting,Financial accounting principles and practices.,4 weeks (8-10 hrs/week),Beginner,,Never
 Business & Management,Google Project Management Professional Certificate,Google (Coursera),https://www.coursera.org/professional-certificates/google-project-management,"Comprehensive project management training covering Agile, Scrum, and project execution.",6 months (10 hrs/week),Beginner,,Never
 Business & Management,Introduction to Project Management,University of Adelaide (edX),https://www.edx.org/course/introduction-to-project-management,"Project management fundamentals, tools, and techniques.",6 weeks (4-6 hrs/week),Beginner,,Never
-Business & Management,Leadership Skills,Alison,https://alison.com/course/leadership-skills,Essential leadership skills and management techniques.,3-4 hours,Beginner,,Never
 Business & Management,Marketing Management,University of Virginia (Coursera),https://www.coursera.org/learn/marketing-management,Marketing management principles and strategies.,4 weeks (4-6 hrs/week),Intermediate,,Never
 Business & Management,Negotiation Skills,University of Michigan (Coursera),https://www.coursera.org/learn/negotiation-skills,Negotiation strategies and techniques.,4 weeks (2-4 hrs/week),Beginner,,Never
 Business & Management,Supply Chain Management,MIT (edX),https://www.edx.org/course/supply-chain-management,Supply chain management principles and strategies.,8 weeks (8-10 hrs/week),Intermediate,,Never
@@ -83,38 +81,21 @@ Chemical Engineering,Process Equipment Design,NPTEL (IIT Guwahati),https://nptel
 Chemical Engineering,Process Safety,CCPS (AIChE),https://www.aiche.org/ccps/resources/education,Chemical process safety and risk management.,Self-paced,Intermediate,,Never
 Chemical Engineering,Reaction Engineering,NPTEL (IIT Madras),https://nptel.ac.in/courses/103106108,Chemical reaction kinetics and reactor design.,Self-paced,Intermediate,Physical Chemistry,Never
 Chemical Engineering,Transport Phenomena,MIT OpenCourseWare,https://ocw.mit.edu/courses/chemical-engineering/10-302-transport-processes-fall-2004/,"Mass, momentum, and energy transport in chemical systems.",Self-paced,Intermediate,"Fluid Mechanics, Heat Transfer",Never
-Civil & Structural Engineering,Advanced Concrete Technology,Alison,https://alison.com/course/advanced-concrete-technology,Advanced properties and applications of concrete in civil structures,10 hours,Advanced,,
 Civil & Structural Engineering,BIM Fundamentals for Engineers,Coursera/Autodesk,https://www.coursera.org/learn/bim-fundamentals,Building Information Modeling basics for civil and structural engineers,4 weeks,Beginner,,
 Civil & Structural Engineering,Building Materials and Construction,NPTEL (IIT Madras),https://nptel.ac.in/courses/105106144,Properties of building materials and construction methods.,Self-paced,Beginner,,Never
-Civil & Structural Engineering,Concrete Technology and Design,Alison,https://alison.com/course/diploma-in-civil-engineering,"Properties of concrete, mix design, and structural applications",15 hours,Intermediate,,
 Civil & Structural Engineering,Construction Management,Coursera (Columbia University),https://www.coursera.org/learn/construction-management,Principles of construction project management.,5 weeks (3-5 hrs/week),Beginner,,Never
 Civil & Structural Engineering,Construction Safety Management,OSHA,https://www.osha.gov/training/outreach/construction,Safety practices and regulations for construction sites,10 hours,Beginner,,
-Civil & Structural Engineering,Construction Scheduling,Alison,https://alison.com/course/construction-scheduling,Scheduling techniques and tools for construction projects,6 hours,Beginner,,
-Civil & Structural Engineering,Foundation Design,Alison,https://alison.com/course/foundation-design,Design of shallow and deep foundations for structures,12 hours,Intermediate,,
 Civil & Structural Engineering,Geotechnical Engineering,NPTEL (IIT Bombay),https://nptel.ac.in/courses/105101201,Soil mechanics and geotechnical engineering fundamentals.,Self-paced,Intermediate,Basic Civil Engineering,Never
-Civil & Structural Engineering,Introduction to Bridge Design,Alison,https://alison.com/course/introduction-to-bridge-design,Basic principles of bridge design and construction,8 hours,Beginner,,
 Civil & Structural Engineering,Introduction to Bridge Inspection,FHWA (National Highway Institute),https://www.fhwa.dot.gov/bridge/inspection/,Bridge inspection techniques and safety,24 hours,Intermediate,,
-Civil & Structural Engineering,Introduction to Building Codes,Alison,https://alison.com/course/introduction-to-building-codes,Overview of building codes and standards in civil engineering,4 hours,Beginner,,
-Civil & Structural Engineering,Introduction to Construction Equipment,Alison,https://alison.com/course/introduction-to-construction-equipment,Types and uses of construction equipment in civil projects,6 hours,Beginner,,
-Civil & Structural Engineering,Introduction to Construction Estimating,Alison,https://alison.com/course/introduction-to-construction-estimating,Basics of cost estimation and budgeting for construction projects,6 hours,Beginner,,
-Civil & Structural Engineering,Introduction to Construction Management,Alison,https://alison.com/course/introduction-to-construction-management,Overview of construction management principles,6 hours,Beginner,,
 Civil & Structural Engineering,Introduction to Finite Element Analysis,NPTEL,https://nptel.ac.in/courses/105106051,Basics of finite element methods for structural analysis,8 weeks,Advanced,,
 Civil & Structural Engineering,Introduction to GIS for Civil Engineers,Esri Academy,https://www.esri.com/training/catalog/57630435851d31e02a43f193/introduction-to-gis/,GIS concepts and applications in civil engineering,6 hours,Beginner,,
 Civil & Structural Engineering,Introduction to Geotechnical Engineering,NPTEL,https://nptel.ac.in/courses/105103097,"Basics of soil mechanics, site investigation, and foundation engineering",8 weeks,Beginner,,
-Civil & Structural Engineering,Introduction to Highway Geometric Design,Alison,https://alison.com/course/introduction-to-highway-geometric-design,Geometric design of highways and roads,6 hours,Beginner,,
-Civil & Structural Engineering,Introduction to Masonry Structures,Alison,https://alison.com/course/introduction-to-masonry-structures,Design and construction of masonry buildings,6 hours,Beginner,,
-Civil & Structural Engineering,Introduction to Pavement Maintenance,Alison,https://alison.com/course/introduction-to-pavement-maintenance,Maintenance techniques for flexible and rigid pavements,6 hours,Beginner,,
 Civil & Structural Engineering,Introduction to Prestressed Concrete,NPTEL,https://nptel.ac.in/courses/105106118,Concepts and design of prestressed concrete structures,8 weeks,Intermediate,,
 Civil & Structural Engineering,Introduction to Project Risk Management,Coursera/University of Washington,https://www.coursera.org/learn/project-risk-management,Risk identification and mitigation in construction projects,4 weeks,Intermediate,,
 Civil & Structural Engineering,Introduction to Project Scheduling,Coursera/Columbia University,https://www.coursera.org/learn/construction-scheduling,Scheduling methods and tools for construction projects,4 weeks,Intermediate,,
-Civil & Structural Engineering,Introduction to Retaining Wall Design,Alison,https://alison.com/course/introduction-to-retaining-wall-design,Principles and design of retaining walls in civil engineering,6 hours,Beginner,,
 Civil & Structural Engineering,Introduction to Smart Cities,Coursera/IESE Business School,https://www.coursera.org/learn/smart-cities,Urban infrastructure and smart city technologies,5 weeks,Beginner,,
-Civil & Structural Engineering,Introduction to Soil Stabilization,Alison,https://alison.com/course/introduction-to-soil-stabilization,Methods and materials for soil stabilization,6 hours,Beginner,,
 Civil & Structural Engineering,Introduction to Structural Dynamics,NPTEL,https://nptel.ac.in/courses/105101004,Dynamic analysis of structures under loads,8 weeks,Advanced,,
-Civil & Structural Engineering,Introduction to Surveying Instruments,Alison,https://alison.com/course/introduction-to-surveying-instruments,Types and uses of surveying instruments,6 hours,Beginner,,
-Civil & Structural Engineering,Introduction to Tunnel Construction,Alison,https://alison.com/course/introduction-to-tunnel-construction,Methods and equipment for tunnel construction,6 hours,Beginner,,
 Civil & Structural Engineering,Pavement Design,NPTEL,https://nptel.ac.in/courses/105107123,Design and analysis of flexible and rigid pavements,8 weeks,Intermediate,,
-Civil & Structural Engineering,Structural Engineering Basics,Alison,https://alison.com/course/structural-engineering-basics,Fundamentals of structural engineering and analysis.,2-3 hours,Beginner,,Never
 Civil & Structural Engineering,Surveying and Mapping,NPTEL (IIT Roorkee),https://nptel.ac.in/courses/105107122,Surveying techniques and mapping for civil projects.,Self-paced,Beginner,,Never
 Civil & Structural Engineering,Timber Design and Construction,WoodWorks,https://www.woodworks.org/education/,Wood structural design principles and applications,10 hours,Intermediate,,
 Civil & Structural Engineering,Transportation Engineering,NPTEL (IIT Bombay),https://nptel.ac.in/courses/105101087,Transportation systems and traffic engineering.,Self-paced,Intermediate,Basic Civil Engineering,Never
@@ -349,8 +330,6 @@ Environment & Sustainability,Environmental Law and Policy,UNITAR,https://unitar.
 Environment & Sustainability,Introduction to Sustainable Development,University of Michigan (Coursera),https://www.coursera.org/learn/sustainable-development,Fundamentals of sustainable development and environmental issues.,6 weeks (2-4 hrs/week),Beginner,,Never
 Environment & Sustainability,Oceanography,National Geographic,https://www.nationalgeographic.org/education/,Oceanography and marine ecosystems.,Varies,Beginner,,Never
 Environment & Sustainability,Sustainable Agriculture,Wageningen University (edX),https://www.edx.org/course/sustainable-agriculture,Sustainable agriculture practices and food systems.,7 weeks (4-6 hrs/week),Beginner,,Never
-Environment & Sustainability,Waste Management,Alison,https://alison.com/course/waste-management-techniques,Waste management and recycling techniques.,3-4 hours,Beginner,,Never
-Environment & Sustainability,Water Management,Alison,https://alison.com/course/water-resources-management,Water resources management and conservation techniques.,3-4 hours,Beginner,,Never
 Environmental Engineering,Air Pollution Control,NPTEL (IIT Delhi),https://nptel.ac.in/courses/105102089,Air quality management and pollution control.,Self-paced,Intermediate,Basic Environmental Engineering,Never
 Environmental Engineering,Environmental Engineering Fundamentals,MIT OpenCourseWare,https://ocw.mit.edu/courses/civil-and-environmental-engineering/1-018j-ecology-i-the-earth-system-fall-2009/,Basic principles of environmental engineering.,Self-paced,Beginner,,Never
 Environmental Engineering,Environmental Systems Modeling,MIT OpenCourseWare,https://ocw.mit.edu/courses/civil-and-environmental-engineering/1-020-ecology-ii-engineering-for-sustainability-spring-2008/,Modeling environmental systems and processes.,Self-paced,Advanced,"Mathematics, Programming",Never
@@ -414,7 +393,6 @@ Mechanical Engineering,Mechatronics,edX,https://www.edx.org/course/mechatronics,
 Mechanical Engineering,Robotics: Kinematics and Mathematical Foundations,Columbia University (edX),https://www.edx.org/course/robotics-kinematics-and-mathematical-foundations,Robotics kinematics and mathematical modeling.,6 weeks (4-6 hrs/week),Intermediate,"Linear Algebra, Calculus",Never
 Mechanical Engineering,Solid Mechanics,MIT OpenCourseWare,https://ocw.mit.edu/courses/mechanical-engineering/2-001-mechanics-materials-i-fall-2006/,Solid mechanics and materials behavior.,Self-paced,Intermediate,"Physics, Calculus",Never
 Personal Development,Career Development,LinkedIn Learning,https://www.linkedin.com/learning/topics/career-development,Career planning and job search strategies.,Varies,Beginner,,Never
-Personal Development,Conflict Resolution Skills,Alison,https://alison.com/course/conflict-management-skills,Conflict resolution and negotiation techniques.,3-4 hours,Beginner,,Never
 Personal Development,Creative Problem Solving,Coursera,https://www.coursera.org/learn/creative-problem-solving,Creative problem-solving methods and tools.,4 weeks (2-3 hrs/week),Intermediate,,Never
 Personal Development,Critical Thinking Skills,University of Michigan (Coursera),https://www.coursera.org/learn/critical-thinking-skills,Critical thinking and problem-solving techniques.,4 weeks (2-3 hrs/week),Intermediate,,Never
 Personal Development,Goal Setting,MindTools,https://www.mindtools.com/pages/article/newHTE_87.htm,Goal setting and achievement strategies.,2-3 hours,Beginner,,Never
@@ -423,7 +401,6 @@ Personal Development,Personal Finance Management,Khan Academy,https://www.khanac
 Personal Development,Positive Psychology,University of North Carolina (Coursera),https://www.coursera.org/learn/positive-psychology,Principles of positive psychology and well-being.,4 weeks (2-3 hrs/week),Beginner,,Never
 Personal Development,Public Speaking Skills,Toastmasters International,https://www.toastmasters.org/,Public speaking and presentation skills.,Varies,Beginner,,Never
 Personal Development,The Science of Well-Being,Yale University (Coursera),https://www.coursera.org/learn/the-science-of-well-being,Strategies for improving happiness and well-being.,10 weeks (1-2 hrs/week),Beginner,,Never
-Personal Development,Time Management Fundamentals,Alison,https://alison.com/course/time-management-skills,Time management techniques and productivity strategies.,3-4 hours,Beginner,,Never
 Programming & Development,10 Best AI Courses & Certificates (2026) - Learn.org,,https://learn.org/courses-and-certificates/ai,Free certification from ,Self-paced,Beginner,,
 Programming & Development,10 Free Online Programming Courses with Certificates: Become a Programmer,,https://certificationprogramsonline.com/become-a-programmer-free-online-programming-courses-with-certificates/,Free certification from ,Self-paced,Beginner,,
 Programming & Development,"10,000+ Free Online Certificates & Badges: A Resource for Lifelong ...",,https://www.openculture.com/2025/01/10000-free-online-certificates-and-badges-a-resource-for-lifelong-learners.html,Free certification from ,Self-paced,Beginner,,
@@ -432,7 +409,6 @@ Programming & Development,11 Best FREE Online Cyber Security Courses (2026) - Gu
 Programming & Development,12 Free Online Courses With Certificates to Boost Your Resume,,https://www.themuse.com/advice/free-online-courses-with-certificates,Free certification from ,Self-paced,Beginner,,
 Programming & Development,20 Best Free Online Certification Programs to Boost Your Career in 2026,,https://savingsgrove.com/blogs/guides/free-certification-programs,Free certification from ,Self-paced,Beginner,,
 Programming & Development,20 Necessary IT Certifications + Salaries I Skillsoft,,https://www.skillsoft.com/blog/top-paying-it-certifications,Free certification from ,Self-paced,Beginner,,
-Programming & Development,35 Free Online Courses With Certificates (2025 Updated List),,https://www.educatly.com/blog/784/free-online-courses-with-certificates-2025,Free certification from ,Self-paced,Beginner,,
 Programming & Development,37 Best Free Data Science Courses with Certificates In 2024,,https://pwskills.com/blog/free-data-science-courses-with-certificates/,Free certification from ,Self-paced,Beginner,,
 Programming & Development,5 Top Information Technology Certifications (+ How to Get Them for Free),,https://climbhire.co/career-development/top-information-technology-certifications-free/,Free certification from ,Self-paced,Beginner,,
 Programming & Development,6 free AWS cloud computing training programs - About Amazon,,https://www.aboutamazon.com/news/workforce/free-aws-training-courses,Free certification from ,Self-paced,Beginner,,
@@ -489,7 +465,6 @@ Programming & Development,Free IT Certification Practice Tests - Vision Training
 Programming & Development,Free IT Certifications and Courses to Elevate Your Career,,https://www.coursera.org/articles/free-it-certifications,Free certification from ,Self-paced,Beginner,,
 Programming & Development,Free Machine Learning Courses & Certificates [2026] | Coursera,,https://www.coursera.org/courses?query=free&skills=Machine%20Learning,Free certification from ,Self-paced,Beginner,,
 Programming & Development,Free Online Cybersecurity Workforce Certification Training,,https://www.pnw.edu/cybersecurity/cwct/,Free certification from ,Self-paced,Beginner,,
-Programming & Development,Free Online Data Science Certification - Alison,,https://alison.com/certificate-courses/data-science,Free certification from ,Self-paced,Beginner,,
 Programming & Development,"Free Practice Exams for AWS, Azure, GCP & CISSP | Nex Arc",,https://nex-arc-learning.com/,Free certification from ,Self-paced,Beginner,,
 Programming & Development,Free Procurement Management Course with Certificate [2026],,https://www.mygreatlearning.com/academy/learn-for-free/courses/procurement-management,Free certification from ,Self-paced,Beginner,,
 Programming & Development,Free Programming and Coding Courses Online with Certificate,,https://www.scaler.com/topics/courses/,Free certification from ,Self-paced,Beginner,,
@@ -514,7 +489,6 @@ Programming & Development,Introduction to HTML5,University of Michigan (Coursera
 Programming & Development,Introduction to Linux,The Linux Foundation (edX),https://www.edx.org/course/introduction-to-linux,"Linux basics, command line, and system administration.",14 weeks (2-3 hrs/week),Beginner,,Never
 Programming & Development,Introduction to Programming with MATLAB,Vanderbilt (Coursera),https://www.coursera.org/learn/matlab,"MATLAB basics, programming, and data analysis.",4 weeks (self-paced),Beginner,,Never
 Programming & Development,Introduction to Rust,The Rust Foundation,https://www.rust-lang.org/learn,"Rust programming, memory safety, and concurrency.",10-15 hours,Beginner,,Never
-Programming & Development,JavaScript Application Development,Alison,https://alison.com/course/javascript-application-development,"JavaScript, DOM, and application development.",6-10 hours,Beginner,,Never
 Programming & Development,Learn AI,edX,https://www.edx.org/learn/artificial-intelligence,Free certification from edX,Self-paced,Beginner,,
 Programming & Development,Learn Architecture,edX,https://www.edx.org/learn/architecture,Free certification from edX,Self-paced,Beginner,,
 Programming & Development,Learn Bash Scripting,Codecademy,https://www.codecademy.com/learn/learn-bash-scripting,"Bash scripting basics, automation, and system administration.",10 hours,Beginner,,Never
@@ -569,17 +543,14 @@ Programming & Development,Univ of Maryland Global Campus - Get a Certificate Onl
 Programming & Development,Vendor Management Certification - Compliance Education Institute,,https://compliance-edu.com/,Free certification from ,Self-paced,Beginner,,
 Programming & Development,Vendor Management Training Course | Global Knowledge,,https://www.globalknowledge.com/us-en/course/87079/vendor-management/,Free certification from ,Self-paced,Beginner,,
 Programming & Development,Vendor Management for Technology Professionals - Skillsoft,,https://www.skillsoft.com/course/vendor-management-for-technology-professionals-af3f7209-263b-42f7-a383-4a636d3d0e5d,Free certification from ,Self-paced,Beginner,,
-Programming & Development,Web Development,Alison,https://alison.com/course/diploma-in-web-development,"HTML, CSS, JavaScript, jQuery, and web design.",10-15 hours,Beginner,,Never
 Programming & Development,[2026] Massive List of Thousands of Free Certificates and Badges,,https://www.classcentral.com/report/free-certificates/,Free certification from ,Self-paced,Beginner,,
 Programming & Development,credly-badge | A curated list of free Credly badges 500+ free ...,,https://wesleyscholl.github.io/credly-badge/,Free certification from ,Self-paced,Beginner,,
 Quantum Engineering,Introduction to Quantum Computing,IBM Quantum,https://quantum-computing.ibm.com/learn,Fundamentals of quantum computing and circuits.,Self-paced,Beginner,Linear Algebra,Never
 Quantum Engineering,Quantum Error Correction,Coursera,https://www.coursera.org/learn/quantum-error-correction,Error correction in quantum systems.,6 weeks,Advanced,Quantum Computing,Never
 Quantum Engineering,Quantum Programming,Qiskit,https://qiskit.org/learn/,Programming quantum computers with Qiskit.,Self-paced,Intermediate,Python,Never
 Robotics & Mechatronics,Embedded Systems for Robotics,edX,https://www.edx.org/course/embedded-systems-shape-the-world-microcontroller-i,Embedded systems in robotics applications.,10 weeks,Intermediate,C Programming,Never
-Robotics & Mechatronics,Industrial Automation,Alison,https://alison.com/course/industrial-automation,Industrial automation systems and control.,10-15 hours,Intermediate,Basic Electronics,Never
 Robotics & Mechatronics,Introduction to Robotics,MIT OpenCourseWare,https://ocw.mit.edu/courses/mechanical-engineering/2-12-introduction-to-robotics-fall-2005/,Fundamentals of robotics and automation.,Self-paced,Beginner,,Never
 Robotics & Mechatronics,Mechatronics Design,MIT OpenCourseWare,https://ocw.mit.edu/courses/mechanical-engineering/2-737-mechatronics-fall-2014/,Integration of mechanical and electronic systems.,Self-paced,Intermediate,Electronics,Never
-Robotics & Mechatronics,PLC Programming,Alison,https://alison.com/course/plc-programming-from-scratch,Programmable Logic Controller programming.,8-10 hours,Beginner,,Never
 Robotics & Mechatronics,Robot Operating System (ROS),The Construct,https://www.theconstructsim.com/robotigniteacademy_learnros/ros-courses-library/,ROS programming and applications.,Self-paced,Intermediate,Programming,Never
 Robotics & Mechatronics,Robotic Process Automation,Automation Anywhere University,https://university.automationanywhere.com,Software automation and RPA development.,Self-paced,Beginner,,Never
 Software Engineering,DevOps Engineering Essentials,Linux Foundation,https://training.linuxfoundation.org/training/introduction-to-devops-and-site-reliability-engineering-lfs162/,DevOps practices and principles.,Self-paced,Intermediate,"Linux, Git",Never
