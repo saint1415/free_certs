@@ -1,19 +1,23 @@
 {
-  "timestamp": "2026-02-10T16:54:14.818444+00:00",
+  "timestamp": "2026-02-10T20:35:21.362387+00:00",
   "previous_count": 548,
-  "removed_invalid": 1,
+  "removed_invalid": 2,
   "discovered_new": 1,
-  "final_count": 548,
+  "final_count": 547,
   "invalid_removed": [
     {
-      "name": "Business Analysis",
-      "url": "https://www.iiba.org/standards-and-resources/babok/"
+      "name": "Free Artificial Intelligence (AI) Courses - Great Learning",
+      "url": "https://www.mygreatlearning.com/ai/free-courses"
+    },
+    {
+      "name": "Free Basics of AWS, Azure and Google Cloud Course with Certificate ...",
+      "url": "https://www.mygreatlearning.com/academy/learn-for-free/courses/aws-vs-azure-vs-gcp"
     }
   ],
   "new_added": [
     {
-      "name": "Top Free IT Courses with Certificates in 2025 - prognoztech.com",
-      "url": "https://prognoztech.com/top-free-it-courses-with-certificates/"
+      "name": "Free Basics of AWS, Azure and Google Cloud Course with Certificate ...",
+      "url": "https://www.mygreatlearning.com/academy/learn-for-free/courses/aws-vs-azure-vs-gcp"
     }
   ]
 }
