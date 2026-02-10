@@ -1,9 +1,14 @@
 {
-  "timestamp": "2026-02-10T01:23:14.757177+00:00",
+  "timestamp": "2026-02-10T05:23:39.045182+00:00",
   "previous_count": 561,
-  "removed_invalid": 0,
+  "removed_invalid": 1,
   "discovered_new": 0,
-  "final_count": 561,
-  "invalid_removed": [],
+  "final_count": 560,
+  "invalid_removed": [
+    {
+      "name": "Public Speaking Skills",
+      "url": "https://www.toastmasters.org/"
+    }
+  ],
   "new_added": []
 }
