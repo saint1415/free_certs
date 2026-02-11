@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-02-11T16:53:47.815917+00:00",
-  "previous_count": 549,
+  "timestamp": "2026-02-11T20:29:07.476830+00:00",
+  "previous_count": 548,
   "removed_invalid": 1,
   "discovered_new": 0,
-  "final_count": 548,
+  "final_count": 547,
   "invalid_removed": [
     {
-      "name": "Free Certifications - Find Free Professional Certifications Online",
-      "url": "https://free-certifications.com/"
+      "name": "IT Recruiters LOVE These 10 Free Certifications - #3 is a Must!",
+      "url": "https://www.primecourses.org/blog/it-recruiters-love-these-10-free-certifications"
     }
   ],
   "new_added": []
