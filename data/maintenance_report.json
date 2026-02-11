@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-02-11T12:43:19.003109+00:00",
-  "previous_count": 550,
+  "timestamp": "2026-02-11T16:53:47.815917+00:00",
+  "previous_count": 549,
   "removed_invalid": 1,
   "discovered_new": 0,
-  "final_count": 549,
+  "final_count": 548,
   "invalid_removed": [
     {
-      "name": "Stock Market Investing",
-      "url": "https://www.mooc.fi/en/"
+      "name": "Free Certifications - Find Free Professional Certifications Online",
+      "url": "https://free-certifications.com/"
     }
   ],
   "new_added": []
