@@ -1,23 +1,22 @@
 {
-  "timestamp": "2026-02-10T20:35:21.362387+00:00",
-  "previous_count": 548,
-  "removed_invalid": 2,
-  "discovered_new": 1,
-  "final_count": 547,
-  "invalid_removed": [
-    {
-      "name": "Free Artificial Intelligence (AI) Courses - Great Learning",
-      "url": "https://www.mygreatlearning.com/ai/free-courses"
-    },
-    {
-      "name": "Free Basics of AWS, Azure and Google Cloud Course with Certificate ...",
-      "url": "https://www.mygreatlearning.com/academy/learn-for-free/courses/aws-vs-azure-vs-gcp"
-    }
-  ],
+  "timestamp": "2026-02-11T01:20:56.498212+00:00",
+  "previous_count": 547,
+  "removed_invalid": 0,
+  "discovered_new": 3,
+  "final_count": 550,
+  "invalid_removed": [],
   "new_added": [
     {
-      "name": "Free Basics of AWS, Azure and Google Cloud Course with Certificate ...",
-      "url": "https://www.mygreatlearning.com/academy/learn-for-free/courses/aws-vs-azure-vs-gcp"
+      "name": "FREE Entry-level Cybersecurity Training + Certification Exam",
+      "url": "https://www.isc2.org/landing/1mcc"
+    },
+    {
+      "name": "Free Cyber Security Course with Certificate Online - Simplilearn",
+      "url": "https://www.simplilearn.com/learn-cyber-security-basics-skillup"
+    },
+    {
+      "name": "Google Cybersecurity Certificate | Google Skills",
+      "url": "https://www.skills.google/paths/2268"
     }
   ]
 }
