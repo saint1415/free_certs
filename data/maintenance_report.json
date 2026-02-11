@@ -1,22 +1,9 @@
 {
-  "timestamp": "2026-02-11T01:20:56.498212+00:00",
-  "previous_count": 547,
+  "timestamp": "2026-02-11T05:23:07.115844+00:00",
+  "previous_count": 550,
   "removed_invalid": 0,
-  "discovered_new": 3,
+  "discovered_new": 0,
   "final_count": 550,
   "invalid_removed": [],
-  "new_added": [
-    {
-      "name": "FREE Entry-level Cybersecurity Training + Certification Exam",
-      "url": "https://www.isc2.org/landing/1mcc"
-    },
-    {
-      "name": "Free Cyber Security Course with Certificate Online - Simplilearn",
-      "url": "https://www.simplilearn.com/learn-cyber-security-basics-skillup"
-    },
-    {
-      "name": "Google Cybersecurity Certificate | Google Skills",
-      "url": "https://www.skills.google/paths/2268"
-    }
-  ]
+  "new_added": []
 }
