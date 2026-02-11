@@ -1,9 +1,14 @@
 {
-  "timestamp": "2026-02-11T08:36:48.383466+00:00",
+  "timestamp": "2026-02-11T12:43:19.003109+00:00",
   "previous_count": 550,
-  "removed_invalid": 0,
+  "removed_invalid": 1,
   "discovered_new": 0,
-  "final_count": 550,
-  "invalid_removed": [],
+  "final_count": 549,
+  "invalid_removed": [
+    {
+      "name": "Stock Market Investing",
+      "url": "https://www.mooc.fi/en/"
+    }
+  ],
   "new_added": []
 }
