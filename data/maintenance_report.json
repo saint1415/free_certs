@@ -1,26 +1,18 @@
 {
-  "timestamp": "2026-02-12T12:39:51.442180+00:00",
-  "previous_count": 548,
-  "removed_invalid": 4,
-  "discovered_new": 0,
-  "final_count": 544,
-  "invalid_removed": [
-    {
-      "name": "Free Online Certifications from Top Universities - Still Open in 2025",
-      "url": "https://brightmindai.com/free-online-certifications-2025/"
-    },
-    {
-      "name": "The Ultimate Guide to Free Tech Courses & Certifications in 2025",
-      "url": "https://businesstories.com/career/free-tech-courses-certifications-in-2025/"
-    },
+  "timestamp": "2026-02-12T16:45:58.990731+00:00",
+  "previous_count": 544,
+  "removed_invalid": 0,
+  "discovered_new": 2,
+  "final_count": 546,
+  "invalid_removed": [],
+  "new_added": [
     {
       "name": "Top 10 Free IT Certifications to Boost Your Career in 2025",
       "url": "https://technewskills.com/top-free-it-certifications-2025/"
     },
     {
-      "name": "Top Free IT Courses with Certificates in 2025 - prognoztech.com",
-      "url": "https://prognoztech.com/top-free-it-courses-with-certificates/"
+      "name": "The Ultimate Guide to Free Tech Courses & Certifications in 2025",
+      "url": "https://businesstories.com/career/free-tech-courses-certifications-in-2025/"
     }
-  ],
-  "new_added": []
+  ]
 }
