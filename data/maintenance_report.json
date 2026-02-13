@@ -1,9 +1,18 @@
 {
-  "timestamp": "2026-02-13T05:17:15.162100+00:00",
+  "timestamp": "2026-02-13T08:31:43.017306+00:00",
   "previous_count": 546,
-  "removed_invalid": 0,
+  "removed_invalid": 2,
   "discovered_new": 0,
-  "final_count": 546,
-  "invalid_removed": [],
+  "final_count": 544,
+  "invalid_removed": [
+    {
+      "name": "Environmental Law and Policy",
+      "url": "https://unitar.org/sustainable-development-goals"
+    },
+    {
+      "name": "Top Free IT Certification Course To Do In 2025 | UniAthena",
+      "url": "https://uniathena.com/top-free-it-certification-course-2024"
+    }
+  ],
   "new_added": []
 }
