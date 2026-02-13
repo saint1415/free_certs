@@ -1,18 +1,14 @@
 {
-  "timestamp": "2026-02-13T08:31:43.017306+00:00",
-  "previous_count": 546,
-  "removed_invalid": 2,
-  "discovered_new": 0,
-  "final_count": 544,
-  "invalid_removed": [
+  "timestamp": "2026-02-13T12:34:57.772669+00:00",
+  "previous_count": 544,
+  "removed_invalid": 0,
+  "discovered_new": 1,
+  "final_count": 545,
+  "invalid_removed": [],
+  "new_added": [
     {
-      "name": "Environmental Law and Policy",
-      "url": "https://unitar.org/sustainable-development-goals"
-    },
-    {
-      "name": "Top Free IT Certification Course To Do In 2025 | UniAthena",
-      "url": "https://uniathena.com/top-free-it-certification-course-2024"
+      "name": "IT Security Certification - Information Security Training Certification",
+      "url": "https://duckduckgo.com/y.js?ad_domain=isaca.org&ad_provider=bingv7aa&ad_type=txad&click_metadata=7RS_3J1Plabp%2DBN2qnlyBf9cEQClvm4kQxsYvn7DJkAAQdI1BzYz2HaWFDQa8KkJI96GffSy5HVG7Bg5FW6Js%2DgJeiRTMRPWpkyWRzGT3xKM%2DD0qVCaUmR1r8TEDwzKCIaTsCoF4tfnG21aSeAn_2y810YPNXobzKcxpR5XgHxY.qy5lZMhralTfHk16uT%2DaqQ&rut=156f61deb64b1604086b95889b200d3fb1c877efc06fdd1665428a13c360f0b0&u3=https%3A%2F%2Fwww.bing.com%2Faclick%3Fld%3De8NDYpbhhpvf_kegHMUkF2fzVUCUw1eVC1JOM2UF%2DTuccRHVMhHP6nneUXhDcEwDQMCxANAkyN2AXEHFnuxdTjM047EaYpZfC2r8vfRGk8jPDftSB13TwkLB0g3fQBsR83T8Ew2Bq6vKT1TjVosohWPe1JKMu3z5R4AgDKkLE88c0cljUqLblZERHnk553lrLHqyhqOZ2dGv3kX9VaXme4PQnznJI%26u%3DaHR0cHMlM2ElMmYlMmZ3d3cuaXNhY2Eub3JnJTJmY3JlZGVudGlhbGluZyUyZmNpc20lM2Z1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RjaXNtLWV2ZXJncmVlbiUyNnV0bV90ZXJtJTNkY2VydF9uYV9hY3Ffbm9uLWJyYW5kZWRfZXh0X2luZm8tc2VjJTI2bXNjbGtpZCUzZDIyMjhkZTZjMDNjYTE5YWY4ODU1YjdlMzE5NjcxMmI1%26rlid%3D2228de6c03ca19af8855b7e3196712b5&vqd=4-251188864229098976584846114533406164185&iurl=%7B1%7DIG%3D664360F938C34D4BB0BCCB19EFA20FD6%26CID%3D1B2EC20372DD6A5A35B0D4FC73086B83%26ID%3DDevEx%2C5046.1"
     }
-  ],
-  "new_added": []
+  ]
 }
