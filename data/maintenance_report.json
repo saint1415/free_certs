@@ -1,9 +1,19 @@
 {
-  "timestamp": "2026-02-12T20:23:59.813441+00:00",
+  "timestamp": "2026-02-13T01:16:56.207305+00:00",
   "previous_count": 546,
-  "removed_invalid": 0,
-  "discovered_new": 0,
+  "removed_invalid": 1,
+  "discovered_new": 1,
   "final_count": 546,
-  "invalid_removed": [],
-  "new_added": []
+  "invalid_removed": [
+    {
+      "name": "Google Cloud Security Engineer Learning Path",
+      "url": "https://www.cloudskillsboost.google/paths/12"
+    }
+  ],
+  "new_added": [
+    {
+      "name": "Cloud Certifications: AWS vs Azure vs GCP | Ascend Education",
+      "url": "https://ascendeducation.com/cloud-certifications-compared-aws-vs-azure-vs-google-cloud/"
+    }
+  ]
 }
