@@ -1,9 +1,14 @@
 {
-  "timestamp": "2026-02-14T01:09:45.698404+00:00",
+  "timestamp": "2026-02-14T05:04:25.306330+00:00",
   "previous_count": 545,
   "removed_invalid": 0,
-  "discovered_new": 0,
-  "final_count": 545,
+  "discovered_new": 1,
+  "final_count": 546,
   "invalid_removed": [],
-  "new_added": []
+  "new_added": [
+    {
+      "name": "NewBeginnerGuided ProjectBuild a Lunar New Year Game with CrewAI Multi-Agent SystemAgentic AI, AI Agents, Artificial Intelligence, +3 more14 Enrolled50 Minutes3.0(1 Review)",
+      "url": "https://cognitiveclass.ai/courses/course-v1:IBMSkillsNetwork+GPXX0RAIEN+v1"
+    }
+  ]
 }
