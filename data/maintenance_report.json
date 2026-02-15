@@ -1,9 +1,14 @@
 {
-  "timestamp": "2026-02-15T08:21:14.875929+00:00",
+  "timestamp": "2026-02-15T12:27:34.188331+00:00",
   "previous_count": 546,
   "removed_invalid": 0,
-  "discovered_new": 0,
-  "final_count": 546,
+  "discovered_new": 1,
+  "final_count": 547,
   "invalid_removed": [],
-  "new_added": []
+  "new_added": [
+    {
+      "name": "Free Online Certifications from Top Universities - Still Open in 2025",
+      "url": "https://brightmindai.com/free-online-certifications-2025/"
+    }
+  ]
 }
