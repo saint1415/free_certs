@@ -1,14 +1,18 @@
 {
-  "timestamp": "2026-02-15T16:17:29.638531+00:00",
-  "previous_count": 547,
-  "removed_invalid": 0,
-  "discovered_new": 1,
-  "final_count": 548,
-  "invalid_removed": [],
-  "new_added": [
+  "timestamp": "2026-02-15T20:14:50.355889+00:00",
+  "previous_count": 548,
+  "removed_invalid": 2,
+  "discovered_new": 0,
+  "final_count": 546,
+  "invalid_removed": [
     {
-      "name": "NewBeginnerGuided ProjectBuild a Dating Match Prediction Agent w/ ReAct and LangGraphAgentic AI, Applied Machine Learning, Data Mining, +3 more2 Enrolled45 Minutes5.0(1 Review)",
-      "url": "https://cognitiveclass.ai/courses/course-v1:IBMSkillsNetwork+GPXX03MREN+v1"
+      "name": "The Ultimate Guide to Free Tech Courses & Certifications in 2025",
+      "url": "https://businesstories.com/career/free-tech-courses-certifications-in-2025/"
+    },
+    {
+      "name": "Top 10 Free IT Certifications to Boost Your Career in 2025",
+      "url": "https://technewskills.com/top-free-it-certifications-2025/"
     }
-  ]
+  ],
+  "new_added": []
 }
