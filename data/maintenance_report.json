@@ -1,9 +1,14 @@
 {
-  "timestamp": "2026-02-16T08:34:58.080272+00:00",
+  "timestamp": "2026-02-16T12:38:25.475188+00:00",
   "previous_count": 548,
   "removed_invalid": 0,
-  "discovered_new": 0,
-  "final_count": 548,
+  "discovered_new": 1,
+  "final_count": 549,
   "invalid_removed": [],
-  "new_added": []
+  "new_added": [
+    {
+      "name": "Training resources | Google Cloud",
+      "url": "https://cloud.google.com/learn/training"
+    }
+  ]
 }

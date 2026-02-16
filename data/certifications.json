@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "total_certifications": 548,
-    "last_updated": "2026-02-16T08:34:58.080272+00:00",
+    "total_certifications": 549,
+    "last_updated": "2026-02-16T12:38:25.475188+00:00",
     "categories": [
       "AI & Machine Learning Engineering",
       "Aerospace Engineering",
@@ -236,7 +236,7 @@
       "Intermediate",
       "Professional"
     ],
-    "validation_run": "2026-02-16T08:34:58.080272+00:00"
+    "validation_run": "2026-02-16T12:38:25.475188+00:00"
   },
   "certifications": [
     {
@@ -7457,7 +7457,20 @@
       "id": 526
     },
     {
-      "id": 527,
+      "category": "Programming & Development",
+      "name": "Training resources | Google Cloud",
+      "provider": "",
+      "url": "https://cloud.google.com/learn/training",
+      "description": "Free certification from ",
+      "duration": "Self-paced",
+      "level": "Beginner",
+      "prerequisites": "",
+      "expiration": "",
+      "discovered_at": "2026-02-16T12:39:24.624977+00:00",
+      "id": 527
+    },
+    {
+      "id": 528,
       "category": "Programming & Development",
       "name": "Udacity: Intro to Programming Nanodegree (Free Courses)",
       "provider": "Udacity",
@@ -7481,7 +7494,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:16:08.674945+00:00",
-      "id": 528
+      "id": 529
     },
     {
       "category": "Programming & Development",
@@ -7494,7 +7507,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:16:08.677237+00:00",
-      "id": 529
+      "id": 530
     },
     {
       "category": "Programming & Development",
@@ -7507,7 +7520,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:16:08.676932+00:00",
-      "id": 530
+      "id": 531
     },
     {
       "category": "Programming & Development",
@@ -7520,10 +7533,10 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:16:05.799297+00:00",
-      "id": 531
+      "id": 532
     },
     {
-      "id": 532,
+      "id": 533,
       "category": "Quantum Engineering",
       "name": "Introduction to Quantum Computing",
       "provider": "IBM Quantum",
@@ -7537,7 +7550,7 @@
       "last_checked": null
     },
     {
-      "id": 533,
+      "id": 534,
       "category": "Quantum Engineering",
       "name": "Quantum Error Correction",
       "provider": "Coursera",
@@ -7551,7 +7564,7 @@
       "last_checked": null
     },
     {
-      "id": 534,
+      "id": 535,
       "category": "Quantum Engineering",
       "name": "Quantum Programming",
       "provider": "Qiskit",
@@ -7565,7 +7578,7 @@
       "last_checked": null
     },
     {
-      "id": 535,
+      "id": 536,
       "category": "Robotics & Mechatronics",
       "name": "Embedded Systems for Robotics",
       "provider": "edX",
@@ -7579,7 +7592,7 @@
       "last_checked": null
     },
     {
-      "id": 536,
+      "id": 537,
       "category": "Robotics & Mechatronics",
       "name": "Introduction to Robotics",
       "provider": "MIT OpenCourseWare",
@@ -7593,7 +7606,7 @@
       "last_checked": null
     },
     {
-      "id": 537,
+      "id": 538,
       "category": "Robotics & Mechatronics",
       "name": "Mechatronics Design",
       "provider": "MIT OpenCourseWare",
@@ -7607,7 +7620,7 @@
       "last_checked": null
     },
     {
-      "id": 538,
+      "id": 539,
       "category": "Robotics & Mechatronics",
       "name": "Robot Operating System (ROS)",
       "provider": "The Construct",
@@ -7621,7 +7634,7 @@
       "last_checked": null
     },
     {
-      "id": 539,
+      "id": 540,
       "category": "Robotics & Mechatronics",
       "name": "Robotic Process Automation",
       "provider": "Automation Anywhere University",
@@ -7635,7 +7648,7 @@
       "last_checked": null
     },
     {
-      "id": 540,
+      "id": 541,
       "category": "Software Engineering",
       "name": "DevOps Engineering Essentials",
       "provider": "Linux Foundation",
@@ -7649,7 +7662,7 @@
       "last_checked": null
     },
     {
-      "id": 541,
+      "id": 542,
       "category": "Software Engineering",
       "name": "Distributed Systems Engineering",
       "provider": "MIT OpenCourseWare",
@@ -7663,7 +7676,7 @@
       "last_checked": null
     },
     {
-      "id": 542,
+      "id": 543,
       "category": "Software Engineering",
       "name": "Microservices Architecture",
       "provider": "IBM",
@@ -7677,7 +7690,7 @@
       "last_checked": null
     },
     {
-      "id": 543,
+      "id": 544,
       "category": "Software Engineering",
       "name": "Platform Engineering Fundamentals",
       "provider": "Coursera",
@@ -7691,7 +7704,7 @@
       "last_checked": null
     },
     {
-      "id": 544,
+      "id": 545,
       "category": "Software Engineering",
       "name": "Site Reliability Engineering",
       "provider": "Google",
@@ -7705,7 +7718,7 @@
       "last_checked": null
     },
     {
-      "id": 545,
+      "id": 546,
       "category": "Software Engineering",
       "name": "Software Architecture Fundamentals",
       "provider": "MIT OpenCourseWare",
@@ -7719,7 +7732,7 @@
       "last_checked": null
     },
     {
-      "id": 546,
+      "id": 547,
       "category": "Sound & Audio Engineering",
       "name": "Audio Electronics",
       "provider": "NPTEL",
@@ -7733,7 +7746,7 @@
       "last_checked": null
     },
     {
-      "id": 547,
+      "id": 548,
       "category": "Sound & Audio Engineering",
       "name": "Audio Engineering Fundamentals",
       "provider": "Coursera",
@@ -7747,7 +7760,7 @@
       "last_checked": null
     },
     {
-      "id": 548,
+      "id": 549,
       "category": "Sound & Audio Engineering",
       "name": "Digital Audio Processing",
       "provider": "Coursera",
