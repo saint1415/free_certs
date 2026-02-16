@@ -1,9 +1,30 @@
 {
-  "timestamp": "2026-02-16T16:31:51.098315+00:00",
+  "timestamp": "2026-02-16T20:19:06.840290+00:00",
   "previous_count": 549,
-  "removed_invalid": 0,
+  "removed_invalid": 5,
   "discovered_new": 0,
-  "final_count": 549,
-  "invalid_removed": [],
+  "final_count": 544,
+  "invalid_removed": [
+    {
+      "name": "Financial Modeling",
+      "url": "https://courses.corporatefinanceinstitute.com/collections?category=free-courses"
+    },
+    {
+      "name": "FREE Entry-level Cybersecurity Training + Certification Exam",
+      "url": "https://www.isc2.org/landing/1mcc"
+    },
+    {
+      "name": "Free Online Certifications from Top Universities - Still Open in 2025",
+      "url": "https://brightmindai.com/free-online-certifications-2025/"
+    },
+    {
+      "name": "The Ultimate Guide to Free Tech Courses & Certifications in 2025",
+      "url": "https://businesstories.com/career/free-tech-courses-certifications-in-2025/"
+    },
+    {
+      "name": "Top 10 Free IT Certifications to Boost Your Career in 2025",
+      "url": "https://technewskills.com/top-free-it-certifications-2025/"
+    }
+  ],
   "new_added": []
 }
