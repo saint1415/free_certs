@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "total_certifications": 547,
-    "last_updated": "2026-02-17T01:12:34.295715+00:00",
+    "total_certifications": 548,
+    "last_updated": "2026-02-17T05:17:17.658633+00:00",
     "categories": [
       "AI & Machine Learning Engineering",
       "Aerospace Engineering",
@@ -235,7 +235,7 @@
       "Intermediate",
       "Professional"
     ],
-    "validation_run": "2026-02-17T01:12:34.295715+00:00"
+    "validation_run": "2026-02-17T05:17:17.658633+00:00"
   },
   "certifications": [
     {
@@ -6504,6 +6504,19 @@
     },
     {
       "category": "Programming & Development",
+      "name": "Free Online Certifications from Top Universities - Still Open in 2025",
+      "provider": "",
+      "url": "https://brightmindai.com/free-online-certifications-2025/",
+      "description": "Free certification from ",
+      "duration": "Self-paced",
+      "level": "Beginner",
+      "prerequisites": "",
+      "expiration": "",
+      "discovered_at": "2026-02-17T05:18:19.382910+00:00",
+      "id": 456
+    },
+    {
+      "category": "Programming & Development",
       "name": "Free Online Cybersecurity Workforce Certification Training",
       "provider": "",
       "url": "https://www.pnw.edu/cybersecurity/cwct/",
@@ -6513,7 +6526,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-03T08:27:38.891655+00:00",
-      "id": 456
+      "id": 457
     },
     {
       "category": "Programming & Development",
@@ -6526,7 +6539,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-01-30T16:28:17.544210+00:00",
-      "id": 457
+      "id": 458
     },
     {
       "category": "Programming & Development",
@@ -6539,7 +6552,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-03T16:42:15.819755+00:00",
-      "id": 458
+      "id": 459
     },
     {
       "category": "Programming & Development",
@@ -6552,7 +6565,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:15:54.142340+00:00",
-      "id": 459
+      "id": 460
     },
     {
       "category": "Programming & Development",
@@ -6565,7 +6578,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:15:51.286854+00:00",
-      "id": 460
+      "id": 461
     },
     {
       "category": "Programming & Development",
@@ -6578,7 +6591,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-05T08:31:53.941305+00:00",
-      "id": 461
+      "id": 462
     },
     {
       "category": "Programming & Development",
@@ -6591,7 +6604,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-01-30T04:21:55.840590+00:00",
-      "id": 462
+      "id": 463
     },
     {
       "category": "Programming & Development",
@@ -6604,10 +6617,10 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-11T01:21:52.766961+00:00",
-      "id": 463
+      "id": 464
     },
     {
-      "id": 464,
+      "id": 465,
       "category": "Programming & Development",
       "name": "Google Data Analytics Professional Certificate",
       "provider": "Google (Coursera)",
@@ -6621,7 +6634,7 @@
       "last_checked": null
     },
     {
-      "id": 465,
+      "id": 466,
       "category": "Programming & Development",
       "name": "Google IT Support Professional Certificate",
       "provider": "Google (Coursera)",
@@ -6645,10 +6658,10 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:16:08.676827+00:00",
-      "id": 466
+      "id": 467
     },
     {
-      "id": 467,
+      "id": 468,
       "category": "Programming & Development",
       "name": "IBM Data Science Professional Certificate",
       "provider": "IBM (Coursera)",
@@ -6662,7 +6675,7 @@
       "last_checked": null
     },
     {
-      "id": 468,
+      "id": 469,
       "category": "Programming & Development",
       "name": "IBM Python for Data Science, AI & Development",
       "provider": "IBM (Coursera)",
@@ -6686,10 +6699,10 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-13T12:35:57.965488+00:00",
-      "id": 469
+      "id": 470
     },
     {
-      "id": 470,
+      "id": 471,
       "category": "Programming & Development",
       "name": "Introduction to CSS3",
       "provider": "University of Michigan (Coursera)",
@@ -6703,7 +6716,7 @@
       "last_checked": null
     },
     {
-      "id": 471,
+      "id": 472,
       "category": "Programming & Development",
       "name": "Introduction to Computer Science and Programming Using Python",
       "provider": "MIT (edX)",
@@ -6717,7 +6730,7 @@
       "last_checked": null
     },
     {
-      "id": 472,
+      "id": 473,
       "category": "Programming & Development",
       "name": "Introduction to Dart",
       "provider": "Google (Flutter)",
@@ -6731,7 +6744,7 @@
       "last_checked": null
     },
     {
-      "id": 473,
+      "id": 474,
       "category": "Programming & Development",
       "name": "Introduction to Git and GitHub",
       "provider": "Google (Coursera)",
@@ -6745,7 +6758,7 @@
       "last_checked": null
     },
     {
-      "id": 474,
+      "id": 475,
       "category": "Programming & Development",
       "name": "Introduction to Go",
       "provider": "Google (Golang)",
@@ -6759,7 +6772,7 @@
       "last_checked": null
     },
     {
-      "id": 475,
+      "id": 476,
       "category": "Programming & Development",
       "name": "Introduction to HTML5",
       "provider": "University of Michigan (Coursera)",
@@ -6773,7 +6786,7 @@
       "last_checked": null
     },
     {
-      "id": 476,
+      "id": 477,
       "category": "Programming & Development",
       "name": "Introduction to Linux",
       "provider": "The Linux Foundation (edX)",
@@ -6787,7 +6800,7 @@
       "last_checked": null
     },
     {
-      "id": 477,
+      "id": 478,
       "category": "Programming & Development",
       "name": "Introduction to Programming with MATLAB",
       "provider": "Vanderbilt (Coursera)",
@@ -6801,7 +6814,7 @@
       "last_checked": null
     },
     {
-      "id": 478,
+      "id": 479,
       "category": "Programming & Development",
       "name": "Introduction to Rust",
       "provider": "The Rust Foundation",
@@ -6825,7 +6838,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-01-30T04:21:39.956659+00:00",
-      "id": 479
+      "id": 480
     },
     {
       "category": "Programming & Development",
@@ -6838,10 +6851,10 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-01-30T04:21:39.956928+00:00",
-      "id": 480
+      "id": 481
     },
     {
-      "id": 481,
+      "id": 482,
       "category": "Programming & Development",
       "name": "Learn Bash Scripting",
       "provider": "Codecademy",
@@ -6865,7 +6878,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-01-30T04:21:39.956851+00:00",
-      "id": 482
+      "id": 483
     },
     {
       "category": "Programming & Development",
@@ -6878,10 +6891,10 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-01-30T04:21:39.956983+00:00",
-      "id": 483
+      "id": 484
     },
     {
-      "id": 484,
+      "id": 485,
       "category": "Programming & Development",
       "name": "Learn C++",
       "provider": "Codecademy",
@@ -6895,7 +6908,7 @@
       "last_checked": null
     },
     {
-      "id": 485,
+      "id": 486,
       "category": "Programming & Development",
       "name": "Learn CSS",
       "provider": "Codecademy",
@@ -6919,7 +6932,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-01-30T04:21:39.956704+00:00",
-      "id": 486
+      "id": 487
     },
     {
       "category": "Programming & Development",
@@ -6932,7 +6945,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-01-30T04:21:39.956878+00:00",
-      "id": 487
+      "id": 488
     },
     {
       "category": "Programming & Development",
@@ -6945,7 +6958,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-01-30T04:21:39.956903+00:00",
-      "id": 488
+      "id": 489
     },
     {
       "category": "Programming & Development",
@@ -6958,10 +6971,10 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-01-30T04:21:39.956787+00:00",
-      "id": 489
+      "id": 490
     },
     {
-      "id": 490,
+      "id": 491,
       "category": "Programming & Development",
       "name": "Learn Git",
       "provider": "Codecademy",
@@ -6975,7 +6988,7 @@
       "last_checked": null
     },
     {
-      "id": 491,
+      "id": 492,
       "category": "Programming & Development",
       "name": "Learn HTML",
       "provider": "Codecademy",
@@ -6989,7 +7002,7 @@
       "last_checked": null
     },
     {
-      "id": 492,
+      "id": 493,
       "category": "Programming & Development",
       "name": "Learn Java",
       "provider": "Codecademy",
@@ -7003,7 +7016,7 @@
       "last_checked": null
     },
     {
-      "id": 493,
+      "id": 494,
       "category": "Programming & Development",
       "name": "Learn JavaScript",
       "provider": "Codecademy",
@@ -7027,7 +7040,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:15:54.142643+00:00",
-      "id": 494
+      "id": 495
     },
     {
       "category": "Programming & Development",
@@ -7040,7 +7053,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-01-30T04:21:39.956955+00:00",
-      "id": 495
+      "id": 496
     },
     {
       "category": "Programming & Development",
@@ -7053,10 +7066,10 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-01-30T04:21:39.956763+00:00",
-      "id": 496
+      "id": 497
     },
     {
-      "id": 497,
+      "id": 498,
       "category": "Programming & Development",
       "name": "Learn Python 3",
       "provider": "Codecademy",
@@ -7070,7 +7083,7 @@
       "last_checked": null
     },
     {
-      "id": 498,
+      "id": 499,
       "category": "Programming & Development",
       "name": "Learn SQL",
       "provider": "Codecademy",
@@ -7094,7 +7107,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-01-30T04:21:39.956821+00:00",
-      "id": 499
+      "id": 500
     },
     {
       "category": "Programming & Development",
@@ -7107,10 +7120,10 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-01-30T04:21:39.956735+00:00",
-      "id": 500
+      "id": 501
     },
     {
-      "id": 501,
+      "id": 502,
       "category": "Programming & Development",
       "name": "Learn the Command Line",
       "provider": "Codecademy",
@@ -7134,10 +7147,10 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:15:54.142739+00:00",
-      "id": 502
+      "id": 503
     },
     {
-      "id": 503,
+      "id": 504,
       "category": "Programming & Development",
       "name": "LinkedIn Learning: Become a Software Developer",
       "provider": "LinkedIn Learning",
@@ -7161,10 +7174,10 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:16:00.019348+00:00",
-      "id": 504
+      "id": 505
     },
     {
-      "id": 505,
+      "id": 506,
       "category": "Programming & Development",
       "name": "Microsoft Azure Fundamentals (AZ-900)",
       "provider": "Microsoft Learn",
@@ -7178,7 +7191,7 @@
       "last_checked": null
     },
     {
-      "id": 506,
+      "id": 507,
       "category": "Programming & Development",
       "name": "Microsoft Power Platform Fundamentals (PL-900)",
       "provider": "Microsoft Learn",
@@ -7202,7 +7215,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-04T20:23:35.124498+00:00",
-      "id": 507
+      "id": 508
     },
     {
       "category": "Programming & Development",
@@ -7215,10 +7228,10 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-01-30T16:28:14.680008+00:00",
-      "id": 508
+      "id": 509
     },
     {
-      "id": 509,
+      "id": 510,
       "category": "Programming & Development",
       "name": "Python for Data Science",
       "provider": "IBM (edX)",
@@ -7232,7 +7245,7 @@
       "last_checked": null
     },
     {
-      "id": 510,
+      "id": 511,
       "category": "Programming & Development",
       "name": "Python for Everybody Specialization",
       "provider": "University of Michigan (Coursera)",
@@ -7256,7 +7269,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:16:08.675216+00:00",
-      "id": 511
+      "id": 512
     },
     {
       "category": "Programming & Development",
@@ -7269,7 +7282,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:16:08.677123+00:00",
-      "id": 512
+      "id": 513
     },
     {
       "category": "Programming & Development",
@@ -7282,7 +7295,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:16:08.674833+00:00",
-      "id": 513
+      "id": 514
     },
     {
       "category": "Programming & Development",
@@ -7295,7 +7308,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:16:11.463196+00:00",
-      "id": 514
+      "id": 515
     },
     {
       "category": "Programming & Development",
@@ -7308,10 +7321,10 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-01-30T04:25:17.444197+00:00",
-      "id": 515
+      "id": 516
     },
     {
-      "id": 516,
+      "id": 517,
       "category": "Programming & Development",
       "name": "The Odin Project: Full Stack JavaScript",
       "provider": "The Odin Project",
@@ -7335,7 +7348,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-17T01:13:26.092789+00:00",
-      "id": 517
+      "id": 518
     },
     {
       "category": "Programming & Development",
@@ -7348,7 +7361,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:16:00.018978+00:00",
-      "id": 518
+      "id": 519
     },
     {
       "category": "Programming & Development",
@@ -7361,7 +7374,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-03T16:42:15.819996+00:00",
-      "id": 519
+      "id": 520
     },
     {
       "category": "Programming & Development",
@@ -7374,7 +7387,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-17T01:13:29.011545+00:00",
-      "id": 520
+      "id": 521
     },
     {
       "category": "Programming & Development",
@@ -7387,7 +7400,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-17T01:13:26.092394+00:00",
-      "id": 521
+      "id": 522
     },
     {
       "category": "Programming & Development",
@@ -7400,7 +7413,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-08T08:22:26.287527+00:00",
-      "id": 522
+      "id": 523
     },
     {
       "category": "Programming & Development",
@@ -7413,7 +7426,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:16:08.677029+00:00",
-      "id": 523
+      "id": 524
     },
     {
       "category": "Programming & Development",
@@ -7426,7 +7439,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:16:02.953421+00:00",
-      "id": 524
+      "id": 525
     },
     {
       "category": "Programming & Development",
@@ -7439,10 +7452,10 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-16T12:39:24.624977+00:00",
-      "id": 525
+      "id": 526
     },
     {
-      "id": 526,
+      "id": 527,
       "category": "Programming & Development",
       "name": "Udacity: Intro to Programming Nanodegree (Free Courses)",
       "provider": "Udacity",
@@ -7466,7 +7479,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:16:08.674945+00:00",
-      "id": 527
+      "id": 528
     },
     {
       "category": "Programming & Development",
@@ -7479,7 +7492,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:16:08.677237+00:00",
-      "id": 528
+      "id": 529
     },
     {
       "category": "Programming & Development",
@@ -7492,7 +7505,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:16:08.676932+00:00",
-      "id": 529
+      "id": 530
     },
     {
       "category": "Programming & Development",
@@ -7505,10 +7518,10 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:16:05.799297+00:00",
-      "id": 530
+      "id": 531
     },
     {
-      "id": 531,
+      "id": 532,
       "category": "Quantum Engineering",
       "name": "Introduction to Quantum Computing",
       "provider": "IBM Quantum",
@@ -7522,7 +7535,7 @@
       "last_checked": null
     },
     {
-      "id": 532,
+      "id": 533,
       "category": "Quantum Engineering",
       "name": "Quantum Error Correction",
       "provider": "Coursera",
@@ -7536,7 +7549,7 @@
       "last_checked": null
     },
     {
-      "id": 533,
+      "id": 534,
       "category": "Quantum Engineering",
       "name": "Quantum Programming",
       "provider": "Qiskit",
@@ -7550,7 +7563,7 @@
       "last_checked": null
     },
     {
-      "id": 534,
+      "id": 535,
       "category": "Robotics & Mechatronics",
       "name": "Embedded Systems for Robotics",
       "provider": "edX",
@@ -7564,7 +7577,7 @@
       "last_checked": null
     },
     {
-      "id": 535,
+      "id": 536,
       "category": "Robotics & Mechatronics",
       "name": "Introduction to Robotics",
       "provider": "MIT OpenCourseWare",
@@ -7578,7 +7591,7 @@
       "last_checked": null
     },
     {
-      "id": 536,
+      "id": 537,
       "category": "Robotics & Mechatronics",
       "name": "Mechatronics Design",
       "provider": "MIT OpenCourseWare",
@@ -7592,7 +7605,7 @@
       "last_checked": null
     },
     {
-      "id": 537,
+      "id": 538,
       "category": "Robotics & Mechatronics",
       "name": "Robot Operating System (ROS)",
       "provider": "The Construct",
@@ -7606,7 +7619,7 @@
       "last_checked": null
     },
     {
-      "id": 538,
+      "id": 539,
       "category": "Robotics & Mechatronics",
       "name": "Robotic Process Automation",
       "provider": "Automation Anywhere University",
@@ -7620,7 +7633,7 @@
       "last_checked": null
     },
     {
-      "id": 539,
+      "id": 540,
       "category": "Software Engineering",
       "name": "DevOps Engineering Essentials",
       "provider": "Linux Foundation",
@@ -7634,7 +7647,7 @@
       "last_checked": null
     },
     {
-      "id": 540,
+      "id": 541,
       "category": "Software Engineering",
       "name": "Distributed Systems Engineering",
       "provider": "MIT OpenCourseWare",
@@ -7648,7 +7661,7 @@
       "last_checked": null
     },
     {
-      "id": 541,
+      "id": 542,
       "category": "Software Engineering",
       "name": "Microservices Architecture",
       "provider": "IBM",
@@ -7662,7 +7675,7 @@
       "last_checked": null
     },
     {
-      "id": 542,
+      "id": 543,
       "category": "Software Engineering",
       "name": "Platform Engineering Fundamentals",
       "provider": "Coursera",
@@ -7676,7 +7689,7 @@
       "last_checked": null
     },
     {
-      "id": 543,
+      "id": 544,
       "category": "Software Engineering",
       "name": "Site Reliability Engineering",
       "provider": "Google",
@@ -7690,7 +7703,7 @@
       "last_checked": null
     },
     {
-      "id": 544,
+      "id": 545,
       "category": "Software Engineering",
       "name": "Software Architecture Fundamentals",
       "provider": "MIT OpenCourseWare",
@@ -7704,7 +7717,7 @@
       "last_checked": null
     },
     {
-      "id": 545,
+      "id": 546,
       "category": "Sound & Audio Engineering",
       "name": "Audio Electronics",
       "provider": "NPTEL",
@@ -7718,7 +7731,7 @@
       "last_checked": null
     },
     {
-      "id": 546,
+      "id": 547,
       "category": "Sound & Audio Engineering",
       "name": "Audio Engineering Fundamentals",
       "provider": "Coursera",
@@ -7732,7 +7745,7 @@
       "last_checked": null
     },
     {
-      "id": 547,
+      "id": 548,
       "category": "Sound & Audio Engineering",
       "name": "Digital Audio Processing",
       "provider": "Coursera",
