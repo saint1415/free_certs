@@ -1,9 +1,14 @@
 {
-  "timestamp": "2026-02-17T16:45:13.124203+00:00",
+  "timestamp": "2026-02-17T20:26:26.058047+00:00",
   "previous_count": 551,
-  "removed_invalid": 0,
+  "removed_invalid": 1,
   "discovered_new": 0,
-  "final_count": 551,
-  "invalid_removed": [],
+  "final_count": 550,
+  "invalid_removed": [
+    {
+      "name": "Educational Research Methods",
+      "url": "https://www.aera.net/Professional-Opportunities-Funding/Professional-Development"
+    }
+  ],
   "new_added": []
 }
