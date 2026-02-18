@@ -1,14 +1,27 @@
 {
-  "timestamp": "2026-02-17T20:26:26.058047+00:00",
-  "previous_count": 551,
-  "removed_invalid": 1,
-  "discovered_new": 0,
-  "final_count": 550,
+  "timestamp": "2026-02-18T01:14:33.999262+00:00",
+  "previous_count": 550,
+  "removed_invalid": 3,
+  "discovered_new": 1,
+  "final_count": 548,
   "invalid_removed": [
     {
-      "name": "Educational Research Methods",
-      "url": "https://www.aera.net/Professional-Opportunities-Funding/Professional-Development"
+      "name": "Kubernetes Architecture Fundamentals",
+      "url": "https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/"
+    },
+    {
+      "name": "Cloud Security Alliance Fundamentals",
+      "url": "https://cloudsecurityalliance.org/education/ccsk/"
+    },
+    {
+      "name": "Vendor Management Training Course | Global Knowledge",
+      "url": "https://www.globalknowledge.com/us-en/course/87079/vendor-management/"
     }
   ],
-  "new_added": []
+  "new_added": [
+    {
+      "name": "Top Free IT Courses with Certificates in 2025 - prognoztech.com",
+      "url": "https://prognoztech.com/top-free-it-courses-with-certificates/"
+    }
+  ]
 }
