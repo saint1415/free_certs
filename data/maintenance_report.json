@@ -1,14 +1,14 @@
 {
-  "timestamp": "2026-02-18T16:51:28.328090+00:00",
-  "previous_count": 546,
-  "removed_invalid": 0,
-  "discovered_new": 1,
-  "final_count": 547,
-  "invalid_removed": [],
-  "new_added": [
+  "timestamp": "2026-02-18T20:28:25.101454+00:00",
+  "previous_count": 547,
+  "removed_invalid": 1,
+  "discovered_new": 0,
+  "final_count": 546,
+  "invalid_removed": [
     {
-      "name": "Cloud Computing Tutorials - Learn AWS, Azure, GCP | Free Online Training",
-      "url": "https://www.cloudsvers.com/"
+      "name": "Free Microsoft Fundamental Certifications",
+      "url": "https://techcommunity.microsoft.com/blog/educatordeveloperblog/free-microsoft-fundamentals-certifications-for-worldwide-students/3734654"
     }
-  ]
+  ],
+  "new_added": []
 }
