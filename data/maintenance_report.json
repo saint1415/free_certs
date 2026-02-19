@@ -1,13 +1,21 @@
 {
-  "timestamp": "2026-02-19T12:39:12.780272+00:00",
-  "previous_count": 558,
-  "removed_invalid": 1,
+  "timestamp": "2026-02-19T16:39:57.280070+00:00",
+  "previous_count": 557,
+  "removed_invalid": 3,
   "discovered_new": 0,
-  "final_count": 557,
+  "final_count": 554,
   "invalid_removed": [
     {
-      "name": "5 Tech Certification Exams That Let You Retake for Free",
-      "url": "https://www.exam-labs.com/blog/5-tech-certification-exams-that-let-you-retake-for-free"
+      "name": "11 Best FREE Online Cyber Security Courses (2026) - Guru99",
+      "url": "https://www.guru99.com/cyber-security-certifications-courses.html"
+    },
+    {
+      "name": "60 Best FREE Online Courses with Certificates (2026) - Guru99",
+      "url": "https://www.guru99.com/free-online-course-with-certificate.html"
+    },
+    {
+      "name": "Free Certification Programs That Can Transform Your Career: Complete ...",
+      "url": "https://blog.theinterviewguys.com/free-certification-programs/"
     }
   ],
   "new_added": []
