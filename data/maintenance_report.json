@@ -1,19 +1,14 @@
 {
-  "timestamp": "2026-02-19T08:31:58.275454+00:00",
+  "timestamp": "2026-02-19T12:39:12.780272+00:00",
   "previous_count": 558,
   "removed_invalid": 1,
-  "discovered_new": 1,
-  "final_count": 558,
+  "discovered_new": 0,
+  "final_count": 557,
   "invalid_removed": [
     {
-      "name": "Free Certifications - Find Free Professional Certifications Online",
-      "url": "https://free-certifications.com/"
+      "name": "5 Tech Certification Exams That Let You Retake for Free",
+      "url": "https://www.exam-labs.com/blog/5-tech-certification-exams-that-let-you-retake-for-free"
     }
   ],
-  "new_added": [
-    {
-      "name": "Top 10 Free Cloud Certifications to Boost Your Resume",
-      "url": "https://affoweb.com/blog/top-free-cloud-certifications-to-boost-your-resume/"
-    }
-  ]
+  "new_added": []
 }
