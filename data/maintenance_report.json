@@ -1,18 +1,19 @@
 {
-  "timestamp": "2026-02-19T05:17:32.954022+00:00",
-  "previous_count": 556,
-  "removed_invalid": 0,
-  "discovered_new": 2,
+  "timestamp": "2026-02-19T08:31:58.275454+00:00",
+  "previous_count": 558,
+  "removed_invalid": 1,
+  "discovered_new": 1,
   "final_count": 558,
-  "invalid_removed": [],
+  "invalid_removed": [
+    {
+      "name": "Free Certifications - Find Free Professional Certifications Online",
+      "url": "https://free-certifications.com/"
+    }
+  ],
   "new_added": [
     {
-      "name": "Top 10 Free IT Certifications to Boost Your Career in 2025",
-      "url": "https://technewskills.com/top-free-it-certifications-2025/"
-    },
-    {
-      "name": "The Ultimate Guide to Free Tech Courses & Certifications in 2025",
-      "url": "https://businesstories.com/career/free-tech-courses-certifications-in-2025/"
+      "name": "Top 10 Free Cloud Certifications to Boost Your Resume",
+      "url": "https://affoweb.com/blog/top-free-cloud-certifications-to-boost-your-resume/"
     }
   ]
 }
