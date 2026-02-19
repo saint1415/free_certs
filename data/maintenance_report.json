@@ -1,21 +1,13 @@
 {
-  "timestamp": "2026-02-19T16:39:57.280070+00:00",
-  "previous_count": 557,
-  "removed_invalid": 3,
+  "timestamp": "2026-02-19T20:21:41.660327+00:00",
+  "previous_count": 554,
+  "removed_invalid": 1,
   "discovered_new": 0,
-  "final_count": 554,
+  "final_count": 553,
   "invalid_removed": [
     {
-      "name": "11 Best FREE Online Cyber Security Courses (2026) - Guru99",
-      "url": "https://www.guru99.com/cyber-security-certifications-courses.html"
-    },
-    {
-      "name": "60 Best FREE Online Courses with Certificates (2026) - Guru99",
-      "url": "https://www.guru99.com/free-online-course-with-certificate.html"
-    },
-    {
-      "name": "Free Certification Programs That Can Transform Your Career: Complete ...",
-      "url": "https://blog.theinterviewguys.com/free-certification-programs/"
+      "name": "35 Free Online Courses With Certificates (2025 Updated List)",
+      "url": "https://www.educatly.com/blog/784/free-online-courses-with-certificates-2025"
     }
   ],
   "new_added": []
