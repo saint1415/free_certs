@@ -1,14 +1,91 @@
 {
-  "timestamp": "2026-02-18T20:28:25.101454+00:00",
-  "previous_count": 547,
-  "removed_invalid": 1,
-  "discovered_new": 0,
-  "final_count": 546,
+  "timestamp": "2026-02-19T01:14:01.729240+00:00",
+  "previous_count": 546,
+  "removed_invalid": 5,
+  "discovered_new": 15,
+  "final_count": 556,
   "invalid_removed": [
     {
-      "name": "Free Microsoft Fundamental Certifications",
-      "url": "https://techcommunity.microsoft.com/blog/educatordeveloperblog/free-microsoft-fundamentals-certifications-for-worldwide-students/3734654"
+      "name": "2000+ Free Developer & IT Certifications (2025) | CoderStar",
+      "url": "https://coderstar.in/2025/free-developer-it-certifications.html"
+    },
+    {
+      "name": "The Ultimate Guide to Free Tech Courses & Certifications in 2025",
+      "url": "https://businesstories.com/career/free-tech-courses-certifications-in-2025/"
+    },
+    {
+      "name": "Top 10 Free Cloud Certifications to Boost Your Resume",
+      "url": "https://affoweb.com/blog/top-free-cloud-certifications-to-boost-your-resume/"
+    },
+    {
+      "name": "Top 10 Free IT Certifications to Boost Your Career in 2025",
+      "url": "https://technewskills.com/top-free-it-certifications-2025/"
+    },
+    {
+      "name": "Top Free IT Courses with Certificates in 2025 - prognoztech.com",
+      "url": "https://prognoztech.com/top-free-it-courses-with-certificates/"
     }
   ],
-  "new_added": []
+  "new_added": [
+    {
+      "name": "FREE Entry-level Cybersecurity Training + Certification Exam",
+      "url": "https://www.isc2.org/landing/1mcc"
+    },
+    {
+      "name": "Free Courses | Harvard University",
+      "url": "https://pll.harvard.edu/catalog/FRee"
+    },
+    {
+      "name": "Free Certifications - Find Free Professional Certifications Online",
+      "url": "https://free-certifications.com/"
+    },
+    {
+      "name": "15 free MIT data science courses | Open Learning",
+      "url": "https://openlearning.mit.edu/news/15-free-mit-data-science-courses"
+    },
+    {
+      "name": "Free Online Data Science Certification - Alison",
+      "url": "https://alison.com/certificate-courses/data-science"
+    },
+    {
+      "name": "25 Best + Free Data Science Certificate Courses [2025]",
+      "url": "https://www.courseduck.com/programming/data-science/"
+    },
+    {
+      "name": "Free Artificial Intelligence (AI) Courses - Great Learning",
+      "url": "https://www.mygreatlearning.com/ai/free-courses"
+    },
+    {
+      "name": "Best Online Free Artificial Intelligence Courses with Certificates",
+      "url": "https://www.scaler.com/topics/best-online-free-artificial-intelligence-course-with-certificates/"
+    },
+    {
+      "name": "Master AI & ML with Microsoft's Free 5-Course Certificate: Get Job Ready",
+      "url": "https://www.analyticsinsight.net/artificial-intelligence/master-ai-ml-with-microsofts-free-5-course-certificate-get-job-ready"
+    },
+    {
+      "name": "Free Artificial Intelligence Courses & Certificates [2026] | Coursera",
+      "url": "https://www.coursera.org/courses?query=free&skills=Artificial%20Intelligence"
+    },
+    {
+      "name": "20 Free Online Certifications to Boost Your Career in 2026",
+      "url": "https://savingsgrove.com/blogs/guides/free-online-certifications"
+    },
+    {
+      "name": "35 Free Online Courses With Certificates (2025 Updated List)",
+      "url": "https://www.educatly.com/blog/784/free-online-courses-with-certificates-2025"
+    },
+    {
+      "name": "Free IT Certification Practice Exams | CertQuest",
+      "url": "https://www.certquest.app/en"
+    },
+    {
+      "name": "Free CompTIA & Cisco Certification Practice Exams | TechExam.Pro",
+      "url": "https://techexam.pro/"
+    },
+    {
+      "name": "5 Tech Certification Exams That Let You Retake for Free",
+      "url": "https://www.exam-labs.com/blog/5-tech-certification-exams-that-let-you-retake-for-free"
+    }
+  ]
 }
