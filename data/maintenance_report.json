@@ -1,14 +1,9 @@
 {
-  "timestamp": "2026-02-20T16:25:52.280077+00:00",
-  "previous_count": 553,
-  "removed_invalid": 1,
+  "timestamp": "2026-02-20T20:19:38.381370+00:00",
+  "previous_count": 552,
+  "removed_invalid": 0,
   "discovered_new": 0,
   "final_count": 552,
-  "invalid_removed": [
-    {
-      "name": "Top 15 Free Professional Certifications That Can Boost Your Career in 2025",
-      "url": "https://www.preparebuddy.com/blog/free-professional-certifications/"
-    }
-  ],
+  "invalid_removed": [],
   "new_added": []
 }
