@@ -1,9 +1,14 @@
 {
-  "timestamp": "2026-02-21T01:07:33.330639+00:00",
+  "timestamp": "2026-02-21T05:00:43.232463+00:00",
   "previous_count": 552,
   "removed_invalid": 0,
-  "discovered_new": 0,
-  "final_count": 552,
+  "discovered_new": 1,
+  "final_count": 553,
   "invalid_removed": [],
-  "new_added": []
+  "new_added": [
+    {
+      "name": "IT Security Certification - CISM Certification",
+      "url": "https://duckduckgo.com/y.js?ad_domain=isaca.org&ad_provider=bingv7aa&ad_type=txad&click_metadata=ZytNdxhyAQ2qhu8Jw1zOTIPovJOwoLHxZgAv5sNwgr5s%2DwD8BM2xDIX1DPeDQODWMIufmcOw9gngBFYDA3nLsBT34Xf%2D7Krb%2D936kuQMqBtw0y7x9hGzjEGgjzNtUumgVl2TLx%2DA6iVe6hjhDrr6UWDbfnx%2DxOWFh1QAMXYILpA.lB9alKRYbts56qO00eDlRA&rut=55efb45d3f483c25f94b68fc432084046e728cf55b5e641d9bc5ae99aedf0ea2&u3=https%3A%2F%2Fwww.bing.com%2Faclick%3Fld%3De8WWq28LG9WC03cjZHJKJpujVUCUxyaE4Da_zhITsr0aDWuoXughdpprxXMQ%2D0umYlWWEc7RFbAO1VCospBmUD3Ql7TV5xRCgxF41OiYnImFnNyIyxitRHJf3oOhf6m02wEBA2Jnup%2D7y9Xa4UQROLuiYjFv0B62aDCmQAhKbZ2Yea0hw7Kfv8dKSWlUhJzQLfK9woAqV1d6XzUdgl1YsxZksQXu8%26u%3DaHR0cHMlM2ElMmYlMmZ3d3cuaXNhY2Eub3JnJTJmY3JlZGVudGlhbGluZyUyZmNpc20lM2Z1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RjaXNtLWV2ZXJncmVlbiUyNnV0bV90ZXJtJTNkY2VydF9uYV9hY3Ffbm9uLWJyYW5kZWRfZXh0X2luZm8tc2VjJTI2bXNjbGtpZCUzZGQ0YWUzNDg5ZTcwZTEyN2Q2ZjBmNWQxMGRiMjEwZWQ1%26rlid%3Dd4ae3489e70e127d6f0f5d10db210ed5&vqd=4-278312529559167225754115499797013254813&iurl=%7B1%7DIG%3D1F8B784B47F94FE48C9D3B812A75E617%26CID%3D30AC99F0478365063C138EF746CF64D7%26ID%3DDevEx%2C5046.1"
+    }
+  ]
 }
