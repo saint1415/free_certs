@@ -1,9 +1,14 @@
 {
-  "timestamp": "2026-02-21T12:25:39.199184+00:00",
+  "timestamp": "2026-02-21T16:17:13.086558+00:00",
   "previous_count": 553,
-  "removed_invalid": 0,
+  "removed_invalid": 1,
   "discovered_new": 0,
-  "final_count": 553,
-  "invalid_removed": [],
+  "final_count": 552,
+  "invalid_removed": [
+    {
+      "name": "Digital Twin Technology",
+      "url": "https://www.sitrain-learning.siemens.com/"
+    }
+  ],
   "new_added": []
 }
