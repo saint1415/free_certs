@@ -1,23 +1,18 @@
 {
-  "timestamp": "2026-02-22T12:27:01.292744+00:00",
-  "previous_count": 552,
-  "removed_invalid": 2,
-  "discovered_new": 1,
-  "final_count": 551,
-  "invalid_removed": [
-    {
-      "name": "25 Best + Free Data Science Certificate Courses [2025]",
-      "url": "https://www.courseduck.com/programming/data-science/"
-    },
-    {
-      "name": "Free Online Certifications from Top Universities - Still Open in 2025",
-      "url": "https://brightmindai.com/free-online-certifications-2025/"
-    }
-  ],
+  "timestamp": "2026-02-22T16:17:32.921254+00:00",
+  "previous_count": 551,
+  "removed_invalid": 0,
+  "discovered_new": 2,
+  "final_count": 553,
+  "invalid_removed": [],
   "new_added": [
     {
-      "name": "IT Security Certification - CISM Certification Awaits!",
-      "url": "https://duckduckgo.com/y.js?ad_domain=isaca.org&ad_provider=bingv7aa&ad_type=txad&click_metadata=DfvitERz6s9iaomY1100APqdG0Xu6ovpT08PRM7qg6rJPrbft19wHaKL9dcQEVPkgSUTJY3YK5YHWgl27yyzT2L8yPR8XEsdP1ATTx6J9FQw1c5G0h_ezpGNka3saCmcQnA74oC8_QaMTZfOamf1UbV3KruwQR6rUCG3_GKRpCg.4nfPMDTSIYI_7tWWlwmt7g&rut=ea3e20db4a0f1876f66ad2b1c661069592f832bd5b4dda0b4d7ce8de7da16e17&u3=https%3A%2F%2Fwww.bing.com%2Faclick%3Fld%3De8PkEhwR5BY0j%2DIjGcaP4osTVUCUyL0kp4xMmOZEHocMuONe%2DpGreYwTXbMCriRH95HhaH79zL_MCZLyYOnYThquEPd7TYb0sYUUkfLtt2tprMQn3tOlCdLQRAehIOsxmDI4wgmLiakbcaJgBoRaVdwn2fI5ip1wIjiMYz6ej7GwArbn3ufu56GjQeSftM1JAYWvN8%2DBTL%2D6aKvRQXwumMwyhKgOY%26u%3DaHR0cHMlM2ElMmYlMmZ3d3cuaXNhY2Eub3JnJTJmY3JlZGVudGlhbGluZyUyZmNpc20lM2Z1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RjaXNtLWV2ZXJncmVlbiUyNnV0bV90ZXJtJTNkY2VydF9uYV9hY3Ffbm9uLWJyYW5kZWRfZXh0X2luZm8tc2VjJTI2bXNjbGtpZCUzZDRlZmViYmJiZTY3YjFkMmFmMTM2ZDIyMTEwMzA1M2E5%26rlid%3D4efebbbbe67b1d2af136d221103053a9&vqd=4-55108005544496349153189994280825710288&iurl=%7B1%7DIG%3DA1F6EFA7D3804B0E99B0E5F0B7E0AB0F%26CID%3D21E5ED6E46D76B580646FA6647406A9B%26ID%3DDevEx%2C5046.1"
+      "name": "Free CompTIA Course: A+ Certification in Chicago - Per Scholas",
+      "url": "https://perscholas.org/courses/it-support/it-support-chicago/"
+    },
+    {
+      "name": "IT Recruiters LOVE These 10 Free Certifications - #3 is a Must!",
+      "url": "https://www.primecourses.org/blog/it-recruiters-love-these-10-free-certifications"
     }
   ]
 }
