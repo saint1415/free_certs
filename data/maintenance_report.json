@@ -1,14 +1,18 @@
 {
-  "timestamp": "2026-02-22T20:15:03.293288+00:00",
-  "previous_count": 553,
+  "timestamp": "2026-02-23T01:12:21.374272+00:00",
+  "previous_count": 554,
   "removed_invalid": 0,
-  "discovered_new": 1,
-  "final_count": 554,
+  "discovered_new": 2,
+  "final_count": 556,
   "invalid_removed": [],
   "new_added": [
     {
-      "name": "AI Fundamentals",
-      "url": "https://www.coursera.org/learn/google-ai-fundamentals"
+      "name": "11 Best FREE Online Cyber Security Courses (2026) - Guru99",
+      "url": "https://www.guru99.com/cyber-security-certifications-courses.html"
+    },
+    {
+      "name": "Free Cybersecurity Courses & Certificates 2026 - Learn.org",
+      "url": "https://learn.org/affordable-degrees/free-online-cybersecurity-certificate"
     }
   ]
 }
