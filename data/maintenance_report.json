@@ -1,9 +1,14 @@
 {
-  "timestamp": "2026-02-24T12:39:54.933476+00:00",
+  "timestamp": "2026-02-24T16:55:01.469591+00:00",
   "previous_count": 555,
-  "removed_invalid": 0,
+  "removed_invalid": 1,
   "discovered_new": 0,
-  "final_count": 555,
-  "invalid_removed": [],
+  "final_count": 554,
+  "invalid_removed": [
+    {
+      "name": "Cloud Computing Tutorials - Learn AWS, Azure, GCP | Free Online Training",
+      "url": "https://www.cloudsvers.com/"
+    }
+  ],
   "new_added": []
 }
