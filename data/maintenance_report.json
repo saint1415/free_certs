@@ -1,18 +1,14 @@
 {
-  "timestamp": "2026-02-25T01:16:24.776158+00:00",
-  "previous_count": 554,
+  "timestamp": "2026-02-25T05:18:47.375685+00:00",
+  "previous_count": 556,
   "removed_invalid": 0,
-  "discovered_new": 2,
-  "final_count": 556,
+  "discovered_new": 1,
+  "final_count": 557,
   "invalid_removed": [],
   "new_added": [
     {
-      "name": "Top Free IT Courses with Certificates in 2025 - prognoztech.com",
-      "url": "https://prognoztech.com/top-free-it-courses-with-certificates/"
-    },
-    {
-      "name": "Cloud Computing Tutorials - Learn AWS, Azure, GCP | Free Online Training",
-      "url": "https://www.cloudsvers.com/"
+      "name": "Oracle Home",
+      "url": "https://www.oracle.com/"
     }
   ]
 }
