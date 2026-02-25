@@ -1,23 +1,9 @@
 {
-  "timestamp": "2026-02-25T16:58:31.708402+00:00",
-  "previous_count": 557,
-  "removed_invalid": 1,
-  "discovered_new": 2,
+  "timestamp": "2026-02-25T20:26:00.527190+00:00",
+  "previous_count": 558,
+  "removed_invalid": 0,
+  "discovered_new": 0,
   "final_count": 558,
-  "invalid_removed": [
-    {
-      "name": "Top 10 Free IT Certifications to Boost Your Career in 2025",
-      "url": "https://technewskills.com/top-free-it-certifications-2025/"
-    }
-  ],
-  "new_added": [
-    {
-      "name": "[2026] Massive List of Thousands of Free Certificates and Badges",
-      "url": "https://www.classcentral.com/report/free-certificates/"
-    },
-    {
-      "name": "Top 10 Free IT Certifications to Boost Your Career in 2025",
-      "url": "https://technewskills.com/top-free-it-certifications-2025/"
-    }
-  ]
+  "invalid_removed": [],
+  "new_added": []
 }
