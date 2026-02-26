@@ -1,9 +1,27 @@
 {
-  "timestamp": "2026-02-25T20:26:00.527190+00:00",
+  "timestamp": "2026-02-26T01:09:31.864255+00:00",
   "previous_count": 558,
-  "removed_invalid": 0,
-  "discovered_new": 0,
-  "final_count": 558,
-  "invalid_removed": [],
-  "new_added": []
+  "removed_invalid": 1,
+  "discovered_new": 3,
+  "final_count": 560,
+  "invalid_removed": [
+    {
+      "name": "Aws Cloud Certification Info - AWS Cloud Certification",
+      "url": "https://duckduckgo.com/y.js?ad_domain=infoguidecentral.com&ad_provider=bingv7aa&ad_type=txad&click_metadata=SjPK28nRcSVHaVnkh1HfZ7ZcJOUPyDIwoESVg7nWZvTwsyxXRU5fXbkQAumGueAUKumUBaqmrAyzk6_9GXATlUqwrqG%2DW49hNNswmPB0Gzqx4LTOqFaehHdI5FVN0umYcSsgS5pqSWi8LKX893nxKe4EqPb06B_ULHjaOQ3uXs0.UlRBVchVmxQsLnxQ693S1Q&rut=c8a101a4a466f2c0aa5aaeabb4da8a06f0db7c65f5917af1229bb1ac6e759a91&u3=https%3A%2F%2Fwww.bing.com%2Faclick%3Fld%3De8_Ol2pwxZKpbWen7GQvSliDVUCUwFftWQjs0vvmLpWAkTejtRhfR3FkoE12qm30fTcYxOBdQmh%2D%2Du8UKfr8tqfIRHgd3HOfAyxaabQ6rcqLJoB5uRGOgs7tc%2DXF2q8AR3UBshZVtlpAKcZsUE5fKUwyty%2DvpIbCIOsMw1wpGHvkU7HNqmKnxnbIuttQ39Lrpe21wwErnGfPgFfrUFLcEutETa4fg%26u%3DaHR0cHMlM2ElMmYlMmZ3d3cuaW5mb2d1aWRlY2VudHJhbC5jb20lMmZkY2wlMmZwcmVwYXJlLWF3cy1jbG91ZC1jZXJ0aWZpY2F0aW9uLXN0ZXAtc3RlcC1ndWlkZSUzZm8lM2QxNjc2MTY1JTI2YWtpZCUzZDUyMzg0Njc5NSUyNmNwZ25pZCUzZDUyMzg0Njc5NSUyNkNSSUQlM2Q4MjEyMDE5NDE3NzAyMCUyNmFncmlkJTNkMTMxMzkxOTEzNzQ3MzYxNyUyNnRyZ3QlM2Rrd2QtODIxMjE0ODY2ODgwMTklM2Fsb2MtMTkwJTI2bGFuZyUzZEVOJTI2cmFjJTNkQXdzK0Nsb3VkK0NlcnRpZmljYXRpb24rSW5mbyUyY0dldCtNb3JlK0luZm8lMmNWaXNpdCtIZXJlK0ZvcitEZXRhaWxzJTJjRmluZCtNb3JlK0luZm8lMmNHZXQrTW9yZStEZXRhaWxzK0hlcmUlMmNEaXNjb3ZlcitNb3JlJTJjQnJvd3NlK2FuZCtEaXNjb3ZlciUyY0dldCtBbGwrVGhlK0RldGFpbHMrSGVyZSUyY0Jyb3dzZStJbmZvJTJjVmlzaXQrTm93K0ZvcitEZXRhaWxzJTJjRXhwbG9yZStEZXRhaWxlZCtJbmZvcm1hdGlvbitBYm91dCtBd3MrQ2xvdWQrQ2VydGlmaWNhdGlvbiUyY0dldCtBbGwrVGhlK0luZm9ybWF0aW9uK1lvdStOZWVkK09uK0F3cytDbG91ZCtDZXJ0aWZpY2F0aW9uLiUyY0Rpc2NvdmVyK0luc2lnaHRzK0Fib3V0K0F3cytDbG91ZCtDZXJ0aWZpY2F0aW9uLitMZWFybitNb3JlJTJjUmVhZCtNb3JlK0Fib3V0K0F3cytDbG91ZCtDZXJ0aWZpY2F0aW9uK09uK091citQYWdlLiUyNnRlcm1zJTNkY2xvdWQrY29tcHV0aW5nK2NlcnRpZmljYXRpb24lMmNjbG91ZCtjZXJ0aWZpY2F0aW9uK3Byb2dyYW1zJTJjQVdTK2NlcnRpZmljYXRpb24rdHJhaW5pbmclMmNBenVyZStjbG91ZCtjZXJ0aWZpY2F0aW9uJTJjR29vZ2xlK2Nsb3VkK2NlcnRpZmljYXRpb24rY291cnNlcyUyY2Nsb3VkK2VuZ2luZWVyK2NlcnRpZmljYXRpb24lMmNjbG91ZCtjb21wdXRpbmcrdHJhaW5pbmcrb25saW5lJTJjY2xvdWQrYXJjaGl0ZWN0dXJlK2NlcnRpZmljYXRpb24lMmNlbnRlcnByaXNlK2Nsb3VkK2NlcnRpZmljYXRpb24lMmNjbG91ZCtza2lsbHMrY2VydGlmaWNhdGlvbiUyNm1zY2xraWQlM2Q5NDkxMDNmMGU4NGIxOGRhMTA2MjZhN2Q3ODlmOGE3YSUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZDIwMjYwMTI4X1VTQV9VU18lMjUyMEVOX0RfUHJlcGFyZSUyNTIwQXdzJTI1MjBDbG91ZCUyNTIwQ2VydGlmaWNhdGlvbiUyNTIwU3RlcCUyNTIwU3RlcCUyNTIwR3VpZGVfRWR1Y2F0aW9uX0tJX0FNUkhQX0lHQ19TUFQlMjZ1dG1fdGVybSUzZEFXUyUyNTIwY2VydGlmaWNhdGlvbiUyNTIwZXhhbSUyNnV0bV9jb250ZW50JTNkMjAyNjAxMjhfVVNBX1VTXyUyNTIwRU5fRF9QcmVwYXJlJTI1MjBBd3MlMjUyMENsb3VkJTI1MjBDZXJ0aWZpY2F0aW9uJTI1MjBTdGVwJTI1MjBTdGVwJTI1MjBHdWlkZV9FZHVjYXRpb25fS0lfQU1SSFBfSUdDX1NQVA%26rlid%3D949103f0e84b18da10626a7d789f8a7a&vqd=4-84626041970511651211698978491623308180&iurl=%7B1%7DIG%3D535C9916A76D44A5BB43EC455E5E8099%26CID%3D3A4B9E5819046CFD090288A618E06D8A%26ID%3DDevEx%2C5049.1"
+    }
+  ],
+  "new_added": [
+    {
+      "name": "15+ Free Certifications to Gain High-Income Skills in 2025 - Forbes",
+      "url": "https://www.forbes.com/sites/rachelwells/2025/08/30/15-free-certifications-to-gain-high-income-skills-in-2025/"
+    },
+    {
+      "name": "Online Courses with Certificates - Grow with Google",
+      "url": "https://grow.google/certificates/"
+    },
+    {
+      "name": "3 Free Online Cybersecurity Courses With Certificates",
+      "url": "https://www.forbes.com/sites/rachelwells/2024/07/14/free-online-cybersecurity-courses-with-certificates/"
+    }
+  ]
 }
