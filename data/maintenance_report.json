@@ -1,9 +1,14 @@
 {
-  "timestamp": "2026-02-26T08:34:36.447083+00:00",
+  "timestamp": "2026-02-26T12:39:32.527987+00:00",
   "previous_count": 559,
   "removed_invalid": 0,
-  "discovered_new": 0,
-  "final_count": 559,
+  "discovered_new": 1,
+  "final_count": 560,
   "invalid_removed": [],
-  "new_added": []
+  "new_added": [
+    {
+      "name": "Infosec Certification - Information Security Training Certification",
+      "url": "https://duckduckgo.com/y.js?ad_domain=isaca.org&ad_provider=bingv7aa&ad_type=txad&click_metadata=7HDPCb7Eps7I5rj0TqRDPCBpjdPCE6vDaoFLWVzQRzTP_C1GxEakIFhhHYscp_tZ45ojKU6AG5FjEj3bJQQMS3IReQBN0KgAF5jepf8DxdGkpQvkFDMxmHBRFciCMP2pm2B7%2DqHyOljImhvxZ_GBslmiX5t8rZILrFVWUCI7fAM.h%2DvE4AdFk3Yf4IMcl_AA9Q&rut=1952c13f8a186716c6890cdb5ee7521151b48bb96eb1c8861f29a0a622c2713a&u3=https%3A%2F%2Fwww.bing.com%2Faclick%3Fld%3De8UFrskBhNddIf_Z6qw0gibjVUCUyJYdS753w3R59UuCp8QJlzXDlNxeXjwC4SUcdXEKiRQqB1JaVA708D4I8BAFZiEElEOxLOTj_YxHClZmNr2dW9ni2EctPsPR24paw4rxmfr4now%2DbuX1e49QVMvKrb9wj_fc16hfjeVBC37c1NzJBVacz9Jt2UFsgwAruIBkNnR_yqLA7MUIi38ZVDSggHwfc%26u%3DaHR0cHMlM2ElMmYlMmZ3d3cuaXNhY2Eub3JnJTJmY3JlZGVudGlhbGluZyUyZmNpc20lM2Z1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RjaXNtLWV2ZXJncmVlbiUyNnV0bV90ZXJtJTNkY2VydF9uYV9hY3Ffbm9uLWJyYW5kZWRfZXh0X2luZm8tc2VjJTI2bXNjbGtpZCUzZDVhYjI4ZGQyZGEzMjFkOGFkMjlmZTQ3MmU1MGE3NzM3%26rlid%3D5ab28dd2da321d8ad29fe472e50a7737&vqd=4-132608267900913954074102332712839399074&iurl=%7B1%7DIG%3DC7D19677ACB647C79404AFB1E7B1951B%26CID%3D151CAFDA827D621B29D7B8D6833163B5%26ID%3DDevEx%2C5045.1"
+    }
+  ]
 }
