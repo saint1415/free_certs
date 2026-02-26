@@ -1,14 +1,9 @@
 {
-  "timestamp": "2026-02-26T05:15:30.031206+00:00",
-  "previous_count": 560,
-  "removed_invalid": 1,
+  "timestamp": "2026-02-26T08:34:36.447083+00:00",
+  "previous_count": 559,
+  "removed_invalid": 0,
   "discovered_new": 0,
   "final_count": 559,
-  "invalid_removed": [
-    {
-      "name": "Google Cloud Data Catalog",
-      "url": "https://www.cloudskillsboost.google/paths/26"
-    }
-  ],
+  "invalid_removed": [],
   "new_added": []
 }
