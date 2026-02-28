@@ -1,9 +1,19 @@
 {
-  "timestamp": "2026-02-28T08:17:19.707647+00:00",
+  "timestamp": "2026-02-28T12:24:51.282484+00:00",
   "previous_count": 557,
-  "removed_invalid": 0,
-  "discovered_new": 0,
+  "removed_invalid": 1,
+  "discovered_new": 1,
   "final_count": 557,
-  "invalid_removed": [],
-  "new_added": []
+  "invalid_removed": [
+    {
+      "name": "The Ultimate Guide to Free Tech Courses & Certifications in 2025",
+      "url": "https://businesstories.com/career/free-tech-courses-certifications-in-2025/"
+    }
+  ],
+  "new_added": [
+    {
+      "name": "The Ultimate Guide to Free Tech Courses & Certifications in 2025",
+      "url": "https://businesstories.com/career/free-tech-courses-certifications-in-2025/"
+    }
+  ]
 }
