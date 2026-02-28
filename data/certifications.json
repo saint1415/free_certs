@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "total_certifications": 558,
-    "last_updated": "2026-02-27T20:18:33.304563+00:00",
+    "total_certifications": 555,
+    "last_updated": "2026-02-28T01:03:01.498998+00:00",
     "categories": [
       "AI & Machine Learning Engineering",
       "Aerospace Engineering",
@@ -229,7 +229,7 @@
       "Intermediate",
       "Professional"
     ],
-    "validation_run": "2026-02-27T20:18:33.304563+00:00"
+    "validation_run": "2026-02-28T01:03:01.498998+00:00"
   },
   "certifications": [
     {
@@ -7494,32 +7494,6 @@
     },
     {
       "category": "Programming & Development",
-      "name": "Top 10 Free Cloud Certifications to Boost Your Resume",
-      "provider": "",
-      "url": "https://affoweb.com/blog/top-free-cloud-certifications-to-boost-your-resume/",
-      "description": "Free certification from ",
-      "duration": "Self-paced",
-      "level": "Beginner",
-      "prerequisites": "",
-      "expiration": "",
-      "discovered_at": "2026-02-23T08:37:48.584112+00:00",
-      "id": 531
-    },
-    {
-      "category": "Programming & Development",
-      "name": "Top 10 Free IT Certifications to Boost Your Career in 2025",
-      "provider": "",
-      "url": "https://technewskills.com/top-free-it-certifications-2025/",
-      "description": "Free certification from ",
-      "duration": "Self-paced",
-      "level": "Beginner",
-      "prerequisites": "",
-      "expiration": "",
-      "discovered_at": "2026-02-25T16:59:23.983473+00:00",
-      "id": 532
-    },
-    {
-      "category": "Programming & Development",
       "name": "Top 10 Industry Certifications for 2025 - Codecademy",
       "provider": "",
       "url": "https://www.codecademy.com/resources/blog/top-it-certifications-2025",
@@ -7529,7 +7503,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-08T08:22:26.287527+00:00",
-      "id": 533
+      "id": 531
     },
     {
       "category": "Programming & Development",
@@ -7542,20 +7516,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:16:08.677029+00:00",
-      "id": 534
-    },
-    {
-      "category": "Programming & Development",
-      "name": "Top Free IT Courses with Certificates in 2025 - prognoztech.com",
-      "provider": "",
-      "url": "https://prognoztech.com/top-free-it-courses-with-certificates/",
-      "description": "Free certification from ",
-      "duration": "Self-paced",
-      "level": "Beginner",
-      "prerequisites": "",
-      "expiration": "",
-      "discovered_at": "2026-02-25T01:17:23.834405+00:00",
-      "id": 535
+      "id": 532
     },
     {
       "category": "Programming & Development",
@@ -7568,10 +7529,10 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-16T12:39:24.624977+00:00",
-      "id": 536
+      "id": 533
     },
     {
-      "id": 537,
+      "id": 534,
       "category": "Programming & Development",
       "name": "Udacity: Intro to Programming Nanodegree (Free Courses)",
       "provider": "Udacity",
@@ -7595,7 +7556,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:16:08.674945+00:00",
-      "id": 538
+      "id": 535
     },
     {
       "category": "Programming & Development",
@@ -7608,7 +7569,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:16:08.676932+00:00",
-      "id": 539
+      "id": 536
     },
     {
       "category": "Programming & Development",
@@ -7621,7 +7582,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-25T16:59:23.983356+00:00",
-      "id": 540
+      "id": 537
     },
     {
       "category": "Programming & Development",
@@ -7634,10 +7595,10 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:16:05.799297+00:00",
-      "id": 541
+      "id": 538
     },
     {
-      "id": 542,
+      "id": 539,
       "category": "Quantum Engineering",
       "name": "Introduction to Quantum Computing",
       "provider": "IBM Quantum",
@@ -7651,7 +7612,7 @@
       "last_checked": null
     },
     {
-      "id": 543,
+      "id": 540,
       "category": "Quantum Engineering",
       "name": "Quantum Error Correction",
       "provider": "Coursera",
@@ -7665,7 +7626,7 @@
       "last_checked": null
     },
     {
-      "id": 544,
+      "id": 541,
       "category": "Quantum Engineering",
       "name": "Quantum Programming",
       "provider": "Qiskit",
@@ -7679,7 +7640,7 @@
       "last_checked": null
     },
     {
-      "id": 545,
+      "id": 542,
       "category": "Robotics & Mechatronics",
       "name": "Embedded Systems for Robotics",
       "provider": "edX",
@@ -7693,7 +7654,7 @@
       "last_checked": null
     },
     {
-      "id": 546,
+      "id": 543,
       "category": "Robotics & Mechatronics",
       "name": "Introduction to Robotics",
       "provider": "MIT OpenCourseWare",
@@ -7707,7 +7668,7 @@
       "last_checked": null
     },
     {
-      "id": 547,
+      "id": 544,
       "category": "Robotics & Mechatronics",
       "name": "Mechatronics Design",
       "provider": "MIT OpenCourseWare",
@@ -7721,7 +7682,7 @@
       "last_checked": null
     },
     {
-      "id": 548,
+      "id": 545,
       "category": "Robotics & Mechatronics",
       "name": "Robot Operating System (ROS)",
       "provider": "The Construct",
@@ -7735,7 +7696,7 @@
       "last_checked": null
     },
     {
-      "id": 549,
+      "id": 546,
       "category": "Robotics & Mechatronics",
       "name": "Robotic Process Automation",
       "provider": "Automation Anywhere University",
@@ -7749,7 +7710,7 @@
       "last_checked": null
     },
     {
-      "id": 550,
+      "id": 547,
       "category": "Software Engineering",
       "name": "DevOps Engineering Essentials",
       "provider": "Linux Foundation",
@@ -7763,7 +7724,7 @@
       "last_checked": null
     },
     {
-      "id": 551,
+      "id": 548,
       "category": "Software Engineering",
       "name": "Distributed Systems Engineering",
       "provider": "MIT OpenCourseWare",
@@ -7777,7 +7738,7 @@
       "last_checked": null
     },
     {
-      "id": 552,
+      "id": 549,
       "category": "Software Engineering",
       "name": "Microservices Architecture",
       "provider": "IBM",
@@ -7791,7 +7752,7 @@
       "last_checked": null
     },
     {
-      "id": 553,
+      "id": 550,
       "category": "Software Engineering",
       "name": "Platform Engineering Fundamentals",
       "provider": "Coursera",
@@ -7805,7 +7766,7 @@
       "last_checked": null
     },
     {
-      "id": 554,
+      "id": 551,
       "category": "Software Engineering",
       "name": "Site Reliability Engineering",
       "provider": "Google",
@@ -7819,7 +7780,7 @@
       "last_checked": null
     },
     {
-      "id": 555,
+      "id": 552,
       "category": "Software Engineering",
       "name": "Software Architecture Fundamentals",
       "provider": "MIT OpenCourseWare",
@@ -7833,7 +7794,7 @@
       "last_checked": null
     },
     {
-      "id": 556,
+      "id": 553,
       "category": "Sound & Audio Engineering",
       "name": "Audio Electronics",
       "provider": "NPTEL",
@@ -7847,7 +7808,7 @@
       "last_checked": null
     },
     {
-      "id": 557,
+      "id": 554,
       "category": "Sound & Audio Engineering",
       "name": "Audio Engineering Fundamentals",
       "provider": "Coursera",
@@ -7861,7 +7822,7 @@
       "last_checked": null
     },
     {
-      "id": 558,
+      "id": 555,
       "category": "Sound & Audio Engineering",
       "name": "Digital Audio Processing",
       "provider": "Coursera",

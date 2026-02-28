@@ -1,13 +1,21 @@
 {
-  "timestamp": "2026-02-27T20:18:33.304563+00:00",
-  "previous_count": 559,
-  "removed_invalid": 1,
+  "timestamp": "2026-02-28T01:03:01.498998+00:00",
+  "previous_count": 558,
+  "removed_invalid": 3,
   "discovered_new": 0,
-  "final_count": 558,
+  "final_count": 555,
   "invalid_removed": [
     {
-      "name": "The Ultimate Guide to Free Tech Courses & Certifications in 2025",
-      "url": "https://businesstories.com/career/free-tech-courses-certifications-in-2025/"
+      "name": "Top 10 Free Cloud Certifications to Boost Your Resume",
+      "url": "https://affoweb.com/blog/top-free-cloud-certifications-to-boost-your-resume/"
+    },
+    {
+      "name": "Top 10 Free IT Certifications to Boost Your Career in 2025",
+      "url": "https://technewskills.com/top-free-it-certifications-2025/"
+    },
+    {
+      "name": "Top Free IT Courses with Certificates in 2025 - prognoztech.com",
+      "url": "https://prognoztech.com/top-free-it-courses-with-certificates/"
     }
   ],
   "new_added": []
