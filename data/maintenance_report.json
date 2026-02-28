@@ -1,14 +1,14 @@
 {
-  "timestamp": "2026-02-28T16:15:09.808660+00:00",
-  "previous_count": 557,
+  "timestamp": "2026-02-28T20:14:56.979413+00:00",
+  "previous_count": 558,
   "removed_invalid": 0,
   "discovered_new": 1,
-  "final_count": 558,
+  "final_count": 559,
   "invalid_removed": [],
   "new_added": [
     {
-      "name": "Top Free IT Courses with Certificates in 2025 - prognoztech.com",
-      "url": "https://prognoztech.com/top-free-it-courses-with-certificates/"
+      "name": "Make the most of AWS Training and Certification free offerings",
+      "url": "https://aws.amazon.com/blogs/training-and-certification/make-the-most-of-free-training-from-aws-training-and-certification/"
     }
   ]
 }
