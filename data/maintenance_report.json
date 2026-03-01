@@ -1,14 +1,9 @@
 {
-  "timestamp": "2026-02-28T20:14:56.979413+00:00",
-  "previous_count": 558,
+  "timestamp": "2026-03-01T01:18:23.774624+00:00",
+  "previous_count": 559,
   "removed_invalid": 0,
-  "discovered_new": 1,
+  "discovered_new": 0,
   "final_count": 559,
   "invalid_removed": [],
-  "new_added": [
-    {
-      "name": "Make the most of AWS Training and Certification free offerings",
-      "url": "https://aws.amazon.com/blogs/training-and-certification/make-the-most-of-free-training-from-aws-training-and-certification/"
-    }
-  ]
+  "new_added": []
 }
