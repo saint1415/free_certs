@@ -1,7 +1,7 @@
 {
   "metadata": {
     "total_certifications": 559,
-    "last_updated": "2026-03-01T05:14:11.023817+00:00",
+    "last_updated": "2026-03-01T08:19:10.579018+00:00",
     "categories": [
       "AI & Machine Learning Engineering",
       "Aerospace Engineering",
@@ -229,7 +229,7 @@
       "Intermediate",
       "Professional"
     ],
-    "validation_run": "2026-03-01T05:14:11.023817+00:00"
+    "validation_run": "2026-03-01T08:19:10.579018+00:00"
   },
   "certifications": [
     {
@@ -6667,7 +6667,7 @@
       "level": "Beginner",
       "prerequisites": "",
       "expiration": "",
-      "discovered_at": "2026-01-30T04:21:55.840590+00:00",
+      "discovered_at": "2026-03-01T08:20:02.200224+00:00",
       "id": 469
     },
     {
