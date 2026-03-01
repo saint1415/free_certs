@@ -1,19 +1,9 @@
 {
-  "timestamp": "2026-03-01T08:19:10.579018+00:00",
+  "timestamp": "2026-03-01T12:27:01.518689+00:00",
   "previous_count": 559,
-  "removed_invalid": 1,
-  "discovered_new": 1,
+  "removed_invalid": 0,
+  "discovered_new": 0,
   "final_count": 559,
-  "invalid_removed": [
-    {
-      "name": "GitHub - cloudcommunity/Free-Certifications: A curated list of free ...",
-      "url": "https://github.com/cloudcommunity/Free-Certifications"
-    }
-  ],
-  "new_added": [
-    {
-      "name": "GitHub - cloudcommunity/Free-Certifications: A curated list of free ...",
-      "url": "https://github.com/cloudcommunity/Free-Certifications"
-    }
-  ]
+  "invalid_removed": [],
+  "new_added": []
 }
