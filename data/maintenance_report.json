@@ -1,14 +1,9 @@
 {
-  "timestamp": "2026-03-02T16:31:23.119173+00:00",
-  "previous_count": 557,
+  "timestamp": "2026-03-02T20:24:42.574595+00:00",
+  "previous_count": 558,
   "removed_invalid": 0,
-  "discovered_new": 1,
+  "discovered_new": 0,
   "final_count": 558,
   "invalid_removed": [],
-  "new_added": [
-    {
-      "name": "Cisco Networking Academy - Cisco",
-      "url": "https://www.cisco.com/site/us/en/learn/training-certifications/training/netacad/index.html"
-    }
-  ]
+  "new_added": []
 }
