@@ -1,9 +1,14 @@
 {
-  "timestamp": "2026-03-02T08:32:19.492804+00:00",
+  "timestamp": "2026-03-02T12:34:37.262998+00:00",
   "previous_count": 556,
   "removed_invalid": 0,
-  "discovered_new": 0,
-  "final_count": 556,
+  "discovered_new": 1,
+  "final_count": 557,
   "invalid_removed": [],
-  "new_added": []
+  "new_added": [
+    {
+      "name": "Cloudshalla - Master AWS, Azure & GCP Cloud Certifications",
+      "url": "https://cloudshalla.com/"
+    }
+  ]
 }
