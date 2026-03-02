@@ -1,14 +1,14 @@
 {
-  "timestamp": "2026-03-02T12:34:37.262998+00:00",
-  "previous_count": 556,
+  "timestamp": "2026-03-02T16:31:23.119173+00:00",
+  "previous_count": 557,
   "removed_invalid": 0,
   "discovered_new": 1,
-  "final_count": 557,
+  "final_count": 558,
   "invalid_removed": [],
   "new_added": [
     {
-      "name": "Cloudshalla - Master AWS, Azure & GCP Cloud Certifications",
-      "url": "https://cloudshalla.com/"
+      "name": "Cisco Networking Academy - Cisco",
+      "url": "https://www.cisco.com/site/us/en/learn/training-certifications/training/netacad/index.html"
     }
   ]
 }
