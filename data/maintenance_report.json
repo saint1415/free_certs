@@ -1,30 +1,18 @@
 {
-  "timestamp": "2026-03-01T20:15:11.619470+00:00",
-  "previous_count": 559,
-  "removed_invalid": 5,
-  "discovered_new": 0,
-  "final_count": 554,
-  "invalid_removed": [
-    {
-      "name": "15+ Free Certifications to Gain High-Income Skills in 2025 - Forbes",
-      "url": "https://www.forbes.com/sites/rachelwells/2025/08/30/15-free-certifications-to-gain-high-income-skills-in-2025/"
-    },
-    {
-      "name": "3 Free Online Cybersecurity Courses With Certificates",
-      "url": "https://www.forbes.com/sites/rachelwells/2024/07/14/free-online-cybersecurity-courses-with-certificates/"
-    },
-    {
-      "name": "The Ultimate Guide to Free Tech Courses & Certifications in 2025",
-      "url": "https://businesstories.com/career/free-tech-courses-certifications-in-2025/"
-    },
+  "timestamp": "2026-03-02T01:10:35.507334+00:00",
+  "previous_count": 554,
+  "removed_invalid": 0,
+  "discovered_new": 2,
+  "final_count": 556,
+  "invalid_removed": [],
+  "new_added": [
     {
       "name": "Top 10 Free IT Certifications to Boost Your Career in 2025",
       "url": "https://technewskills.com/top-free-it-certifications-2025/"
     },
     {
-      "name": "Top Free IT Courses with Certificates in 2025 - prognoztech.com",
-      "url": "https://prognoztech.com/top-free-it-courses-with-certificates/"
+      "name": "The Ultimate Guide to Free Tech Courses & Certifications in 2025",
+      "url": "https://businesstories.com/career/free-tech-courses-certifications-in-2025/"
     }
-  ],
-  "new_added": []
+  ]
 }
