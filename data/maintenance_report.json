@@ -1,18 +1,14 @@
 {
-  "timestamp": "2026-03-04T01:08:50.314728+00:00",
-  "previous_count": 556,
+  "timestamp": "2026-03-04T05:03:44.677933+00:00",
+  "previous_count": 558,
   "removed_invalid": 0,
-  "discovered_new": 2,
-  "final_count": 558,
+  "discovered_new": 1,
+  "final_count": 559,
   "invalid_removed": [],
   "new_added": [
     {
-      "name": "Top Free IT Courses with Certificates in 2025 - prognoztech.com",
-      "url": "https://prognoztech.com/top-free-it-courses-with-certificates/"
-    },
-    {
-      "name": "Free Cloud Certification Practice Tests 2026 \u2014 AWS, Azure, GCP ...",
-      "url": "https://certstud.com/free-cloud-certification-practice-tests"
+      "name": "Cloud Certification Roadmap: AWS vs Azure vs GCP - kodekloud.com",
+      "url": "https://kodekloud.com/blog/cloud-certification-roadmap-aws-azure-gcp/"
     }
   ]
 }
