@@ -1,9 +1,14 @@
 {
-  "timestamp": "2026-03-04T16:31:07.943113+00:00",
+  "timestamp": "2026-03-04T20:22:35.943562+00:00",
   "previous_count": 558,
-  "removed_invalid": 0,
+  "removed_invalid": 1,
   "discovered_new": 0,
-  "final_count": 558,
-  "invalid_removed": [],
+  "final_count": 557,
+  "invalid_removed": [
+    {
+      "name": "Manufacturing Processes",
+      "url": "https://ocw.mit.edu/courses/mechanical-engineering/2-008-design-and-manufacturing-ii-spring-2004/"
+    }
+  ],
   "new_added": []
 }
