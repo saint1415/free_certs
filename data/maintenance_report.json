@@ -1,14 +1,18 @@
 {
-  "timestamp": "2026-03-03T20:22:36.423636+00:00",
-  "previous_count": 557,
-  "removed_invalid": 1,
-  "discovered_new": 0,
-  "final_count": 556,
-  "invalid_removed": [
+  "timestamp": "2026-03-04T01:08:50.314728+00:00",
+  "previous_count": 556,
+  "removed_invalid": 0,
+  "discovered_new": 2,
+  "final_count": 558,
+  "invalid_removed": [],
+  "new_added": [
+    {
+      "name": "Top Free IT Courses with Certificates in 2025 - prognoztech.com",
+      "url": "https://prognoztech.com/top-free-it-courses-with-certificates/"
+    },
     {
       "name": "Free Cloud Certification Practice Tests 2026 \u2014 AWS, Azure, GCP ...",
       "url": "https://certstud.com/free-cloud-certification-practice-tests"
     }
-  ],
-  "new_added": []
+  ]
 }
