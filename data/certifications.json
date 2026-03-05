@@ -1,7 +1,7 @@
 {
   "metadata": {
     "total_certifications": 556,
-    "last_updated": "2026-03-05T05:08:46.935748+00:00",
+    "last_updated": "2026-03-05T08:29:08.506832+00:00",
     "categories": [
       "AI & Machine Learning Engineering",
       "Aerospace Engineering",
@@ -228,7 +228,7 @@
       "Intermediate",
       "Professional"
     ],
-    "validation_run": "2026-03-05T05:08:46.935748+00:00"
+    "validation_run": "2026-03-05T08:29:08.506832+00:00"
   },
   "certifications": [
     {
@@ -6210,19 +6210,6 @@
     },
     {
       "category": "Programming & Development",
-      "name": "Free Cloud Computing with AWS - GCP - Azure Course | 7-Language Certificate",
-      "provider": "",
-      "url": "https://catchwisdom.com/course/cloud-computing-with-aws-gcp-azure/",
-      "description": "Free certification from ",
-      "duration": "Self-paced",
-      "level": "Beginner",
-      "prerequisites": "",
-      "expiration": "",
-      "discovered_at": "2026-01-30T04:21:58.618526+00:00",
-      "id": 435
-    },
-    {
-      "category": "Programming & Development",
       "name": "Free Cloud Learning Paths: AWS, GCP, Azure, OCI Resources",
       "provider": "",
       "url": "https://www.linkedin.com/posts/vsadhwani_stop-paying-for-cloud-courses-when-you-can-activity-7421234952710602752-rS8o",
@@ -6232,7 +6219,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T12:27:53.397707+00:00",
-      "id": 436
+      "id": 435
     },
     {
       "category": "Programming & Development",
@@ -6245,7 +6232,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-03T01:13:43.782674+00:00",
-      "id": 437
+      "id": 436
     },
     {
       "category": "Programming & Development",
@@ -6258,7 +6245,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-01-30T04:21:58.618354+00:00",
-      "id": 438
+      "id": 437
     },
     {
       "category": "Programming & Development",
@@ -6271,7 +6258,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-19T01:15:37.414946+00:00",
-      "id": 439
+      "id": 438
     },
     {
       "category": "Programming & Development",
@@ -6284,7 +6271,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-22T16:18:24.963714+00:00",
-      "id": 440
+      "id": 439
     },
     {
       "category": "Programming & Development",
@@ -6297,7 +6284,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-19T01:15:20.061058+00:00",
-      "id": 441
+      "id": 440
     },
     {
       "category": "Programming & Development",
@@ -6310,7 +6297,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:16:05.799394+00:00",
-      "id": 442
+      "id": 441
     },
     {
       "category": "Programming & Development",
@@ -6323,7 +6310,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-11T01:21:52.766788+00:00",
-      "id": 443
+      "id": 442
     },
     {
       "category": "Programming & Development",
@@ -6336,7 +6323,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:15:51.286336+00:00",
-      "id": 444
+      "id": 443
     },
     {
       "category": "Programming & Development",
@@ -6349,7 +6336,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:15:51.286943+00:00",
-      "id": 445
+      "id": 444
     },
     {
       "category": "Programming & Development",
@@ -6362,7 +6349,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-23T01:13:19.809494+00:00",
-      "id": 446
+      "id": 445
     },
     {
       "category": "Programming & Development",
@@ -6375,7 +6362,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:15:51.286197+00:00",
-      "id": 447
+      "id": 446
     },
     {
       "category": "Programming & Development",
@@ -6388,7 +6375,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:15:51.286654+00:00",
-      "id": 448
+      "id": 447
     },
     {
       "category": "Programming & Development",
@@ -6401,7 +6388,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:15:57.088430+00:00",
-      "id": 449
+      "id": 448
     },
     {
       "category": "Programming & Development",
@@ -6414,7 +6401,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:15:57.088233+00:00",
-      "id": 450
+      "id": 449
     },
     {
       "category": "Programming & Development",
@@ -6427,7 +6414,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:15:57.088642+00:00",
-      "id": 451
+      "id": 450
     },
     {
       "category": "Programming & Development",
@@ -6440,7 +6427,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:15:57.088333+00:00",
-      "id": 452
+      "id": 451
     },
     {
       "category": "Programming & Development",
@@ -6453,7 +6440,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:15:57.088119+00:00",
-      "id": 453
+      "id": 452
     },
     {
       "category": "Programming & Development",
@@ -6466,7 +6453,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:16:11.463084+00:00",
-      "id": 454
+      "id": 453
     },
     {
       "category": "Programming & Development",
@@ -6479,7 +6466,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-19T01:15:37.414825+00:00",
-      "id": 455
+      "id": 454
     },
     {
       "category": "Programming & Development",
@@ -6492,7 +6479,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:16:11.463291+00:00",
-      "id": 456
+      "id": 455
     },
     {
       "category": "Programming & Development",
@@ -6505,7 +6492,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-01-30T04:21:55.840301+00:00",
-      "id": 457
+      "id": 456
     },
     {
       "category": "Programming & Development",
@@ -6518,7 +6505,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:16:00.018621+00:00",
-      "id": 458
+      "id": 457
     },
     {
       "category": "Programming & Development",
@@ -6531,7 +6518,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-03T08:27:38.891655+00:00",
-      "id": 459
+      "id": 458
     },
     {
       "category": "Programming & Development",
@@ -6544,7 +6531,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-19T01:15:22.905155+00:00",
-      "id": 460
+      "id": 459
     },
     {
       "category": "Programming & Development",
@@ -6557,7 +6544,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-01-30T16:28:17.544210+00:00",
-      "id": 461
+      "id": 460
     },
     {
       "category": "Programming & Development",
@@ -6570,7 +6557,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-03T16:42:15.819755+00:00",
-      "id": 462
+      "id": 461
     },
     {
       "category": "Programming & Development",
@@ -6583,7 +6570,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:15:54.142340+00:00",
-      "id": 463
+      "id": 462
     },
     {
       "category": "Programming & Development",
@@ -6596,6 +6583,19 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:15:51.286854+00:00",
+      "id": 463
+    },
+    {
+      "category": "Programming & Development",
+      "name": "Get Informed On It certifications - Read About Now",
+      "provider": "",
+      "url": "https://duckduckgo.com/y.js?ad_domain=beautyandstyle.com&ad_provider=bingv7aa&ad_type=txad&click_metadata=ZFbKHgdzeFUNBgrIMksXsl0MNNfF2z0RWFsYeQJOewQO7n5pmnRJMELAaVkZjHK9VnRHJoQZp66BHWxXTYwBDE0mxLSPfraG%2D9VX2CA0PN2ry8BpjJoOtzcR9OM59q6HWEjLHmDZepQhKGT%2DYRN0qZ1eFpwqi0hc%2DqbrDgbiLQU.wZDk9%2DBN4bk2Zdyhl9tR%2Dg&rut=5a7fcbf605820f1e1512678f149c9c7dc31110cf3a7c9e48dcad2445399829df&u3=https%3A%2F%2Fwww.bing.com%2Faclick%3Fld%3De8b_T_SGgJ_BxHE9R3gTS5FzVUCUzO0w%2D17qZewnH8tSldHSMeyN_sqkFz2e8d1mvpK_ZhKBJ0d66iZ5fwtlynt9oiTmWA6rc9St3b4rfTBYl2_QWWjhhFyy5JP2O%2DUC7zygZ3YDYvPope2LpMIK_HM2nscLW0Z7exyc9Y6PTG5dNRFLcQL0lf465s_AaTQrCISoSSGmudBxs75L2C_noHRud6%2Dm0%26u%3DaHR0cHMlM2ElMmYlMmZ3d3cuYmVhdXR5YW5kc3R5bGUuY29tJTJmZGNsJTJmdW5kZXJzdGFuZGluZy12YWx1ZS1jZXJ0aWZpY2F0aW9ucy13b3J0aCUzZmFraWQlM2RmZmE2ZDNlMC05YzU4LTRmNzctOGRkOS04Y2MzNTlhNWQ3MDMtMC1xel9tc2IlMjZvJTNkMTY3NTk4NSUyNmNyaWQlM2Q3MzgwNTA3MDIwMTY4MSUyNmNwZ25pZCUzZDU3MDg1NjU5NyUyNmFncmlkJTNkMTE4MDg3NzU3OTAwMTI1NiUyNnRyZ3QlM2Rrd2QtNzM4MDUzMTQ2NDYwNDUlM2Fsb2MtMTkwJTI2cXQlM2RJdCUyNTIwQ2VydGlmaWNhdGlvbnMlMjZtc2Nsa2lkJTNkYWQ4YmY0OWI3M2E4MTE1NzM3MDU5ZDMyNGNhZjBhYjI%26rlid%3Dad8bf49b73a8115737059d324caf0ab2&vqd=4-68014724773115203932144985566021421112&iurl=%7B1%7DIG%3DD47F888781F4452B866C2820B31AE21C%26CID%3D0F72F24AEDAD6A380345E559ECE16B8C%26ID%3DDevEx%2C5041.1",
+      "description": "Free certification from ",
+      "duration": "Self-paced",
+      "level": "Beginner",
+      "prerequisites": "",
+      "expiration": "",
+      "discovered_at": "2026-03-05T08:30:00.030928+00:00",
       "id": 464
     },
     {

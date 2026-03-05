@@ -1,14 +1,19 @@
 {
-  "timestamp": "2026-03-05T05:08:46.935748+00:00",
-  "previous_count": 557,
+  "timestamp": "2026-03-05T08:29:08.506832+00:00",
+  "previous_count": 556,
   "removed_invalid": 1,
-  "discovered_new": 0,
+  "discovered_new": 1,
   "final_count": 556,
   "invalid_removed": [
     {
-      "name": "Teaching English Online",
-      "url": "https://www.cambridgeenglish.org/teaching-english-online/"
+      "name": "Free Cloud Computing with AWS - GCP - Azure Course | 7-Language Certificate",
+      "url": "https://catchwisdom.com/course/cloud-computing-with-aws-gcp-azure/"
     }
   ],
-  "new_added": []
+  "new_added": [
+    {
+      "name": "Get Informed On It certifications - Read About Now",
+      "url": "https://duckduckgo.com/y.js?ad_domain=beautyandstyle.com&ad_provider=bingv7aa&ad_type=txad&click_metadata=ZFbKHgdzeFUNBgrIMksXsl0MNNfF2z0RWFsYeQJOewQO7n5pmnRJMELAaVkZjHK9VnRHJoQZp66BHWxXTYwBDE0mxLSPfraG%2D9VX2CA0PN2ry8BpjJoOtzcR9OM59q6HWEjLHmDZepQhKGT%2DYRN0qZ1eFpwqi0hc%2DqbrDgbiLQU.wZDk9%2DBN4bk2Zdyhl9tR%2Dg&rut=5a7fcbf605820f1e1512678f149c9c7dc31110cf3a7c9e48dcad2445399829df&u3=https%3A%2F%2Fwww.bing.com%2Faclick%3Fld%3De8b_T_SGgJ_BxHE9R3gTS5FzVUCUzO0w%2D17qZewnH8tSldHSMeyN_sqkFz2e8d1mvpK_ZhKBJ0d66iZ5fwtlynt9oiTmWA6rc9St3b4rfTBYl2_QWWjhhFyy5JP2O%2DUC7zygZ3YDYvPope2LpMIK_HM2nscLW0Z7exyc9Y6PTG5dNRFLcQL0lf465s_AaTQrCISoSSGmudBxs75L2C_noHRud6%2Dm0%26u%3DaHR0cHMlM2ElMmYlMmZ3d3cuYmVhdXR5YW5kc3R5bGUuY29tJTJmZGNsJTJmdW5kZXJzdGFuZGluZy12YWx1ZS1jZXJ0aWZpY2F0aW9ucy13b3J0aCUzZmFraWQlM2RmZmE2ZDNlMC05YzU4LTRmNzctOGRkOS04Y2MzNTlhNWQ3MDMtMC1xel9tc2IlMjZvJTNkMTY3NTk4NSUyNmNyaWQlM2Q3MzgwNTA3MDIwMTY4MSUyNmNwZ25pZCUzZDU3MDg1NjU5NyUyNmFncmlkJTNkMTE4MDg3NzU3OTAwMTI1NiUyNnRyZ3QlM2Rrd2QtNzM4MDUzMTQ2NDYwNDUlM2Fsb2MtMTkwJTI2cXQlM2RJdCUyNTIwQ2VydGlmaWNhdGlvbnMlMjZtc2Nsa2lkJTNkYWQ4YmY0OWI3M2E4MTE1NzM3MDU5ZDMyNGNhZjBhYjI%26rlid%3Dad8bf49b73a8115737059d324caf0ab2&vqd=4-68014724773115203932144985566021421112&iurl=%7B1%7DIG%3DD47F888781F4452B866C2820B31AE21C%26CID%3D0F72F24AEDAD6A380345E559ECE16B8C%26ID%3DDevEx%2C5041.1"
+    }
+  ]
 }
