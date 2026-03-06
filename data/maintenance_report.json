@@ -1,9 +1,22 @@
 {
-  "timestamp": "2026-03-05T20:28:43.045540+00:00",
+  "timestamp": "2026-03-06T01:14:59.420042+00:00",
   "previous_count": 557,
-  "removed_invalid": 0,
+  "removed_invalid": 3,
   "discovered_new": 0,
-  "final_count": 557,
-  "invalid_removed": [],
+  "final_count": 554,
+  "invalid_removed": [
+    {
+      "name": "The Ultimate Guide to Free Tech Courses & Certifications in 2025",
+      "url": "https://businesstories.com/career/free-tech-courses-certifications-in-2025/"
+    },
+    {
+      "name": "Top 10 Free IT Certifications to Boost Your Career in 2025",
+      "url": "https://technewskills.com/top-free-it-certifications-2025/"
+    },
+    {
+      "name": "Top Free IT Courses with Certificates in 2025 - prognoztech.com",
+      "url": "https://prognoztech.com/top-free-it-courses-with-certificates/"
+    }
+  ],
   "new_added": []
 }
