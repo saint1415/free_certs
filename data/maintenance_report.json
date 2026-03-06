@@ -1,14 +1,14 @@
 {
-  "timestamp": "2026-03-06T16:28:00.632491+00:00",
-  "previous_count": 557,
+  "timestamp": "2026-03-06T20:20:42.324843+00:00",
+  "previous_count": 558,
   "removed_invalid": 0,
   "discovered_new": 1,
-  "final_count": 558,
+  "final_count": 559,
   "invalid_removed": [],
   "new_added": [
     {
-      "name": "2000+ Free Developer & IT Certifications (2025) | CoderStar",
-      "url": "https://coderstar.in/2025/free-developer-it-certifications.html"
+      "name": "Online Training - Learn New Technology Skills | Microsoft",
+      "url": "https://www.microsoft.com/en/microsoft-learn"
     }
   ]
 }
