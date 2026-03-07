@@ -1,18 +1,14 @@
 {
-  "timestamp": "2026-03-07T08:18:26.515899+00:00",
-  "previous_count": 557,
-  "removed_invalid": 2,
-  "discovered_new": 0,
-  "final_count": 555,
-  "invalid_removed": [
+  "timestamp": "2026-03-07T12:25:34.046215+00:00",
+  "previous_count": 555,
+  "removed_invalid": 0,
+  "discovered_new": 1,
+  "final_count": 556,
+  "invalid_removed": [],
+  "new_added": [
     {
-      "name": "Alibaba Cloud Data Security",
-      "url": "https://edu.alibabacloud.com/certification/datasecurity"
-    },
-    {
-      "name": "Alibaba Cloud Certified Associate - Cloud Computing",
-      "url": "https://edu.alibabacloud.com/certification/aca_cloudcomputing"
+      "name": "Free IT Certifications 2025: Complete Guide & Career Tips",
+      "url": "https://www.hydranode.ai/blog/free-it-certifications-2025"
     }
-  ],
-  "new_added": []
+  ]
 }
