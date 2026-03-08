@@ -1,14 +1,9 @@
 {
-  "timestamp": "2026-03-08T08:19:30.664539+00:00",
-  "previous_count": 555,
+  "timestamp": "2026-03-08T12:26:48.158106+00:00",
+  "previous_count": 556,
   "removed_invalid": 0,
-  "discovered_new": 1,
+  "discovered_new": 0,
   "final_count": 556,
   "invalid_removed": [],
-  "new_added": [
-    {
-      "name": "Career Certificates | Google Skills",
-      "url": "https://www.skills.google/collections/career-certificates"
-    }
-  ]
+  "new_added": []
 }
