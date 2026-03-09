@@ -1,14 +1,14 @@
 {
-  "timestamp": "2026-03-09T08:32:54.045774+00:00",
-  "previous_count": 552,
-  "removed_invalid": 0,
-  "discovered_new": 1,
-  "final_count": 553,
-  "invalid_removed": [],
-  "new_added": [
+  "timestamp": "2026-03-09T12:37:04.391709+00:00",
+  "previous_count": 553,
+  "removed_invalid": 1,
+  "discovered_new": 0,
+  "final_count": 552,
+  "invalid_removed": [
     {
       "name": "Top 10 Free IT Certifications to Boost Your Career in 2025",
       "url": "https://technewskills.com/top-free-it-certifications-2025/"
     }
-  ]
+  ],
+  "new_added": []
 }
