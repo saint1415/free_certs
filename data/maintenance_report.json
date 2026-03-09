@@ -1,27 +1,18 @@
 {
-  "timestamp": "2026-03-09T16:46:21.735909+00:00",
+  "timestamp": "2026-03-09T20:22:23.631769+00:00",
   "previous_count": 552,
-  "removed_invalid": 2,
+  "removed_invalid": 0,
   "discovered_new": 2,
-  "final_count": 552,
-  "invalid_removed": [
-    {
-      "name": "1200+ Free Certificate Courses [2026 January] [UPDATED]",
-      "url": "https://digitaldefynd.com/best-free-certification-course-training-online/"
-    },
-    {
-      "name": "Free Data Science Courses for Students | IBM SkillsBuild",
-      "url": "https://skillsbuild.org/students/course-catalog/data-science"
-    }
-  ],
+  "final_count": 554,
+  "invalid_removed": [],
   "new_added": [
     {
-      "name": "Top 10 Free IT Certifications to Boost Your Career in 2025",
-      "url": "https://technewskills.com/top-free-it-certifications-2025/"
+      "name": "Google IT Support Certificate - Grow with Google",
+      "url": "https://grow.google/certificates/it-support/"
     },
     {
-      "name": "Free Online Certifications from Top Universities - Still Open in 2025",
-      "url": "https://brightmindai.com/free-online-certifications-2025/"
+      "name": "ISACA 2026 North America Conference",
+      "url": "https://www.isaca.org/training-and-events/conferences/isaca-north-america-conference"
     }
   ]
 }
