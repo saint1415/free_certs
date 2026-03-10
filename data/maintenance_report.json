@@ -1,18 +1,14 @@
 {
-  "timestamp": "2026-03-09T20:22:23.631769+00:00",
-  "previous_count": 552,
+  "timestamp": "2026-03-10T01:05:53.977224+00:00",
+  "previous_count": 554,
   "removed_invalid": 0,
-  "discovered_new": 2,
-  "final_count": 554,
+  "discovered_new": 1,
+  "final_count": 555,
   "invalid_removed": [],
   "new_added": [
     {
-      "name": "Google IT Support Certificate - Grow with Google",
-      "url": "https://grow.google/certificates/it-support/"
-    },
-    {
-      "name": "ISACA 2026 North America Conference",
-      "url": "https://www.isaca.org/training-and-events/conferences/isaca-north-america-conference"
+      "name": "The Ultimate Guide to Free Tech Courses & Certifications in 2025",
+      "url": "https://businesstories.com/career/free-tech-courses-certifications-in-2025/"
     }
   ]
 }
