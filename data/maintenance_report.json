@@ -1,18 +1,22 @@
 {
-  "timestamp": "2026-03-10T16:46:01.939643+00:00",
-  "previous_count": 554,
+  "timestamp": "2026-03-10T20:22:25.145435+00:00",
+  "previous_count": 556,
   "removed_invalid": 0,
-  "discovered_new": 2,
-  "final_count": 556,
+  "discovered_new": 3,
+  "final_count": 559,
   "invalid_removed": [],
   "new_added": [
     {
-      "name": "Top 10 Free IT Certifications to Boost Your Career in 2025",
-      "url": "https://technewskills.com/top-free-it-certifications-2025/"
+      "name": "Free IT Certifications for Veterans",
+      "url": "https://veteran.com/free-it-certification-veterans/"
     },
     {
-      "name": "2000+ Free Developer & IT Certifications (2025) | CoderStar",
-      "url": "https://coderstar.in/2025/free-developer-it-certifications.html"
+      "name": "The 20 top-paying IT certifications of 2025 | CIO",
+      "url": "https://www.cio.com/article/286762/careers-staffing-12-it-certifications-that-deliver-career-advancement.html"
+    },
+    {
+      "name": "Limited-Time Free Certification Offer | Terms and Conditions",
+      "url": "https://community.fabric.microsoft.com/t5/Using-the-Community/Limited-Time-Free-Certification-Offer-Terms-and-Conditions/ta-p/4271103"
     }
   ]
 }
