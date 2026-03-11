@@ -1,26 +1,14 @@
 {
-  "timestamp": "2026-03-11T08:28:56.168772+00:00",
-  "previous_count": 560,
-  "removed_invalid": 4,
-  "discovered_new": 0,
-  "final_count": 556,
-  "invalid_removed": [
-    {
-      "name": "15 free MIT data science courses | Open Learning",
-      "url": "https://openlearning.mit.edu/news/15-free-mit-data-science-courses"
-    },
-    {
-      "name": "2000+ Free Developer & IT Certifications (2025) | CoderStar",
-      "url": "https://coderstar.in/2025/free-developer-it-certifications.html"
-    },
-    {
-      "name": "The Ultimate Guide to Free Tech Courses & Certifications in 2025",
-      "url": "https://businesstories.com/career/free-tech-courses-certifications-in-2025/"
-    },
+  "timestamp": "2026-03-11T12:36:14.383333+00:00",
+  "previous_count": 556,
+  "removed_invalid": 0,
+  "discovered_new": 1,
+  "final_count": 557,
+  "invalid_removed": [],
+  "new_added": [
     {
       "name": "Top 10 Free IT Certifications to Boost Your Career in 2025",
       "url": "https://technewskills.com/top-free-it-certifications-2025/"
     }
-  ],
-  "new_added": []
+  ]
 }
