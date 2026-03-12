@@ -1,22 +1,19 @@
 {
-  "timestamp": "2026-03-11T20:23:59.005808+00:00",
-  "previous_count": 556,
-  "removed_invalid": 0,
-  "discovered_new": 3,
+  "timestamp": "2026-03-12T01:03:56.036847+00:00",
+  "previous_count": 559,
+  "removed_invalid": 1,
+  "discovered_new": 1,
   "final_count": 559,
-  "invalid_removed": [],
+  "invalid_removed": [
+    {
+      "name": "Infosec Certification - Information Security Training Certification",
+      "url": "https://duckduckgo.com/y.js?ad_domain=isaca.org&ad_provider=bingv7aa&ad_type=txad&click_metadata=7HDPCb7Eps7I5rj0TqRDPCBpjdPCE6vDaoFLWVzQRzTP_C1GxEakIFhhHYscp_tZ45ojKU6AG5FjEj3bJQQMS3IReQBN0KgAF5jepf8DxdGkpQvkFDMxmHBRFciCMP2pm2B7%2DqHyOljImhvxZ_GBslmiX5t8rZILrFVWUCI7fAM.h%2DvE4AdFk3Yf4IMcl_AA9Q&rut=1952c13f8a186716c6890cdb5ee7521151b48bb96eb1c8861f29a0a622c2713a&u3=https%3A%2F%2Fwww.bing.com%2Faclick%3Fld%3De8UFrskBhNddIf_Z6qw0gibjVUCUyJYdS753w3R59UuCp8QJlzXDlNxeXjwC4SUcdXEKiRQqB1JaVA708D4I8BAFZiEElEOxLOTj_YxHClZmNr2dW9ni2EctPsPR24paw4rxmfr4now%2DbuX1e49QVMvKrb9wj_fc16hfjeVBC37c1NzJBVacz9Jt2UFsgwAruIBkNnR_yqLA7MUIi38ZVDSggHwfc%26u%3DaHR0cHMlM2ElMmYlMmZ3d3cuaXNhY2Eub3JnJTJmY3JlZGVudGlhbGluZyUyZmNpc20lM2Z1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RjaXNtLWV2ZXJncmVlbiUyNnV0bV90ZXJtJTNkY2VydF9uYV9hY3Ffbm9uLWJyYW5kZWRfZXh0X2luZm8tc2VjJTI2bXNjbGtpZCUzZDVhYjI4ZGQyZGEzMjFkOGFkMjlmZTQ3MmU1MGE3NzM3%26rlid%3D5ab28dd2da321d8ad29fe472e50a7737&vqd=4-132608267900913954074102332712839399074&iurl=%7B1%7DIG%3DC7D19677ACB647C79404AFB1E7B1951B%26CID%3D151CAFDA827D621B29D7B8D6833163B5%26ID%3DDevEx%2C5045.1"
+    }
+  ],
   "new_added": [
     {
-      "name": "Top 10 Free IT Certifications to Boost Your Career in 2025",
-      "url": "https://technewskills.com/top-free-it-certifications-2025/"
-    },
-    {
-      "name": "The Ultimate Guide to Free Tech Courses & Certifications in 2025",
-      "url": "https://businesstories.com/career/free-tech-courses-certifications-in-2025/"
-    },
-    {
-      "name": "2000+ Free Developer & IT Certifications (2025) | CoderStar",
-      "url": "https://coderstar.in/2025/free-developer-it-certifications.html"
+      "name": "Shop it certification prep - Amazon\u00ae Official Site",
+      "url": "https://duckduckgo.com/y.js?ad_domain=amazon.com&ad_provider=bingv7aa&ad_type=txad&click_metadata=FyNj8NQbjKwZybuooyGfjAqJLw1JoOAgP0FLKSEBsYsdmMjLsrB%2Dqfa9bitRbKJPENnpsDr6R5obwZWFiI8AJbv7TsqllFPfKhS02vehruikVyMIOjlmBcr_vZuTzw3PuPhwO5nYd0cj5wCEdj9RZhMVz5CsNxTtPNOu9fcGxMQ.xRVPpurCKn7iyQAdZbOFsg&rut=2edf5890ba4e491235460f405f9e6c98420b5c1a5c0773e6c02e3443707db497&u3=https%3A%2F%2Fwww.bing.com%2Faclick%3Fld%3De8O3Q_EfXJW5XEKWCIWckT7jVUCUynESG0l8otVqP_m1tCFwffYi_PbHaUKdIWkogyQpLhLd0wpJLsESy_mjcx_Xzu6ceuVrE5bpM_%2DYafkJB_ZD_BUgt_TU0oQidpBFfGI7oZJyga7_3lFq%2DMJwsk6KFsyUAVBGl25tcIWXKClOQrmmWbIuYDsLPaNHANdF3IJ%2DRPdAYu96bu7UFTM5BNFTDdFMQ%26u%3DaHR0cHMlM2ElMmYlMmZ3d3cuYW1hem9uLmNvbSUyZnMlMmYlM2ZpZSUzZFVURjglMjZrZXl3b3JkcyUzZGl0JTJiY2VydGlmaWNhdGlvbiUyYnByZXAlMjZpbmRleCUzZGFwcyUyNnRhZyUzZHR4dHN0ZGJnZHQtMjAlMjZyZWYlM2RwZF9zbF83M2N2c28wbGJkX3AlMjZhZGdycGlkJTNkMTIyOTI1NDMyNTA2MTE1NiUyNmh2YWRpZCUzZDc2ODI4NTYxMDM5OTU2JTI2aHZuZXR3JTNkcyUyNmh2cW10JTNkcCUyNmh2Ym10JTNkYnAlMjZodmRldiUzZGMlMjZodmxvY2ludCUzZCUyNmh2bG9jcGh5JTNkOTkzNzAlMjZodnRhcmdpZCUzZGt3ZC03NjgyODY0NjcyNzQ2MiUzYWxvYy0xOTAlMjZoeWRhZGNyJTNkMTAwNjdfMTM1OTAxNTklMjZtY2lkJTNkM2M2ZjEyMTAzZDQxM2M0ZThlODQyNjJmOTEzNWRiMzMlMjZsYW5ndWFnZSUzZGVuX1VTJTI2bXNjbGtpZCUzZDQ5ODY1N2Y1NzI4NTE4NDRkNDU4M2U0NzYzYjQ2YWZj%26rlid%3D498657f572851844d4583e4763b46afc&vqd=4-304951980855089865281865030137794330151&iurl=%7B1%7DIG%3D44C8742B90074391910C02C339C7DB7C%26CID%3D074BD18064B764311435C69A655365CA%26ID%3DDevEx%2C5045.1"
     }
   ]
 }
