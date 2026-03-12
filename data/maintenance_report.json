@@ -1,26 +1,18 @@
 {
-  "timestamp": "2026-03-12T16:49:48.921066+00:00",
-  "previous_count": 558,
-  "removed_invalid": 4,
-  "discovered_new": 0,
-  "final_count": 554,
-  "invalid_removed": [
+  "timestamp": "2026-03-12T20:23:41.959565+00:00",
+  "previous_count": 554,
+  "removed_invalid": 0,
+  "discovered_new": 2,
+  "final_count": 556,
+  "invalid_removed": [],
+  "new_added": [
     {
-      "name": "Google BigQuery Fundamentals",
-      "url": "https://www.cloudskillsboost.google/course_templates/54"
-    },
-    {
-      "name": "2000+ Free Developer & IT Certifications (2025) | CoderStar",
-      "url": "https://coderstar.in/2025/free-developer-it-certifications.html"
+      "name": "Top 10 Free IT Certifications to Boost Your Career in 2025",
+      "url": "https://technewskills.com/top-free-it-certifications-2025/"
     },
     {
       "name": "The Ultimate Guide to Free Tech Courses & Certifications in 2025",
       "url": "https://businesstories.com/career/free-tech-courses-certifications-in-2025/"
-    },
-    {
-      "name": "Top 10 Free IT Certifications to Boost Your Career in 2025",
-      "url": "https://technewskills.com/top-free-it-certifications-2025/"
     }
-  ],
-  "new_added": []
+  ]
 }
