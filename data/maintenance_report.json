@@ -1,14 +1,9 @@
 {
-  "timestamp": "2026-03-13T16:28:12.889739+00:00",
-  "previous_count": 557,
+  "timestamp": "2026-03-13T20:22:39.815045+00:00",
+  "previous_count": 558,
   "removed_invalid": 0,
-  "discovered_new": 1,
+  "discovered_new": 0,
   "final_count": 558,
   "invalid_removed": [],
-  "new_added": [
-    {
-      "name": "Free Microsoft Fundamental Certifications",
-      "url": "https://techcommunity.microsoft.com/blog/educatordeveloperblog/free-microsoft-fundamentals-certifications-for-worldwide-students/3734654"
-    }
-  ]
+  "new_added": []
 }
