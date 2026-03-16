@@ -1,19 +1,22 @@
 {
-  "timestamp": "2026-03-16T05:44:59.181418+00:00",
+  "timestamp": "2026-03-16T08:44:04.351321+00:00",
   "previous_count": 557,
-  "removed_invalid": 1,
-  "discovered_new": 1,
-  "final_count": 557,
+  "removed_invalid": 3,
+  "discovered_new": 0,
+  "final_count": 554,
   "invalid_removed": [
     {
-      "name": "Free Online Cybersecurity Workforce Certification Training",
-      "url": "https://www.pnw.edu/cybersecurity/cwct/"
-    }
-  ],
-  "new_added": [
+      "name": "Google Cloud Security",
+      "url": "https://www.cloudskillsboost.google/paths/14"
+    },
     {
       "name": "The Ultimate Guide to Free Tech Courses & Certifications in 2025",
       "url": "https://businesstories.com/career/free-tech-courses-certifications-in-2025/"
+    },
+    {
+      "name": "Top 10 Free IT Certifications to Boost Your Career in 2025",
+      "url": "https://technewskills.com/top-free-it-certifications-2025/"
     }
-  ]
+  ],
+  "new_added": []
 }
