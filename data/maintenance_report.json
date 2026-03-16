@@ -1,21 +1,13 @@
 {
-  "timestamp": "2026-03-16T08:44:04.351321+00:00",
-  "previous_count": 557,
-  "removed_invalid": 3,
+  "timestamp": "2026-03-16T12:45:31.754843+00:00",
+  "previous_count": 554,
+  "removed_invalid": 1,
   "discovered_new": 0,
-  "final_count": 554,
+  "final_count": 553,
   "invalid_removed": [
     {
-      "name": "Google Cloud Security",
-      "url": "https://www.cloudskillsboost.google/paths/14"
-    },
-    {
-      "name": "The Ultimate Guide to Free Tech Courses & Certifications in 2025",
-      "url": "https://businesstories.com/career/free-tech-courses-certifications-in-2025/"
-    },
-    {
-      "name": "Top 10 Free IT Certifications to Boost Your Career in 2025",
-      "url": "https://technewskills.com/top-free-it-certifications-2025/"
+      "name": "Free Cloud Computing with AWS - GCP - Azure Course | 7-Language Certificate",
+      "url": "https://catchwisdom.com/course/cloud-computing-with-aws-gcp-azure/"
     }
   ],
   "new_added": []
