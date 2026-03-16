@@ -1,115 +1,19 @@
 {
-  "timestamp": "2026-03-16T16:53:12.661078+00:00",
-  "previous_count": 553,
-  "removed_invalid": 2,
-  "discovered_new": 24,
+  "timestamp": "2026-03-16T20:27:36.552773+00:00",
+  "previous_count": 575,
+  "removed_invalid": 1,
+  "discovered_new": 1,
   "final_count": 575,
   "invalid_removed": [
     {
-      "name": "Forcepoint Cloud Security",
-      "url": "https://www.forcepoint.com/cyber-edu/cloud-security"
-    },
-    {
-      "name": "Cloud Computing Tutorials - Learn AWS, Azure, GCP | Free Online Training",
-      "url": "https://www.cloudsvers.com/"
+      "name": "Free Data Science Courses With Certificates (2025 Guide)",
+      "url": "https://devtoolhub.com/free-data-science-courses-2025/"
     }
   ],
   "new_added": [
     {
-      "name": "Top 10 Free IT Certifications to Boost Your Career in 2025",
-      "url": "https://technewskills.com/top-free-it-certifications-2025/"
-    },
-    {
-      "name": "Free Skills-Based Learning From Technology Experts | IBM SkillsBuild",
-      "url": "https://skillsbuild.org/"
-    },
-    {
-      "name": "Free Cloud Computing with AWS - GCP - Azure Course | 7-Language Certificate",
-      "url": "https://catchwisdom.com/course/cloud-computing-with-aws-gcp-azure/"
-    },
-    {
-      "name": "Free Programming Courses & Certificates [2026] | Coursera",
-      "url": "https://www.coursera.org/courses?query=free&skills=Programming%20Principles"
-    },
-    {
-      "name": "Programming Courses | Harvard University",
-      "url": "https://pll.harvard.edu/subject/programming"
-    },
-    {
-      "name": "60 Best FREE Online Courses with Certificates (2026) - Guru99",
-      "url": "https://www.guru99.com/free-online-course-with-certificate.html"
-    },
-    {
-      "name": "Learn to Code - for Free | Codecademy",
-      "url": "https://www.codecademy.com/"
-    },
-    {
-      "name": "Free Data Science Courses With Certificates (2025 Guide)",
-      "url": "https://devtoolhub.com/free-data-science-courses-2025/"
-    },
-    {
-      "name": "Free Data Science Courses for Students | IBM SkillsBuild",
-      "url": "https://skillsbuild.org/students/course-catalog/data-science"
-    },
-    {
-      "name": "Free Data Science courses",
-      "url": "https://courses.dataschool.io/free-courses"
-    },
-    {
-      "name": "15 free MIT data science courses | Open Learning",
-      "url": "https://openlearning.mit.edu/news/15-free-mit-data-science-courses"
-    },
-    {
-      "name": "A Collection Of Free Data Science Courses From Harvard ... - KDnuggets",
-      "url": "https://www.kdnuggets.com/a-collection-of-free-data-science-courses-from-harvard-stanford-mit-cornell-and-berkeley"
-    },
-    {
-      "name": "13 foundational AI courses, resources from MIT | Open Learning",
-      "url": "https://openlearning.mit.edu/news/13-foundational-ai-courses-resources-mit"
-    },
-    {
-      "name": "Top 7 Free Machine Learning Courses with Certificates",
-      "url": "https://www.analyticsvidhya.com/blog/2026/03/free-machine-learning-courses-with-certificates/"
-    },
-    {
-      "name": "Top free AI certifications to start your career - Uxcel",
-      "url": "https://uxcel.com/blog/top-free-ai-certifications"
-    },
-    {
-      "name": "Top 15 Free Professional Certifications That Can Boost Your\u2026",
-      "url": "https://www.preparebuddy.com/blog/free-professional-certifications/"
-    },
-    {
-      "name": "About Free Certifications and Courses",
-      "url": "https://www.msicertified.com/free-training/about-free-certifications-and-courses/"
-    },
-    {
-      "name": "free badge | CertiProf | International",
-      "url": "https://certiprof.com/pages/free-badge"
-    },
-    {
-      "name": "Professional and Technical Credentials and Certifications",
-      "url": "https://learn.microsoft.com/en-us/credentials/"
-    },
-    {
-      "name": "Vendor Management Course \u2014 Free Online, Certificate & Lifetime [2026 ...",
-      "url": "https://www.elevify.com/en/courses/business-and-economics/procurement-and-supplies/vendor-management-course-4e1b9"
-    },
-    {
-      "name": "American Course Academy Launches Florida Responsible Vendor Program ...",
-      "url": "https://markets.businessinsider.com/news/stocks/american-course-academy-launches-florida-responsible-vendor-program-frvp-alcohol-certification-1035933024?op=1"
-    },
-    {
-      "name": "Top 11 Vendor Certifications - ResumeCat",
-      "url": "https://resumecat.com/blog/vendor-certifications"
-    },
-    {
-      "name": "ExamCademy \u2014 Free IT Certification Exam Prep",
-      "url": "https://examcademy.com/"
-    },
-    {
-      "name": "5 Tech Certification Exams That Let You Retake for Free",
-      "url": "https://www.exam-labs.com/blog/5-tech-certification-exams-that-let-you-retake-for-free"
+      "name": "Cloud Computing Tutorials - Learn AWS, Azure, GCP | Free Online Training",
+      "url": "https://www.cloudsvers.com/"
     }
   ]
 }
