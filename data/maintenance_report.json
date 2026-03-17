@@ -1,27 +1,22 @@
 {
-  "timestamp": "2026-03-17T01:12:00.577296+00:00",
+  "timestamp": "2026-03-17T05:17:42.327655+00:00",
   "previous_count": 575,
-  "removed_invalid": 2,
-  "discovered_new": 2,
-  "final_count": 575,
-  "invalid_removed": [
+  "removed_invalid": 0,
+  "discovered_new": 3,
+  "final_count": 578,
+  "invalid_removed": [],
+  "new_added": [
+    {
+      "name": "NewBeginnerGuided ProjectEvaluation of Fixed-Length and Semantic Chunking in RAGFaiss, Retrieval-Augmented Generation (RAG), Sentence Embeddings, +3 more31 Enrolled60 Minutes4.0(1 Review)",
+      "url": "https://cognitiveclass.ai/courses/course-v1:IBMSkillsNetwork+GPXX08VEEN+v1"
+    },
     {
       "name": "900+ Free Developer and IT Certifications - Tech-Tech",
       "url": "https://tech-tech.life/2024/12/15/900-free-developer-and-it-certifications/"
     },
     {
-      "name": "Free Online Certifications from Top Universities - Still Open in 2025",
-      "url": "https://brightmindai.com/free-online-certifications-2025/"
-    }
-  ],
-  "new_added": [
-    {
-      "name": "The Ultimate Guide to Free Tech Courses & Certifications in 2025",
-      "url": "https://businesstories.com/career/free-tech-courses-certifications-in-2025/"
-    },
-    {
-      "name": "Top Free IT Courses with Certificates in 2025 - prognoztech.com",
-      "url": "https://prognoztech.com/top-free-it-courses-with-certificates/"
+      "name": "2000+ Free Developer & IT Certifications (2025) | CoderStar",
+      "url": "https://coderstar.in/2025/free-developer-it-certifications.html"
     }
   ]
 }
