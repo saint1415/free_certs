@@ -1,9 +1,18 @@
 {
-  "timestamp": "2026-03-17T12:44:36.737585+00:00",
+  "timestamp": "2026-03-17T16:55:27.726278+00:00",
   "previous_count": 578,
-  "removed_invalid": 0,
+  "removed_invalid": 2,
   "discovered_new": 0,
-  "final_count": 578,
-  "invalid_removed": [],
+  "final_count": 576,
+  "invalid_removed": [
+    {
+      "name": "11 Best FREE Online Cyber Security Courses (2026) - Guru99",
+      "url": "https://www.guru99.com/cyber-security-certifications-courses.html"
+    },
+    {
+      "name": "60 Best FREE Online Courses with Certificates (2026) - Guru99",
+      "url": "https://www.guru99.com/free-online-course-with-certificate.html"
+    }
+  ],
   "new_added": []
 }
