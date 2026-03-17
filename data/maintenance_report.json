@@ -1,19 +1,27 @@
 {
-  "timestamp": "2026-03-16T20:27:36.552773+00:00",
+  "timestamp": "2026-03-17T01:12:00.577296+00:00",
   "previous_count": 575,
-  "removed_invalid": 1,
-  "discovered_new": 1,
+  "removed_invalid": 2,
+  "discovered_new": 2,
   "final_count": 575,
   "invalid_removed": [
     {
-      "name": "Free Data Science Courses With Certificates (2025 Guide)",
-      "url": "https://devtoolhub.com/free-data-science-courses-2025/"
+      "name": "900+ Free Developer and IT Certifications - Tech-Tech",
+      "url": "https://tech-tech.life/2024/12/15/900-free-developer-and-it-certifications/"
+    },
+    {
+      "name": "Free Online Certifications from Top Universities - Still Open in 2025",
+      "url": "https://brightmindai.com/free-online-certifications-2025/"
     }
   ],
   "new_added": [
     {
-      "name": "Cloud Computing Tutorials - Learn AWS, Azure, GCP | Free Online Training",
-      "url": "https://www.cloudsvers.com/"
+      "name": "The Ultimate Guide to Free Tech Courses & Certifications in 2025",
+      "url": "https://businesstories.com/career/free-tech-courses-certifications-in-2025/"
+    },
+    {
+      "name": "Top Free IT Courses with Certificates in 2025 - prognoztech.com",
+      "url": "https://prognoztech.com/top-free-it-courses-with-certificates/"
     }
   ]
 }
