@@ -1,14 +1,14 @@
 {
-  "timestamp": "2026-03-18T05:21:54.782661+00:00",
-  "previous_count": 578,
-  "removed_invalid": 0,
-  "discovered_new": 1,
-  "final_count": 579,
-  "invalid_removed": [],
-  "new_added": [
+  "timestamp": "2026-03-18T08:36:38.339631+00:00",
+  "previous_count": 579,
+  "removed_invalid": 1,
+  "discovered_new": 0,
+  "final_count": 578,
+  "invalid_removed": [
     {
-      "name": "NewIntermediateCourseIntroduction to Test and Behavior Driven DevelopmentAutomated Testing, Behavior Driven Development, Software Testing, +1 more1 Enrolled19 Hours4.8(243 Reviews)",
-      "url": "https://cognitiveclass.ai/courses/course-v1:IBMSkillsNetwork+CD0241EN+v1_Coursera"
+      "name": "900+ Free Developer and IT Certifications - Tech-Tech",
+      "url": "https://tech-tech.life/2024/12/15/900-free-developer-and-it-certifications/"
     }
-  ]
+  ],
+  "new_added": []
 }
