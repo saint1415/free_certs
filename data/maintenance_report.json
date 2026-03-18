@@ -1,18 +1,9 @@
 {
-  "timestamp": "2026-03-17T20:29:11.435119+00:00",
-  "previous_count": 576,
+  "timestamp": "2026-03-18T01:16:06.617172+00:00",
+  "previous_count": 578,
   "removed_invalid": 0,
-  "discovered_new": 2,
+  "discovered_new": 0,
   "final_count": 578,
   "invalid_removed": [],
-  "new_added": [
-    {
-      "name": "Cloud certification FAQs: AWS vs Azure vs Google Cloud certs compared",
-      "url": "https://www.pluralsight.com/resources/blog/cloud/cloud-certification-faqs-aws-vs-azure-vs-google-cloud-certs-compared"
-    },
-    {
-      "name": "Compare Top Cloud Certifications 2026 | AWS vs Azure vs GCP Guide",
-      "url": "https://certstud.com/certifications/cloud"
-    }
-  ]
+  "new_added": []
 }
