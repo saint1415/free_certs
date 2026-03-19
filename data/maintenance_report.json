@@ -1,9 +1,14 @@
 {
-  "timestamp": "2026-03-19T08:30:29.860702+00:00",
+  "timestamp": "2026-03-19T12:38:35.936065+00:00",
   "previous_count": 576,
-  "removed_invalid": 0,
+  "removed_invalid": 1,
   "discovered_new": 0,
-  "final_count": 576,
-  "invalid_removed": [],
+  "final_count": 575,
+  "invalid_removed": [
+    {
+      "name": "Systems Engineering Management",
+      "url": "https://www.incose.org/systems-engineering-certification"
+    }
+  ],
   "new_added": []
 }
