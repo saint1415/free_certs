@@ -1,7 +1,7 @@
 {
   "metadata": {
     "total_certifications": 575,
-    "last_updated": "2026-03-19T12:38:35.936065+00:00",
+    "last_updated": "2026-03-19T16:45:54.213199+00:00",
     "categories": [
       "AI & Machine Learning Engineering",
       "Aerospace Engineering",
@@ -226,7 +226,7 @@
       "Intermediate",
       "Professional"
     ],
-    "validation_run": "2026-03-19T12:38:35.936065+00:00"
+    "validation_run": "2026-03-19T16:45:54.213199+00:00"
   },
   "certifications": [
     {
@@ -5642,6 +5642,19 @@
     },
     {
       "category": "Programming & Development",
+      "name": "900+ Free Developer and IT Certifications - Tech-Tech",
+      "provider": "",
+      "url": "https://tech-tech.life/2024/12/15/900-free-developer-and-it-certifications/",
+      "description": "Free certification from ",
+      "duration": "Self-paced",
+      "level": "Beginner",
+      "prerequisites": "",
+      "expiration": "",
+      "discovered_at": "2026-03-19T16:46:47.922895+00:00",
+      "id": 392
+    },
+    {
+      "category": "Programming & Development",
       "name": "A Cloud Guru - Get Cloud Certified - Pluralsight",
       "provider": "",
       "url": "https://www.pluralsight.com/cloud-guru",
@@ -5651,7 +5664,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-01-30T20:19:22.955060+00:00",
-      "id": 392
+      "id": 393
     },
     {
       "category": "Programming & Development",
@@ -5664,7 +5677,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-03-16T16:54:28.551511+00:00",
-      "id": 393
+      "id": 394
     },
     {
       "category": "Programming & Development",
@@ -5677,7 +5690,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-22T20:15:44.317692+00:00",
-      "id": 394
+      "id": 395
     },
     {
       "category": "Programming & Development",
@@ -5690,7 +5703,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-04T05:05:42.157873+00:00",
-      "id": 395
+      "id": 396
     },
     {
       "category": "Programming & Development",
@@ -5703,7 +5716,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-01-30T04:21:58.610057+00:00",
-      "id": 396
+      "id": 397
     },
     {
       "category": "Programming & Development",
@@ -5716,7 +5729,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-04T01:08:46.481385+00:00",
-      "id": 397
+      "id": 398
     },
     {
       "category": "Programming & Development",
@@ -5729,7 +5742,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-03-16T16:54:34.283015+00:00",
-      "id": 398
+      "id": 399
     },
     {
       "category": "Programming & Development",
@@ -5742,7 +5755,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:16:05.799782+00:00",
-      "id": 399
+      "id": 400
     },
     {
       "category": "Programming & Development",
@@ -5755,7 +5768,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-03-16T16:54:40.405369+00:00",
-      "id": 400
+      "id": 401
     },
     {
       "category": "Programming & Development",
@@ -5768,7 +5781,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:16:00.019073+00:00",
-      "id": 401
+      "id": 402
     },
     {
       "category": "Programming & Development",
@@ -5781,7 +5794,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-01-31T12:26:17.095141+00:00",
-      "id": 402
+      "id": 403
     },
     {
       "category": "Programming & Development",
@@ -5794,7 +5807,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-01-30T04:21:55.841023+00:00",
-      "id": 403
+      "id": 404
     },
     {
       "category": "Programming & Development",
@@ -5807,7 +5820,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:16:02.953811+00:00",
-      "id": 404
+      "id": 405
     },
     {
       "category": "Programming & Development",
@@ -5820,7 +5833,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:15:54.141949+00:00",
-      "id": 405
+      "id": 406
     },
     {
       "category": "Programming & Development",
@@ -5833,7 +5846,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:16:05.799605+00:00",
-      "id": 406
+      "id": 407
     },
     {
       "category": "Programming & Development",
@@ -5846,7 +5859,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:16:00.019166+00:00",
-      "id": 407
+      "id": 408
     },
     {
       "category": "Programming & Development",
@@ -5859,7 +5872,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-19T01:15:25.851331+00:00",
-      "id": 408
+      "id": 409
     },
     {
       "category": "Programming & Development",
@@ -5872,7 +5885,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-03-08T08:20:22.116602+00:00",
-      "id": 409
+      "id": 410
     },
     {
       "category": "Programming & Development",
@@ -5885,7 +5898,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:16:11.463826+00:00",
-      "id": 410
+      "id": 411
     },
     {
       "category": "Programming & Development",
@@ -5898,7 +5911,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-01-30T12:32:54.250434+00:00",
-      "id": 411
+      "id": 412
     },
     {
       "category": "Programming & Development",
@@ -5911,19 +5924,6 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-01-30T04:21:58.609889+00:00",
-      "id": 412
-    },
-    {
-      "category": "Programming & Development",
-      "name": "Cisco Networking Academy - Cisco",
-      "provider": "",
-      "url": "https://www.cisco.com/site/us/en/learn/training-certifications/training/netacad/index.html",
-      "description": "Free certification from ",
-      "duration": "Self-paced",
-      "level": "Beginner",
-      "prerequisites": "",
-      "expiration": "",
-      "discovered_at": "2026-03-02T16:32:16.534839+00:00",
       "id": 413
     },
     {

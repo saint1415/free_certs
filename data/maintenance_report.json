@@ -1,14 +1,19 @@
 {
-  "timestamp": "2026-03-19T12:38:35.936065+00:00",
-  "previous_count": 576,
+  "timestamp": "2026-03-19T16:45:54.213199+00:00",
+  "previous_count": 575,
   "removed_invalid": 1,
-  "discovered_new": 0,
+  "discovered_new": 1,
   "final_count": 575,
   "invalid_removed": [
     {
-      "name": "Systems Engineering Management",
-      "url": "https://www.incose.org/systems-engineering-certification"
+      "name": "Cisco Networking Academy - Cisco",
+      "url": "https://www.cisco.com/site/us/en/learn/training-certifications/training/netacad/index.html"
     }
   ],
-  "new_added": []
+  "new_added": [
+    {
+      "name": "900+ Free Developer and IT Certifications - Tech-Tech",
+      "url": "https://tech-tech.life/2024/12/15/900-free-developer-and-it-certifications/"
+    }
+  ]
 }
