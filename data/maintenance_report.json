@@ -1,19 +1,9 @@
 {
-  "timestamp": "2026-03-19T16:45:54.213199+00:00",
+  "timestamp": "2026-03-19T20:26:59.318459+00:00",
   "previous_count": 575,
-  "removed_invalid": 1,
-  "discovered_new": 1,
+  "removed_invalid": 0,
+  "discovered_new": 0,
   "final_count": 575,
-  "invalid_removed": [
-    {
-      "name": "Cisco Networking Academy - Cisco",
-      "url": "https://www.cisco.com/site/us/en/learn/training-certifications/training/netacad/index.html"
-    }
-  ],
-  "new_added": [
-    {
-      "name": "900+ Free Developer and IT Certifications - Tech-Tech",
-      "url": "https://tech-tech.life/2024/12/15/900-free-developer-and-it-certifications/"
-    }
-  ]
+  "invalid_removed": [],
+  "new_added": []
 }
