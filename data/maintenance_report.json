@@ -1,14 +1,9 @@
 {
-  "timestamp": "2026-03-21T01:07:01.308314+00:00",
-  "previous_count": 574,
-  "removed_invalid": 1,
+  "timestamp": "2026-03-21T05:01:37.051083+00:00",
+  "previous_count": 573,
+  "removed_invalid": 0,
   "discovered_new": 0,
   "final_count": 573,
-  "invalid_removed": [
-    {
-      "name": "IT Security Certification - Official Infosec Certification Exam",
-      "url": "https://duckduckgo.com/y.js?ad_domain=isaca.org&ad_provider=bingv7aa&ad_type=txad&click_metadata=fs8otZO%2D2VTvTTnR2FELEWM42OGC6rRH3FKsacSCu2UOWmSYHk1cCeMsYzyQnG%2DhYFOj46e7WYcDgWrCAyoz8EmG6sU6%2DpJN8%2DMNPYVihTcGLFY%2DN2PrQnR5gwmu%2Dh67%2Duf%2D13ELI0QNIEuXyM_oLQKoRaZfgiJrTtzoqXiDIqg.eEFor8ZI4jgN6czxCFk_rw&rut=61b6c9585728bb1515cdb5e00dcfd681cae3a9d1e43c4b9e5e0c52baeb49798c&u3=https%3A%2F%2Fwww.bing.com%2Faclick%3Fld%3De8YHwgEn4ObBGB3qKgpk5WXTVUCUyUpb1tWRMMYi8LnNDRl6B%2DDXcZ1e4U7kMOdyI3ttVtfrCPpP6fd1iBnraZhWqeaUtnFF%2DITSaLhlmdWOK%2D1XgIi8MV3minrcxGFdtMNgUgShiIyLiQOWohLKFhJMS1HmTz1tgMkrDstL%2DxVonXTyX8xI26ZgM5NLxoUuyfq3GXM_QydbZRRRZ27GDbpvESM7c%26u%3DaHR0cHMlM2ElMmYlMmZ3d3cuaXNhY2Eub3JnJTJmY3JlZGVudGlhbGluZyUyZmNpc20lM2Z1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RjaXNtLWV2ZXJncmVlbiUyNnV0bV90ZXJtJTNkY2VydF9uYV9hY3Ffbm9uLWJyYW5kZWRfZXh0X2luZm8tc2VjJTI2bXNjbGtpZCUzZDkzNzI2YmQ2OTA5ODFjNzcyYTVhMDI3YWRmMTg3MjQz%26rlid%3D93726bd690981c772a5a027adf187243&vqd=4-39059775783185165594632872130922118882&iurl=%7B1%7DIG%3DD3B3D4855CBE492EAEB3C0EE0C756713%26CID%3D123464AB6141653F38D073BE60D66451%26ID%3DDevEx%2C5045.1"
-    }
-  ],
+  "invalid_removed": [],
   "new_added": []
 }
