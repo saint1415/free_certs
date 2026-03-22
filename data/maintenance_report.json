@@ -1,9 +1,14 @@
 {
-  "timestamp": "2026-03-22T12:28:21.318533+00:00",
+  "timestamp": "2026-03-22T16:18:03.149532+00:00",
   "previous_count": 572,
-  "removed_invalid": 0,
+  "removed_invalid": 1,
   "discovered_new": 0,
-  "final_count": 572,
-  "invalid_removed": [],
+  "final_count": 571,
+  "invalid_removed": [
+    {
+      "name": "Free Cyber Security Courses And Cyber Security Certifications Training ...",
+      "url": "https://www.eccouncil.org/cybersecurity-exchange/cyber-novice/free-cybersecurity-courses-beginners/"
+    }
+  ],
   "new_added": []
 }
