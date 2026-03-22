@@ -1,13 +1,21 @@
 {
-  "timestamp": "2026-03-22T16:18:03.149532+00:00",
-  "previous_count": 572,
-  "removed_invalid": 1,
+  "timestamp": "2026-03-22T20:15:21.667608+00:00",
+  "previous_count": 571,
+  "removed_invalid": 3,
   "discovered_new": 0,
-  "final_count": 571,
+  "final_count": 568,
   "invalid_removed": [
     {
-      "name": "Free Cyber Security Courses And Cyber Security Certifications Training ...",
-      "url": "https://www.eccouncil.org/cybersecurity-exchange/cyber-novice/free-cybersecurity-courses-beginners/"
+      "name": "Ethical Hacking Essentials",
+      "url": "https://www.eccouncil.org/train-certify/ethical-hacking-essentials-ehe/"
+    },
+    {
+      "name": "Network Defense Essentials",
+      "url": "https://www.eccouncil.org/train-certify/network-defense-essentials-nde/"
+    },
+    {
+      "name": "Free Microsoft Fundamental Certifications",
+      "url": "https://techcommunity.microsoft.com/blog/educatordeveloperblog/free-microsoft-fundamentals-certifications-for-worldwide-students/3734654"
     }
   ],
   "new_added": []
