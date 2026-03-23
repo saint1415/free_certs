@@ -1,14 +1,14 @@
 {
-  "timestamp": "2026-03-23T12:41:21.197169+00:00",
-  "previous_count": 563,
+  "timestamp": "2026-03-23T16:45:17.378251+00:00",
+  "previous_count": 564,
   "removed_invalid": 0,
   "discovered_new": 1,
-  "final_count": 564,
+  "final_count": 565,
   "invalid_removed": [],
   "new_added": [
     {
-      "name": "Top Free IT Courses with Certificates in 2025 - prognoztech.com",
-      "url": "https://prognoztech.com/top-free-it-courses-with-certificates/"
+      "name": "Cisco Networking Academy - Cisco",
+      "url": "https://www.cisco.com/site/us/en/learn/training-certifications/training/netacad/index.html"
     }
   ]
 }
