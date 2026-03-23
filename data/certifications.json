@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "total_certifications": 568,
-    "last_updated": "2026-03-23T01:16:09.846936+00:00",
+    "total_certifications": 565,
+    "last_updated": "2026-03-23T05:26:02.161646+00:00",
     "categories": [
       "AI & Machine Learning Engineering",
       "Aerospace Engineering",
@@ -223,7 +223,7 @@
       "Intermediate",
       "Professional"
     ],
-    "validation_run": "2026-03-23T01:16:09.846936+00:00"
+    "validation_run": "2026-03-23T05:26:02.161646+00:00"
   },
   "certifications": [
     {
@@ -5518,19 +5518,6 @@
     },
     {
       "category": "Programming & Development",
-      "name": "2000+ Free Developer & IT Certifications (2025) | CoderStar",
-      "provider": "",
-      "url": "https://coderstar.in/2025/free-developer-it-certifications.html",
-      "description": "Free certification from ",
-      "duration": "Self-paced",
-      "level": "Beginner",
-      "prerequisites": "",
-      "expiration": "",
-      "discovered_at": "2026-03-17T05:18:35.591046+00:00",
-      "id": 383
-    },
-    {
-      "category": "Programming & Development",
       "name": "37 Best Free Data Science Courses with Certificates In 2024",
       "provider": "",
       "url": "https://pwskills.com/blog/free-data-science-courses-with-certificates/",
@@ -5540,7 +5527,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:15:57.088947+00:00",
-      "id": 384
+      "id": 383
     },
     {
       "category": "Programming & Development",
@@ -5553,7 +5540,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-03-16T16:54:43.165597+00:00",
-      "id": 385
+      "id": 384
     },
     {
       "category": "Programming & Development",
@@ -5566,7 +5553,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-01-30T04:25:17.444343+00:00",
-      "id": 386
+      "id": 385
     },
     {
       "category": "Programming & Development",
@@ -5579,7 +5566,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-07T20:16:06.841441+00:00",
-      "id": 387
+      "id": 386
     },
     {
       "category": "Programming & Development",
@@ -5592,7 +5579,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-03-20T16:32:07.156236+00:00",
-      "id": 388
+      "id": 387
     },
     {
       "category": "Programming & Development",
@@ -5605,7 +5592,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-01-30T20:19:22.955060+00:00",
-      "id": 389
+      "id": 388
     },
     {
       "category": "Programming & Development",
@@ -5618,7 +5605,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-03-16T16:54:28.551511+00:00",
-      "id": 390
+      "id": 389
     },
     {
       "category": "Programming & Development",
@@ -5631,7 +5618,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-22T20:15:44.317692+00:00",
-      "id": 391
+      "id": 390
     },
     {
       "category": "Programming & Development",
@@ -5644,7 +5631,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-04T05:05:42.157873+00:00",
-      "id": 392
+      "id": 391
     },
     {
       "category": "Programming & Development",
@@ -5657,7 +5644,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-01-30T04:21:58.610057+00:00",
-      "id": 393
+      "id": 392
     },
     {
       "category": "Programming & Development",
@@ -5670,7 +5657,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-04T01:08:46.481385+00:00",
-      "id": 394
+      "id": 393
     },
     {
       "category": "Programming & Development",
@@ -5683,7 +5670,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-03-16T16:54:34.283015+00:00",
-      "id": 395
+      "id": 394
     },
     {
       "category": "Programming & Development",
@@ -5696,7 +5683,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:16:05.799782+00:00",
-      "id": 396
+      "id": 395
     },
     {
       "category": "Programming & Development",
@@ -5709,7 +5696,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-03-16T16:54:40.405369+00:00",
-      "id": 397
+      "id": 396
     },
     {
       "category": "Programming & Development",
@@ -5722,7 +5709,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:16:00.019073+00:00",
-      "id": 398
+      "id": 397
     },
     {
       "category": "Programming & Development",
@@ -5735,7 +5722,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-01-31T12:26:17.095141+00:00",
-      "id": 399
+      "id": 398
     },
     {
       "category": "Programming & Development",
@@ -5748,7 +5735,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-01-30T04:21:55.841023+00:00",
-      "id": 400
+      "id": 399
     },
     {
       "category": "Programming & Development",
@@ -5761,7 +5748,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:16:02.953811+00:00",
-      "id": 401
+      "id": 400
     },
     {
       "category": "Programming & Development",
@@ -5774,7 +5761,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:15:54.141949+00:00",
-      "id": 402
+      "id": 401
     },
     {
       "category": "Programming & Development",
@@ -5787,7 +5774,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:16:05.799605+00:00",
-      "id": 403
+      "id": 402
     },
     {
       "category": "Programming & Development",
@@ -5800,7 +5787,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:16:00.019166+00:00",
-      "id": 404
+      "id": 403
     },
     {
       "category": "Programming & Development",
@@ -5813,7 +5800,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-19T01:15:25.851331+00:00",
-      "id": 405
+      "id": 404
     },
     {
       "category": "Programming & Development",
@@ -5826,7 +5813,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-03-08T08:20:22.116602+00:00",
-      "id": 406
+      "id": 405
     },
     {
       "category": "Programming & Development",
@@ -5839,7 +5826,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:16:11.463826+00:00",
-      "id": 407
+      "id": 406
     },
     {
       "category": "Programming & Development",
@@ -5852,7 +5839,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-01-30T12:32:54.250434+00:00",
-      "id": 408
+      "id": 407
     },
     {
       "category": "Programming & Development",
@@ -5865,7 +5852,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-01-30T04:21:58.609889+00:00",
-      "id": 409
+      "id": 408
     },
     {
       "category": "Programming & Development",
@@ -5878,7 +5865,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-03-04T05:04:38.279561+00:00",
-      "id": 410
+      "id": 409
     },
     {
       "category": "Programming & Development",
@@ -5891,7 +5878,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-13T01:17:57.527994+00:00",
-      "id": 411
+      "id": 410
     },
     {
       "category": "Programming & Development",
@@ -5904,7 +5891,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-03-16T20:28:32.432918+00:00",
-      "id": 412
+      "id": 411
     },
     {
       "category": "Programming & Development",
@@ -5917,7 +5904,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-03-17T20:30:06.327371+00:00",
-      "id": 413
+      "id": 412
     },
     {
       "category": "Programming & Development",
@@ -5930,7 +5917,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-10T12:49:21.278957+00:00",
-      "id": 414
+      "id": 413
     },
     {
       "category": "Programming & Development",
@@ -5943,7 +5930,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-01-30T04:21:58.609505+00:00",
-      "id": 415
+      "id": 414
     },
     {
       "category": "Programming & Development",
@@ -5956,7 +5943,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-03-02T12:35:35.198257+00:00",
-      "id": 416
+      "id": 415
     },
     {
       "category": "Programming & Development",
@@ -5969,7 +5956,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-03-17T20:30:06.327461+00:00",
-      "id": 417
+      "id": 416
     },
     {
       "category": "Programming & Development",
@@ -5982,7 +5969,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:16:05.799490+00:00",
-      "id": 418
+      "id": 417
     },
     {
       "category": "Programming & Development",
@@ -5995,7 +5982,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:15:51.287042+00:00",
-      "id": 419
+      "id": 418
     },
     {
       "category": "Programming & Development",
@@ -6008,7 +5995,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-03-16T16:54:43.165490+00:00",
-      "id": 420
+      "id": 419
     },
     {
       "category": "Programming & Development",
@@ -6021,7 +6008,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-03T08:27:38.891825+00:00",
-      "id": 421
+      "id": 420
     },
     {
       "category": "Programming & Development",
@@ -6034,7 +6021,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-19T01:15:17.011340+00:00",
-      "id": 422
+      "id": 421
     },
     {
       "category": "Programming & Development",
@@ -6047,7 +6034,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:15:54.142054+00:00",
-      "id": 423
+      "id": 422
     },
     {
       "category": "Programming & Development",
@@ -6060,7 +6047,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-19T01:15:25.851071+00:00",
-      "id": 424
+      "id": 423
     },
     {
       "category": "Programming & Development",
@@ -6073,7 +6060,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-19T01:15:25.851744+00:00",
-      "id": 425
+      "id": 424
     },
     {
       "category": "Programming & Development",
@@ -6086,7 +6073,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-10T20:36:17.518213+00:00",
-      "id": 426
+      "id": 425
     },
     {
       "category": "Programming & Development",
@@ -6099,7 +6086,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-01-30T04:21:58.618762+00:00",
-      "id": 427
+      "id": 426
     },
     {
       "category": "Programming & Development",
@@ -6112,7 +6099,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-01-30T04:21:58.610389+00:00",
-      "id": 428
+      "id": 427
     },
     {
       "category": "Programming & Development",
@@ -6125,7 +6112,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-04T16:36:11.011868+00:00",
-      "id": 429
+      "id": 428
     },
     {
       "category": "Programming & Development",
@@ -6138,7 +6125,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-03-04T01:09:47.015309+00:00",
-      "id": 430
+      "id": 429
     },
     {
       "category": "Programming & Development",
@@ -6151,7 +6138,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-03T16:41:58.856306+00:00",
-      "id": 431
+      "id": 430
     },
     {
       "category": "Programming & Development",
@@ -6164,7 +6151,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-02T01:13:02.257522+00:00",
-      "id": 432
+      "id": 431
     },
     {
       "category": "Programming & Development",
@@ -6177,7 +6164,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-03-16T16:54:20.130747+00:00",
-      "id": 433
+      "id": 432
     },
     {
       "category": "Programming & Development",
@@ -6190,7 +6177,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T12:27:53.397707+00:00",
-      "id": 434
+      "id": 433
     },
     {
       "category": "Programming & Development",
@@ -6203,7 +6190,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-03T01:13:43.782674+00:00",
-      "id": 435
+      "id": 434
     },
     {
       "category": "Programming & Development",
@@ -6216,7 +6203,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-01-30T04:21:58.618354+00:00",
-      "id": 436
+      "id": 435
     },
     {
       "category": "Programming & Development",
@@ -6229,7 +6216,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-22T16:18:24.963714+00:00",
-      "id": 437
+      "id": 436
     },
     {
       "category": "Programming & Development",
@@ -6242,7 +6229,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-19T01:15:20.061058+00:00",
-      "id": 438
+      "id": 437
     },
     {
       "category": "Programming & Development",
@@ -6255,7 +6242,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:16:05.799394+00:00",
-      "id": 439
+      "id": 438
     },
     {
       "category": "Programming & Development",
@@ -6268,7 +6255,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-11T01:21:52.766788+00:00",
-      "id": 440
+      "id": 439
     },
     {
       "category": "Programming & Development",
@@ -6281,7 +6268,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:15:51.286943+00:00",
-      "id": 441
+      "id": 440
     },
     {
       "category": "Programming & Development",
@@ -6294,7 +6281,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-23T01:13:19.809494+00:00",
-      "id": 442
+      "id": 441
     },
     {
       "category": "Programming & Development",
@@ -6307,7 +6294,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:15:51.286197+00:00",
-      "id": 443
+      "id": 442
     },
     {
       "category": "Programming & Development",
@@ -6320,7 +6307,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:15:51.286654+00:00",
-      "id": 444
+      "id": 443
     },
     {
       "category": "Programming & Development",
@@ -6333,7 +6320,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:15:57.088430+00:00",
-      "id": 445
+      "id": 444
     },
     {
       "category": "Programming & Development",
@@ -6346,7 +6333,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:15:57.088233+00:00",
-      "id": 446
+      "id": 445
     },
     {
       "category": "Programming & Development",
@@ -6359,7 +6346,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:15:57.088642+00:00",
-      "id": 447
+      "id": 446
     },
     {
       "category": "Programming & Development",
@@ -6372,7 +6359,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-03-16T16:54:28.551138+00:00",
-      "id": 448
+      "id": 447
     },
     {
       "category": "Programming & Development",
@@ -6385,7 +6372,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-03-16T16:54:28.551324+00:00",
-      "id": 449
+      "id": 448
     },
     {
       "category": "Programming & Development",
@@ -6398,7 +6385,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:16:11.463084+00:00",
-      "id": 450
+      "id": 449
     },
     {
       "category": "Programming & Development",
@@ -6411,7 +6398,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-19T01:15:37.414825+00:00",
-      "id": 451
+      "id": 450
     },
     {
       "category": "Programming & Development",
@@ -6424,7 +6411,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:16:11.463291+00:00",
-      "id": 452
+      "id": 451
     },
     {
       "category": "Programming & Development",
@@ -6437,7 +6424,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-03-07T12:26:24.004185+00:00",
-      "id": 453
+      "id": 452
     },
     {
       "category": "Programming & Development",
@@ -6450,7 +6437,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-01-30T04:21:55.840301+00:00",
-      "id": 454
+      "id": 453
     },
     {
       "category": "Programming & Development",
@@ -6463,7 +6450,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-03-10T20:23:15.902002+00:00",
-      "id": 455
+      "id": 454
     },
     {
       "category": "Programming & Development",
@@ -6476,6 +6463,19 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:16:00.018621+00:00",
+      "id": 455
+    },
+    {
+      "category": "Programming & Development",
+      "name": "Free Microsoft Fundamental Certifications",
+      "provider": "",
+      "url": "https://techcommunity.microsoft.com/blog/educatordeveloperblog/free-microsoft-fundamentals-certifications-for-worldwide-students/3734654",
+      "description": "Free certification from ",
+      "duration": "Self-paced",
+      "level": "Beginner",
+      "prerequisites": "",
+      "expiration": "",
+      "discovered_at": "2026-03-23T05:27:08.568011+00:00",
       "id": 456
     },
     {
@@ -7497,19 +7497,6 @@
     },
     {
       "category": "Programming & Development",
-      "name": "The Ultimate Guide to Free Tech Courses & Certifications in 2025",
-      "provider": "",
-      "url": "https://businesstories.com/career/free-tech-courses-certifications-in-2025/",
-      "description": "Free certification from ",
-      "duration": "Self-paced",
-      "level": "Beginner",
-      "prerequisites": "",
-      "expiration": "",
-      "discovered_at": "2026-03-17T01:12:54.738900+00:00",
-      "id": 533
-    },
-    {
-      "category": "Programming & Development",
       "name": "The best free AI courses and certificates for upskilling in 2026 - and ...",
       "provider": "",
       "url": "https://www.zdnet.com/article/best-free-ai-courses-and-certificates-for-upskilling/",
@@ -7519,7 +7506,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:16:00.018978+00:00",
-      "id": 534
+      "id": 533
     },
     {
       "category": "Programming & Development",
@@ -7532,20 +7519,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-03T16:42:15.819996+00:00",
-      "id": 535
-    },
-    {
-      "category": "Programming & Development",
-      "name": "Top 10 Free IT Certifications to Boost Your Career in 2025",
-      "provider": "",
-      "url": "https://technewskills.com/top-free-it-certifications-2025/",
-      "description": "Free certification from ",
-      "duration": "Self-paced",
-      "level": "Beginner",
-      "prerequisites": "",
-      "expiration": "",
-      "discovered_at": "2026-03-16T16:54:17.412255+00:00",
-      "id": 536
+      "id": 534
     },
     {
       "category": "Programming & Development",
@@ -7558,7 +7532,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-08T08:22:26.287527+00:00",
-      "id": 537
+      "id": 535
     },
     {
       "category": "Programming & Development",
@@ -7571,7 +7545,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-03-16T16:54:40.405603+00:00",
-      "id": 538
+      "id": 536
     },
     {
       "category": "Programming & Development",
@@ -7584,7 +7558,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:16:08.677029+00:00",
-      "id": 539
+      "id": 537
     },
     {
       "category": "Programming & Development",
@@ -7597,7 +7571,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-03-16T16:54:34.282919+00:00",
-      "id": 540
+      "id": 538
     },
     {
       "category": "Programming & Development",
@@ -7610,20 +7584,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-03-16T16:54:31.414963+00:00",
-      "id": 541
-    },
-    {
-      "category": "Programming & Development",
-      "name": "Top Free IT Courses with Certificates in 2025 - prognoztech.com",
-      "provider": "",
-      "url": "https://prognoztech.com/top-free-it-courses-with-certificates/",
-      "description": "Free certification from ",
-      "duration": "Self-paced",
-      "level": "Beginner",
-      "prerequisites": "",
-      "expiration": "",
-      "discovered_at": "2026-03-17T01:12:54.739012+00:00",
-      "id": 542
+      "id": 539
     },
     {
       "category": "Programming & Development",
@@ -7636,7 +7597,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-03-16T16:54:31.415128+00:00",
-      "id": 543
+      "id": 540
     },
     {
       "category": "Programming & Development",
@@ -7649,10 +7610,10 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-16T12:39:24.624977+00:00",
-      "id": 544
+      "id": 541
     },
     {
-      "id": 545,
+      "id": 542,
       "category": "Programming & Development",
       "name": "Udacity: Intro to Programming Nanodegree (Free Courses)",
       "provider": "Udacity",
@@ -7676,7 +7637,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:16:08.674945+00:00",
-      "id": 546
+      "id": 543
     },
     {
       "category": "Programming & Development",
@@ -7689,7 +7650,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-03-16T16:54:40.405104+00:00",
-      "id": 547
+      "id": 544
     },
     {
       "category": "Programming & Development",
@@ -7702,7 +7663,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:16:08.676932+00:00",
-      "id": 548
+      "id": 545
     },
     {
       "category": "Programming & Development",
@@ -7715,7 +7676,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-25T16:59:23.983356+00:00",
-      "id": 549
+      "id": 546
     },
     {
       "category": "Programming & Development",
@@ -7728,7 +7689,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:16:05.799297+00:00",
-      "id": 550
+      "id": 547
     },
     {
       "category": "Programming & Development",
@@ -7741,10 +7702,10 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-03-16T16:54:37.068422+00:00",
-      "id": 551
+      "id": 548
     },
     {
-      "id": 552,
+      "id": 549,
       "category": "Quantum Engineering",
       "name": "Introduction to Quantum Computing",
       "provider": "IBM Quantum",
@@ -7758,7 +7719,7 @@
       "last_checked": null
     },
     {
-      "id": 553,
+      "id": 550,
       "category": "Quantum Engineering",
       "name": "Quantum Error Correction",
       "provider": "Coursera",
@@ -7772,7 +7733,7 @@
       "last_checked": null
     },
     {
-      "id": 554,
+      "id": 551,
       "category": "Quantum Engineering",
       "name": "Quantum Programming",
       "provider": "Qiskit",
@@ -7786,7 +7747,7 @@
       "last_checked": null
     },
     {
-      "id": 555,
+      "id": 552,
       "category": "Robotics & Mechatronics",
       "name": "Embedded Systems for Robotics",
       "provider": "edX",
@@ -7800,7 +7761,7 @@
       "last_checked": null
     },
     {
-      "id": 556,
+      "id": 553,
       "category": "Robotics & Mechatronics",
       "name": "Introduction to Robotics",
       "provider": "MIT OpenCourseWare",
@@ -7814,7 +7775,7 @@
       "last_checked": null
     },
     {
-      "id": 557,
+      "id": 554,
       "category": "Robotics & Mechatronics",
       "name": "Mechatronics Design",
       "provider": "MIT OpenCourseWare",
@@ -7828,7 +7789,7 @@
       "last_checked": null
     },
     {
-      "id": 558,
+      "id": 555,
       "category": "Robotics & Mechatronics",
       "name": "Robot Operating System (ROS)",
       "provider": "The Construct",
@@ -7842,7 +7803,7 @@
       "last_checked": null
     },
     {
-      "id": 559,
+      "id": 556,
       "category": "Robotics & Mechatronics",
       "name": "Robotic Process Automation",
       "provider": "Automation Anywhere University",
@@ -7856,7 +7817,7 @@
       "last_checked": null
     },
     {
-      "id": 560,
+      "id": 557,
       "category": "Software Engineering",
       "name": "DevOps Engineering Essentials",
       "provider": "Linux Foundation",
@@ -7870,7 +7831,7 @@
       "last_checked": null
     },
     {
-      "id": 561,
+      "id": 558,
       "category": "Software Engineering",
       "name": "Distributed Systems Engineering",
       "provider": "MIT OpenCourseWare",
@@ -7884,7 +7845,7 @@
       "last_checked": null
     },
     {
-      "id": 562,
+      "id": 559,
       "category": "Software Engineering",
       "name": "Microservices Architecture",
       "provider": "IBM",
@@ -7898,7 +7859,7 @@
       "last_checked": null
     },
     {
-      "id": 563,
+      "id": 560,
       "category": "Software Engineering",
       "name": "Platform Engineering Fundamentals",
       "provider": "Coursera",
@@ -7912,7 +7873,7 @@
       "last_checked": null
     },
     {
-      "id": 564,
+      "id": 561,
       "category": "Software Engineering",
       "name": "Site Reliability Engineering",
       "provider": "Google",
@@ -7926,7 +7887,7 @@
       "last_checked": null
     },
     {
-      "id": 565,
+      "id": 562,
       "category": "Software Engineering",
       "name": "Software Architecture Fundamentals",
       "provider": "MIT OpenCourseWare",
@@ -7940,7 +7901,7 @@
       "last_checked": null
     },
     {
-      "id": 566,
+      "id": 563,
       "category": "Sound & Audio Engineering",
       "name": "Audio Electronics",
       "provider": "NPTEL",
@@ -7954,7 +7915,7 @@
       "last_checked": null
     },
     {
-      "id": 567,
+      "id": 564,
       "category": "Sound & Audio Engineering",
       "name": "Audio Engineering Fundamentals",
       "provider": "Coursera",
@@ -7968,7 +7929,7 @@
       "last_checked": null
     },
     {
-      "id": 568,
+      "id": 565,
       "category": "Sound & Audio Engineering",
       "name": "Digital Audio Processing",
       "provider": "Coursera",
