@@ -1,31 +1,43 @@
 {
-  "timestamp": "2026-03-23T05:26:02.161646+00:00",
-  "previous_count": 568,
-  "removed_invalid": 4,
-  "discovered_new": 1,
-  "final_count": 565,
+  "timestamp": "2026-03-23T08:43:20.174594+00:00",
+  "previous_count": 565,
+  "removed_invalid": 5,
+  "discovered_new": 3,
+  "final_count": 563,
   "invalid_removed": [
     {
-      "name": "2000+ Free Developer & IT Certifications (2025) | CoderStar",
-      "url": "https://coderstar.in/2025/free-developer-it-certifications.html"
+      "name": "Design Thinking",
+      "url": "https://www.ideou.com/products/design-thinking-certificate"
+    },
+    {
+      "name": "Central Banking and Monetary Policy",
+      "url": "https://www.federalreserveeducation.org/"
+    },
+    {
+      "name": "20 Best Free Online Certification Programs to Boost Your Career in 2026",
+      "url": "https://savingsgrove.com/blogs/guides/free-certification-programs"
+    },
+    {
+      "name": "20 Free Online Certifications to Boost Your Career in 2026",
+      "url": "https://savingsgrove.com/blogs/guides/free-online-certifications"
+    },
+    {
+      "name": "free badge | CertiProf | International",
+      "url": "https://certiprof.com/pages/free-badge"
+    }
+  ],
+  "new_added": [
+    {
+      "name": "Top 10 Free IT Certifications to Boost Your Career in 2025",
+      "url": "https://technewskills.com/top-free-it-certifications-2025/"
     },
     {
       "name": "The Ultimate Guide to Free Tech Courses & Certifications in 2025",
       "url": "https://businesstories.com/career/free-tech-courses-certifications-in-2025/"
     },
     {
-      "name": "Top 10 Free IT Certifications to Boost Your Career in 2025",
-      "url": "https://technewskills.com/top-free-it-certifications-2025/"
-    },
-    {
-      "name": "Top Free IT Courses with Certificates in 2025 - prognoztech.com",
-      "url": "https://prognoztech.com/top-free-it-courses-with-certificates/"
-    }
-  ],
-  "new_added": [
-    {
-      "name": "Free Microsoft Fundamental Certifications",
-      "url": "https://techcommunity.microsoft.com/blog/educatordeveloperblog/free-microsoft-fundamentals-certifications-for-worldwide-students/3734654"
+      "name": "2000+ Free Developer & IT Certifications (2025) | CoderStar",
+      "url": "https://coderstar.in/2025/free-developer-it-certifications.html"
     }
   ]
 }
