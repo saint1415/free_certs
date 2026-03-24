@@ -1,9 +1,19 @@
 {
-  "timestamp": "2026-03-24T05:19:13.443812+00:00",
+  "timestamp": "2026-03-24T08:39:11.751876+00:00",
   "previous_count": 562,
-  "removed_invalid": 0,
-  "discovered_new": 0,
+  "removed_invalid": 1,
+  "discovered_new": 1,
   "final_count": 562,
-  "invalid_removed": [],
-  "new_added": []
+  "invalid_removed": [
+    {
+      "name": "FREE Entry-level Cybersecurity Training + Certification Exam",
+      "url": "https://www.isc2.org/landing/1mcc"
+    }
+  ],
+  "new_added": [
+    {
+      "name": "Free IT Certifications 2025: Complete Guide & Career Tips",
+      "url": "https://www.hydranode.ai/blog/free-it-certifications-2025"
+    }
+  ]
 }
