@@ -1,22 +1,9 @@
 {
-  "timestamp": "2026-03-24T01:08:40.763638+00:00",
-  "previous_count": 565,
-  "removed_invalid": 3,
+  "timestamp": "2026-03-24T05:19:13.443812+00:00",
+  "previous_count": 562,
+  "removed_invalid": 0,
   "discovered_new": 0,
   "final_count": 562,
-  "invalid_removed": [
-    {
-      "name": "900+ Free Developer and IT Certifications - Tech-Tech",
-      "url": "https://tech-tech.life/2024/12/15/900-free-developer-and-it-certifications/"
-    },
-    {
-      "name": "Free IT Certifications 2025: Complete Guide & Career Tips",
-      "url": "https://www.hydranode.ai/blog/free-it-certifications-2025"
-    },
-    {
-      "name": "GCP ACE Certification - Free GCP Assoc Cloud Eng Test",
-      "url": "https://duckduckgo.com/y.js?ad_domain=trustedinstitute.com&ad_provider=bingv7aa&ad_type=txad&click_metadata=SzkpCUzb3mSpzGUtIlCvQyp4q4rkN55f1XCPYZBkZzDnotX84ai0wYGzWHNSND52WhJWJ57FY%2Dvqh1doDqAsSp9msxYnzYDdjxq6bDf%2DP6s03AwG_Q4mYtuWXFt7mOOmYxHsL4nhCjqQl8QJi4lfCCiFLOQeYzsOlcIudt6w1to.9Bul81a97Vd19K0AG2U31g&rut=fccffc6f0c1a7de589d5f75ad6f7d695cfc60f4a5e46d369d44ab0c4182480f3&u3=https%3A%2F%2Fwww.bing.com%2Faclick%3Fld%3De8NJtsPPCib2RPuLr8WHP4DTVUCUzt5CLbPPqTkum6bFYzi_ulV2QUUc_0TPlQxCp3P5e5KXoa9gbfJTC_XY79I_Py8efHlzo5VEH1c2c_2orCp4tn2B7VdnMnCzokUBDuBhFRxHZ2eAW8tyS8nbTrIHLtSkclxl%2Dqx693NmRQmklAamCG%2D0n0o7_Fy_76AtCYK7C3jA6Kna0KjB5XNIn2xQCTaPQ%26u%3DaHR0cHMlM2ElMmYlMmZ0cnVzdGVkaW5zdGl0dXRlLmNvbSUyZnByYWN0aWNlJTJmZ2NwLWFzc29jaWF0ZS1jbG91ZC1lbmdpbmVlciUyZiUzZnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZDU3MDgwMzQwNiUyNnV0bV90ZXJtJTNkYXNzb2NpYXRlJTI1MjBjbG91ZCUyNTIwZW5naW5lZXIlMjUyMGdvb2dsZSUyNTIwcXVpeiUyNm1zY2xraWQlM2QyMWEzNWVlMmQ5MTMxNjQyOTI4MTM3NTJjOTk3ZWY4MQ%26rlid%3D21a35ee2d913164292813752c997ef81&vqd=4-12987944184483319201582001346183579686&iurl=%7B1%7DIG%3DF6EEE280A8CD4C86BF434CED2642E526%26CID%3D1E86B98F05576CDD15D8AE9704936D32%26ID%3DDevEx%2C5039.1"
-    }
-  ],
+  "invalid_removed": [],
   "new_added": []
 }
