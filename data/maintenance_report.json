@@ -1,19 +1,9 @@
 {
-  "timestamp": "2026-03-26T12:50:52.615885+00:00",
+  "timestamp": "2026-03-26T16:52:38.857549+00:00",
   "previous_count": 570,
-  "removed_invalid": 1,
-  "discovered_new": 1,
+  "removed_invalid": 0,
+  "discovered_new": 0,
   "final_count": 570,
-  "invalid_removed": [
-    {
-      "name": "American Course Academy Launches Florida Responsible Vendor Program ...",
-      "url": "https://markets.businessinsider.com/news/stocks/american-course-academy-launches-florida-responsible-vendor-program-frvp-alcohol-certification-1035933024?op=1"
-    }
-  ],
-  "new_added": [
-    {
-      "name": "Most Courses: $0 in Textbooks - Accredited State Univ Online",
-      "url": "https://duckduckgo.com/y.js?ad_domain=umgc.edu&ad_provider=bingv7aa&ad_type=txad&click_metadata=MFbFMU2emOkCNLafdem3A4WzYe58t9%2DZQ3giTcdsOkG4dc8WwK3NlofR2Jsx68VLWcfN09e_kNEPXk%2DOPd4WlWIzCJLO3St6KvVZiMxnTNy5fmp0OXKOJtjn4L9f7mlpvvPxjbhnxfxfReVA3ORIHHiBtJdos23xmowRxrZSP2I.ZZfYalTQMU8RqDw_vpcIVg&rut=bcb23a859915525ca66a98864cd978cbb2ad53b4bd1375cc7805020f2d621905&u3=https%3A%2F%2Fwww.bing.com%2Faclick%3Fld%3De8BLSx4mmsiNs8ggK2Smra9TVUCUyVzIN7QHGTqIheSOhX2SjQ1tam6AiVWVKZaTjd2PFyr7QW7NiUGsqX7hvPCOol7NWfla7GsSBTLviNuywa%2DdVbg9TcLRk57xvmJOdGnqjOZ3ewpUua2fSP40Zj3lTMotwXuLhJfsyqyZMlMSjX_1bijzl7yGxaH06cgaz4%2DrhYtLlYyc0Ikche9qqVN_gJiM4%26u%3DaHR0cHMlM2ElMmYlMmZ3d3cudW1nYy5lZHUlMmZsZWFybi1tb3JlJTJmZ2VuJTJmZGVncmVlJTJmY2VydGlmaWNhdGVzLW9ubGluZS5odG1sJTNmbWFya2V0Y29kZSUzZFdCMzA3MTAzJTI2bmV0d29yayUzZHMlMjZnY2xpZCUzZDM0YWEwMjI0MGUyMjFkY2I5OWQ5NmJlMTI1Y2I1MDAwJTI2Z2Nsc3JjJTNkM3AuZHMlMjZtc2Nsa2lkJTNkMzRhYTAyMjQwZTIyMWRjYjk5ZDk2YmUxMjVjYjUwMDAlMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCSU5HX05CX0NFUlRJRklDQVRFX0RNVl9USUVSLTFfV0IzMDcxMDMlMjZ1dG1fdGVybSUzZGluZm9ybWF0aW9uJTI1MjBzeXN0ZW1zJTI1MjBjZXJ0aWZpY2F0ZSUyNnV0bV9jb250ZW50JTNkTWFuYWdlbWVudCUyNTIwSW5mb3JtYXRpb24lMjUyMFN5c3RlbXM%26rlid%3D34aa02240e221dcb99d96be125cb5000&vqd=4-90033420148652538737812647213591819124&iurl=%7B1%7DIG%3D53862147367F4391A799F71241E38B1C%26CID%3D312328C1AFAB604F12303FE9AE066125%26ID%3DDevEx%2C5045.1"
-    }
-  ]
+  "invalid_removed": [],
+  "new_added": []
 }
