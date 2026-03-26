@@ -1,7 +1,7 @@
 {
   "metadata": {
     "total_certifications": 570,
-    "last_updated": "2026-03-26T08:42:50.652361+00:00",
+    "last_updated": "2026-03-26T12:50:52.615885+00:00",
     "categories": [
       "AI & Machine Learning Engineering",
       "Aerospace Engineering",
@@ -221,7 +221,7 @@
       "Intermediate",
       "Professional"
     ],
-    "validation_run": "2026-03-26T08:42:50.652361+00:00"
+    "validation_run": "2026-03-26T12:50:52.615885+00:00"
   },
   "certifications": [
     {
@@ -5695,19 +5695,6 @@
     },
     {
       "category": "Programming & Development",
-      "name": "American Course Academy Launches Florida Responsible Vendor Program ...",
-      "provider": "",
-      "url": "https://markets.businessinsider.com/news/stocks/american-course-academy-launches-florida-responsible-vendor-program-frvp-alcohol-certification-1035933024?op=1",
-      "description": "Free certification from ",
-      "duration": "Self-paced",
-      "level": "Beginner",
-      "prerequisites": "",
-      "expiration": "",
-      "discovered_at": "2026-03-16T16:54:40.405369+00:00",
-      "id": 397
-    },
-    {
-      "category": "Programming & Development",
       "name": "Artificial Intelligence Free Course with Certificate - Simplilearn",
       "provider": "",
       "url": "https://www.simplilearn.com/free-ai-program-skillup",
@@ -5717,7 +5704,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:16:00.019073+00:00",
-      "id": 398
+      "id": 397
     },
     {
       "category": "Programming & Development",
@@ -5730,7 +5717,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-03-24T20:32:08.215642+00:00",
-      "id": 399
+      "id": 398
     },
     {
       "category": "Programming & Development",
@@ -5743,7 +5730,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-01-31T12:26:17.095141+00:00",
-      "id": 400
+      "id": 399
     },
     {
       "category": "Programming & Development",
@@ -5756,7 +5743,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-01-30T04:21:55.841023+00:00",
-      "id": 401
+      "id": 400
     },
     {
       "category": "Programming & Development",
@@ -5769,7 +5756,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:16:02.953811+00:00",
-      "id": 402
+      "id": 401
     },
     {
       "category": "Programming & Development",
@@ -5782,7 +5769,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:15:54.141949+00:00",
-      "id": 403
+      "id": 402
     },
     {
       "category": "Programming & Development",
@@ -5795,7 +5782,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:16:05.799605+00:00",
-      "id": 404
+      "id": 403
     },
     {
       "category": "Programming & Development",
@@ -5808,7 +5795,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:16:00.019166+00:00",
-      "id": 405
+      "id": 404
     },
     {
       "category": "Programming & Development",
@@ -5821,7 +5808,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-03-25T16:54:17.973641+00:00",
-      "id": 406
+      "id": 405
     },
     {
       "category": "Programming & Development",
@@ -5834,7 +5821,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-19T01:15:25.851331+00:00",
-      "id": 407
+      "id": 406
     },
     {
       "category": "Programming & Development",
@@ -5847,7 +5834,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-03-08T08:20:22.116602+00:00",
-      "id": 408
+      "id": 407
     },
     {
       "category": "Programming & Development",
@@ -5860,7 +5847,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:16:11.463826+00:00",
-      "id": 409
+      "id": 408
     },
     {
       "category": "Programming & Development",
@@ -5873,7 +5860,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-01-30T12:32:54.250434+00:00",
-      "id": 410
+      "id": 409
     },
     {
       "category": "Programming & Development",
@@ -5886,7 +5873,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-01-30T04:21:58.609889+00:00",
-      "id": 411
+      "id": 410
     },
     {
       "category": "Programming & Development",
@@ -5899,7 +5886,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-03-04T05:04:38.279561+00:00",
-      "id": 412
+      "id": 411
     },
     {
       "category": "Programming & Development",
@@ -5912,7 +5899,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-13T01:17:57.527994+00:00",
-      "id": 413
+      "id": 412
     },
     {
       "category": "Programming & Development",
@@ -5925,7 +5912,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-03-16T20:28:32.432918+00:00",
-      "id": 414
+      "id": 413
     },
     {
       "category": "Programming & Development",
@@ -5938,7 +5925,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-03-17T20:30:06.327371+00:00",
-      "id": 415
+      "id": 414
     },
     {
       "category": "Programming & Development",
@@ -5951,7 +5938,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-10T12:49:21.278957+00:00",
-      "id": 416
+      "id": 415
     },
     {
       "category": "Programming & Development",
@@ -5964,7 +5951,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-01-30T04:21:58.609505+00:00",
-      "id": 417
+      "id": 416
     },
     {
       "category": "Programming & Development",
@@ -5977,7 +5964,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-03-02T12:35:35.198257+00:00",
-      "id": 418
+      "id": 417
     },
     {
       "category": "Programming & Development",
@@ -5990,7 +5977,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-03-17T20:30:06.327461+00:00",
-      "id": 419
+      "id": 418
     },
     {
       "category": "Programming & Development",
@@ -6003,7 +5990,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:16:05.799490+00:00",
-      "id": 420
+      "id": 419
     },
     {
       "category": "Programming & Development",
@@ -6016,7 +6003,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:15:51.287042+00:00",
-      "id": 421
+      "id": 420
     },
     {
       "category": "Programming & Development",
@@ -6029,7 +6016,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-03-16T16:54:43.165490+00:00",
-      "id": 422
+      "id": 421
     },
     {
       "category": "Programming & Development",
@@ -6042,7 +6029,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-03T08:27:38.891825+00:00",
-      "id": 423
+      "id": 422
     },
     {
       "category": "Programming & Development",
@@ -6055,7 +6042,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:15:54.142054+00:00",
-      "id": 424
+      "id": 423
     },
     {
       "category": "Programming & Development",
@@ -6068,7 +6055,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-19T01:15:25.851071+00:00",
-      "id": 425
+      "id": 424
     },
     {
       "category": "Programming & Development",
@@ -6081,7 +6068,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-19T01:15:25.851744+00:00",
-      "id": 426
+      "id": 425
     },
     {
       "category": "Programming & Development",
@@ -6094,7 +6081,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-10T20:36:17.518213+00:00",
-      "id": 427
+      "id": 426
     },
     {
       "category": "Programming & Development",
@@ -6107,7 +6094,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-01-30T04:21:58.618762+00:00",
-      "id": 428
+      "id": 427
     },
     {
       "category": "Programming & Development",
@@ -6120,7 +6107,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-01-30T04:21:58.610389+00:00",
-      "id": 429
+      "id": 428
     },
     {
       "category": "Programming & Development",
@@ -6133,7 +6120,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-04T16:36:11.011868+00:00",
-      "id": 430
+      "id": 429
     },
     {
       "category": "Programming & Development",
@@ -6146,7 +6133,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-03-04T01:09:47.015309+00:00",
-      "id": 431
+      "id": 430
     },
     {
       "category": "Programming & Development",
@@ -6159,7 +6146,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-03T16:41:58.856306+00:00",
-      "id": 432
+      "id": 431
     },
     {
       "category": "Programming & Development",
@@ -6172,7 +6159,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-02T01:13:02.257522+00:00",
-      "id": 433
+      "id": 432
     },
     {
       "category": "Programming & Development",
@@ -6185,7 +6172,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-03-16T16:54:20.130747+00:00",
-      "id": 434
+      "id": 433
     },
     {
       "category": "Programming & Development",
@@ -6198,7 +6185,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T12:27:53.397707+00:00",
-      "id": 435
+      "id": 434
     },
     {
       "category": "Programming & Development",
@@ -6211,7 +6198,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-03T01:13:43.782674+00:00",
-      "id": 436
+      "id": 435
     },
     {
       "category": "Programming & Development",
@@ -6224,7 +6211,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-01-30T04:21:58.618354+00:00",
-      "id": 437
+      "id": 436
     },
     {
       "category": "Programming & Development",
@@ -6237,7 +6224,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-22T16:18:24.963714+00:00",
-      "id": 438
+      "id": 437
     },
     {
       "category": "Programming & Development",
@@ -6250,7 +6237,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-19T01:15:20.061058+00:00",
-      "id": 439
+      "id": 438
     },
     {
       "category": "Programming & Development",
@@ -6263,7 +6250,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:16:05.799394+00:00",
-      "id": 440
+      "id": 439
     },
     {
       "category": "Programming & Development",
@@ -6276,7 +6263,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-11T01:21:52.766788+00:00",
-      "id": 441
+      "id": 440
     },
     {
       "category": "Programming & Development",
@@ -6289,7 +6276,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:15:51.286943+00:00",
-      "id": 442
+      "id": 441
     },
     {
       "category": "Programming & Development",
@@ -6302,7 +6289,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-23T01:13:19.809494+00:00",
-      "id": 443
+      "id": 442
     },
     {
       "category": "Programming & Development",
@@ -6315,7 +6302,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:15:51.286197+00:00",
-      "id": 444
+      "id": 443
     },
     {
       "category": "Programming & Development",
@@ -6328,7 +6315,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:15:51.286654+00:00",
-      "id": 445
+      "id": 444
     },
     {
       "category": "Programming & Development",
@@ -6341,7 +6328,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:15:57.088430+00:00",
-      "id": 446
+      "id": 445
     },
     {
       "category": "Programming & Development",
@@ -6354,7 +6341,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:15:57.088233+00:00",
-      "id": 447
+      "id": 446
     },
     {
       "category": "Programming & Development",
@@ -6367,7 +6354,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:15:57.088642+00:00",
-      "id": 448
+      "id": 447
     },
     {
       "category": "Programming & Development",
@@ -6380,7 +6367,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-03-16T16:54:28.551138+00:00",
-      "id": 449
+      "id": 448
     },
     {
       "category": "Programming & Development",
@@ -6393,7 +6380,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-03-16T16:54:28.551324+00:00",
-      "id": 450
+      "id": 449
     },
     {
       "category": "Programming & Development",
@@ -6406,7 +6393,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:16:11.463084+00:00",
-      "id": 451
+      "id": 450
     },
     {
       "category": "Programming & Development",
@@ -6419,7 +6406,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-19T01:15:37.414825+00:00",
-      "id": 452
+      "id": 451
     },
     {
       "category": "Programming & Development",
@@ -6432,7 +6419,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:16:11.463291+00:00",
-      "id": 453
+      "id": 452
     },
     {
       "category": "Programming & Development",
@@ -6445,7 +6432,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-03-24T08:40:03.835181+00:00",
-      "id": 454
+      "id": 453
     },
     {
       "category": "Programming & Development",
@@ -6458,7 +6445,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-01-30T04:21:55.840301+00:00",
-      "id": 455
+      "id": 454
     },
     {
       "category": "Programming & Development",
@@ -6471,7 +6458,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-03-10T20:23:15.902002+00:00",
-      "id": 456
+      "id": 455
     },
     {
       "category": "Programming & Development",
@@ -6484,7 +6471,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:16:00.018621+00:00",
-      "id": 457
+      "id": 456
     },
     {
       "category": "Programming & Development",
@@ -6497,7 +6484,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-03-23T05:27:08.568011+00:00",
-      "id": 458
+      "id": 457
     },
     {
       "category": "Programming & Development",
@@ -6510,7 +6497,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-03-24T16:52:42.902460+00:00",
-      "id": 459
+      "id": 458
     },
     {
       "category": "Programming & Development",
@@ -6523,7 +6510,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-19T01:15:22.905155+00:00",
-      "id": 460
+      "id": 459
     },
     {
       "category": "Programming & Development",
@@ -6536,7 +6523,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-01-30T16:28:17.544210+00:00",
-      "id": 461
+      "id": 460
     },
     {
       "category": "Programming & Development",
@@ -6549,7 +6536,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-03T16:42:15.819755+00:00",
-      "id": 462
+      "id": 461
     },
     {
       "category": "Programming & Development",
@@ -6562,7 +6549,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-03-16T16:54:25.749279+00:00",
-      "id": 463
+      "id": 462
     },
     {
       "category": "Programming & Development",
@@ -6575,7 +6562,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:15:54.142340+00:00",
-      "id": 464
+      "id": 463
     },
     {
       "category": "Programming & Development",
@@ -6588,7 +6575,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-03-16T16:54:17.412453+00:00",
-      "id": 465
+      "id": 464
     },
     {
       "category": "Programming & Development",
@@ -6601,7 +6588,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:15:51.286854+00:00",
-      "id": 466
+      "id": 465
     },
     {
       "category": "Programming & Development",
@@ -6614,7 +6601,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-03-15T01:21:53.066892+00:00",
-      "id": 467
+      "id": 466
     },
     {
       "category": "Programming & Development",
@@ -6627,7 +6614,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-05T08:31:53.941305+00:00",
-      "id": 468
+      "id": 467
     },
     {
       "category": "Programming & Development",
@@ -6640,7 +6627,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-03-01T08:20:02.200224+00:00",
-      "id": 469
+      "id": 468
     },
     {
       "category": "Programming & Development",
@@ -6653,10 +6640,10 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-11T01:21:52.766961+00:00",
-      "id": 470
+      "id": 469
     },
     {
-      "id": 471,
+      "id": 470,
       "category": "Programming & Development",
       "name": "Google Data Analytics Professional Certificate",
       "provider": "Google (Coursera)",
@@ -6680,10 +6667,10 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-03-09T20:23:13.592687+00:00",
-      "id": 472
+      "id": 471
     },
     {
-      "id": 473,
+      "id": 472,
       "category": "Programming & Development",
       "name": "Google IT Support Professional Certificate",
       "provider": "Google (Coursera)",
@@ -6707,10 +6694,10 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:16:08.676827+00:00",
-      "id": 474
+      "id": 473
     },
     {
-      "id": 475,
+      "id": 474,
       "category": "Programming & Development",
       "name": "IBM Data Science Professional Certificate",
       "provider": "IBM (Coursera)",
@@ -6724,7 +6711,7 @@
       "last_checked": null
     },
     {
-      "id": 476,
+      "id": 475,
       "category": "Programming & Development",
       "name": "IBM Python for Data Science, AI & Development",
       "provider": "IBM (Coursera)",
@@ -6748,7 +6735,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-03-09T20:23:13.592903+00:00",
-      "id": 477
+      "id": 476
     },
     {
       "category": "Programming & Development",
@@ -6761,7 +6748,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-03-22T01:15:55.487181+00:00",
-      "id": 478
+      "id": 477
     },
     {
       "category": "Programming & Development",
@@ -6774,10 +6761,10 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-03-25T05:19:51.580585+00:00",
-      "id": 479
+      "id": 478
     },
     {
-      "id": 480,
+      "id": 479,
       "category": "Programming & Development",
       "name": "Introduction to CSS3",
       "provider": "University of Michigan (Coursera)",
@@ -6791,7 +6778,7 @@
       "last_checked": null
     },
     {
-      "id": 481,
+      "id": 480,
       "category": "Programming & Development",
       "name": "Introduction to Computer Science and Programming Using Python",
       "provider": "MIT (edX)",
@@ -6805,7 +6792,7 @@
       "last_checked": null
     },
     {
-      "id": 482,
+      "id": 481,
       "category": "Programming & Development",
       "name": "Introduction to Dart",
       "provider": "Google (Flutter)",
@@ -6819,7 +6806,7 @@
       "last_checked": null
     },
     {
-      "id": 483,
+      "id": 482,
       "category": "Programming & Development",
       "name": "Introduction to Git and GitHub",
       "provider": "Google (Coursera)",
@@ -6833,7 +6820,7 @@
       "last_checked": null
     },
     {
-      "id": 484,
+      "id": 483,
       "category": "Programming & Development",
       "name": "Introduction to Go",
       "provider": "Google (Golang)",
@@ -6847,7 +6834,7 @@
       "last_checked": null
     },
     {
-      "id": 485,
+      "id": 484,
       "category": "Programming & Development",
       "name": "Introduction to HTML5",
       "provider": "University of Michigan (Coursera)",
@@ -6861,7 +6848,7 @@
       "last_checked": null
     },
     {
-      "id": 486,
+      "id": 485,
       "category": "Programming & Development",
       "name": "Introduction to Linux",
       "provider": "The Linux Foundation (edX)",
@@ -6875,7 +6862,7 @@
       "last_checked": null
     },
     {
-      "id": 487,
+      "id": 486,
       "category": "Programming & Development",
       "name": "Introduction to Programming with MATLAB",
       "provider": "Vanderbilt (Coursera)",
@@ -6889,7 +6876,7 @@
       "last_checked": null
     },
     {
-      "id": 488,
+      "id": 487,
       "category": "Programming & Development",
       "name": "Introduction to Rust",
       "provider": "The Rust Foundation",
@@ -6913,7 +6900,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-01-30T04:21:39.956659+00:00",
-      "id": 489
+      "id": 488
     },
     {
       "category": "Programming & Development",
@@ -6926,10 +6913,10 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-01-30T04:21:39.956928+00:00",
-      "id": 490
+      "id": 489
     },
     {
-      "id": 491,
+      "id": 490,
       "category": "Programming & Development",
       "name": "Learn Bash Scripting",
       "provider": "Codecademy",
@@ -6953,7 +6940,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-01-30T04:21:39.956851+00:00",
-      "id": 492
+      "id": 491
     },
     {
       "category": "Programming & Development",
@@ -6966,10 +6953,10 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-01-30T04:21:39.956983+00:00",
-      "id": 493
+      "id": 492
     },
     {
-      "id": 494,
+      "id": 493,
       "category": "Programming & Development",
       "name": "Learn C++",
       "provider": "Codecademy",
@@ -6983,7 +6970,7 @@
       "last_checked": null
     },
     {
-      "id": 495,
+      "id": 494,
       "category": "Programming & Development",
       "name": "Learn CSS",
       "provider": "Codecademy",
@@ -7007,7 +6994,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-01-30T04:21:39.956704+00:00",
-      "id": 496
+      "id": 495
     },
     {
       "category": "Programming & Development",
@@ -7020,7 +7007,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-01-30T04:21:39.956878+00:00",
-      "id": 497
+      "id": 496
     },
     {
       "category": "Programming & Development",
@@ -7033,7 +7020,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-01-30T04:21:39.956903+00:00",
-      "id": 498
+      "id": 497
     },
     {
       "category": "Programming & Development",
@@ -7046,10 +7033,10 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-01-30T04:21:39.956787+00:00",
-      "id": 499
+      "id": 498
     },
     {
-      "id": 500,
+      "id": 499,
       "category": "Programming & Development",
       "name": "Learn Git",
       "provider": "Codecademy",
@@ -7063,7 +7050,7 @@
       "last_checked": null
     },
     {
-      "id": 501,
+      "id": 500,
       "category": "Programming & Development",
       "name": "Learn HTML",
       "provider": "Codecademy",
@@ -7077,7 +7064,7 @@
       "last_checked": null
     },
     {
-      "id": 502,
+      "id": 501,
       "category": "Programming & Development",
       "name": "Learn Java",
       "provider": "Codecademy",
@@ -7091,7 +7078,7 @@
       "last_checked": null
     },
     {
-      "id": 503,
+      "id": 502,
       "category": "Programming & Development",
       "name": "Learn JavaScript",
       "provider": "Codecademy",
@@ -7115,7 +7102,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:15:54.142643+00:00",
-      "id": 504
+      "id": 503
     },
     {
       "category": "Programming & Development",
@@ -7128,7 +7115,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-01-30T04:21:39.956955+00:00",
-      "id": 505
+      "id": 504
     },
     {
       "category": "Programming & Development",
@@ -7141,10 +7128,10 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-01-30T04:21:39.956763+00:00",
-      "id": 506
+      "id": 505
     },
     {
-      "id": 507,
+      "id": 506,
       "category": "Programming & Development",
       "name": "Learn Python 3",
       "provider": "Codecademy",
@@ -7158,7 +7145,7 @@
       "last_checked": null
     },
     {
-      "id": 508,
+      "id": 507,
       "category": "Programming & Development",
       "name": "Learn SQL",
       "provider": "Codecademy",
@@ -7182,7 +7169,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-01-30T04:21:39.956821+00:00",
-      "id": 509
+      "id": 508
     },
     {
       "category": "Programming & Development",
@@ -7195,10 +7182,10 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-01-30T04:21:39.956735+00:00",
-      "id": 510
+      "id": 509
     },
     {
-      "id": 511,
+      "id": 510,
       "category": "Programming & Development",
       "name": "Learn the Command Line",
       "provider": "Codecademy",
@@ -7222,7 +7209,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-03-16T16:54:25.749886+00:00",
-      "id": 512
+      "id": 511
     },
     {
       "category": "Programming & Development",
@@ -7235,7 +7222,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:15:54.142739+00:00",
-      "id": 513
+      "id": 512
     },
     {
       "category": "Programming & Development",
@@ -7248,10 +7235,10 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-03-10T20:23:15.902705+00:00",
-      "id": 514
+      "id": 513
     },
     {
-      "id": 515,
+      "id": 514,
       "category": "Programming & Development",
       "name": "LinkedIn Learning: Become a Software Developer",
       "provider": "LinkedIn Learning",
@@ -7275,7 +7262,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:16:00.019348+00:00",
-      "id": 516
+      "id": 515
     },
     {
       "category": "Programming & Development",
@@ -7288,7 +7275,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-28T20:15:55.125918+00:00",
-      "id": 517
+      "id": 516
     },
     {
       "category": "Programming & Development",
@@ -7301,10 +7288,10 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-19T01:15:25.851650+00:00",
-      "id": 518
+      "id": 517
     },
     {
-      "id": 519,
+      "id": 518,
       "category": "Programming & Development",
       "name": "Microsoft Azure Fundamentals (AZ-900)",
       "provider": "Microsoft Learn",
@@ -7318,7 +7305,7 @@
       "last_checked": null
     },
     {
-      "id": 520,
+      "id": 519,
       "category": "Programming & Development",
       "name": "Microsoft Power Platform Fundamentals (PL-900)",
       "provider": "Microsoft Learn",
@@ -7330,6 +7317,19 @@
       "expiration": "Never",
       "validated": null,
       "last_checked": null
+    },
+    {
+      "category": "Programming & Development",
+      "name": "Most Courses: $0 in Textbooks - Accredited State Univ Online",
+      "provider": "",
+      "url": "https://duckduckgo.com/y.js?ad_domain=umgc.edu&ad_provider=bingv7aa&ad_type=txad&click_metadata=MFbFMU2emOkCNLafdem3A4WzYe58t9%2DZQ3giTcdsOkG4dc8WwK3NlofR2Jsx68VLWcfN09e_kNEPXk%2DOPd4WlWIzCJLO3St6KvVZiMxnTNy5fmp0OXKOJtjn4L9f7mlpvvPxjbhnxfxfReVA3ORIHHiBtJdos23xmowRxrZSP2I.ZZfYalTQMU8RqDw_vpcIVg&rut=bcb23a859915525ca66a98864cd978cbb2ad53b4bd1375cc7805020f2d621905&u3=https%3A%2F%2Fwww.bing.com%2Faclick%3Fld%3De8BLSx4mmsiNs8ggK2Smra9TVUCUyVzIN7QHGTqIheSOhX2SjQ1tam6AiVWVKZaTjd2PFyr7QW7NiUGsqX7hvPCOol7NWfla7GsSBTLviNuywa%2DdVbg9TcLRk57xvmJOdGnqjOZ3ewpUua2fSP40Zj3lTMotwXuLhJfsyqyZMlMSjX_1bijzl7yGxaH06cgaz4%2DrhYtLlYyc0Ikche9qqVN_gJiM4%26u%3DaHR0cHMlM2ElMmYlMmZ3d3cudW1nYy5lZHUlMmZsZWFybi1tb3JlJTJmZ2VuJTJmZGVncmVlJTJmY2VydGlmaWNhdGVzLW9ubGluZS5odG1sJTNmbWFya2V0Y29kZSUzZFdCMzA3MTAzJTI2bmV0d29yayUzZHMlMjZnY2xpZCUzZDM0YWEwMjI0MGUyMjFkY2I5OWQ5NmJlMTI1Y2I1MDAwJTI2Z2Nsc3JjJTNkM3AuZHMlMjZtc2Nsa2lkJTNkMzRhYTAyMjQwZTIyMWRjYjk5ZDk2YmUxMjVjYjUwMDAlMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCSU5HX05CX0NFUlRJRklDQVRFX0RNVl9USUVSLTFfV0IzMDcxMDMlMjZ1dG1fdGVybSUzZGluZm9ybWF0aW9uJTI1MjBzeXN0ZW1zJTI1MjBjZXJ0aWZpY2F0ZSUyNnV0bV9jb250ZW50JTNkTWFuYWdlbWVudCUyNTIwSW5mb3JtYXRpb24lMjUyMFN5c3RlbXM%26rlid%3D34aa02240e221dcb99d96be125cb5000&vqd=4-90033420148652538737812647213591819124&iurl=%7B1%7DIG%3D53862147367F4391A799F71241E38B1C%26CID%3D312328C1AFAB604F12303FE9AE066125%26ID%3DDevEx%2C5045.1",
+      "description": "Free certification from ",
+      "duration": "Self-paced",
+      "level": "Beginner",
+      "prerequisites": "",
+      "expiration": "",
+      "discovered_at": "2026-03-26T12:51:53.999664+00:00",
+      "id": 520
     },
     {
       "category": "Programming & Development",
