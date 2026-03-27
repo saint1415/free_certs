@@ -1,18 +1,14 @@
 {
-  "timestamp": "2026-03-27T01:19:34.851784+00:00",
-  "previous_count": 570,
-  "removed_invalid": 2,
-  "discovered_new": 0,
-  "final_count": 568,
-  "invalid_removed": [
+  "timestamp": "2026-03-27T05:28:13.943250+00:00",
+  "previous_count": 568,
+  "removed_invalid": 0,
+  "discovered_new": 1,
+  "final_count": 569,
+  "invalid_removed": [],
+  "new_added": [
     {
       "name": "Free Microsoft Fundamental Certifications",
       "url": "https://techcommunity.microsoft.com/blog/educatordeveloperblog/free-microsoft-fundamentals-certifications-for-worldwide-students/3734654"
-    },
-    {
-      "name": "Limited-Time Free Certification Offer | Terms and Conditions",
-      "url": "https://community.fabric.microsoft.com/t5/Using-the-Community/Limited-Time-Free-Certification-Offer-Terms-and-Conditions/ta-p/4271103"
     }
-  ],
-  "new_added": []
+  ]
 }
