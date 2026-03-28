@@ -1,9 +1,86 @@
 {
-  "timestamp": "2026-03-27T20:26:55.879447+00:00",
+  "timestamp": "2026-03-28T01:13:19.523211+00:00",
   "previous_count": 569,
   "removed_invalid": 0,
-  "discovered_new": 0,
-  "final_count": 569,
+  "discovered_new": 19,
+  "final_count": 588,
   "invalid_removed": [],
-  "new_added": []
+  "new_added": [
+    {
+      "name": "FREE Entry-level Cybersecurity Training + Certification Exam",
+      "url": "https://www.isc2.org/landing/1mcc"
+    },
+    {
+      "name": "Free Online Cyber Security Courses with Certificates",
+      "url": "https://www.eccouncil.org/cybersecurity-exchange/cyber-novice/free-cybersecurity-courses-beginners/"
+    },
+    {
+      "name": "11 Best FREE Online Cyber Security Courses (2026) - Guru99",
+      "url": "https://www.guru99.com/cyber-security-certifications-courses.html"
+    },
+    {
+      "name": "Top Free Cybersecurity Certifications in 2025 | IT Companies Network",
+      "url": "https://itcompanies.net/blog/free-cyber-security-certifications"
+    },
+    {
+      "name": "10 Free Online Programming Courses & Certificates 2026 - Learn.org",
+      "url": "https://learn.org/affordable-degrees/which-colleges-and-universities-offer-free-online-programming-courses"
+    },
+    {
+      "name": "Best Free Coding Courses Online 2025 - Learn Programming with Certificates",
+      "url": "https://nextstepeducations.com/free-coding-courses-online/"
+    },
+    {
+      "name": "Best Free Courses Data Science Courses & Certificates [2025] | Coursera",
+      "url": "https://www.coursera.org/courses?query=free%20courses%20data%20science"
+    },
+    {
+      "name": "Free Data Science Courses With Certificates (2025 Guide)",
+      "url": "https://devtoolhub.com/free-data-science-courses-2025/"
+    },
+    {
+      "name": "10 Great Free Online Courses for Data Science Certification",
+      "url": "https://www.onlinecoursereport.com/free/data-science-certification/"
+    },
+    {
+      "name": "25 Best + Free Data Science Certificate Courses [2025]",
+      "url": "https://www.courseduck.com/programming/data-science/"
+    },
+    {
+      "name": "7 free online MIT courses to grasp machine learning",
+      "url": "https://openlearning.mit.edu/news/7-free-online-mit-courses-grasp-machine-learning"
+    },
+    {
+      "name": "10 Best Free Machine Learning (ML) Courses & Certificates 2026",
+      "url": "https://learn.org/affordable-degrees/free-machine-learning-courses-certificates"
+    },
+    {
+      "name": "60 Best FREE Online Courses with Certificates (2026) - Guru99",
+      "url": "https://www.guru99.com/free-online-course-with-certificate.html"
+    },
+    {
+      "name": "1200+ Free Certificate Courses [2026 March] [UPDATED]",
+      "url": "https://digitaldefynd.com/best-free-certification-course-training-online/"
+    },
+    {
+      "name": "Free Courses & Certificates - Learn.org",
+      "url": "https://learn.org/directory/free-courses-and-certificates"
+    },
+    {
+      "name": "Our training programs - GSA",
+      "url": "https://www.gsa.gov/about-us/events-training-and-request-a-speaker/our-training-programs"
+    },
+    {
+      "name": "Vendor Management Training Course | Global Knowledge",
+      "url": "https://www.globalknowledge.com/us-en/course/87079/vendor-management/"
+    },
+    {
+      "name": "Nstitute: Certified Vendor Management Professional Certification",
+      "url": "https://www.ncontracts.com/nsight-blog/ncontracts-launches-nstitute"
+    },
+    {
+      "name": "OSHA-Authorized Online Outreach Training Providers",
+      "url": "https://www.osha.gov/training/outreach/training-providers"
+    }
+  ]
 }
