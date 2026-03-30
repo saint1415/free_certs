@@ -1,14 +1,46 @@
 {
-  "timestamp": "2026-03-30T09:02:40.053687+00:00",
-  "previous_count": 585,
-  "removed_invalid": 1,
-  "discovered_new": 0,
-  "final_count": 584,
-  "invalid_removed": [
+  "timestamp": "2026-03-30T12:53:52.573422+00:00",
+  "previous_count": 584,
+  "removed_invalid": 0,
+  "discovered_new": 9,
+  "final_count": 593,
+  "invalid_removed": [],
+  "new_added": [
     {
-      "name": "Get rewarded for gaining tech skills and free certifications at the ...",
-      "url": "https://pulse.microsoft.com/en/skill-forward-en/na/fa1-get-rewarded-for-gaining-tech-skills-and-free-certifications-at-the-microsoft-spring-skills-challenge/"
+      "name": "Cloud Engineer Roadmap 2026 - Free AWS, Azure, GCP Certification Path",
+      "url": "https://cloudroadmap.cloud/"
+    },
+    {
+      "name": "FREE Entry-level Cybersecurity Training + Certification Exam",
+      "url": "https://www.isc2.org/landing/1mcc"
+    },
+    {
+      "name": "Best free programming courses with certificates 2026 - Educative",
+      "url": "https://www.educative.io/blog/free-programming-courses"
+    },
+    {
+      "name": "Microsoft is offering FREE courses: AI, IoT, Machine Learning, Data ...",
+      "url": "https://techcommunity.microsoft.com/discussions/certification-ireland/microsoft-is-offering-free-courses-ai-iot-machine-learning-data-science/3893765"
+    },
+    {
+      "name": "6 Legit Free Certification Programs [2026 Update]",
+      "url": "https://savingsgrove.com/blogs/guides/free-certification-programs"
+    },
+    {
+      "name": "35 Free Online Courses With Certificates (2025 Updated List)",
+      "url": "https://www.educatly.com/blog/784/free-online-courses-with-certificates-2025"
+    },
+    {
+      "name": "20+ Free Digital Badge Templates (Ready to Use) - Certifier",
+      "url": "https://certifier.io/blog/free-digital-badge-templates"
+    },
+    {
+      "name": "Training resources for vendors | GSA",
+      "url": "https://www.gsa.gov/about-us/events-training-and-request-a-speaker/our-training-programs/training-for-vendors"
+    },
+    {
+      "name": "Vendor Management Training Course | Global Knowledge",
+      "url": "https://www.globalknowledge.com/us-en/course/87079/vendor-management/"
     }
-  ],
-  "new_added": []
+  ]
 }
