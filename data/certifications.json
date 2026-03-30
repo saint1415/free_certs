@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "total_certifications": 586,
-    "last_updated": "2026-03-30T01:23:33.770029+00:00",
+    "total_certifications": 585,
+    "last_updated": "2026-03-30T05:53:54.363962+00:00",
     "categories": [
       "AI & Machine Learning Engineering",
       "Aerospace Engineering",
@@ -221,7 +221,7 @@
       "Intermediate",
       "Professional"
     ],
-    "validation_run": "2026-03-30T01:23:33.770029+00:00"
+    "validation_run": "2026-03-30T05:53:54.363962+00:00"
   },
   "certifications": [
     {
@@ -7922,19 +7922,6 @@
     },
     {
       "category": "Programming & Development",
-      "name": "Vendor Management Training Course | Global Knowledge",
-      "provider": "",
-      "url": "https://www.globalknowledge.com/us-en/course/87079/vendor-management/",
-      "description": "Free certification from ",
-      "duration": "Self-paced",
-      "level": "Beginner",
-      "prerequisites": "",
-      "expiration": "",
-      "discovered_at": "2026-03-28T01:14:36.098609+00:00",
-      "id": 566
-    },
-    {
-      "category": "Programming & Development",
       "name": "Vendor Management for Technology Professionals - Skillsoft",
       "provider": "",
       "url": "https://www.skillsoft.com/course/vendor-management-for-technology-professionals-af3f7209-263b-42f7-a383-4a636d3d0e5d",
@@ -7944,7 +7931,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:16:08.676932+00:00",
-      "id": 567
+      "id": 566
     },
     {
       "category": "Programming & Development",
@@ -7957,7 +7944,7 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-25T16:59:23.983356+00:00",
-      "id": 568
+      "id": 567
     },
     {
       "category": "Programming & Development",
@@ -7970,10 +7957,10 @@
       "prerequisites": "",
       "expiration": "",
       "discovered_at": "2026-02-01T20:16:05.799297+00:00",
-      "id": 569
+      "id": 568
     },
     {
-      "id": 570,
+      "id": 569,
       "category": "Quantum Engineering",
       "name": "Introduction to Quantum Computing",
       "provider": "IBM Quantum",
@@ -7987,7 +7974,7 @@
       "last_checked": null
     },
     {
-      "id": 571,
+      "id": 570,
       "category": "Quantum Engineering",
       "name": "Quantum Error Correction",
       "provider": "Coursera",
@@ -8001,7 +7988,7 @@
       "last_checked": null
     },
     {
-      "id": 572,
+      "id": 571,
       "category": "Quantum Engineering",
       "name": "Quantum Programming",
       "provider": "Qiskit",
@@ -8015,7 +8002,7 @@
       "last_checked": null
     },
     {
-      "id": 573,
+      "id": 572,
       "category": "Robotics & Mechatronics",
       "name": "Embedded Systems for Robotics",
       "provider": "edX",
@@ -8029,7 +8016,7 @@
       "last_checked": null
     },
     {
-      "id": 574,
+      "id": 573,
       "category": "Robotics & Mechatronics",
       "name": "Introduction to Robotics",
       "provider": "MIT OpenCourseWare",
@@ -8043,7 +8030,7 @@
       "last_checked": null
     },
     {
-      "id": 575,
+      "id": 574,
       "category": "Robotics & Mechatronics",
       "name": "Mechatronics Design",
       "provider": "MIT OpenCourseWare",
@@ -8057,7 +8044,7 @@
       "last_checked": null
     },
     {
-      "id": 576,
+      "id": 575,
       "category": "Robotics & Mechatronics",
       "name": "Robot Operating System (ROS)",
       "provider": "The Construct",
@@ -8071,7 +8058,7 @@
       "last_checked": null
     },
     {
-      "id": 577,
+      "id": 576,
       "category": "Robotics & Mechatronics",
       "name": "Robotic Process Automation",
       "provider": "Automation Anywhere University",
@@ -8085,7 +8072,7 @@
       "last_checked": null
     },
     {
-      "id": 578,
+      "id": 577,
       "category": "Software Engineering",
       "name": "DevOps Engineering Essentials",
       "provider": "Linux Foundation",
@@ -8099,7 +8086,7 @@
       "last_checked": null
     },
     {
-      "id": 579,
+      "id": 578,
       "category": "Software Engineering",
       "name": "Distributed Systems Engineering",
       "provider": "MIT OpenCourseWare",
@@ -8113,7 +8100,7 @@
       "last_checked": null
     },
     {
-      "id": 580,
+      "id": 579,
       "category": "Software Engineering",
       "name": "Microservices Architecture",
       "provider": "IBM",
@@ -8127,7 +8114,7 @@
       "last_checked": null
     },
     {
-      "id": 581,
+      "id": 580,
       "category": "Software Engineering",
       "name": "Platform Engineering Fundamentals",
       "provider": "Coursera",
@@ -8141,7 +8128,7 @@
       "last_checked": null
     },
     {
-      "id": 582,
+      "id": 581,
       "category": "Software Engineering",
       "name": "Site Reliability Engineering",
       "provider": "Google",
@@ -8155,7 +8142,7 @@
       "last_checked": null
     },
     {
-      "id": 583,
+      "id": 582,
       "category": "Software Engineering",
       "name": "Software Architecture Fundamentals",
       "provider": "MIT OpenCourseWare",
@@ -8169,7 +8156,7 @@
       "last_checked": null
     },
     {
-      "id": 584,
+      "id": 583,
       "category": "Sound & Audio Engineering",
       "name": "Audio Electronics",
       "provider": "NPTEL",
@@ -8183,7 +8170,7 @@
       "last_checked": null
     },
     {
-      "id": 585,
+      "id": 584,
       "category": "Sound & Audio Engineering",
       "name": "Audio Engineering Fundamentals",
       "provider": "Coursera",
@@ -8197,7 +8184,7 @@
       "last_checked": null
     },
     {
-      "id": 586,
+      "id": 585,
       "category": "Sound & Audio Engineering",
       "name": "Digital Audio Processing",
       "provider": "Coursera",

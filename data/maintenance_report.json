@@ -1,14 +1,14 @@
 {
-  "timestamp": "2026-03-30T01:23:33.770029+00:00",
-  "previous_count": 585,
-  "removed_invalid": 0,
-  "discovered_new": 1,
-  "final_count": 586,
-  "invalid_removed": [],
-  "new_added": [
+  "timestamp": "2026-03-30T05:53:54.363962+00:00",
+  "previous_count": 586,
+  "removed_invalid": 1,
+  "discovered_new": 0,
+  "final_count": 585,
+  "invalid_removed": [
     {
-      "name": "The Ultimate Guide to Free Tech Courses & Certifications in 2025",
-      "url": "https://businesstories.com/career/free-tech-courses-certifications-in-2025/"
+      "name": "Vendor Management Training Course | Global Knowledge",
+      "url": "https://www.globalknowledge.com/us-en/course/87079/vendor-management/"
     }
-  ]
+  ],
+  "new_added": []
 }
