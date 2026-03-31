@@ -1,35 +1,19 @@
 {
-  "timestamp": "2026-03-31T12:53:14.210910+00:00",
-  "previous_count": 593,
-  "removed_invalid": 4,
-  "discovered_new": 2,
+  "timestamp": "2026-03-31T16:47:35.884214+00:00",
+  "previous_count": 591,
+  "removed_invalid": 1,
+  "discovered_new": 1,
   "final_count": 591,
   "invalid_removed": [
     {
-      "name": "2000+ Free Developer & IT Certifications (2025) | CoderStar",
-      "url": "https://coderstar.in/2025/free-developer-it-certifications.html"
-    },
-    {
-      "name": "The Ultimate Guide to Free Tech Courses & Certifications in 2025",
-      "url": "https://businesstories.com/career/free-tech-courses-certifications-in-2025/"
-    },
-    {
-      "name": "Top 10 Free IT Certifications to Boost Your Career in 2025",
-      "url": "https://technewskills.com/top-free-it-certifications-2025/"
-    },
-    {
-      "name": "Vendor Management Training Course | Global Knowledge",
-      "url": "https://www.globalknowledge.com/us-en/course/87079/vendor-management/"
+      "name": "TeamCity Cloud Fundamentals",
+      "url": "https://www.jetbrains.com/teamcity/tutorials/"
     }
   ],
   "new_added": [
     {
-      "name": "Affordable Online Certificates - Accredited State Univ Online",
-      "url": "https://duckduckgo.com/y.js?ad_domain=umgc.edu&ad_provider=bingv7aa&ad_type=txad&click_metadata=CNklcKNPyiwpyzNeP2wS3JUYuee5iXrtoFAxkBpiliPxZt8Jx1manI%2DgozmZoGQ29HL3pTNTpk_%2DzBYTjOAMlZVb0XSaKom31TtLuaF9KYCiDoYUf8pRNnBLIZL9yKERjPDs32HHj3_fk%2D22JBN7B%2DzsBsJWdQxxz8L6c6qOdXo.7PsLscesjvbU4FC%2DqTUUpw&rut=7f591a93c5d33e58fbe7e1b9df78dd827b1958c5509173ed4283139e62fd24a4&u3=https%3A%2F%2Fwww.bing.com%2Faclick%3Fld%3De8V9dzEsBX8a5IoFqogAq5tjVUCUzhQJ%2DgPg_r13fvgIoRTYONbYI5pARX%2DIQ42O2WN6N9bkahCulOl4CTMU91hO59eD3GXbcU5UxYpj9SrpwAOHgGroZJb56VEM2656qS%2D%2DqHTu8pqMxxu4c1Af7ziOcpvgO_GOxZyI0xlF_5QBOVL2yoZr_5TzHN4Ofzf9czec4IKDJBor6NzQ3u2QA4bq1TxC8%26u%3DaHR0cHMlM2ElMmYlMmZ3d3cudW1nYy5lZHUlMmZsZWFybi1tb3JlJTJmZ2VuJTJmZGVncmVlJTJmY2VydGlmaWNhdGVzLW9ubGluZS5odG1sJTNmbWFya2V0Y29kZSUzZFdCMzA3MTAzJTI2bmV0d29yayUzZHMlMjZnY2xpZCUzZDJkNmJhMTQ3MTQ2ZDEwOGJhNTgzYzg4Y2Q3OTEzZmE1JTI2Z2Nsc3JjJTNkM3AuZHMlMjZtc2Nsa2lkJTNkMmQ2YmExNDcxNDZkMTA4YmE1ODNjODhjZDc5MTNmYTUlMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCSU5HX05CX0NFUlRJRklDQVRFX0RNVl9USUVSLTFfV0IzMDcxMDMlMjZ1dG1fdGVybSUzZGluZm9ybWF0aW9uJTI1MjBzeXN0ZW1zJTI1MjBjZXJ0aWZpY2F0ZSUyNnV0bV9jb250ZW50JTNkTWFuYWdlbWVudCUyNTIwSW5mb3JtYXRpb24lMjUyMFN5c3RlbXM%26rlid%3D2d6ba147146d108ba583c88cd7913fa5&vqd=4-268007921262052014587191789690486805580&iurl=%7B1%7DIG%3D81D4ED108DFF48A689D24FE41B7D2621%26CID%3D05537BAE08B66F4B0E366C8309B76EFB%26ID%3DDevEx%2C5045.1"
-    },
-    {
-      "name": "Cloud Computing Certificate - Affordable Online Certificates",
-      "url": "https://duckduckgo.com/y.js?ad_domain=umgc.edu&ad_provider=bingv7aa&ad_type=txad&click_metadata=8qZi2qD_IPcv0cZNTtOty_FULL9iYu1E2OnJSYkza9DpI1MltAqcLMWCMtASHtXXklVABHYrSTHzOMEELtEL7P7a5wpyTs7ZB8nlOnDufuXeRiybif1xWaOOfYTsCk9pVctOMHuVHeJ7536SkBLBdWqFaFaK0L%2DigeZVOzE6eXs.HhLq2PHyrLoG04hEhPXYGg&rut=07c65d509eb12e7b61594d68dc56562b9a041d8568870323424d3c088cbb1b4e&u3=https%3A%2F%2Fwww.bing.com%2Faclick%3Fld%3De8O7O%2DtH%2DTw3R2vJNXKwms%2DzVUCUwXHhLQQRy09F__Rb%2DDnGfZi0t0lC6CBxZusGKZ19HJI8Xk_wrsghLyVkarAtcUCrH4a0ztk9nfy235j7gfV3loCIyfovJYvfyRIT4fVXB4NmQtFOVJPPTOaIuzCZ5kA7A56DJ%2D0tOSgsDTB7sYkLhgaqEXbkvM1E%2DI9G3bA4Hs7ykKClRAs4sJHM4ThVYLOYQ%26u%3DaHR0cHMlM2ElMmYlMmZ3d3cudW1nYy5lZHUlMmZsZWFybi1tb3JlJTJmcHJvZ3JhbXMlMmZpbmZvcm1hdGlvbi10ZWNobm9sb2d5JTJmaXQtYW5kLWNvbXB1dGVyLXNjaWVuY2UtZGVncmVlcy1vbmxpbmUlM2ZtYXJrZXRjb2RlJTNkV0IzMDcxMDMlMjZuZXR3b3JrJTNkcyUyNmdjbGlkJTNkMTUxODA5MmFlNzc2MTBjODkyZTQ2MGUxMjQ4OWI5N2YlMjZnY2xzcmMlM2QzcC5kcyUyNm1zY2xraWQlM2QxNTE4MDkyYWU3NzYxMGM4OTJlNDYwZTEyNDg5Yjk3ZiUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZEJJTkdfTkJfQ0VSVElGSUNBVEVfRE1WX1RJRVItMV9XQjMwNzEwMyUyNnV0bV90ZXJtJTNkY2xvdWQlMjUyMGNvbXB1dGluZyUyNTIwY2VydCUyNnV0bV9jb250ZW50JTNkQ2xvdWQlMjUyMENvbXB1dGluZyUyNTIwJTI1MjYlMjUyME5ldHdvcmtpbmc%26rlid%3D1518092ae77610c892e460e12489b97f&vqd=4-330487055827630588211554056068212534972&iurl=%7B1%7DIG%3DD913BE027910466DAD3651C83E47D140%26CID%3D3A9CADB2AB6B65651FB0BA9FAAC6643C%26ID%3DDevEx%2C5039.1"
+      "name": "Top 10 Free IT Certifications to Boost Your Career in 2025",
+      "url": "https://technewskills.com/top-free-it-certifications-2025/"
     }
   ]
 }
