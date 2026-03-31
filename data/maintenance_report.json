@@ -1,18 +1,14 @@
 {
-  "timestamp": "2026-03-30T20:34:38.803144+00:00",
-  "previous_count": 594,
-  "removed_invalid": 2,
-  "discovered_new": 0,
-  "final_count": 592,
-  "invalid_removed": [
+  "timestamp": "2026-03-31T01:21:04.209429+00:00",
+  "previous_count": 592,
+  "removed_invalid": 0,
+  "discovered_new": 1,
+  "final_count": 593,
+  "invalid_removed": [],
+  "new_added": [
     {
-      "name": "Serverless Architecture Fundamentals",
-      "url": "https://www.serverless.com/learn"
-    },
-    {
-      "name": "Serverless Architecture Patterns",
-      "url": "https://www.serverless.com/learn/courses/serverless-for-teams/"
+      "name": "15+ Free Certifications to Gain High-Income Skills in 2025 - Forbes",
+      "url": "https://www.forbes.com/sites/rachelwells/2025/08/30/15-free-certifications-to-gain-high-income-skills-in-2025/"
     }
-  ],
-  "new_added": []
+  ]
 }
