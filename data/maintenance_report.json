@@ -1,14 +1,9 @@
 {
-  "timestamp": "2026-03-31T01:21:04.209429+00:00",
-  "previous_count": 592,
+  "timestamp": "2026-03-31T05:40:23.480797+00:00",
+  "previous_count": 593,
   "removed_invalid": 0,
-  "discovered_new": 1,
+  "discovered_new": 0,
   "final_count": 593,
   "invalid_removed": [],
-  "new_added": [
-    {
-      "name": "15+ Free Certifications to Gain High-Income Skills in 2025 - Forbes",
-      "url": "https://www.forbes.com/sites/rachelwells/2025/08/30/15-free-certifications-to-gain-high-income-skills-in-2025/"
-    }
-  ]
+  "new_added": []
 }
