@@ -1,17 +1,13 @@
 {
-  "timestamp": "2026-04-01T12:54:38.717195+00:00",
-  "previous_count": 591,
-  "removed_invalid": 2,
+  "timestamp": "2026-04-01T16:43:25.165575+00:00",
+  "previous_count": 589,
+  "removed_invalid": 1,
   "discovered_new": 0,
-  "final_count": 589,
+  "final_count": 588,
   "invalid_removed": [
     {
-      "name": "Free Microsoft Fundamental Certifications",
-      "url": "https://techcommunity.microsoft.com/blog/educatordeveloperblog/free-microsoft-fundamentals-certifications-for-worldwide-students/3734654"
-    },
-    {
-      "name": "Microsoft is offering FREE courses: AI, IoT, Machine Learning, Data ...",
-      "url": "https://techcommunity.microsoft.com/discussions/certification-ireland/microsoft-is-offering-free-courses-ai-iot-machine-learning-data-science/3893765"
+      "name": "15+ Free Certifications to Gain High-Income Skills in 2025 - Forbes",
+      "url": "https://www.forbes.com/sites/rachelwells/2025/08/30/15-free-certifications-to-gain-high-income-skills-in-2025/"
     }
   ],
   "new_added": []
