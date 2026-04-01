@@ -1,9 +1,14 @@
 {
-  "timestamp": "2026-04-01T05:50:11.699831+00:00",
+  "timestamp": "2026-04-01T08:53:52.677007+00:00",
   "previous_count": 592,
-  "removed_invalid": 0,
+  "removed_invalid": 1,
   "discovered_new": 0,
-  "final_count": 592,
-  "invalid_removed": [],
+  "final_count": 591,
+  "invalid_removed": [
+    {
+      "name": "New Relic DevOps Monitoring",
+      "url": "https://learn.newrelic.com/"
+    }
+  ],
   "new_added": []
 }

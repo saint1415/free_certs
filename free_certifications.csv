@@ -202,7 +202,6 @@ Cloud Computing (Cloud DevOps),Google Cloud Deployment Manager,Google Cloud,http
 Cloud Computing (Cloud DevOps),IBM Cloud DevOps,IBM,https://www.ibm.com/cloud/architecture/content/course/explore-devops-architecture,DevOps practices and tools on IBM Cloud,6 hours,Intermediate,IBM Cloud basics,
 Cloud Computing (Cloud DevOps),Jenkins X Cloud Native CI/CD,Jenkins X,https://jenkins-x.io/docs/getting-started/,Cloud native CI/CD with Jenkins X,4 hours,Intermediate,Kubernetes basics,
 Cloud Computing (Cloud DevOps),Kubernetes for Cloud DevOps,Linux Foundation,https://training.linuxfoundation.org/training/kubernetes-for-developers/,Kubernetes container orchestration for cloud environments,10 hours,Intermediate,Container basics,
-Cloud Computing (Cloud DevOps),New Relic DevOps Monitoring,New Relic,https://learn.newrelic.com/,Cloud monitoring and observability with New Relic,3 hours,Intermediate,Cloud basics,
 Cloud Computing (Cloud DevOps),Oracle Cloud DevOps Service,Oracle,https://docs.oracle.com/en-us/iaas/Content/devops/using/home.htm,CI/CD automation with Oracle Cloud DevOps,4 hours,Intermediate,Oracle Cloud basics,
 Cloud Computing (Cloud DevOps),Pulumi Cloud Infrastructure,Pulumi,https://www.pulumi.com/learn/,Infrastructure as code with Pulumi,4 hours,Intermediate,Programming basics,
 Cloud Computing (Cloud DevOps),Puppet for Cloud Automation,Puppet,https://learn.puppet.com/course/puppet-basics,Configuration management with Puppet,5 hours,Intermediate,Linux basics,
