@@ -1,9 +1,43 @@
 {
-  "timestamp": "2026-04-01T20:34:34.426760+00:00",
+  "timestamp": "2026-04-02T01:17:56.458694+00:00",
   "previous_count": 588,
-  "removed_invalid": 0,
-  "discovered_new": 0,
-  "final_count": 588,
-  "invalid_removed": [],
-  "new_added": []
+  "removed_invalid": 7,
+  "discovered_new": 1,
+  "final_count": 582,
+  "invalid_removed": [
+    {
+      "name": "Free Artificial Intelligence (AI) Courses - Great Learning",
+      "url": "https://www.mygreatlearning.com/ai/free-courses"
+    },
+    {
+      "name": "Free Basics of AWS, Azure and Google Cloud Course with Certificate ...",
+      "url": "https://www.mygreatlearning.com/academy/learn-for-free/courses/aws-vs-azure-vs-gcp"
+    },
+    {
+      "name": "Free Cloud Computing Courses Online with Certificates (2026)",
+      "url": "https://www.mygreatlearning.com/cloud-computing/free-courses"
+    },
+    {
+      "name": "Free Cybersecurity Courses Online with Certificates (2026)",
+      "url": "https://www.mygreatlearning.com/cybersecurity/free-courses"
+    },
+    {
+      "name": "Free Data Science Courses Online with Certificates (2026)",
+      "url": "https://www.mygreatlearning.com/data-science/free-courses"
+    },
+    {
+      "name": "Free Procurement Management Course with Certificate [2026]",
+      "url": "https://www.mygreatlearning.com/academy/learn-for-free/courses/procurement-management"
+    },
+    {
+      "name": "Learn Programming for Free (Computer Programming) & Certificates (2026)",
+      "url": "https://www.mygreatlearning.com/programming/free-courses"
+    }
+  ],
+  "new_added": [
+    {
+      "name": "Free Microsoft Fundamental Certifications",
+      "url": "https://techcommunity.microsoft.com/blog/educatordeveloperblog/free-microsoft-fundamentals-certifications-for-worldwide-students/3734654"
+    }
+  ]
 }
