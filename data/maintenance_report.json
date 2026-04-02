@@ -1,9 +1,14 @@
 {
-  "timestamp": "2026-04-02T12:47:45.110884+00:00",
+  "timestamp": "2026-04-02T16:44:57.881439+00:00",
   "previous_count": 584,
-  "removed_invalid": 0,
+  "removed_invalid": 1,
   "discovered_new": 0,
-  "final_count": 584,
-  "invalid_removed": [],
+  "final_count": 583,
+  "invalid_removed": [
+    {
+      "name": "6 Legit Free Certification Programs [2026 Update]",
+      "url": "https://savingsgrove.com/blogs/guides/free-certification-programs"
+    }
+  ],
   "new_added": []
 }
