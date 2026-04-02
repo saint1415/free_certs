@@ -1,18 +1,9 @@
 {
-  "timestamp": "2026-04-02T05:27:22.728229+00:00",
-  "previous_count": 582,
+  "timestamp": "2026-04-02T08:44:08.470314+00:00",
+  "previous_count": 584,
   "removed_invalid": 0,
-  "discovered_new": 2,
+  "discovered_new": 0,
   "final_count": 584,
   "invalid_removed": [],
-  "new_added": [
-    {
-      "name": "BeginnerCourseBuilding AI Powered Chatbots Without ProgrammingArtificial Intelligence, Chatbots, NLP28.9k+ Enrolled6 Weeks4.7(3.78k+ Reviews)",
-      "url": "https://cognitiveclass.ai/courses/course-v1:IBMSkillsNetwork+CB0103EN+v1_Coursera"
-    },
-    {
-      "name": "Free Cloud Computing Courses Online with Certificates (2026)",
-      "url": "https://www.mygreatlearning.com/cloud-computing/free-courses"
-    }
-  ]
+  "new_added": []
 }
