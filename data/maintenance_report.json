@@ -1,43 +1,18 @@
 {
-  "timestamp": "2026-04-02T01:17:56.458694+00:00",
-  "previous_count": 588,
-  "removed_invalid": 7,
-  "discovered_new": 1,
-  "final_count": 582,
-  "invalid_removed": [
+  "timestamp": "2026-04-02T05:27:22.728229+00:00",
+  "previous_count": 582,
+  "removed_invalid": 0,
+  "discovered_new": 2,
+  "final_count": 584,
+  "invalid_removed": [],
+  "new_added": [
     {
-      "name": "Free Artificial Intelligence (AI) Courses - Great Learning",
-      "url": "https://www.mygreatlearning.com/ai/free-courses"
-    },
-    {
-      "name": "Free Basics of AWS, Azure and Google Cloud Course with Certificate ...",
-      "url": "https://www.mygreatlearning.com/academy/learn-for-free/courses/aws-vs-azure-vs-gcp"
+      "name": "BeginnerCourseBuilding AI Powered Chatbots Without ProgrammingArtificial Intelligence, Chatbots, NLP28.9k+ Enrolled6 Weeks4.7(3.78k+ Reviews)",
+      "url": "https://cognitiveclass.ai/courses/course-v1:IBMSkillsNetwork+CB0103EN+v1_Coursera"
     },
     {
       "name": "Free Cloud Computing Courses Online with Certificates (2026)",
       "url": "https://www.mygreatlearning.com/cloud-computing/free-courses"
-    },
-    {
-      "name": "Free Cybersecurity Courses Online with Certificates (2026)",
-      "url": "https://www.mygreatlearning.com/cybersecurity/free-courses"
-    },
-    {
-      "name": "Free Data Science Courses Online with Certificates (2026)",
-      "url": "https://www.mygreatlearning.com/data-science/free-courses"
-    },
-    {
-      "name": "Free Procurement Management Course with Certificate [2026]",
-      "url": "https://www.mygreatlearning.com/academy/learn-for-free/courses/procurement-management"
-    },
-    {
-      "name": "Learn Programming for Free (Computer Programming) & Certificates (2026)",
-      "url": "https://www.mygreatlearning.com/programming/free-courses"
-    }
-  ],
-  "new_added": [
-    {
-      "name": "Free Microsoft Fundamental Certifications",
-      "url": "https://techcommunity.microsoft.com/blog/educatordeveloperblog/free-microsoft-fundamentals-certifications-for-worldwide-students/3734654"
     }
   ]
 }
