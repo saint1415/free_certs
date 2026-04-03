@@ -1,31 +1,22 @@
 {
-  "timestamp": "2026-04-02T20:24:57.915383+00:00",
-  "previous_count": 583,
-  "removed_invalid": 4,
-  "discovered_new": 1,
-  "final_count": 580,
+  "timestamp": "2026-04-03T01:20:01.843243+00:00",
+  "previous_count": 580,
+  "removed_invalid": 3,
+  "discovered_new": 0,
+  "final_count": 577,
   "invalid_removed": [
     {
-      "name": "2000+ Free Developer & IT Certifications (2025) | CoderStar",
-      "url": "https://coderstar.in/2025/free-developer-it-certifications.html"
+      "name": "25 Best + Free Data Science Certificate Courses [2025]",
+      "url": "https://www.courseduck.com/programming/data-science/"
     },
     {
-      "name": "FREE Entry-level Cybersecurity Training + Certification Exam",
-      "url": "https://www.isc2.org/landing/1mcc"
+      "name": "900+ Free Developer and IT Certifications - Tech-Tech",
+      "url": "https://tech-tech.life/2024/12/15/900-free-developer-and-it-certifications/"
     },
     {
-      "name": "The Ultimate Guide to Free Tech Courses & Certifications in 2025",
-      "url": "https://businesstories.com/career/free-tech-courses-certifications-in-2025/"
-    },
-    {
-      "name": "Top 10 Free IT Certifications to Boost Your Career in 2025",
-      "url": "https://technewskills.com/top-free-it-certifications-2025/"
+      "name": "Free Online Certifications from Top Universities - Still Open in 2025",
+      "url": "https://brightmindai.com/free-online-certifications-2025/"
     }
   ],
-  "new_added": [
-    {
-      "name": "CTS Certification - Register for a CTS Exam",
-      "url": "https://duckduckgo.com/y.js?ad_domain=infocommshow.org&ad_provider=bingv7aa&ad_type=txad&click_metadata=L5GQmbL0Q5VLCG2lrOZ4zS_5KhbCIM16xtB%2D29QifRbmHob4tIb8024_LKtiLMCB%2DHvHv49y2nsydgO7B9AxGRcEYFneK0Um4_eIvmJd9u%2DlMidTSp0Bx4P2WCfMSa1gRlEqM%2DJ5B6EfT1iai7Kb9SzRbksJlvvXYtEg5fKLh4o.sxPYipHw0vUL4vzLxqZfdg&rut=6b639536aec305f95bcd7e8763e9fbaaeb581fd138a34fb8d561adf53ef5fdb0&u3=https%3A%2F%2Fwww.bing.com%2Faclick%3Fld%3De8BXOs3yyFbg3dOUid1fZQ8TVUCUyA4d7ooIgV31OV3TGGKa6tY%2DLUrf24%2DtcTIrBaVZv2kG0UIlKsHyyBJrrrOV9WKJf4pyc0FjIS8gzLvHfbEVKS9I4tFKCOvcwIPLZr%2DK5GdY655TXDck8Zdaz4DmPzZ_naff9hmY5cvq_rnMUFHxbqZcLD8pAZ2EUOOXZV6f63yy3sbI8M4P4ELf4i7qOWPsU%26u%3DaHR0cHMlM2ElMmYlMmZ3d3cuaW5mb2NvbW1zaG93Lm9yZyUyZmNlcnRpZmljYXRpb24tdGVzdGluZyUzZnV0bV92ZW5kb3IlM2RpbnRlcm5hbCUyNm1zY2xraWQlM2QwZGE2MDZkNjhkMTgxNTA0YmU4YTZmMTg1ZGM1NmY4ZSUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZE1BJTI1MjBTZWFyY2glMjUzQSUyNTIwQ1RTJTI1MjBJQzI2JTI2dXRtX3Rlcm0lM2RpbmZvcm1hdGlvbiUyNTIwc3lzdGVtcyUyNTIwY2VydGlmaWNhdGlvbnMlMjZ1dG1fY29udGVudCUzZEFkJTI1MjBncm91cCUyNTIwMQ%26rlid%3D0da606d68d181504be8a6f185dc56f8e&vqd=4-329923760928520431515584246696842019862&iurl=%7B1%7DIG%3D8A0CEBD8414E460AA453627FAA365185%26CID%3D256B7E342FA1666925E1691B2E4767F0%26ID%3DDevEx%2C5045.1"
-    }
-  ]
+  "new_added": []
 }
