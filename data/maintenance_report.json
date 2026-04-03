@@ -1,22 +1,66 @@
 {
-  "timestamp": "2026-04-03T01:20:01.843243+00:00",
-  "previous_count": 580,
-  "removed_invalid": 3,
-  "discovered_new": 0,
-  "final_count": 577,
-  "invalid_removed": [
+  "timestamp": "2026-04-03T05:28:26.437887+00:00",
+  "previous_count": 577,
+  "removed_invalid": 0,
+  "discovered_new": 14,
+  "final_count": 591,
+  "invalid_removed": [],
+  "new_added": [
+    {
+      "name": "FREE Entry-level Cybersecurity Training + Certification Exam",
+      "url": "https://www.isc2.org/landing/1mcc"
+    },
+    {
+      "name": "Cyber Security 101 from National Cyber Security Training Academy - NICCS",
+      "url": "https://niccs.cisa.gov/training/catalog/ncsta/cyber-security-101"
+    },
+    {
+      "name": "Free Data Science Courses Online with Certificates (2026)",
+      "url": "https://www.mygreatlearning.com/data-science/free-courses"
+    },
     {
       "name": "25 Best + Free Data Science Certificate Courses [2025]",
       "url": "https://www.courseduck.com/programming/data-science/"
     },
     {
-      "name": "900+ Free Developer and IT Certifications - Tech-Tech",
-      "url": "https://tech-tech.life/2024/12/15/900-free-developer-and-it-certifications/"
+      "name": "Free Artificial Intelligence (AI) Courses - Great Learning",
+      "url": "https://www.mygreatlearning.com/ai/free-courses"
     },
     {
-      "name": "Free Online Certifications from Top Universities - Still Open in 2025",
-      "url": "https://brightmindai.com/free-online-certifications-2025/"
+      "name": "13 Best Free AI Certification Courses and AI Certificate Programs (2026)",
+      "url": "https://uxcel.com/blog/top-free-ai-certifications-and-courses"
+    },
+    {
+      "name": "10 Best AI Courses Online for Free With Certificates - Simplilearn",
+      "url": "https://www.simplilearn.com/best-ai-courses-online-free-article"
+    },
+    {
+      "name": "10 Free AI Courses with Certificates by Google 2026",
+      "url": "https://studyabroadnations.com/ny/free-ai-courses-with-certificates-by-google/"
+    },
+    {
+      "name": "6 Legit Free Certification Programs [2026 Update]",
+      "url": "https://savingsgrove.com/blogs/guides/free-certification-programs"
+    },
+    {
+      "name": "Free Certification Programs That Can Transform Your Career: Complete ...",
+      "url": "https://blog.theinterviewguys.com/free-certification-programs/"
+    },
+    {
+      "name": "Access your certificates, badges, and transcript",
+      "url": "https://learn.microsoft.com/en-us/credentials/certifications/access-certificates-badges-transcript"
+    },
+    {
+      "name": "Free Online Learning with Badges and/or Certificates - LinkedIn",
+      "url": "https://www.linkedin.com/pulse/free-online-learning-badges-andor-certificates-melissa-caudill"
+    },
+    {
+      "name": "Parchment Digital Badges",
+      "url": "https://badgr.com/"
+    },
+    {
+      "name": "Vendor Management Training Course | Global Knowledge",
+      "url": "https://www.globalknowledge.com/us-en/course/87079/vendor-management/"
     }
-  ],
-  "new_added": []
+  ]
 }
