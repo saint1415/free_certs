@@ -1,27 +1,22 @@
 {
-  "timestamp": "2026-04-04T05:17:19.953482+00:00",
-  "previous_count": 595,
-  "removed_invalid": 3,
-  "discovered_new": 1,
-  "final_count": 593,
-  "invalid_removed": [
+  "timestamp": "2026-04-04T08:29:40.789233+00:00",
+  "previous_count": 593,
+  "removed_invalid": 0,
+  "discovered_new": 3,
+  "final_count": 596,
+  "invalid_removed": [],
+  "new_added": [
     {
-      "name": "2000+ Free Developer & IT Certifications (2025) | CoderStar",
-      "url": "https://coderstar.in/2025/free-developer-it-certifications.html"
-    },
-    {
-      "name": "The Ultimate Guide to Free Tech Courses & Certifications in 2025",
-      "url": "https://businesstories.com/career/free-tech-courses-certifications-in-2025/"
+      "name": "CTS Certification - Get Certified, Get Ahead",
+      "url": "https://duckduckgo.com/y.js?ad_domain=infocommshow.org&ad_provider=bingv7aa&ad_type=txad&click_metadata=TY_kTBb1YR79k1FC%2Dl1i7N%2DWH9mA1K44Vx%2D8e5UpOYQx6Qure6%2D5NryUDcGj%2DAeafDkMM_E6%2DV5rtyquwEwD8Aml8%2DVjsBr%2D6zd6B0CKgUyuAOV9QVWJnS5tr77Wmvqq3ZGYt7LdQ%2DEzLM1hczQLUDpBPt8HFRQ_JEPAZZBaAM8.uTA7bswKY2CwTd7SVM32ZQ&rut=63f20dbeb65bee8e823b6de2e19b05ee2fa5d3181b4e1ea1b4992a56935b09d2&u3=https%3A%2F%2Fwww.bing.com%2Faclick%3Fld%3De82CkdTbY0q7RDnwMof4Z7qzVUCUw5laserlswxyXLT_rDAXxf5G0iNDlvDRV9sqTpmG941_jkxgAbGyDIvfb1CoYxhKUDMjJAPEOa%2D9KZqWZq5eZTe45im934S9Ln7LfAIqAtZ%2DzRx7IIMyY8sXowIlPxFYu6uBDBlTsDMqS8GFk9BlJrzWLr60xIGlDqLm7CkkHVeYHXyTHGLQhh3uMOvdKJCNg%26u%3DaHR0cHMlM2ElMmYlMmZ3d3cuaW5mb2NvbW1zaG93Lm9yZyUyZmNlcnRpZmljYXRpb24tdGVzdGluZyUzZnV0bV92ZW5kb3IlM2RpbnRlcm5hbCUyNm1zY2xraWQlM2RlMmM5YmM3MjY4MDgxMzg0NzI0OGQ1YTJhNDI2ZWRhNiUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZE1BJTI1MjBTZWFyY2glMjUzQSUyNTIwQ1RTJTI1MjBJQzI2JTI2dXRtX3Rlcm0lM2RpbmZvcm1hdGlvbiUyNTIwdGVjaG5vbG9neSUyNTIwY2VydGlmaWNhdGlvbiUyNTIwcHJvZ3JhbXMlMjZ1dG1fY29udGVudCUzZEFkJTI1MjBncm91cCUyNTIwMQ%26rlid%3De2c9bc72680813847248d5a2a426eda6&vqd=4-142450362043993074018306928673499364356&iurl=%7B1%7DIG%3D2D64ED88B3C440938560A18210A02701%26CID%3D1E6C7B04CFF86A9D2D826C35CE6F6B44%26ID%3DDevEx%2C5045.1"
     },
     {
       "name": "Top 10 Free IT Certifications to Boost Your Career in 2025",
       "url": "https://technewskills.com/top-free-it-certifications-2025/"
-    }
-  ],
-  "new_added": [
+    },
     {
-      "name": "NewIntermediateGuided ProjectBuild a Deep Research Agent with LangGraphAgentic AI, AI, AI Agents, +3 more23 Enrolled90 Minutes5.0(1 Review)",
-      "url": "https://cognitiveclass.ai/courses/course-v1:IBMSkillsNetwork+GPXX0DNGEN+v1"
+      "name": "2000+ Free Developer & IT Certifications (2025) | CoderStar",
+      "url": "https://coderstar.in/2025/free-developer-it-certifications.html"
     }
   ]
 }
