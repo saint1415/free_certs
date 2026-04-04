@@ -1,9 +1,27 @@
 {
-  "timestamp": "2026-04-04T01:14:33.389317+00:00",
+  "timestamp": "2026-04-04T05:17:19.953482+00:00",
   "previous_count": 595,
-  "removed_invalid": 0,
-  "discovered_new": 0,
-  "final_count": 595,
-  "invalid_removed": [],
-  "new_added": []
+  "removed_invalid": 3,
+  "discovered_new": 1,
+  "final_count": 593,
+  "invalid_removed": [
+    {
+      "name": "2000+ Free Developer & IT Certifications (2025) | CoderStar",
+      "url": "https://coderstar.in/2025/free-developer-it-certifications.html"
+    },
+    {
+      "name": "The Ultimate Guide to Free Tech Courses & Certifications in 2025",
+      "url": "https://businesstories.com/career/free-tech-courses-certifications-in-2025/"
+    },
+    {
+      "name": "Top 10 Free IT Certifications to Boost Your Career in 2025",
+      "url": "https://technewskills.com/top-free-it-certifications-2025/"
+    }
+  ],
+  "new_added": [
+    {
+      "name": "NewIntermediateGuided ProjectBuild a Deep Research Agent with LangGraphAgentic AI, AI, AI Agents, +3 more23 Enrolled90 Minutes5.0(1 Review)",
+      "url": "https://cognitiveclass.ai/courses/course-v1:IBMSkillsNetwork+GPXX0DNGEN+v1"
+    }
+  ]
 }
