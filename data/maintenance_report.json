@@ -1,26 +1,9 @@
 {
-  "timestamp": "2026-04-05T08:32:23.395765+00:00",
-  "previous_count": 600,
+  "timestamp": "2026-04-05T12:33:53.690658+00:00",
+  "previous_count": 604,
   "removed_invalid": 0,
-  "discovered_new": 4,
+  "discovered_new": 0,
   "final_count": 604,
   "invalid_removed": [],
-  "new_added": [
-    {
-      "name": "Top 10 Free IT Certifications to Boost Your Career in 2025",
-      "url": "https://technewskills.com/top-free-it-certifications-2025/"
-    },
-    {
-      "name": "2000+ Free Developer & IT Certifications (2025) | CoderStar",
-      "url": "https://coderstar.in/2025/free-developer-it-certifications.html"
-    },
-    {
-      "name": "The Ultimate Guide to Free Tech Courses & Certifications in 2025",
-      "url": "https://businesstories.com/career/free-tech-courses-certifications-in-2025/"
-    },
-    {
-      "name": "Free Cloud Computing with AWS - GCP - Azure Course | 7-Language Certificate",
-      "url": "https://catchwisdom.com/course/cloud-computing-with-aws-gcp-azure/"
-    }
-  ]
+  "new_added": []
 }
