@@ -1,43 +1,26 @@
 {
-  "timestamp": "2026-04-05T05:40:52.350677+00:00",
-  "previous_count": 598,
-  "removed_invalid": 3,
-  "discovered_new": 5,
-  "final_count": 600,
-  "invalid_removed": [
+  "timestamp": "2026-04-05T08:32:23.395765+00:00",
+  "previous_count": 600,
+  "removed_invalid": 0,
+  "discovered_new": 4,
+  "final_count": 604,
+  "invalid_removed": [],
+  "new_added": [
+    {
+      "name": "Top 10 Free IT Certifications to Boost Your Career in 2025",
+      "url": "https://technewskills.com/top-free-it-certifications-2025/"
+    },
     {
       "name": "2000+ Free Developer & IT Certifications (2025) | CoderStar",
       "url": "https://coderstar.in/2025/free-developer-it-certifications.html"
     },
     {
+      "name": "The Ultimate Guide to Free Tech Courses & Certifications in 2025",
+      "url": "https://businesstories.com/career/free-tech-courses-certifications-in-2025/"
+    },
+    {
       "name": "Free Cloud Computing with AWS - GCP - Azure Course | 7-Language Certificate",
       "url": "https://catchwisdom.com/course/cloud-computing-with-aws-gcp-azure/"
-    },
-    {
-      "name": "Top 10 Free IT Certifications to Boost Your Career in 2025",
-      "url": "https://technewskills.com/top-free-it-certifications-2025/"
-    }
-  ],
-  "new_added": [
-    {
-      "name": "Free Cybersecurity Courses Online with Certificates (2026)",
-      "url": "https://www.mygreatlearning.com/cybersecurity/free-courses"
-    },
-    {
-      "name": "Credential.net - Accredible \u2022 Certificates, Badges and Blockchain",
-      "url": "https://www.credential.net/"
-    },
-    {
-      "name": "free badge | CertiProf | International",
-      "url": "https://certiprof.com/pages/free-badge"
-    },
-    {
-      "name": "Free Procurement Management Course with Certificate [2026]",
-      "url": "https://www.mygreatlearning.com/academy/learn-for-free/courses/procurement-management"
-    },
-    {
-      "name": "Certifications | OneTrust",
-      "url": "https://www.onetrust.com/certifications/"
     }
   ]
 }
