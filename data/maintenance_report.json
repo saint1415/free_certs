@@ -1,17 +1,21 @@
 {
-  "timestamp": "2026-04-06T05:54:33.035685+00:00",
-  "previous_count": 604,
-  "removed_invalid": 2,
+  "timestamp": "2026-04-06T09:00:16.637244+00:00",
+  "previous_count": 602,
+  "removed_invalid": 3,
   "discovered_new": 0,
-  "final_count": 602,
+  "final_count": 599,
   "invalid_removed": [
     {
-      "name": "Investors",
-      "url": "https://investor.oracle.com/home/default.aspx"
+      "name": "10 Free AI Courses with Certificates by Google 2026",
+      "url": "https://studyabroadnations.com/ny/free-ai-courses-with-certificates-by-google/"
     },
     {
-      "name": "5 Tech Certification Exams That Let You Retake for Free",
-      "url": "https://www.exam-labs.com/blog/5-tech-certification-exams-that-let-you-retake-for-free"
+      "name": "2000+ Free Developer & IT Certifications (2025) | CoderStar",
+      "url": "https://coderstar.in/2025/free-developer-it-certifications.html"
+    },
+    {
+      "name": "Top 10 Free IT Certifications to Boost Your Career in 2025",
+      "url": "https://technewskills.com/top-free-it-certifications-2025/"
     }
   ],
   "new_added": []
