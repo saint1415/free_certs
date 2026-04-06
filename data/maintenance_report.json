@@ -1,22 +1,23 @@
 {
-  "timestamp": "2026-04-06T12:45:56.092315+00:00",
-  "previous_count": 599,
-  "removed_invalid": 0,
-  "discovered_new": 3,
-  "final_count": 602,
-  "invalid_removed": [],
+  "timestamp": "2026-04-06T16:35:49.203181+00:00",
+  "previous_count": 602,
+  "removed_invalid": 2,
+  "discovered_new": 1,
+  "final_count": 601,
+  "invalid_removed": [
+    {
+      "name": "AI-Powered AWS, Azure, GCP Practice Exam | Cloudoku.training",
+      "url": "https://cloudoku.training/free-training"
+    },
+    {
+      "name": "Free Cloud Certification Practice Exam Questions | AWS, Azure, GCP ...",
+      "url": "https://cloudoku.training/free-cloud-certification-practice-exam-questions"
+    }
+  ],
   "new_added": [
     {
-      "name": "Univ of Maryland Global Campus - Most Courses: $0 in Textbooks",
-      "url": "https://duckduckgo.com/y.js?ad_domain=umgc.edu&ad_provider=bingv7aa&ad_type=txad&click_metadata=%2DtXzKbJvXz1ypkGnfGOpyp8Ao_UttafwD4IVI7k0yZ_v81hTmRMXi0ArGdtkNKU2C7U5vuVQdDaTJXvtxtNasNbN0ONgUEY4em2i%2D4RLBLOhUg%2D9%2DYarF_Bkw1Owm8UjwuVzPzvDmpydOicRTsluJ7%2DaOA5o_%2DuELj45BEtsl0U.UuZ8wfpgBav9GsUb60Uuug&rut=6e3369cf30d5a2a65316c3e81fc08ca148cf8b4324ad436272a16c1b7d0fa152&u3=https%3A%2F%2Fwww.bing.com%2Faclick%3Fld%3De8pACsB9GCBLiqCKulsbpvyjVUCUwBigpicrqxfZqXKUBIdzbxK2JsKt0fRVN59VaWTAVX23E4_lApfrtO6pQufUQiJQn9y7ugdkgJMZB35KqXjro2clu_ObZNNLDDmlUTn8dEpUNFfA1SHmyk1guukF87yVGm0u4l4OAjEnynkTLcWptRxOFzdXNR7olUjJ%2DdsDyYxldhPHlw5Ib4Lvtfo8XKSd8%26u%3DaHR0cHMlM2ElMmYlMmZ3d3cudW1nYy5lZHUlMmZsZWFybi1tb3JlJTJmZ2VuJTJmZGVncmVlJTJmY2VydGlmaWNhdGVzLW9ubGluZS5odG1sJTNmbWFya2V0Y29kZSUzZFdCMzA3MTAzJTI2bmV0d29yayUzZHMlMjZnY2xpZCUzZGUzNjE2ZGI1MmVmYzEwM2M1ZmVjMDQ2Njg1Yzk0N2E0JTI2Z2Nsc3JjJTNkM3AuZHMlMjZtc2Nsa2lkJTNkZTM2MTZkYjUyZWZjMTAzYzVmZWMwNDY2ODVjOTQ3YTQlMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCSU5HX05CX0NFUlRJRklDQVRFX0RNVl9USUVSLTFfV0IzMDcxMDMlMjZ1dG1fdGVybSUzZGluZm9ybWF0aW9uJTI1MjBzeXN0ZW1zJTI1MjBjZXJ0aWZpY2F0ZSUyNnV0bV9jb250ZW50JTNkTWFuYWdlbWVudCUyNTIwSW5mb3JtYXRpb24lMjUyMFN5c3RlbXM%26rlid%3De3616db52efc103c5fec046685c947a4&vqd=4-157956816479214046808438574131829070676&iurl=%7B1%7DIG%3D2B204DA981EB47F498A8F76651DF8A78%26CID%3D1469976FBBE665E631AF805CBA6A64D4%26ID%3DDevEx%2C5045.1"
-    },
-    {
-      "name": "Top 10 Free IT Certifications to Boost Your Career in 2025",
-      "url": "https://technewskills.com/top-free-it-certifications-2025/"
-    },
-    {
-      "name": "2000+ Free Developer & IT Certifications (2025) | CoderStar",
-      "url": "https://coderstar.in/2025/free-developer-it-certifications.html"
+      "name": "The Ultimate Guide to Free Tech Courses & Certifications in 2025",
+      "url": "https://businesstories.com/career/free-tech-courses-certifications-in-2025/"
     }
   ]
 }
