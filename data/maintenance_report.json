@@ -1,19 +1,9 @@
 {
-  "timestamp": "2026-04-07T12:56:25.285530+00:00",
+  "timestamp": "2026-04-07T16:45:17.817808+00:00",
   "previous_count": 598,
-  "removed_invalid": 1,
-  "discovered_new": 1,
+  "removed_invalid": 0,
+  "discovered_new": 0,
   "final_count": 598,
-  "invalid_removed": [
-    {
-      "name": "Free Microsoft Fundamental Certifications",
-      "url": "https://techcommunity.microsoft.com/blog/educatordeveloperblog/free-microsoft-fundamentals-certifications-for-worldwide-students/3734654"
-    }
-  ],
-  "new_added": [
-    {
-      "name": "Top Free IT Courses with Certificates in 2025 - prognoztech.com",
-      "url": "https://prognoztech.com/top-free-it-courses-with-certificates/"
-    }
-  ]
+  "invalid_removed": [],
+  "new_added": []
 }
