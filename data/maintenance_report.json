@@ -1,9 +1,18 @@
 {
-  "timestamp": "2026-04-07T20:35:38.360479+00:00",
+  "timestamp": "2026-04-08T01:22:23.794203+00:00",
   "previous_count": 598,
-  "removed_invalid": 0,
+  "removed_invalid": 2,
   "discovered_new": 0,
-  "final_count": 598,
-  "invalid_removed": [],
+  "final_count": 596,
+  "invalid_removed": [
+    {
+      "name": "Best Microsoft Azure Courses - Free Courses With Certificates",
+      "url": "https://duckduckgo.com/y.js?ad_domain=alison.com&ad_provider=bingv7aa&ad_type=txad&click_metadata=me8K1QfOlnnKStAktCxDgyxONzfaSULExY3bRGhiueenoNWnTt%2D5tT_2wi0jfZyUAscpGct3BYGHunqe_Bd0b1APw5z7MR1LRmSKT%2DyJCrAH3Ig1MGgu4P_K8VSXqhShDVKFWnmvG8HYIsJbE8SF7qhGr8QKeY8g39KqI0Cfzrw.RbAZ8yk7lrS2RwP15UNa2w&rut=fca4d66d68c60d3e801cda6e8dd283779c5bc7caaf652fc0f86a816b62794824&u3=https%3A%2F%2Fwww.bing.com%2Faclick%3Fld%3De8ZqOYqQwDpu%2DW4rX2n%2D2cETVUCUwsD53aIc_3h28Wzv3O51JFj078LPGTSQDHc0yZISd8hh4LmlR_HYLBwWdEjguI8z3Kcy5nomj_%2DrFf1tCR7TvH2se7xTR8b5cNqYnCMB2g7niepFgl6NX_I6ya_JsWwEBnLDgVwdo9hL2GZQewgTimc9KghxdiGV_i2x_rBqftRqdXlwtU0NvIQsiOeqSPX8c%26u%3DaHR0cHMlM2ElMmYlMmZhbGlzb24uY29tJTJmdGFnJTJmbWljcm9zb2Z0LWF6dXJlJTNmdXRtX3NvdXJjZSUzZGJpbmclMjZ1dG1fbWVkaXVtJTNkY3BjJTI2dXRtX2NhbXBhaWduJTNkNTMzMTQ0OTU5JTI2dXRtX2NvbnRlbnQlM2QxMzYxMTk4MDc2NjI3NDUyJTI2dXRtX3Rlcm0lM2Rrd2QtMjMzNjg3NDUyNjk2MDIzNSUzYWxvYy0xOTAlMjZtc2Nsa2lkJTNkZWIyZTVmZjI3N2IwMTA5MTRhOGUzNjM2NjQ4OTFhNjc%26rlid%3Deb2e5ff277b010914a8e363664891a67&vqd=4-208115418500694517081656926285491043645&iurl=%7B1%7DIG%3D5806436256264793A26A0E20F6DAC04A%26CID%3D32AF989D037869C70D228FBA02D568BD%26ID%3DDevEx%2C5043.1"
+    },
+    {
+      "name": "Infosec Certification - IT Security Certification",
+      "url": "https://duckduckgo.com/y.js?ad_domain=isaca.org&ad_provider=bingv7aa&ad_type=txad&click_metadata=1ARe5uAYlELkfV3V3G3u5IiTaEi5YpslXuX_ovg0V%2DQ6IBUA0UAxYCyQ_8KwocH7wS9N_ADZN35IdJWjhmOMWjhv7JaRUqnVZ%2DGz0Sd9SoJZhH2_SR4b4Hx_4Egke0KnaElIBeI7baVoOpv%2DvYVtuWU68HV8NEyJVVZlro%2DDSvs.JQQuv6gZ_k8fyqP2yxU64g&rut=83e0b6210cbccaa154a3d98175dd58545537abdc1d9454347eddddc1848e87bf&u3=https%3A%2F%2Fwww.bing.com%2Faclick%3Fld%3De805tSZ9x2d_4ZdB89glyu0TVUCUxjWxNLHD8HCPuXchCT49k%2D9A4Pjm6_%2D7XPqo02xxA3Swn%2DNjadg46gsQcM%2DI1QZoD1P0ps_T2zGxeKutfeIc77Udqfbm9d_s7pwdbHTxTbPvTOtleCC0DOS0Wkt4aV7h4ehIk%2DVJEh86qDcJv05MapLIQZNnIpLZvL1Ppp_HyhtBJA_UrQyiJ7VxS3cmRcJdo%26u%3DaHR0cHMlM2ElMmYlMmZ3d3cuaXNhY2Eub3JnJTJmY3JlZGVudGlhbGluZyUyZmNpc20lM2Z1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RjaXNtLWV2ZXJncmVlbiUyNnV0bV90ZXJtJTNkY2VydF9uYV9hY3Ffbm9uLWJyYW5kZWRfZXh0X2luZm8tc2VjJTI2bXNjbGtpZCUzZDBiMjQ0ZGVlMjJiMDE5YmZhYjIwMjQyZDUyYzcwOTY0%26rlid%3D0b244dee22b019bfab20242d52c70964&vqd=4-175658140786920510510549119045683596501&iurl=%7B1%7DIG%3D0E06DD9FC57C437CBE4154EF611BA0EB%26CID%3D359F36E5A7AE68BE049C21C2A6036935%26ID%3DDevEx%2C5045.1"
+    }
+  ],
   "new_added": []
 }
