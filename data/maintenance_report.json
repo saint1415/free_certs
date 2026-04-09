@@ -1,27 +1,14 @@
 {
-  "timestamp": "2026-04-09T05:44:00.642376+00:00",
-  "previous_count": 586,
-  "removed_invalid": 3,
+  "timestamp": "2026-04-09T09:01:22.674644+00:00",
+  "previous_count": 584,
+  "removed_invalid": 0,
   "discovered_new": 1,
-  "final_count": 584,
-  "invalid_removed": [
-    {
-      "name": "2000+ Free Developer & IT Certifications (2025) | CoderStar",
-      "url": "https://coderstar.in/2025/free-developer-it-certifications.html"
-    },
-    {
-      "name": "Top 10 Free IT Certifications to Boost Your Career in 2025",
-      "url": "https://technewskills.com/top-free-it-certifications-2025/"
-    },
-    {
-      "name": "Top Free IT Courses with Certificates in 2025 - prognoztech.com",
-      "url": "https://prognoztech.com/top-free-it-courses-with-certificates/"
-    }
-  ],
+  "final_count": 585,
+  "invalid_removed": [],
   "new_added": [
     {
-      "name": "900+ Free Developer and IT Certifications - Tech-Tech",
-      "url": "https://tech-tech.life/2024/12/15/900-free-developer-and-it-certifications/"
+      "name": "Free Microsoft Fundamental Certifications",
+      "url": "https://techcommunity.microsoft.com/blog/educatordeveloperblog/free-microsoft-fundamentals-certifications-for-worldwide-students/3734654"
     }
   ]
 }
