@@ -1,9 +1,14 @@
 {
-  "timestamp": "2026-04-08T20:32:56.961361+00:00",
+  "timestamp": "2026-04-09T01:13:19.851237+00:00",
   "previous_count": 585,
   "removed_invalid": 0,
-  "discovered_new": 0,
-  "final_count": 585,
+  "discovered_new": 1,
+  "final_count": 586,
   "invalid_removed": [],
-  "new_added": []
+  "new_added": [
+    {
+      "name": "Top Free IT Courses with Certificates in 2025 - prognoztech.com",
+      "url": "https://prognoztech.com/top-free-it-courses-with-certificates/"
+    }
+  ]
 }
