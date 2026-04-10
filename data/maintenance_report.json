@@ -1,9 +1,14 @@
 {
-  "timestamp": "2026-04-10T01:23:13.359489+00:00",
+  "timestamp": "2026-04-10T05:52:46.360998+00:00",
   "previous_count": 587,
-  "removed_invalid": 0,
+  "removed_invalid": 1,
   "discovered_new": 0,
-  "final_count": 587,
-  "invalid_removed": [],
+  "final_count": 586,
+  "invalid_removed": [
+    {
+      "name": "10,000+ Free Online Certificates & Badges: A Resource for Lifelong ...",
+      "url": "https://www.openculture.com/2025/01/10000-free-online-certificates-and-badges-a-resource-for-lifelong-learners.html"
+    }
+  ],
   "new_added": []
 }
