@@ -1,9 +1,18 @@
 {
-  "timestamp": "2026-04-10T08:58:57.425485+00:00",
+  "timestamp": "2026-04-10T12:44:52.350714+00:00",
   "previous_count": 586,
-  "removed_invalid": 0,
+  "removed_invalid": 2,
   "discovered_new": 0,
-  "final_count": 586,
-  "invalid_removed": [],
+  "final_count": 584,
+  "invalid_removed": [
+    {
+      "name": "900+ Free Developer and IT Certifications - Tech-Tech",
+      "url": "https://tech-tech.life/2024/12/15/900-free-developer-and-it-certifications/"
+    },
+    {
+      "name": "Free Online Certifications from Top Universities - Still Open in 2025",
+      "url": "https://brightmindai.com/free-online-certifications-2025/"
+    }
+  ],
   "new_added": []
 }
