@@ -1,18 +1,9 @@
 {
-  "timestamp": "2026-04-10T16:39:39.648288+00:00",
-  "previous_count": 584,
+  "timestamp": "2026-04-10T20:24:29.922389+00:00",
+  "previous_count": 586,
   "removed_invalid": 0,
-  "discovered_new": 2,
+  "discovered_new": 0,
   "final_count": 586,
   "invalid_removed": [],
-  "new_added": [
-    {
-      "name": "Free Online Certifications from Top Universities - Still Open in 2025",
-      "url": "https://brightmindai.com/free-online-certifications-2025/"
-    },
-    {
-      "name": "Find & Pass Certifications Online | Merlin",
-      "url": "https://merlinlearn.com/"
-    }
-  ]
+  "new_added": []
 }
