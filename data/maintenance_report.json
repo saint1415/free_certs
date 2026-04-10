@@ -1,14 +1,9 @@
 {
-  "timestamp": "2026-04-09T20:39:47.179803+00:00",
-  "previous_count": 588,
-  "removed_invalid": 1,
+  "timestamp": "2026-04-10T01:23:13.359489+00:00",
+  "previous_count": 587,
+  "removed_invalid": 0,
   "discovered_new": 0,
   "final_count": 587,
-  "invalid_removed": [
-    {
-      "name": "Google Cloud Digital Leader Training",
-      "url": "https://www.cloudskillsboost.google/paths/9"
-    }
-  ],
+  "invalid_removed": [],
   "new_added": []
 }
