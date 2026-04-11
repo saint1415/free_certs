@@ -1,14 +1,9 @@
 {
-  "timestamp": "2026-04-11T16:24:53.728409+00:00",
-  "previous_count": 585,
+  "timestamp": "2026-04-11T20:20:55.310515+00:00",
+  "previous_count": 586,
   "removed_invalid": 0,
-  "discovered_new": 1,
+  "discovered_new": 0,
   "final_count": 586,
   "invalid_removed": [],
-  "new_added": [
-    {
-      "name": "2000+ Free Developer & IT Certifications (2025) | CoderStar",
-      "url": "https://coderstar.in/2025/free-developer-it-certifications.html"
-    }
-  ]
+  "new_added": []
 }
