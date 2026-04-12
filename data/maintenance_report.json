@@ -1,9 +1,26 @@
 {
-  "timestamp": "2026-04-12T12:37:26.809175+00:00",
+  "timestamp": "2026-04-12T16:26:36.800210+00:00",
   "previous_count": 592,
-  "removed_invalid": 0,
+  "removed_invalid": 4,
   "discovered_new": 0,
-  "final_count": 592,
-  "invalid_removed": [],
+  "final_count": 588,
+  "invalid_removed": [
+    {
+      "name": "2000+ Free Developer & IT Certifications (2025) | CoderStar",
+      "url": "https://coderstar.in/2025/free-developer-it-certifications.html"
+    },
+    {
+      "name": "FREE Entry-level Cybersecurity Training + Certification Exam",
+      "url": "https://www.isc2.org/landing/1mcc"
+    },
+    {
+      "name": "The Ultimate Guide to Free Tech Courses & Certifications in 2025",
+      "url": "https://businesstories.com/career/free-tech-courses-certifications-in-2025/"
+    },
+    {
+      "name": "Top 10 Free IT Certifications to Boost Your Career in 2025",
+      "url": "https://technewskills.com/top-free-it-certifications-2025/"
+    }
+  ],
   "new_added": []
 }
