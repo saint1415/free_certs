@@ -1,9 +1,39 @@
 {
-  "timestamp": "2026-04-11T20:20:55.310515+00:00",
+  "timestamp": "2026-04-12T01:27:39.527491+00:00",
   "previous_count": 586,
-  "removed_invalid": 0,
-  "discovered_new": 0,
-  "final_count": 586,
-  "invalid_removed": [],
-  "new_added": []
+  "removed_invalid": 1,
+  "discovered_new": 6,
+  "final_count": 591,
+  "invalid_removed": [
+    {
+      "name": "Free Cloud Computing with AWS - GCP - Azure Course | 7-Language Certificate",
+      "url": "https://catchwisdom.com/course/cloud-computing-with-aws-gcp-azure/"
+    }
+  ],
+  "new_added": [
+    {
+      "name": "CTS Testing and Prep Courses - CTS Certification",
+      "url": "https://duckduckgo.com/y.js?ad_domain=infocommshow.org&ad_provider=bingv7aa&ad_type=txad&click_metadata=XSKjLfjt0mQ4waJQ49fafqQErxtfk4n_zhcHoGwWICL7JYZ9PJly2S%2D0COsg6kvyAZFd7RmzYwM22D6rr2csjqfLrBV3iGKsg4lcgyc10Oix3a4Nuj8h6WB688KGXblXSmhxX_mV3qxGvpcUl4I5ELLo1SEVRVHCAmi365VGijU.n%2D7sf4N2Ur8EtJPEc50yvw&rut=d572188031120ec27d9ee70469e1fc109ed7aa0b68a5aedb999977f8d1a82e2f&u3=https%3A%2F%2Fwww.bing.com%2Faclick%3Fld%3De8lZi9%2DG3vaJQuZC5nL07SqzVUCUylaQdP_kQTRGTdCucfx_nQjhVP64W9MR_%2DExwLi35Eq7oDDgmG5AH8rzJ2YQVuQpUaIh%2D2%2DprRVsgHBLm9nV4Q1c7bl_36TtGzLQPvtbDu9vLHTMLUDuPdrDk_7t8ukcS1cxbFWsePjjf8vqrMr8%2DGHT2856jXhC5tjPjtpg0337G6fz06xugvyS8SgrAj3No%26u%3DaHR0cHMlM2ElMmYlMmZ3d3cuaW5mb2NvbW1zaG93Lm9yZyUyZmNlcnRpZmljYXRpb24tdGVzdGluZyUzZnV0bV92ZW5kb3IlM2RpbnRlcm5hbCUyNm1zY2xraWQlM2RkODIwODFmZWM3MjgxYjBmN2IyNWU4MjQzMjE2N2IwMSUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZE1BJTI1MjBTZWFyY2glMjUzQSUyNTIwQ1RTJTI1MjBJQzI2JTI2dXRtX3Rlcm0lM2RpbmZvcm1hdGlvbiUyNTIwc3lzdGVtcyUyNTIwY2VydGlmaWNhdGlvbnMlMjZ1dG1fY29udGVudCUzZEFkJTI1MjBncm91cCUyNTIwMQ%26rlid%3Dd82081fec7281b0f7b25e82432167b01&vqd=4-126580438357138986184120354506444375857&iurl=%7B1%7DIG%3DC5E0A6C605464360934BCE8CB84E5544%26CID%3D0F129D7DE88D6D0120518A44E9066C6C%26ID%3DDevEx%2C5038.1"
+    },
+    {
+      "name": "Free Data Science Courses With Certificates (2025 Guide)",
+      "url": "https://devtoolhub.com/free-data-science-courses-2025/"
+    },
+    {
+      "name": "25 Best + Free Data Science Certificate Courses [2025]",
+      "url": "https://www.courseduck.com/programming/data-science/"
+    },
+    {
+      "name": "10,000+ Free Online Certificates & Badges: A Resource for Lifelong ...",
+      "url": "https://www.openculture.com/2025/01/10000-free-online-certificates-and-badges-a-resource-for-lifelong-learners.html"
+    },
+    {
+      "name": "Register for a CTS Exam - Get Certified, Get Ahead",
+      "url": "https://duckduckgo.com/y.js?ad_domain=infocommshow.org&ad_provider=bingv7aa&ad_type=txad&click_metadata=wWvW2foxnY_jMWrJDWyKszZtGPTGm8mso8AfRZVBhVh%2D2W41JZl%2D8kux_RR2jpMczAY0CVLWxv_Oih6mz7E3NC62ApV2VwFG1Nn7rwR1d4hfr4AAr2IjTL2JXad8YIx8NhV1BGgiyyZSrt1SS98lltZDviZ6gvYziU222xbs%2D4k.F4ECtlf73EDm8m6i6F4xXA&rut=7a2d6fa257048e0bbc1a65311f1c6954ad1ff47bdc3d46b3d70c31667a569b17&u3=https%3A%2F%2Fwww.bing.com%2Faclick%3Fld%3De8dENVtDj3CBJPW_32yAOQFDVUCUwQExaNCO3jz8aWnl%2D9LxhDj9h9HJhNIG6X3LOGVisqJ2lt3udJaCcq1wDL_qa0Y0sv%2DTGBUTqPNUJqjYPJWr318WlQ2tIYYRxH9e_ueOUSsNx576mkYdV43QWQsNgjnsUE4aUB06aFdgKIyp2wuf8vc5r3WrlFA58w62fIzJXQJ2IhA04o3sVBcnV_Tdnrg%2DQ%26u%3DaHR0cHMlM2ElMmYlMmZ3d3cuaW5mb2NvbW1zaG93Lm9yZyUyZmNlcnRpZmljYXRpb24tdGVzdGluZyUzZnV0bV92ZW5kb3IlM2RpbnRlcm5hbCUyNm1zY2xraWQlM2QxMjI4NmE2YTJkZDAxN2Y4YWY1MTAzYjBkODg3NTRkYSUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZE1BJTI1MjBTZWFyY2glMjUzQSUyNTIwQ1RTJTI1MjBJQzI2JTI2dXRtX3Rlcm0lM2RpbmZvcm1hdGlvbiUyNTIwdGVjaG5vbG9neSUyNTIwY2VydGlmaWNhdGlvbnMlMjZ1dG1fY29udGVudCUzZEFkJTI1MjBncm91cCUyNTIwMQ%26rlid%3D12286a6a2dd017f8af5103b0d88754da&vqd=4-84538014700749822630326455261898167853&iurl=%7B1%7DIG%3DF22B20C421104853BD023330C76A0733%26CID%3D03984B3D00D5618016555C04015E6018%26ID%3DDevEx%2C5045.1"
+    },
+    {
+      "name": "ExamCademy \u2014 Free IT Certification Exam Prep",
+      "url": "https://examcademy.com/"
+    }
+  ]
 }
