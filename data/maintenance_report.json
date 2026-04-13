@@ -1,18 +1,9 @@
 {
-  "timestamp": "2026-04-13T06:08:08.669088+00:00",
-  "previous_count": 589,
+  "timestamp": "2026-04-13T09:26:28.073233+00:00",
+  "previous_count": 591,
   "removed_invalid": 0,
-  "discovered_new": 2,
+  "discovered_new": 0,
   "final_count": 591,
   "invalid_removed": [],
-  "new_added": [
-    {
-      "name": "2000+ Free Developer & IT Certifications (2025) | CoderStar",
-      "url": "https://coderstar.in/2025/free-developer-it-certifications.html"
-    },
-    {
-      "name": "Top Free IT Courses with Certificates in 2025 - prognoztech.com",
-      "url": "https://prognoztech.com/top-free-it-courses-with-certificates/"
-    }
-  ]
+  "new_added": []
 }
