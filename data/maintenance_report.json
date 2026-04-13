@@ -1,9 +1,26 @@
 {
-  "timestamp": "2026-04-13T16:53:26.084313+00:00",
+  "timestamp": "2026-04-13T20:41:53.712066+00:00",
   "previous_count": 592,
-  "removed_invalid": 0,
+  "removed_invalid": 4,
   "discovered_new": 0,
-  "final_count": 592,
-  "invalid_removed": [],
+  "final_count": 588,
+  "invalid_removed": [
+    {
+      "name": "2000+ Free Developer & IT Certifications (2025) | CoderStar",
+      "url": "https://coderstar.in/2025/free-developer-it-certifications.html"
+    },
+    {
+      "name": "The Ultimate Guide to Free Tech Courses & Certifications in 2025",
+      "url": "https://businesstories.com/career/free-tech-courses-certifications-in-2025/"
+    },
+    {
+      "name": "Top 10 Free IT Certifications to Boost Your Career in 2025",
+      "url": "https://technewskills.com/top-free-it-certifications-2025/"
+    },
+    {
+      "name": "Top Free IT Courses with Certificates in 2025 - prognoztech.com",
+      "url": "https://prognoztech.com/top-free-it-courses-with-certificates/"
+    }
+  ],
   "new_added": []
 }
