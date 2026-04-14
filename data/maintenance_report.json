@@ -1,18 +1,42 @@
 {
-  "timestamp": "2026-04-14T01:27:12.548659+00:00",
-  "previous_count": 588,
+  "timestamp": "2026-04-14T05:54:44.059838+00:00",
+  "previous_count": 590,
   "removed_invalid": 0,
-  "discovered_new": 2,
-  "final_count": 590,
+  "discovered_new": 8,
+  "final_count": 598,
   "invalid_removed": [],
   "new_added": [
     {
-      "name": "Top 10 Free IT Certifications to Boost Your Career in 2025",
-      "url": "https://technewskills.com/top-free-it-certifications-2025/"
+      "name": "The Ultimate Guide to Free Tech Courses & Certifications in 2025",
+      "url": "https://businesstories.com/career/free-tech-courses-certifications-in-2025/"
     },
     {
-      "name": "2000+ Free Developer & IT Certifications (2025) | CoderStar",
-      "url": "https://coderstar.in/2025/free-developer-it-certifications.html"
+      "name": "FREE Entry-level Cybersecurity Training + Certification Exam",
+      "url": "https://www.isc2.org/landing/1mcc"
+    },
+    {
+      "name": "25 Best + Free Data Science Certificate Courses [2025]",
+      "url": "https://www.courseduck.com/programming/data-science/"
+    },
+    {
+      "name": "Learn in-demand AI skills - Learn with Coursiv",
+      "url": "https://duckduckgo.com/y.js?ad_domain=coursiv.io&ad_provider=bingv7aa&ad_type=txad&click_metadata=npDuYbTuFB392yFrKEW4pHKsTLjhqRckBMsK0Mfp12DetAkYSFA%2DWB3kSHMRmwEI%2DQn51Emc%2DPtpiCsl2suPww8siWCYae4OgC06jc3fHRcBN9JB9avAxlcBe5BWpBjM9%2DtJm39CTQYMbG5b7b914ckcTuJN8CPE37IkWcqDyns.%2DYF7VqPcQJLl7DYJ_CeHvg&rut=f3865261887d57ac4c7c0e8da77e48c9548fed0ba2cfc9c12ba1926470f7272f&u3=https%3A%2F%2Fwww.bing.com%2Faclick%3Fld%3De8CWgC8IC2O2aeq9qL4iPIRjVUCUz9uojI2NgScZJ3hT_BEm3MlrXBoRkt3ewjl80XPDXo0_4suFfLnADMrIDpFcXhNUWS_b8EU40v6kcdgR9fkZao9GqIUoRj05ZWRj7_QZ127DGd%2DrFWQPNEx6axxPVplbl4KoIiVc0BIGvvPEJ3qetFRL1VNur%2DTPtBO3VBxcdnAZImpJElrxmFnNjD4V7TE2k%26u%3DaHR0cHMlM2ElMmYlMmZjb3Vyc2l2LmlvJTJmZHluYW1pYyUzZnByY19pZCUzZDEwMzIlMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2Q0ODY1NTQwMjclMjZ1dG1fYWRncm91cGlkJTNkMTIyOTI1NTExNjc0NTg3NiUyNnV0bV9rZXl3b3JkJTNkY291cnNpdiUyNnV0bV90YXJnZXRpZCUzZGt3ZC03NjgyODgzMDQ0OTc5MyUzYWxvYy0xOTAlMjZ1dG1fbmV0d29yayUzZHMlMjZ1dG1fdHlwZSUzZGJyYW5kX3MlMjZtc2Nsa2lkJTNkMzNmZmM2ZTdkMTEwMWM3Mjk5NjRhZjNhMDdmNzQ1OWQ%26rlid%3D33ffc6e7d1101c729964af3a07f7459d&vqd=4-270619253341494668918387529363812144937&iurl=%7B1%7DIG%3D240A4A0A11834851A27E9A883D55ED0A%26CID%3D2A94A8976A5A6A643B86BFAC6BD16BF5%26ID%3DDevEx%2C5050.1"
+    },
+    {
+      "name": "Free Machine Learning Course Online with Certificate",
+      "url": "https://www.simplilearn.com/learn-machine-learning-basics-skillup"
+    },
+    {
+      "name": "AWS Certification Digital Badges",
+      "url": "https://aws.amazon.com/certification/certification-digital-badges/"
+    },
+    {
+      "name": "Free training from 8 top vendors to advance your IT career",
+      "url": "https://www.networkworld.com/article/971871/free-training-from-8-top-vendors-to-advance-your-it-career.html"
+    },
+    {
+      "name": "ExamCademy \u2014 Free IT Certification Exam Prep",
+      "url": "https://examcademy.com/"
     }
   ]
 }
