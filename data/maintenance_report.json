@@ -1,19 +1,14 @@
 {
-  "timestamp": "2026-04-15T12:59:32.509072+00:00",
+  "timestamp": "2026-04-15T16:52:45.440380+00:00",
   "previous_count": 594,
   "removed_invalid": 1,
-  "discovered_new": 1,
-  "final_count": 594,
+  "discovered_new": 0,
+  "final_count": 593,
   "invalid_removed": [
     {
-      "name": "SQL for Data Science",
-      "url": "https://www.coursera.org/learn/sql-for-data-science"
+      "name": "Process Safety",
+      "url": "https://www.aiche.org/ccps/resources/education"
     }
   ],
-  "new_added": [
-    {
-      "name": "The Ultimate Guide to Free Tech Courses & Certifications in 2025",
-      "url": "https://businesstories.com/career/free-tech-courses-certifications-in-2025/"
-    }
-  ]
+  "new_added": []
 }
