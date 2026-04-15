@@ -1,26 +1,19 @@
 {
-  "timestamp": "2026-04-15T09:09:28.403359+00:00",
-  "previous_count": 590,
-  "removed_invalid": 0,
-  "discovered_new": 4,
+  "timestamp": "2026-04-15T12:59:32.509072+00:00",
+  "previous_count": 594,
+  "removed_invalid": 1,
+  "discovered_new": 1,
   "final_count": 594,
-  "invalid_removed": [],
+  "invalid_removed": [
+    {
+      "name": "SQL for Data Science",
+      "url": "https://www.coursera.org/learn/sql-for-data-science"
+    }
+  ],
   "new_added": [
     {
-      "name": "Top 10 Free IT Certifications to Boost Your Career in 2025",
-      "url": "https://technewskills.com/top-free-it-certifications-2025/"
-    },
-    {
-      "name": "900+ Free Developer and IT Certifications - Tech-Tech",
-      "url": "https://tech-tech.life/2024/12/15/900-free-developer-and-it-certifications/"
-    },
-    {
-      "name": "2000+ Free Developer & IT Certifications (2025) | CoderStar",
-      "url": "https://coderstar.in/2025/free-developer-it-certifications.html"
-    },
-    {
-      "name": "Free Online Certifications from Top Universities - Still Open in 2025",
-      "url": "https://brightmindai.com/free-online-certifications-2025/"
+      "name": "The Ultimate Guide to Free Tech Courses & Certifications in 2025",
+      "url": "https://businesstories.com/career/free-tech-courses-certifications-in-2025/"
     }
   ]
 }
