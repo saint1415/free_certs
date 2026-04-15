@@ -199,7 +199,6 @@ Cloud Computing (Cloud DevOps),Drone CI Fundamentals,Drone.io,https://docs.drone
 Cloud Computing (Cloud DevOps),GitLab CI/CD for Cloud Deployments,GitLab,https://docs.gitlab.com/ee/ci/cloud_deployment/,CI/CD pipelines with GitLab for cloud deployments,3 hours,Intermediate,Git basics,
 Cloud Computing (Cloud DevOps),Google Cloud Deployment Manager,Google Cloud,https://cloud.google.com/deployment-manager/docs/quickstart,Infrastructure as code with Google Cloud Deployment Manager,3 hours,Intermediate,GCP basics,
 Cloud Computing (Cloud DevOps),IBM Cloud DevOps,IBM,https://www.ibm.com/cloud/architecture/content/course/explore-devops-architecture,DevOps practices and tools on IBM Cloud,6 hours,Intermediate,IBM Cloud basics,
-Cloud Computing (Cloud DevOps),Jenkins X Cloud Native CI/CD,Jenkins X,https://jenkins-x.io/docs/getting-started/,Cloud native CI/CD with Jenkins X,4 hours,Intermediate,Kubernetes basics,
 Cloud Computing (Cloud DevOps),Kubernetes for Cloud DevOps,Linux Foundation,https://training.linuxfoundation.org/training/kubernetes-for-developers/,Kubernetes container orchestration for cloud environments,10 hours,Intermediate,Container basics,
 Cloud Computing (Cloud DevOps),Oracle Cloud DevOps Service,Oracle,https://docs.oracle.com/en-us/iaas/Content/devops/using/home.htm,CI/CD automation with Oracle Cloud DevOps,4 hours,Intermediate,Oracle Cloud basics,
 Cloud Computing (Cloud DevOps),Pulumi Cloud Infrastructure,Pulumi,https://www.pulumi.com/learn/,Infrastructure as code with Pulumi,4 hours,Intermediate,Programming basics,

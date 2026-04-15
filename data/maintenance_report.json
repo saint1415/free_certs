@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-04-15T16:52:45.440380+00:00",
-  "previous_count": 594,
+  "timestamp": "2026-04-15T20:37:37.562259+00:00",
+  "previous_count": 593,
   "removed_invalid": 1,
   "discovered_new": 0,
-  "final_count": 593,
+  "final_count": 592,
   "invalid_removed": [
     {
-      "name": "Process Safety",
-      "url": "https://www.aiche.org/ccps/resources/education"
+      "name": "Jenkins X Cloud Native CI/CD",
+      "url": "https://jenkins-x.io/docs/getting-started/"
     }
   ],
   "new_added": []
