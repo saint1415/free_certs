@@ -1,51 +1,22 @@
 {
-  "timestamp": "2026-04-14T20:42:01.037398+00:00",
-  "previous_count": 597,
-  "removed_invalid": 8,
-  "discovered_new": 2,
-  "final_count": 591,
-  "invalid_removed": [
+  "timestamp": "2026-04-15T01:23:45.054064+00:00",
+  "previous_count": 591,
+  "removed_invalid": 0,
+  "discovered_new": 3,
+  "final_count": 594,
+  "invalid_removed": [],
+  "new_added": [
     {
-      "name": "Pinterest Marketing",
-      "url": "https://business.pinterest.com/en/pinterest-academy"
-    },
-    {
-      "name": "Energy Efficiency",
-      "url": "https://www.unep.org/"
+      "name": "Top 10 Free IT Certifications to Boost Your Career in 2025",
+      "url": "https://technewskills.com/top-free-it-certifications-2025/"
     },
     {
       "name": "2000+ Free Developer & IT Certifications (2025) | CoderStar",
       "url": "https://coderstar.in/2025/free-developer-it-certifications.html"
     },
     {
-      "name": "25 Best + Free Data Science Certificate Courses [2025]",
-      "url": "https://www.courseduck.com/programming/data-science/"
-    },
-    {
       "name": "900+ Free Developer and IT Certifications - Tech-Tech",
       "url": "https://tech-tech.life/2024/12/15/900-free-developer-and-it-certifications/"
-    },
-    {
-      "name": "Free Online Certifications from Top Universities - Still Open in 2025",
-      "url": "https://brightmindai.com/free-online-certifications-2025/"
-    },
-    {
-      "name": "The Ultimate Guide to Free Tech Courses & Certifications in 2025",
-      "url": "https://businesstories.com/career/free-tech-courses-certifications-in-2025/"
-    },
-    {
-      "name": "Top 10 Free IT Certifications to Boost Your Career in 2025",
-      "url": "https://technewskills.com/top-free-it-certifications-2025/"
-    }
-  ],
-  "new_added": [
-    {
-      "name": "CertQnA \u2014 Free Certification Practice Questions & Exam Preparation",
-      "url": "https://certqna.com/"
-    },
-    {
-      "name": "Cloud Certification Practice Exams \u2014 AWS, Azure & GCP | Cloudshalla ...",
-      "url": "https://cloudshalla.com/exams"
     }
   ]
 }
