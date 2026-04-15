@@ -1,26 +1,26 @@
 {
-  "timestamp": "2026-04-15T05:54:21.437527+00:00",
-  "previous_count": 594,
-  "removed_invalid": 4,
-  "discovered_new": 0,
-  "final_count": 590,
-  "invalid_removed": [
+  "timestamp": "2026-04-15T09:09:28.403359+00:00",
+  "previous_count": 590,
+  "removed_invalid": 0,
+  "discovered_new": 4,
+  "final_count": 594,
+  "invalid_removed": [],
+  "new_added": [
     {
-      "name": "2000+ Free Developer & IT Certifications (2025) | CoderStar",
-      "url": "https://coderstar.in/2025/free-developer-it-certifications.html"
+      "name": "Top 10 Free IT Certifications to Boost Your Career in 2025",
+      "url": "https://technewskills.com/top-free-it-certifications-2025/"
     },
     {
       "name": "900+ Free Developer and IT Certifications - Tech-Tech",
       "url": "https://tech-tech.life/2024/12/15/900-free-developer-and-it-certifications/"
     },
     {
-      "name": "ExamCademy \u2014 Free IT Certification Exam Prep",
-      "url": "https://examcademy.com/"
+      "name": "2000+ Free Developer & IT Certifications (2025) | CoderStar",
+      "url": "https://coderstar.in/2025/free-developer-it-certifications.html"
     },
     {
-      "name": "Top 10 Free IT Certifications to Boost Your Career in 2025",
-      "url": "https://technewskills.com/top-free-it-certifications-2025/"
+      "name": "Free Online Certifications from Top Universities - Still Open in 2025",
+      "url": "https://brightmindai.com/free-online-certifications-2025/"
     }
-  ],
-  "new_added": []
+  ]
 }
